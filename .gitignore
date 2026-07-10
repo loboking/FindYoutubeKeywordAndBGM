@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 다운로드한 유튜브 오디오 (저작권 — 절대 커밋 금지)
+output/audio/
+
+# 비밀키 / 환경변수
+.env
+.env.*
+
+# OS
+.DS_Store
