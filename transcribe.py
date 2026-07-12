@@ -38,7 +38,8 @@ def to_wav(audio_path: str, wav_path: str) -> bool:
 
 
 def transcribe(wav_path: str, model) -> dict:
-    """faster-whisper 전사. 전체 텍스트 + 세그먼트 + 오프닝 멘트(앞 5초)."""
+    """faster-whisper 전사. 전체 텍스트 + 세그먼트 + 오프닝 멘트(앞 5초).
+    full_text가 빈 경우 transcribe_status='empty'로 마킹 (무음/BGM-only 가능성)."""
     segments, info = model.transcribe(
         wav_path, language="ko", vad_filter=True,
         beam_size=5,
@@ -56,11 +57,13 @@ def transcribe(wav_path: str, model) -> dict:
         # 오프닝 멘트 = end <= OPENING_SECONDS 인 세그먼트 (앞 5초)
         if seg.end <= C.OPENING_SECONDS:
             opening_parts.append(text)
+    full_text = " ".join(full_parts).strip()
     return {
-        "full_text": " ".join(full_parts).strip(),
+        "full_text": full_text,
         "segments": seg_list,
         "opening_mention": " ".join(opening_parts).strip(),
         "language": info.language,
+        "transcribe_status": "empty" if not full_text else "ok",
     }
 
 
@@ -92,19 +95,31 @@ def main():
         with open(out_path) as f:
             transcripts = json.load(f)
 
+    # 잔류 정리: 현재 shorts에 없는 이전 실행분은 삭제 (누적 방지 — insights 왜곡 원인)
+    current_ids = {v["id"] for v in videos}
+    stale = [k for k in list(transcripts) if k not in current_ids]
+    for k in stale:
+        del transcripts[k]
+    if stale:
+        print(f"이전 잔류 정리: {len(stale)}개 삭제 (현재 shorts에 없는 영상)")
+
     print(f'faster-whisper 모델 로드: {C.WHISPER_MODEL} (device=cpu, compute=int8)')
     model = WhisperModel(C.WHISPER_MODEL, device="cpu", compute_type="int8")
 
     start = time.time()
-    success, failed = 0, 0
+    success, failed, empty = 0, 0, 0
     total = len(videos)
 
     for i, v in enumerate(videos):
         vid = v["id"]
-        # 캐시 스킵 (이미 opening_mention 키가 있으면 완료된 것)
-        if vid in transcripts and "opening_mention" in transcripts[vid]:
+        # 캐시 스킵 (transcribe_version==2 + opening_mention 키 있으면 완료)
+        if (vid in transcripts
+                and transcripts[vid].get("transcribe_version") == 2
+                and "opening_mention" in transcripts[vid]):
             print(f"[{i+1}/{total}] {vid} 캐시 스킵")
             success += 1
+            if transcripts[vid].get("transcribe_status") == "empty":
+                empty += 1
             continue
 
         print(f"[{i+1}/{total}] {vid} ({v.get('title','')[:30]}) 전사 중...")
@@ -117,14 +132,17 @@ def main():
             if not to_wav(audio, wav_path):
                 raise RuntimeError("ffmpeg_failed")
             result = transcribe(wav_path, model)
-            transcripts[vid] = {**v, **result}
+            transcripts[vid] = {**v, **result, "transcribe_version": 2}
             elapsed_v = time.time() - t0
             opening = result["opening_mention"][:40] or "(없음)"
-            print(f"  → {elapsed_v:.1f}초 | 오프닝: {opening}")
+            status_tag = " [empty]" if result["transcribe_status"] == "empty" else ""
+            print(f"  → {elapsed_v:.1f}초 | 오프닝: {opening}{status_tag}")
             success += 1
+            if result["transcribe_status"] == "empty":
+                empty += 1
         except Exception as e:
             print(f"  ✗ 실패: {e}")
-            transcripts[vid] = {**v, "error": str(e)}
+            transcripts[vid] = {**v, "error": str(e), "transcribe_version": 2}
             failed += 1
 
         # 5개마다 저장 (크래시 대비)
@@ -136,6 +154,7 @@ def main():
 
     print(f"\n전사 완료: 성공 {success}, 실패 {failed}, 총 소요 {elapsed:.1f}초 "
           f"(영상당 {elapsed/max(success,1):.1f}초)")
+    print(f"전사 비어있음(empty): {empty}개")
     print(f"모델: faster-whisper {C.WHISPER_MODEL} | 오프닝 기준: 앞 {C.OPENING_SECONDS}초")
     print(f"저장: {out_path}")
 

@@ -56,42 +56,50 @@
   <div class="meta"><span id="last-updated">갱신 시각 불러오는 중…</span></div>
 </header>
 
-<p style="font-size:14.5px;color:var(--muted)">이 페이지는 내 채널 니치(감성 일상 브이로그)에서 지금 뜨는 BGM·보이스·키워드를 정리한 리서치 결과입니다. 아래는 수집한 영상에서 읽어낸 패턴입니다.</p>
+<p style="font-size:14.5px;color:var(--muted)">이 페이지는 내 채널 니치(감성 일상 브이로그)에서 수집한 영상 샘플에서 읽어낸 패턴을 정리한 리서치 초안입니다. 통계적 트렌드라기보단 "이 샘플에서 뭐가 보이나"를 참고용으로 옮긴 것입니다.</p>
 
-<h2><span class="n">1</span>조회수 폭발 상위 영상이 말해주는 공식</h2>
+<div class="warn" id="limits-warn">
+  <b>이 리포트를 읽기 전에 (한계 명시):</b>
+  <ul style="margin:8px 0 0">
+    <li><b>표본이 작습니다.</b> 기본 30건, 정직 필터(니치 + 최근 90일 + 조회수 1000+) 적용 후엔 그보다 적을 수 있고, 조건을 동시 충족하는 영상이 없으면 <b>n=0</b>일 수 있습니다.</li>
+    <li><b>1회 스냅샷입니다.</b> 특정 시점 1회 수집이며 시계열 추세가 아닙니다.</li>
+    <li><b>BGM은 음원 인식(ACRCloud) 미사용 시 식별되지 않습니다.</b> 제목 기반 추정을 하지 않습니다.</li>
+    <li><b>추천 기획은 Claude API 미사용 시 수동 초안</b>입니다 (자동 분석 아님).</li>
+  </ul>
+  <div id="generated-by-line" style="margin-top:8px"></div>
+</div>
+
+<h2><span class="n">1</span>샘플 상위 영상 (참고용) <span id="top-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
 <table>
-  <thead><tr><th>조회수</th><th>영상</th><th>채널</th></tr></thead>
+  <thead><tr><th>조회수</th><th>영상</th><th>채널</th><th>업로드</th></tr></thead>
   <tbody id="top-videos">
-    <tr><td colspan="3" class="err">데이터를 불러오는 중…</td></tr>
+    <tr><td colspan="4" class="err">데이터를 불러오는 중…</td></tr>
   </tbody>
 </table>
 <div class="formula" id="formula">
   <b>이 니치의 1등 공식:</b> <span id="formula-text">불러오는 중…</span>
 </div>
+<div id="outlier-note"></div>
 
-<h2><span class="n">2</span>뜨는 BGM 계열</h2>
+<h2><span class="n">2</span>BGM <span id="bgm-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
 <div class="card" id="bgm-card">
   <p class="err">데이터를 불러오는 중…</p>
 </div>
 
-<h2><span class="n">3</span>보이스/말투 패턴 (의외의 핵심)</h2>
+<h2><span class="n">3</span>보이스/말투 패턴 (전사 확보 샘플 기준) <span id="voice-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
 <div class="card">
   <p id="opening-stat">데이터를 불러오는 중…</p>
   <div id="opening-patterns"></div>
 </div>
 
-<h2><span class="n">4</span>뜨는 키워드/주제</h2>
+<h2><span class="n">4</span>키워드/주제 (샘플 기반) <span id="kw-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
 <div id="keyword-cloud">
   <p class="err">데이터를 불러오는 중…</p>
 </div>
 
-<h2><span class="n">5</span>추천 기획 (니치 맞춤)</h2>
+<h2><span class="n">5</span>추천 기획 (참고용)</h2>
 <div id="plans">
   <p class="err">데이터를 불러오는 중…</p>
-</div>
-
-<div class="warn" id="limits-warn">
-  <b>한계:</b> BGM은 제목 기반 추정(ACRCloud 미사용 시). 샘플 영상 기준이므로 통계적 트렌드라기보단 "지금 이 샘플에서 뭐가 보이나" 참고용.
 </div>
 
 <h2><span class="n">6</span>갱신 방법</h2>
@@ -139,14 +147,33 @@ function renderLastUpdated(text) {
 function renderTopVideos(shorts) {
   const tbody = document.getElementById("top-videos");
   const videos = Array.isArray(shorts?.videos) ? shorts.videos : [];
-  if (!videos.length) { tbody.innerHTML = `<tr><td colspan="3" class="err">영상 데이터 없음</td></tr>`; return; }
+  const n = Number.isFinite(shorts?.shorts_found) ? shorts.shorts_found : videos.length;
+
+  // n 힌트를 헤더 옆에 표시
+  const hintEl = document.getElementById("top-n-hint");
+  if (hintEl) hintEl.textContent = `(n=${n}, 1회 스냅샷)`;
+
+  if (!videos.length) {
+    tbody.innerHTML = `<tr><td colspan="4" class="err">필터 통과 영상 없음 (니치 + 최근 90일 + 조회수 1000+ 동시 충족 영상 0건).</td></tr>`;
+    return;
+  }
   const sorted = [...videos].sort((a, b) => (b.view_count || 0) - (a.view_count || 0)).slice(0, 5);
-  tbody.innerHTML = sorted.map((v) =>
-    `<tr><td class="views">${fmtViews(v.view_count)}</td>` +
-    `<td>${escapeHtml(v.title || "")}` +
-    (v.url ? ` <a href="${escapeAttr(v.url)}" target="_blank" rel="noopener" style="font-size:12px;color:var(--muted)">↗</a>` : "") +
-    `</td><td>${escapeHtml(v.channel || "")}</td></tr>`
-  ).join("");
+  tbody.innerHTML = sorted.map((v) => {
+    const ym = formatUploadDate(v.upload_date);
+    return `<tr><td class="views">${fmtViews(v.view_count)}</td>` +
+      `<td>${escapeHtml(v.title || "")}` +
+      (v.url ? ` <a href="${escapeAttr(v.url)}" target="_blank" rel="noopener" style="font-size:12px;color:var(--muted)">↗</a>` : "") +
+      `</td><td>${escapeHtml(v.channel || "")}</td>` +
+      `<td style="font-size:12.5px;color:var(--muted)">${ym}</td></tr>`;
+  }).join("");
+}
+
+// YYYYMMDD → "YYYY-MM", 없으면 "-"
+function formatUploadDate(d) {
+  if (!d) return "-";
+  const s = String(d);
+  if (/^\d{8}$/.test(s)) return `${s.slice(0, 4)}-${s.slice(4, 6)}`;
+  return escapeHtml(s);
 }
 
 function renderFormula(insights) {
@@ -155,40 +182,72 @@ function renderFormula(insights) {
   el.textContent = insights.formula;
 }
 
-function renderBgm(bgm, insights) {
+function renderOutlier(insights) {
+  const el = document.getElementById("outlier-note");
+  if (!el) return;
+  const oa = insights && insights.outlier_adjusted;
+  if (!oa || !oa.has_outlier) {
+    // 과점 없을 땐 조용히 작게 표시
+    el.innerHTML = `<p style="font-size:12.5px;color:var(--muted);margin:8px 0 0">단일 영상 과점(1위 비중 50%↑) 없음 — 평균 왜곡 적음.</p>`;
+    return;
+  }
+  const share = (typeof oa.top1_share === "number") ? Math.round(oa.top1_share * 100) : null;
+  const top1 = (typeof oa.top1_views === "number") ? oa.top1_views.toLocaleString() : "?";
+  const avgEx = (typeof oa.avg_views_excluding_top1 === "number") ? oa.avg_views_excluding_top1.toLocaleString() : "?";
+  const note = oa.note ? ` <span style="color:var(--muted);font-size:12.5px">(${escapeHtml(oa.note)})</span>` : "";
+  el.innerHTML = `<div class="warn" style="margin-top:10px"><b>1위 영상이 전체 조회수의 ${share}% 차지</b> (1위 조회수 ${top1}). 1위 제외 시 평균 ${avgEx}. → 평균이 1위에 의해 왜곡됨.${note}</div>`;
+}
+
+function renderBgm(bgm, insights, shorts) {
   const card = document.getElementById("bgm-card");
   const parts = [];
+  const n = Number.isFinite(shorts?.shorts_found) ? shorts.shorts_found : null;
+  const hintEl = document.getElementById("bgm-n-hint");
+  if (hintEl) hintEl.textContent = n !== null ? `(n=${n}, 1회 스냅샷)` : `(1회 스냅샷)`;
 
+  let acrUsed = false;
   if (bgm && bgm.status === "skipped_no_key") {
-    parts.push(`<div class="warn"><b>BGM 식별 스킵</b> — ACRCloud 키 미제공. 아래는 제목 기반 추정 트렌드입니다.</div>`);
+    parts.push(`<div class="warn"><b>BGM 식별 스킵</b> — ACRCloud 키 미제공. 음원 인식 없이, 아래는 제목 기반 추정입니다.</div>`);
   } else if (bgm && bgm.results && Object.keys(bgm.results).length) {
+    acrUsed = true;
     const items = Object.values(bgm.results)
       .filter((r) => r && r.status === "identified")
       .map((r) => `<li><b>${escapeHtml(r.bgm || "?")}</b> — ${escapeHtml(r.artist || "?")}</li>`);
     if (items.length) {
       parts.push(`<p>ACRCloud로 식별된 BGM:</p><ul>${items.join("")}</ul>`);
     } else {
-      parts.push(`<p>식별된 BGM 없음.</p>`);
+      parts.push(`<p>ACRCloud 실행했으나 식별된 BGM 없음.</p>`);
     }
   }
 
   const trends = (insights && Array.isArray(insights.bgm_trends)) ? insights.bgm_trends : [];
   if (trends.length) {
-    parts.push(`<p>제목에서 추출한 BGM 계열 트렌드:</p><ul>` +
+    parts.push(`<p>제목에서 추출한 BGM 계열 (추정, 음원 인식 아님):</p><ul>` +
       trends.map((t) => `<li><b>${escapeHtml(t)}</b></li>`).join("") + `</ul>`);
-    parts.push(`<p style="font-size:13.5px;color:var(--muted)">→ 공통: 잔잔하고 몽환적인 연주곡/lofi가 압도적. 빠른 곡·강한 비트는 이 니치에 안 보임.</p>`);
+    parts.push(`<p style="font-size:13.5px;color:var(--muted)">→ 샘플에서 자주 보인 계열. 빠른 곡·강한 비트는 이 샘플에선 두드러지지 않음. (제목 추정이므로 과신 금지)</p>`);
   }
 
-  card.innerHTML = parts.length ? parts.join("") : ERR("BGM 데이터 없음");
+  // 식별된 BGM도, 추정 트렌드도 없으면 정직하게 "식별 불가"
+  if (!parts.length) {
+    card.innerHTML = `<p class="err">식별된 BGM 없음 (ACRCloud 음원 인식 미사용 — 제목 추정 금지).</p>`;
+    return;
+  }
+  if (!acrUsed && !trends.length) {
+    card.innerHTML = `<p class="err">식별된 BGM 없음 (ACRCloud 음원 인식 미사용 — 제목 추정 금지).</p>`;
+    return;
+  }
+  card.innerHTML = parts.join("");
 }
 
 function renderOpeningStat(insights, transcripts) {
   const statEl = document.getElementById("opening-stat");
   const patternsEl = document.getElementById("opening-patterns");
+  const hintEl = document.getElementById("voice-n-hint");
 
   let percent = null;
   let summary = null;
   let patterns = [];
+  let n = null;
 
   // insights.voice_pattern 우선
   if (insights && insights.voice_pattern) {
@@ -196,6 +255,7 @@ function renderOpeningStat(insights, transcripts) {
     if (typeof vp.speech_in_first_5s_percent === "number") percent = vp.speech_in_first_5s_percent;
     if (vp.summary) summary = vp.summary;
     if (Array.isArray(vp.patterns)) patterns = vp.patterns;
+    if (typeof vp.n === "number") n = vp.n;
   }
 
   // insights에 없으면 transcripts.json에서 직접 계산
@@ -205,44 +265,79 @@ function renderOpeningStat(insights, transcripts) {
     const withSpeech = entries.filter((t) => t.opening_mention && String(t.opening_mention).trim()).length;
     if (total > 0) {
       percent = Math.round((withSpeech / total) * 100);
-      summary = `앞 5초에 말이 나오는 영상 ${percent}%, ${100 - percent}%는 무음·BGM·자막`;
+      n = total;
+      summary = `앞 5초에 말이 나오는 영상 ${percent}%, ${100 - percent}%는 무음·BGM·자막 (n=${total})`;
     }
   }
 
-  if (percent === null) {
-    statEl.innerHTML = `<span class="err">오프닝 멘트 통계를 불러오지 못했습니다</span>`;
+  if (hintEl) {
+    hintEl.textContent = (n !== null && n > 0) ? `(n=${n}, 1회 스냅샷)` : `(전사 미확보)`;
+  }
+
+  if (percent === null || n === 0) {
+    statEl.innerHTML = `<span class="err">전사 확보 영상 없음 — 통계 산출 불가.</span>`;
     patternsEl.innerHTML = "";
     return;
   }
 
-  statEl.innerHTML = `앞 5초에 <b>말이 나오는 영상은 ${percent}%</b>. ${100 - percent}%는 무음·BGM·자막.` +
+  statEl.innerHTML = `앞 5초에 <b>말이 나오는 영상은 ${percent}%</b> (n=${n}). ${100 - percent}%는 무음·BGM·자막.` +
     (summary ? ` <span style="color:var(--muted);font-size:13px">(${escapeHtml(summary)})</span>` : "");
 
   if (patterns.length) {
-    patternsEl.innerHTML = `<p>말이 나올 땐 두 종류:</p><ul>` +
+    patternsEl.innerHTML = `<p>말이 나올 때의 패턴 (샘플 관찰):</p><ul>` +
       patterns.map((p) => `<li>${escapeHtml(p)}</li>`).join("") +
-      `</ul><p>→ 이 니치에선 <b>"자막 한 줄 + 감성 BGM"이 기본</b>이고, 말을 넣으면 무조건 "위로" 톤.</p>`;
+      `</ul>`;
   } else {
     patternsEl.innerHTML = "";
   }
 }
 
-function renderKeywords(insights) {
+function renderKeywords(insights, shorts) {
   const el = document.getElementById("keyword-cloud");
+  const hintEl = document.getElementById("kw-n-hint");
+  const n = Number.isFinite(shorts?.shorts_found) ? shorts.shorts_found : null;
+  if (hintEl) hintEl.textContent = n !== null ? `(n=${n}, 1회 스냅샷)` : `(1회 스냅샷)`;
   const kws = (insights && Array.isArray(insights.trend_keywords)) ? insights.trend_keywords : [];
-  if (!kws.length) { el.innerHTML = `<p class="err">키워드 데이터 없음</p>`; return; }
+  if (!kws.length) {
+    el.innerHTML = `<p class="err">키워드 자동 추출 미구현 — 샘플에서 추정하지 않음.</p>`;
+    return;
+  }
   el.innerHTML = kws.map((k) => `<span class="tag">${escapeHtml(k)}</span>`).join("");
+}
+
+function planBadge(generatedBy) {
+  if (generatedBy === "manual_fallback") {
+    return `<div class="warn" style="margin:-6px 0 10px;padding:8px 12px;font-size:12.5px"><b>수동 초안</b> (AI 자동 분석 아님)</div>`;
+  }
+  if (generatedBy === "claude_pending") {
+    return `<div class="warn" style="margin:-6px 0 10px;padding:8px 12px;font-size:12.5px"><b>AI 응답 파싱 대기</b> (초안 표시 중)</div>`;
+  }
+  return "";
+}
+
+function renderGeneratedByLine(generatedBy) {
+  const el = document.getElementById("generated-by-line");
+  if (!el) return;
+  if (generatedBy === "manual_fallback") {
+    el.innerHTML = `<b>이 리포트 전체가 수동 초안입니다</b> — Claude API 미사용으로 추천 기획은 자동 분석이 아닙니다.`;
+  } else if (generatedBy === "claude_pending") {
+    el.innerHTML = `<b>AI 응답 파싱 대기 중</b> — 현재 초안을 표시 중입니다.`;
+  } else {
+    el.innerHTML = "";
+  }
 }
 
 function renderPlans(insights) {
   const el = document.getElementById("plans");
   const plans = (insights && Array.isArray(insights.plans)) ? insights.plans : [];
   if (!plans.length) { el.innerHTML = `<p class="err">추천 기획 데이터 없음</p>`; return; }
+  const badge = planBadge(insights && insights.generated_by);
   el.innerHTML = plans.map((p, i) => {
     const kws = (Array.isArray(p.keywords) ? p.keywords : [])
       .map((k) => `<span class="tag">${escapeHtml(k)}</span>`).join("");
     return `
 <div class="card plan">
+  ${badge}
   <h3>기획 ${i + 1} — "${escapeHtml(p.title || "")}"</h3>
   ${p.based_on ? `<p style="color:var(--muted);font-size:13px">${escapeHtml(p.based_on)}</p>` : ""}
   ${p.video_title ? `<div class="label">제목</div><p>${escapeHtml(p.video_title)}</p>` : ""}
@@ -284,22 +379,43 @@ async function init() {
 
   // 2. 상위 영상 (shorts.json 필요)
   if (shorts) renderTopVideos(shorts);
-  else document.getElementById("top-videos").innerHTML = `<tr><td colspan="3" class="err">shorts.json 불러오기 실패</td></tr>`;
+  else {
+    document.getElementById("top-videos").innerHTML = `<tr><td colspan="4" class="err">shorts.json 불러오기 실패</td></tr>`;
+    const hintEl = document.getElementById("top-n-hint");
+    if (hintEl) hintEl.textContent = "(shorts.json 불러오기 실패)";
+  }
 
-  // 7. 1등 공식 (insights.json)
-  if (insights) renderFormula(insights);
-  else document.getElementById("formula-text").textContent = "insights.json 불러오기 실패";
+  // 7. 1등 공식 + 아웃라이어 (insights.json)
+  if (insights) {
+    renderFormula(insights);
+    renderOutlier(insights);
+  } else {
+    document.getElementById("formula-text").textContent = "insights.json 불러오기 실패";
+    const onEl = document.getElementById("outlier-note");
+    if (onEl) onEl.innerHTML = "";
+  }
 
-  // 5. BGM (bgm.json + insights.json)
-  if (bgm || insights) renderBgm(bgm, insights);
-  else document.getElementById("bgm-card").innerHTML = ERR("bgm.json/insights.json 불러오기 실패");
+  // generated_by 전역 배지 (한계 박스 안)
+  if (insights) renderGeneratedByLine(insights.generated_by);
+
+  // 5. BGM (bgm.json + insights.json + shorts.json)
+  if (bgm || insights) renderBgm(bgm, insights, shorts);
+  else {
+    document.getElementById("bgm-card").innerHTML = ERR("bgm.json/insights.json 불러오기 실패");
+    const hintEl = document.getElementById("bgm-n-hint");
+    if (hintEl) hintEl.textContent = "";
+  }
 
   // 3. 오프닝 통계 (insights 우선, 없으면 transcripts 계산)
   renderOpeningStat(insights, transcripts);
 
   // 4. 키워드 클라우드
-  if (insights) renderKeywords(insights);
-  else document.getElementById("keyword-cloud").innerHTML = `<p class="err">insights.json 불러오기 실패</p>`;
+  if (insights) renderKeywords(insights, shorts);
+  else {
+    document.getElementById("keyword-cloud").innerHTML = `<p class="err">insights.json 불러오기 실패</p>`;
+    const hintEl = document.getElementById("kw-n-hint");
+    if (hintEl) hintEl.textContent = "";
+  }
 
   // 6. 추천 기획
   if (insights) renderPlans(insights);

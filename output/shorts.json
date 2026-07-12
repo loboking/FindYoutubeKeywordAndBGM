@@ -1,282 +1,237 @@
 {
   "niche": "감성 일상 브이로그",
-  "search_keyword": "감성 일상 shorts",
-  "search_count": 100,
-  "raw_collected": 100,
-  "shorts_found": 30,
+  "source": "channel_shorts",
+  "channels": [
+    "문나잇 moonnight",
+    "히두부 Hiddubu",
+    "소이그린 SOIGREEN",
+    "오담필름 odamfilm",
+    "냥숲 nyangsoop",
+    "백미 Backme",
+    "이욜 eyol",
+    "현애 hyunnae",
+    "소람 soram",
+    "니지 niji",
+    "아린 wested_arin"
+  ],
+  "per_channel": {
+    "문나잇 moonnight": {
+      "raw": 13,
+      "passed": 4
+    },
+    "히두부 Hiddubu": {
+      "raw": 15,
+      "passed": 2
+    },
+    "소이그린 SOIGREEN": {
+      "raw": 15,
+      "passed": 0
+    },
+    "오담필름 odamfilm": {
+      "raw": 15,
+      "passed": 6
+    },
+    "냥숲 nyangsoop": {
+      "raw": 2,
+      "passed": 2
+    },
+    "백미 Backme": {
+      "raw": 5,
+      "passed": 1
+    },
+    "이욜 eyol": {
+      "raw": 4,
+      "passed": 0
+    },
+    "현애 hyunnae": {
+      "raw": 2,
+      "passed": 0
+    },
+    "소람 soram": {
+      "raw": 2,
+      "passed": 0
+    },
+    "니지 niji": {
+      "raw": 3,
+      "passed": 0
+    },
+    "아린 wested_arin": {
+      "raw": 2,
+      "passed": 1
+    }
+  },
+  "raw_ids": 78,
+  "meta_fetched": 78,
+  "shorts_found": 16,
   "target": 30,
-  "ytsearch_failed": 0,
-  "max_duration_s": 61,
+  "max_duration_s": 180,
+  "max_age_days": 180,
+  "min_view_count": 50,
+  "filter_version": 4,
+  "excluded_offtopic": 5,
+  "excluded_too_old": 57,
+  "excluded_low_views": 0,
+  "excluded_too_long": 0,
   "videos": [
     {
-      "id": "CXerL2OwL2U",
-      "title": "★돌아가보기★",
-      "duration": 60,
-      "view_count": 646832,
-      "upload_date": "20230218",
-      "channel": "Just 1 Minute",
-      "url": "https://www.youtube.com/watch?v=CXerL2OwL2U"
+      "id": "D6E6u6D4W2c",
+      "title": "My Summer Night Routine🌿",
+      "duration": 65,
+      "view_count": 18011,
+      "upload_date": "20260701",
+      "channel": "moonnight 문나잇",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=D6E6u6D4W2c"
     },
     {
-      "id": "_9purQ6AQ9w",
-      "title": "마음속에 와 닿는 이야기 50초 감성 #shorts",
-      "duration": 50,
-      "view_count": 26,
-      "upload_date": "20230831",
-      "channel": "master zoro",
-      "url": "https://www.youtube.com/watch?v=_9purQ6AQ9w"
+      "id": "88KiZDsPgQs",
+      "title": "내가 그린 그림으로 만드는 쿠키세트✿.*・.*・",
+      "duration": 43,
+      "view_count": 24693,
+      "upload_date": "20260627",
+      "channel": "moonnight 문나잇",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=88KiZDsPgQs"
     },
     {
-      "id": "hONfAhCau1Y",
-      "title": "오늘 하루, 잘 버텨냈습니다 #슬로우에이징 #퇴근길 #힐링 #일상 #감성 #shorts",
-      "duration": 15,
-      "view_count": 5,
-      "upload_date": "20260427",
-      "channel": "슬로우 에이징 연구소",
-      "url": "https://www.youtube.com/watch?v=hONfAhCau1Y"
+      "id": "mJmXa8krJSU",
+      "title": "자취 5년차, 맥시멀리스트의 첫 욕실 셀프 인테리어 도전기!",
+      "duration": 80,
+      "view_count": 35456,
+      "upload_date": "20260429",
+      "channel": "moonnight 문나잇",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=mJmXa8krJSU"
     },
     {
-      "id": "ikKDDI4riBY",
-      "title": "🌸 오늘도 수고한 당신에게,꽃처럼 따뜻한 하루가 이어지길 바랍니다. 💖✨#꽃 #꽃스타그램 #감성 #힐링  #좋은글귀 #일상 #풍경  #예쁜꽃 #힐링영상 #별이천사 #shorts``",
-      "duration": 15,
-      "view_count": 97,
-      "upload_date": "20260707",
-      "channel": "별이천사",
-      "url": "https://www.youtube.com/watch?v=ikKDDI4riBY"
+      "id": "qfuu_HM8UFk",
+      "title": "11평 우리집에 딱 맞는 깔끔하고 예쁜 공기청정기 ✿˖°",
+      "duration": 52,
+      "view_count": 38140,
+      "upload_date": "20260209",
+      "channel": "moonnight 문나잇",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=qfuu_HM8UFk"
     },
     {
-      "id": "TcCXNQA88Ag",
-      "title": "“괜찮아, 너는 이미 잘하고 있어.” #Shorts",
-      "duration": 8,
-      "view_count": 4,
-      "upload_date": "20251106",
-      "channel": "WITH.NOW_K.01",
-      "url": "https://www.youtube.com/watch?v=TcCXNQA88Ag"
+      "id": "xPWCU5WebV4",
+      "title": "집순이 두부의 밤 힐링 루틴🛁🌙🎀🎮",
+      "duration": 71,
+      "view_count": 44646,
+      "upload_date": "20260421",
+      "channel": "히두부 Hiddubu౨ৎ",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=xPWCU5WebV4"
     },
     {
-      "id": "lY7RrknkDOc",
-      "title": "한여름 밤 🍉 summer night lofi #shorts",
-      "duration": 16,
-      "view_count": 7,
-      "upload_date": "20260630",
-      "channel": "Anythingmood",
-      "url": "https://www.youtube.com/watch?v=lY7RrknkDOc"
+      "id": "R4mSIa0b4BY",
+      "title": "맥모닝으로 시작하는 하루🍔🥤✨🥞",
+      "duration": 57,
+      "view_count": 43085,
+      "upload_date": "20260131",
+      "channel": "히두부 Hiddubu౨ৎ",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=R4mSIa0b4BY"
     },
     {
-      "id": "LtOQH6B6F1c",
-      "title": "숨쉬는 감성플랜 대용량 프로펠러 태양열 회전 방향제 사용방법 #shorts",
-      "duration": 54,
-      "view_count": 66,
-      "upload_date": "20240209",
-      "channel": "GAMSUNG PLAN",
-      "url": "https://www.youtube.com/watch?v=LtOQH6B6F1c"
+      "id": "RUOPtPR94Vc",
+      "title": "30대 집순이 쉬는 날 #브이로그 #vlog",
+      "duration": 65,
+      "view_count": 10803,
+      "upload_date": "20260603",
+      "channel": "odamfilm 오담필름",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=RUOPtPR94Vc"
     },
     {
-      "id": "N-Ki0hdCjqQ",
-      "title": "힐링 감성 색감 듬뿍 인트로 #shorts",
-      "duration": 16,
-      "view_count": 5220,
-      "upload_date": "20201104",
-      "channel": "다은 Daeun",
-      "url": "https://www.youtube.com/watch?v=N-Ki0hdCjqQ"
-    },
-    {
-      "id": "gjhoHK6T8ZA",
-      "title": "#shorts 한강 감성!  인스타 감성 혼자 놀기",
-      "duration": 49,
-      "view_count": 43,
-      "upload_date": "20211120",
-      "channel": "경두절미",
-      "url": "https://www.youtube.com/watch?v=gjhoHK6T8ZA"
-    },
-    {
-      "id": "Dio-WkyiUr8",
-      "title": "Pink Palette Life 🌸 (art2: 피아노와 그림이 있는 일상) #shorts",
-      "duration": 8,
-      "view_count": 28,
-      "upload_date": "20260303",
-      "channel": "Pink Palette💗",
-      "url": "https://www.youtube.com/watch?v=Dio-WkyiUr8"
-    },
-    {
-      "id": "mABc5NpxlOo",
-      "title": "오늘의컨셉 필터놀이🤪 #shorts #fyp #fyptiktok",
-      "duration": 25,
-      "view_count": 46,
-      "upload_date": "20230517",
-      "channel": "감성은아TV 일상 커버송 채널",
-      "url": "https://www.youtube.com/watch?v=mABc5NpxlOo"
-    },
-    {
-      "id": "wqTWM1JTh_0",
-      "title": "너에게로 가는 길 (Way to You) - Official Shorts 🎬 전곡듣기는 아래 링크를 타고 들어오세요^^ https://youtu.be/tLYIb7E0Y3w",
-      "duration": 31,
-      "view_count": 65,
-      "upload_date": "20260529",
-      "channel": "Firefly Garden",
-      "url": "https://www.youtube.com/watch?v=wqTWM1JTh_0"
-    },
-    {
-      "id": "lGrVwd2QoDM",
-      "title": "수채화와 1분다꾸 Shorts | 1-minute journal | 감성 빈티지다꾸 | 보라느낌 그만해야하는데... | ASMR | 희맘",
-      "duration": 60,
-      "view_count": 14790,
-      "upload_date": "20220716",
-      "channel": "희맘 Heemom journal",
-      "url": "https://www.youtube.com/watch?v=lGrVwd2QoDM"
-    },
-    {
-      "id": "NaKE9ljDWyk",
-      "title": "산요 레트로 오디오#shorts #레트로 #오디오#최신가요 #감성 #카세트테이프 #올드한느낌",
-      "duration": 23,
-      "view_count": 339,
-      "upload_date": "20220204",
-      "channel": "일상생활",
-      "url": "https://www.youtube.com/watch?v=NaKE9ljDWyk"
-    },
-    {
-      "id": "bo-Nl8jUejk",
-      "title": "(Official Album Trailer-2) : #Shorts#가을맞이 #감성음악  #연주곡#힐링음악#카페음악",
-      "duration": 47,
-      "view_count": 4972,
-      "upload_date": "20251002",
-      "channel": "PNJ MUSIC",
-      "url": "https://www.youtube.com/watch?v=bo-Nl8jUejk"
-    },
-    {
-      "id": "MOBh74p7cjk",
-      "title": "아빠 목도리 뺏어서 눈사람한테 줬습니다 #shorts",
-      "duration": 51,
-      "view_count": 82,
-      "upload_date": "20260130",
-      "channel": "고도치맘일상",
-      "url": "https://www.youtube.com/watch?v=MOBh74p7cjk"
-    },
-    {
-      "id": "R4Cf7LN5CLk",
-      "title": "맛저하세용 시원한 열무 물냉면 호루룩~!! #fyp #shorts #나의일상",
-      "duration": 17,
-      "view_count": 168,
-      "upload_date": "20230525",
-      "channel": "감성은아TV 일상 커버송 채널",
-      "url": "https://www.youtube.com/watch?v=R4Cf7LN5CLk"
-    },
-    {
-      "id": "H0DOX2F_oEc",
-      "title": "건조함 하나 없는 촉촉한 겨울나기 | 위닉스 가습기 #Shorts",
-      "duration": 60,
-      "view_count": 229,
-      "upload_date": "20221028",
-      "channel": "위닉스(WINIX)",
-      "url": "https://www.youtube.com/watch?v=H0DOX2F_oEc"
-    },
-    {
-      "id": "Nb-MgWJqkSU",
-      "title": "새해 덕담 타임에 멈춘 날 #shorts",
-      "duration": 24,
-      "view_count": 140,
-      "upload_date": "20260102",
-      "channel": "고도치맘일상",
-      "url": "https://www.youtube.com/watch?v=Nb-MgWJqkSU"
-    },
-    {
-      "id": "-oLAZsfGtx4",
-      "title": "#shorts 심심할때 #고등학생일상 #공부하는아이 #미대준비중",
-      "duration": 49,
-      "view_count": 91,
-      "upload_date": "20220608",
-      "channel": "썬채널",
-      "url": "https://www.youtube.com/watch?v=-oLAZsfGtx4"
-    },
-    {
-      "id": "yVpBUNGu-pM",
-      "title": "아름다운 도시의 짧은시_도시의 밤 #shorts #짧은시 #시 #일상",
-      "duration": 60,
-      "view_count": 13,
-      "upload_date": "20230630",
-      "channel": "인생 나침반",
-      "url": "https://www.youtube.com/watch?v=yVpBUNGu-pM"
-    },
-    {
-      "id": "RBrsgVagMKc",
-      "title": "인테리어 미쳤다… 무드등 하나로 완성되는 공간 #Shorts",
-      "duration": 45,
-      "view_count": 26,
-      "upload_date": "20250416",
-      "channel": "일상다반사",
-      "url": "https://www.youtube.com/watch?v=RBrsgVagMKc"
-    },
-    {
-      "id": "fMkec7TBLl0",
-      "title": "빗길shorts",
-      "duration": 30,
-      "view_count": 12,
-      "upload_date": "20260628",
-      "channel": "일상이 노래다 ",
-      "url": "https://www.youtube.com/watch?v=fMkec7TBLl0"
-    },
-    {
-      "id": "ZH2KQeDEuJw",
-      "title": "무지성NEW2 #KittenStory#CatLife#CatLovers #FunnyCat#Trending#Shorts#요정",
-      "duration": 30,
-      "view_count": 4,
-      "upload_date": "20260208",
-      "channel": "최선을 다해 영상을 만드는 사람",
-      "url": "https://www.youtube.com/watch?v=ZH2KQeDEuJw"
-    },
-    {
-      "id": "qPdwheVqG7o",
-      "title": "빈티지 감성 좋아하는 사람? 시엔느 겨울 니트 룩북 ☃️  #shorts",
-      "duration": 38,
-      "view_count": 1155,
-      "upload_date": "20221222",
-      "channel": "여성동아",
-      "url": "https://www.youtube.com/watch?v=qPdwheVqG7o"
-    },
-    {
-      "id": "28xCRcI9e-E",
-      "title": "임상 사람 사는 이야기(shorts)",
-      "duration": 21,
-      "view_count": 2,
-      "upload_date": "20260707",
-      "channel": "임경의 감성 도전 성공 사람 사는이야기",
-      "url": "https://www.youtube.com/watch?v=28xCRcI9e-E"
-    },
-    {
-      "id": "6iMaTNrQhFg",
-      "title": "[정녕] 당신은 나에게 할말이 없나요? #이별 #shorts #fyp #viral #abs #forever #korean #슬픈음원 #시린발라드 #최고의음악 #슬픈발라드 #감성은아",
-      "duration": 61,
-      "view_count": 83,
-      "upload_date": "20240831",
-      "channel": "감성은아TV 일상 커버송 채널",
-      "url": "https://www.youtube.com/watch?v=6iMaTNrQhFg"
-    },
-    {
-      "id": "fIgtoeurYVk",
-      "title": "노을 맛집 방콕여행 영상💛[#21초감성여행 #shorts]",
-      "duration": 21,
-      "view_count": 240,
-      "upload_date": "20210617",
-      "channel": "노랑풍선",
-      "url": "https://www.youtube.com/watch?v=fIgtoeurYVk"
-    },
-    {
-      "id": "u8yDsDnEJtE",
-      "title": "#shorts  인스타 감성 전시회 추천  (홍대 플라워바이 네이키드 )",
+      "id": "5D-aPmpDVCQ",
+      "title": "테무깡",
       "duration": 59,
-      "view_count": 38,
-      "upload_date": "20211105",
-      "channel": "경두절미",
-      "url": "https://www.youtube.com/watch?v=u8yDsDnEJtE"
+      "view_count": 5716,
+      "upload_date": "20260517",
+      "channel": "odamfilm 오담필름",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=5D-aPmpDVCQ"
     },
     {
-      "id": "HhGzIbPCC7U",
-      "title": "참이 수고했어    오늘도 무사 생존 20250914 #Shorts",
+      "id": "PS4Plmo0-_s",
+      "title": "30대 취준생 학원 가는 날 오전 브이로그 #브이로그 #일상브이로그",
+      "duration": 71,
+      "view_count": 20545,
+      "upload_date": "20260402",
+      "channel": "odamfilm 오담필름",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=PS4Plmo0-_s"
+    },
+    {
+      "id": "_2GZg9rAO6k",
+      "title": "30대 집순이 쉬는 날 오전 루틴 vlog",
+      "duration": 43,
+      "view_count": 23233,
+      "upload_date": "20260320",
+      "channel": "odamfilm 오담필름",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=_2GZg9rAO6k"
+    },
+    {
+      "id": "-ubh0O3SBx4",
+      "title": "30대 집순이 봄동비빔밥 먹고 편집 하는 주말 오전 루틴 vlog🥬🤍",
       "duration": 30,
-      "view_count": 14,
-      "upload_date": "20250914",
-      "channel": "noeul 123",
-      "url": "https://www.youtube.com/watch?v=HhGzIbPCC7U"
+      "view_count": 8070,
+      "upload_date": "20260223",
+      "channel": "odamfilm 오담필름",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=-ubh0O3SBx4"
+    },
+    {
+      "id": "YhNnpkD5RRQ",
+      "title": "올해 목표: 귀여운 일기 쓰기 (살벌한 욕 가득 일기는 이제 그만..🥹)",
+      "duration": 19,
+      "view_count": 7639,
+      "upload_date": "20260215",
+      "channel": "odamfilm 오담필름",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=YhNnpkD5RRQ"
+    },
+    {
+      "id": "lSobJ9jFuJA",
+      "title": "여름이면 생각나는 토마토 솥밥🍅 달짝지근하면서 같이 곁들인 초당옥수수가 아삭아삭 씹히는 꼬소한 맛이에요🌽🌿",
+      "duration": 75,
+      "view_count": 32913,
+      "upload_date": "20260615",
+      "channel": "냥숲nyangsoop",
+      "source_channel": "냥숲 nyangsoop",
+      "url": "https://www.youtube.com/watch?v=lSobJ9jFuJA"
+    },
+    {
+      "id": "ovv3-dA4lmU",
+      "title": "망고의 계절 🥭🌿",
+      "duration": 37,
+      "view_count": 21679,
+      "upload_date": "20260608",
+      "channel": "냥숲nyangsoop",
+      "source_channel": "냥숲 nyangsoop",
+      "url": "https://www.youtube.com/watch?v=ovv3-dA4lmU"
+    },
+    {
+      "id": "N6t_nIUNdi8",
+      "title": "내 인생 첫 여행 다이어리 꾸미기",
+      "duration": 65,
+      "view_count": 630,
+      "upload_date": "20260519",
+      "channel": "백미Backme",
+      "source_channel": "백미 Backme",
+      "url": "https://www.youtube.com/watch?v=N6t_nIUNdi8"
+    },
+    {
+      "id": "5m02O5LMEEg",
+      "title": "도쿄 워홀 6개월차! 엄마가 도쿄 오셔서 여행중 찍은 영상 짧게 편집해서 올려봐요",
+      "duration": 12,
+      "view_count": 94603,
+      "upload_date": "20260703",
+      "channel": "아린 wested_arin",
+      "source_channel": "아린 wested_arin",
+      "url": "https://www.youtube.com/watch?v=5m02O5LMEEg"
     }
   ]
 }

@@ -1,6 +1,8 @@
 """Claude API 추천. ANTHROPIC_API_KEY 없으면 조립된 프롬프트를 output/prompt.txt로 덤프."""
 import json
 import os
+import re
+from collections import Counter
 
 import config as C
 
@@ -145,15 +147,186 @@ def call_claude(prompt: str) -> str | None:
     return "".join(p.get("text", "") for p in parts if p.get("type") == "text")
 
 
+def _extract_keywords(videos: list[dict]) -> list[str]:
+    """제목에서 해시태그 + 의미 토큰 빈도 추출. 추정이 아니라 실제 등장 단어.
+    (한글 형태소 분석은 안 함 — 빈도 기반 rough 추출, 데이터 근거.)"""
+    stop = {
+        "오늘", "하루", "나", "내", "우리", "때", "것", "이", "그", "저", "더",
+        "정말", "진짜", "일상", "브이로그", "vlog", "shorts", "쇼츠", "영상",
+        "편집", "촬영", "그냥", "조금",
+    }
+    tokens = []
+    for v in videos:
+        t = v.get("title", "") or ""
+        for tag in re.findall(r"#([0-9A-Za-z가-힣_]+)", t):
+            tokens.append("#" + tag)
+        for w in re.split(r"[\s\U0001f000-\U000effff\-_/,.!?~()|:+\']+", t):
+            w = w.strip()
+            if not w or w.startswith("#"):
+                continue
+            if w.lower() in stop:
+                continue
+            if not re.search(r"[0-9A-Za-z가-힣]", w):  # 기호만(이모지 잔류 등) 제외
+                continue
+            if re.fullmatch(r"[A-Za-z]+", w) and len(w) < 4:  # 짧은 영어 토큰(My 등) 제외
+                continue
+            if len(w) >= 2:
+                tokens.append(w)
+    return [k for k, _ in Counter(tokens).most_common(20) if k]
+
+
+def build_insights(transcripts: dict, shorts: dict, bgm: dict) -> dict:
+    """실제 데이터에서 정직한 insights 계산.
+    노이즈를 신호로 포장하지 않는다:
+    - 전사 결측(full_text 빈)은 분모에서 제외하고 그 사실을 명시.
+    - 1위 영상이 조회수 독점이면 아웃라이어로 분리 (formula/평균 왜곡 경고).
+    - BGM 식별 안 됐으면 bgm_trends=[] (추정으로 채우지 않음).
+    - formula는 자동 분석이 아니면 '샘플 기반 초안'으로 솔직하게.
+    """
+    videos = shorts.get("videos", [])
+
+    # --- 전사 분류 ---
+    # 전사 확보 = full_text 비어있지 않고 error 없음
+    transcribed = []  # 전사 확보된 항목들 (transcripts dict의 values)
+    empty_count = 0
+    for vid, t in transcripts.items():
+        if t.get("error"):
+            continue
+        if t.get("full_text"):
+            transcribed.append(t)
+        elif t.get("full_text") == "":
+            empty_count += 1
+    # transcripts에 error 있는 것도 결측
+    error_count = sum(1 for t in transcripts.values() if t.get("error"))
+
+    # --- voice_pattern ---
+    denom = len(transcribed)
+    opening_present = sum(1 for t in transcribed if t.get("opening_mention"))
+    if denom > 0:
+        speech_pct = round(opening_present / denom * 100)
+        voice_summary = (
+            f"전사 확보 {denom}개 중 앞 5초에 말이 나오는 영상 {opening_present}개 "
+            f"({speech_pct}%). 결측 {empty_count}개는 전사 비출력으로 제외"
+            + (f", 오류 {error_count}개" if error_count else "") + "."
+        )
+    else:
+        speech_pct = None
+        voice_summary = (
+            f"전사 확보된 영상 없음 (결측 {empty_count}개 전사 비출력"
+            + (f", 오류 {error_count}개" if error_count else "") + "). "
+            "음성 패턴 분산을 계산할 수 없음."
+        )
+    voice_pattern = {
+        "speech_in_first_5s_percent": speech_pct,
+        "n": denom,
+        "summary": voice_summary,
+        "patterns": [],  # 자연어 클러스터링은 이번 범위 밖 — 비움
+    }
+
+    # --- 아웃라이어 분리 ---
+    total_views = sum((v.get("view_count") or 0) for v in videos)
+    sorted_vids = sorted(videos, key=lambda x: -(x.get("view_count") or 0))
+    top5 = [
+        {
+            "views": v.get("view_count"),
+            "title": v.get("title", ""),
+            "key": "",  # 키워드 자동 추출은 범위 밖
+            "upload_year": (v.get("upload_date") or "")[:4] or None,
+        }
+        for v in sorted_vids[:5]
+    ]
+    has_outlier = False
+    top1_views = None
+    top1_share = None
+    avg_excl_top1 = None
+    outlier_note = ""
+    if total_views > 0 and sorted_vids:
+        top1_views = sorted_vids[0].get("view_count") or 0
+        top1_share = round(top1_views / total_views, 2)
+        if top1_share >= C.OUTLIER_VIEW_SHARE:
+            has_outlier = True
+            remaining = [v.get("view_count") or 0 for v in sorted_vids[1:]]
+            avg_excl_top1 = round(sum(remaining) / len(remaining)) if remaining else 0
+            outlier_note = (
+                f"1위 영상이 전체 조회수의 {top1_share*100:.0f}%를 차지해 "
+                "평균이 왜곡됨. 평균은 1위 제외 기준으로 볼 것."
+            )
+    outlier_adjusted = {
+        "has_outlier": has_outlier,
+        "top1_views": top1_views,
+        "top1_share": top1_share,
+        "avg_views_excluding_top1": avg_excl_top1,
+        "note": outlier_note,
+    }
+
+    # --- bgm_trends ---
+    if bgm.get("status") == "skipped_no_key":
+        bgm_trends = []  # 식별 결과 없음 — 추정으로 채우지 않음
+    else:
+        identified = [
+            r.get("bgm") for r in bgm.get("results", {}).values()
+            if r.get("status") == "identified" and r.get("bgm")
+        ]
+        bgm_trends = identified  # 실제 식별된 것만 (현재 0건)
+
+    # --- formula ---
+    sample_n = len(videos)
+    if has_outlier:
+        formula = (
+            f"샘플(n={sample_n}) 기반 임시 공식 — 자동 분석 미사용. "
+            f"주의: 1위가 조회수 {top1_share*100:.0f}% 독점, 공식 신뢰도 낮음."
+        )
+    else:
+        formula = f"샘플(n={sample_n}) 기반 임시 공식 — 자동 분석 미사용."
+
+    # --- trend_keywords: 제목에서 실제 빈도 추출 ---
+    trend_keywords = _extract_keywords(videos)
+    if trend_keywords and not has_outlier:
+        formula = (f"최근 니치 채널 shorts(n={sample_n})에서 두드러진 소재: "
+                   f"{', '.join(trend_keywords[:6])}. (관찰 기반, AI 자동 분석 아님)")
+
+    # --- plans: INSIGHTS_FALLBACK 초안에서 1위 64만 회 언급 제거/수정 ---
+    plans = []
+    for plan in INSIGHTS_FALLBACK.get("plans", []):
+        plan = dict(plan)
+        bo = plan.get("based_on", "")
+        if "64만" in bo or "1위" in bo:
+            plan["based_on"] = f"니치 적합 상위 영상 + 위로 내레이션 패턴 (샘플 n={sample_n}, 1회 스냅샷)"
+        plans.append(plan)
+
+    return {
+        "generated_by": "manual_fallback",  # 자동 분석 아님 — 계산된 통계 + 수동 plans 초안
+        "niche": C.NICHE,
+        "formula": formula,
+        "top_videos_summary": top5,
+        "outlier_adjusted": outlier_adjusted,
+        "bgm_trends": bgm_trends,
+        "voice_pattern": voice_pattern,
+        "trend_keywords": trend_keywords,
+        "plans": plans,
+    }
+
+
 def main():
     os.makedirs(C.OUTPUT_DIR, exist_ok=True)
     transcripts_path = os.path.join(C.OUTPUT_DIR, "transcripts.json")
     bgm_path = os.path.join(C.OUTPUT_DIR, "bgm.json")
+    shorts_path = os.path.join(C.OUTPUT_DIR, "shorts.json")
 
-    with open(transcripts_path) as f:
-        transcripts = json.load(f)
-    with open(bgm_path) as f:
-        bgm = json.load(f)
+    # 데이터 파일이 있으면 실제 데이터 기반 insights, 없으면 폴백
+    if (os.path.exists(transcripts_path) and os.path.exists(bgm_path)
+            and os.path.exists(shorts_path)):
+        with open(transcripts_path) as f:
+            transcripts = json.load(f)
+        with open(bgm_path) as f:
+            bgm = json.load(f)
+        with open(shorts_path) as f:
+            shorts = json.load(f)
+        insights = build_insights(transcripts, shorts, bgm)
+    else:
+        print("데이터 파일(transcripts/bgm/shorts) 누락 → INSIGHTS_FALLBACK 사용")
+        transcripts, bgm = {}, {}
+        insights = dict(INSIGHTS_FALLBACK)
 
     prompt = build_prompt(transcripts, bgm)
 
@@ -163,10 +336,9 @@ def main():
         f.write(prompt)
     print(f"프롬프트 저장: {prompt_path} ({len(prompt)}자)")
 
-    # 키 없으면 여기서 종료 (insights.json 초안은 아래 공통 분기에서 항상 씀)
+    # 키 없으면 여기서 종료 (insights.json은 위에서 계산된 것 사용)
     if not C.ANTHROPIC_API_KEY:
         print("ANTHROPIC_API_KEY 미제공 → prompt.txt만 덤프 (this_week.md 생성 안 함)")
-        insights = dict(INSIGHTS_FALLBACK)  # generated_by == "manual_fallback" 그대로
         _dump_insights(insights)
         return
 
@@ -184,9 +356,8 @@ def main():
         print(f"Claude 호출 실패: {e}")
         print("prompt.txt는 저장됨 — 수동으로 Claude에 넣어보세요.")
 
-    # insights.json: Claude 응답 파싱은 이번 범위 밖.
-    # 응답 마크다운은 this_week.md에 있으니, 초안의 generated_by만 마킹.
-    insights = dict(INSIGHTS_FALLBACK)
+    # Claude 응답 파싱은 이번 범위 밖 — insights는 계산된 통계 유지,
+    # generated_by만 마킹
     insights["generated_by"] = "claude_pending" if claude_ok else "manual_fallback"
     _dump_insights(insights)
 
