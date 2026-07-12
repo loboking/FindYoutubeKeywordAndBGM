@@ -1,0 +1,45 @@
+name: Refresh trend data
+
+on:
+  schedule:
+    - cron: "23 19 * * *"  # UTC 19:23 = KST 04:23
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt && pip install yt-dlp
+
+      - name: Run pipeline
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ACR_ACCESS_KEY: ${{ secrets.ACR_ACCESS_KEY }}
+          ACR_ACCESS_SECRET: ${{ secrets.ACR_ACCESS_SECRET }}
+          ACR_HOST: ${{ secrets.ACR_HOST }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python run.py
+
+      - name: Commit & push output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.json output/last_updated.txt
+          git diff --staged --quiet || git commit -m "chore(data): 자동 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

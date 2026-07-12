@@ -2,8 +2,11 @@
 import os
 import subprocess
 import sys
+from datetime import datetime, timezone, timedelta
 
 import config as C
+
+KST = timezone(timedelta(hours=9))
 
 
 def run_step(name: str, script: str) -> int:
@@ -23,6 +26,13 @@ def main():
     run_step("2. 전사 (faster-whisper)", "transcribe.py")
     run_step("3. BGM 식별 (ACRCloud)", "identify_bgm.py")
     run_step("4. 추천 (Claude)", "recommend.py")
+
+    # 갱신 시각 기록 (index.html 상단 표시용)
+    last_updated = datetime.now(KST).strftime("%Y-%m-%d %H:%M (KST)")
+    with open(os.path.join(C.OUTPUT_DIR, "last_updated.txt"), "w") as f:
+        f.write(last_updated)
+    print(f"갱신 시각 기록: {last_updated}")
+
     print(f"\n파이프라인 완료. 산출물: {C.OUTPUT_DIR}/")
 
 

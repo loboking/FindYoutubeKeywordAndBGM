@@ -1,5 +1,6 @@
 """0차 스파이크 설정. 니치는 이 파일 변수 하나만 바꾸면 교체됨."""
 import os
+import shutil
 
 # === 니치 (이 한 줄만 바꾸면 전체 파이프라인에 교체됨) ===
 NICHE = "감성 일상 브이로그"
@@ -35,6 +36,6 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(ROOT, "output")
 AUDIO_DIR = os.path.join(OUTPUT_DIR, "audio")
 
-# === 외부 바이너리 ===
-YT_DLP = "/opt/homebrew/bin/yt-dlp"
-FFMPEG = "/opt/homebrew/bin/ffmpeg"
+# === 외부 바이너리 (PATH에서 조회 — macOS homebrew / CI Ubuntu 모두 대응) ===
+YT_DLP = shutil.which("yt-dlp") or "yt-dlp"
+FFMPEG = shutil.which("ffmpeg") or "ffmpeg"

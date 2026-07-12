@@ -41,6 +41,9 @@
     padding:14px 16px;font-size:13.5px;margin-top:10px}
   code{background:#f1eef6;padding:2px 6px;border-radius:5px;font-size:13px;font-family:ui-monospace,Menlo,monospace}
   footer{margin-top:48px;padding-top:20px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
+  .err{color:var(--warn)}
+  .local-hint{font-size:12px;color:var(--muted);text-align:center;margin-top:24px;padding:10px;
+    border:1px dashed var(--line);border-radius:8px}
   @media(max-width:560px){h1{font-size:24px}.wrap{padding:28px 16px 60px}}
 </style>
 </head>
@@ -50,110 +53,56 @@
 <header class="hero">
   <div class="eyebrow">YouTube Shorts · Trend Report</div>
   <h1>감성 일상 숏츠 트렌드 리포트</h1>
-  <div class="meta">2026-07-10 · 샘플 30개 · 검색어 "감성 일상 shorts" · 1회 스냅샷</div>
+  <div class="meta"><span id="last-updated">갱신 시각 불러오는 중…</span></div>
 </header>
 
-<p style="font-size:14.5px;color:var(--muted)">이 페이지는 내 채널 니치(감성 일상 브이로그)에서 지금 뜨는 BGM·보이스·키워드를 정리한 리서치 결과입니다. 아래는 수집한 30개 영상에서 읽어낸 패턴입니다.</p>
+<p style="font-size:14.5px;color:var(--muted)">이 페이지는 내 채널 니치(감성 일상 브이로그)에서 지금 뜨는 BGM·보이스·키워드를 정리한 리서치 결과입니다. 아래는 수집한 영상에서 읽어낸 패턴입니다.</p>
 
-<h2><span class="n">1</span>조회수 폭발 1위가 말해주는 공식</h2>
+<h2><span class="n">1</span>조회수 폭발 상위 영상이 말해주는 공식</h2>
 <table>
-  <thead><tr><th>조회수</th><th>영상</th><th>핵심</th></tr></thead>
-  <tbody>
-    <tr><td class="views">646,832</td><td>"딱 1분만 집중해서 들어봐…"</td><td>시간/위로 내레이션</td></tr>
-    <tr><td class="views">14,790</td><td>수채화 1분 다꾸</td><td>aesthetic</td></tr>
-    <tr><td class="views">5,220</td><td>힐링 감성 색감 인트로</td><td>색감</td></tr>
-    <tr><td class="views">4,972</td><td>감성 연주곡 앨범 트레일러</td><td>음악</td></tr>
-    <tr><td class="views">1,155</td><td>빈티지 감성 룩북</td><td>aesthetic</td></tr>
+  <thead><tr><th>조회수</th><th>영상</th><th>채널</th></tr></thead>
+  <tbody id="top-videos">
+    <tr><td colspan="3" class="err">데이터를 불러오는 중…</td></tr>
   </tbody>
 </table>
-<div class="formula">
-  <b>이 니치의 1등 공식:</b> 감성 풍경/다꾸 영상 + 잔잔한 lofi·연주곡 BGM + 위로 자막(또는 내레이션) 한 문장
+<div class="formula" id="formula">
+  <b>이 니치의 1등 공식:</b> <span id="formula-text">불러오는 중…</span>
 </div>
 
 <h2><span class="n">2</span>뜨는 BGM 계열</h2>
-<div class="card">
-  <p>제목에서 추출한 패턴 (실제 음원 식별은 ACRCloud 키 적용 후 정확화 예정):</p>
-  <ul>
-    <li><b>lofi</b> — 예: "한여름밤 lofi"</li>
-    <li><b>잔잔한 피아노/연주곡</b> — 감성음악·힐링음악·카페음악</li>
-    <li><b>슬픈/시린 발라드</b></li>
-  </ul>
-  <p style="font-size:13.5px;color:var(--muted)">→ 공통: 잔잔하고 몽환적인 연주곡/lofi가 압도적. 빠른 곡·강한 비트는 이 니치에 안 보임.</p>
+<div class="card" id="bgm-card">
+  <p class="err">데이터를 불러오는 중…</p>
 </div>
 
 <h2><span class="n">3</span>보이스/말투 패턴 (의외의 핵심)</h2>
 <div class="card">
-  <p>앞 5초에 <b>말이 나오는 영상은 27%</b>. 73%는 무음·BGM·자막.</p>
-  <p>말이 나올 땐 두 종류:</p>
-  <ul>
-    <li><b>① 위로 한 문장</b> — "넌 이미 잘하고 있어", "오늘도 수고했어"</li>
-    <li><b>② 친근한 일상 멘트</b> — "덕담 한 마디씩 하자", "눈사람 만들자"</li>
-  </ul>
-  <p>→ 이 니치에선 <b>"자막 한 줄 + 감성 BGM"이 기본</b>이고, 말을 넣으면 무조건 "위로" 톤.</p>
+  <p id="opening-stat">데이터를 불러오는 중…</p>
+  <div id="opening-patterns"></div>
 </div>
 
 <h2><span class="n">4</span>뜨는 키워드/주제</h2>
-<div>
-  <span class="tag">위로·힐링</span>
-  <span class="tag">다꾸</span>
-  <span class="tag">수채화</span>
-  <span class="tag">1분다꾸</span>
-  <span class="tag">빈티지룩북</span>
-  <span class="tag">무드등</span>
-  <span class="tag">한강</span>
-  <span class="tag">노을</span>
-  <span class="tag">비</span>
-  <span class="tag">꽃</span>
-  <span class="tag">도시의밤</span>
-  <span class="tag">전시회</span>
-  <span class="tag">보라빛</span>
-  <span class="tag">새벽</span>
+<div id="keyword-cloud">
+  <p class="err">데이터를 불러오는 중…</p>
 </div>
 
-<h2><span class="n">5</span>추천 기획 3개 (니치 맞춤)</h2>
-
-<div class="card plan">
-  <h3>기획 1 — "새벽 1분, 위로의 한 문장"</h3>
-  <p style="color:var(--muted);font-size:13px">1위 64만 회 패턴 변주</p>
-  <div class="label">제목</div><p>바빠서 놓친 하루, 1분만</p>
-  <div class="label">BGM</div><p>잔잔한 피아노 연주곡 / 새벽 lofi</p>
-  <div class="label">첫 3초</div><p>(무음 시작 → 부드러운 내레이션) "잠깐만… 숨 좀 돌려도 돼."</p>
-  <div class="label">훅</div><p>새벽 도시·비 오는 창밖·귀갓길 풍경이 느리게 흐르고, 위로 문장 자막이 하나씩 뜸. 마지막 자막 "오늘도 무사히 버텨냈어."</p>
-  <div class="label">키워드</div>
-  <div><span class="tag">#감성브이로그</span><span class="tag">#힐링</span><span class="tag">#위로</span><span class="tag">#새벽</span><span class="tag">#1분명상</span></div>
+<h2><span class="n">5</span>추천 기획 (니치 맞춤)</h2>
+<div id="plans">
+  <p class="err">데이터를 불러오는 중…</p>
 </div>
 
-<div class="card plan">
-  <h3>기획 2 — "오늘의 색, 1분 다꾸"</h3>
-  <p style="color:var(--muted);font-size:13px">1.4만 회 수채화 다꾸 패턴</p>
-  <div class="label">제목</div><p>오늘의 색, 1분 다꾸</p>
-  <div class="label">BGM</div><p>빈티지 몽환 연주곡</p>
-  <div class="label">첫 3초</div><p>(무음 + 자막) "오늘의 무드 🌙 보라빛 저녁"</p>
-  <div class="label">훅</div><p>수채화/다꾸 과정을 빠른 컷으로, 색이 채워지는 시각적 만족감 + 펜·종이 ASMR</p>
-  <div class="label">키워드</div>
-  <div><span class="tag">#다꾸</span><span class="tag">#수채화</span><span class="tag">#감성</span><span class="tag">#빈티지</span><span class="tag">#1분다꾸</span></div>
-</div>
-
-<div class="card plan">
-  <h3>기획 3 — "퇴근길 노을, 혼자만의 시간"</h3>
-  <p style="color:var(--muted);font-size:13px">노을·한강 + 위로 패턴</p>
-  <div class="label">제목</div><p>퇴근길 노을이 이렇게 예뻤다고</p>
-  <div class="label">BGM</div><p>감성 발라드 / 노을 연주곡</p>
-  <div class="label">첫 3초</div><p>(무음 + 노을 화면 + 자막) "오늘 하루, 잘 버텨냈어."</p>
-  <div class="label">훅</div><p>노을 지는 하늘 타임랩스 + 발소리·바람소리 ASMR, 끝 자막 "내일도 잘 부탁해."</p>
-  <div class="label">키워드</div>
-  <div><span class="tag">#노을</span><span class="tag">#퇴근길</span><span class="tag">#감성</span><span class="tag">#혼자놀기</span><span class="tag">#힐링</span></div>
-</div>
-
-<div class="warn">
-  <b>한계:</b> BGM은 제목 기반 추정(ACRCloud 미사용). 샘플 30개·1회 스냅샷 기준이라 통계적 트렌드라기보단 "지금 이 샘플에서 뭐가 보이나" 참고용.
+<div class="warn" id="limits-warn">
+  <b>한계:</b> BGM은 제목 기반 추정(ACRCloud 미사용 시). 샘플 영상 기준이므로 통계적 트렌드라기보단 "지금 이 샘플에서 뭐가 보이나" 참고용.
 </div>
 
 <h2><span class="n">6</span>갱신 방법</h2>
 <div class="card">
-  <p>새 데이터로 다시 뽑기:</p>
-  <p><code>cd /Volumes/SSD2T/FindYoutubeKeywordAndBGM && python3 run.py</code></p>
-  <p style="font-size:13.5px;color:var(--muted)">니치 바꾸기 → <code>config.py</code>의 <code>NICHE</code>, <code>SEARCH_KEYWORD</code>, <code>CHANNEL_DESC</code> 세 줄. BGM 식별·자동 추천엔 ACRCloud·Claude API 키 필요.</p>
+  <p><b>매일 새벽 자동 갱신</b> — GitHub Actions가 이 리포지토리의 파이프라인을 돌려 output/*.json을 다시 뽑고, 이 페이지를 다시 렌더합니다.</p>
+  <p><b>수동 갱신</b> — GitHub 리포지토리 <b>Actions</b> 탭에서 <code>Run workflow</code> 버튼으로 즉시 다시 돌릴 수 있습니다.</p>
+  <p style="font-size:13.5px;color:var(--muted)">자동 추천(Claude)·실제 BGM 식별(ACRCloud)을 켜려면 <code>ANTHROPIC_API_KEY</code> / <code>ACR_ACCESS_KEY</code> / <code>ACR_ACCESS_SECRET</code>을 GitHub <b>Secrets</b>에 등록하세요. 등록 시 자동 추천이 활성화됩니다.</p>
+</div>
+
+<div class="local-hint">
+  로컬에서 이 페이지를 보려면 CORS 제한 때문에 <code>python3 -m http.server</code> 실행 후 <code>http://localhost:8000/</code>로 열어야 합니다.
 </div>
 
 <footer>
@@ -162,5 +111,204 @@
 </footer>
 
 </div>
+
+<script>
+"use strict";
+const ERR = (msg) => `<p class="err">데이터를 불러오지 못했습니다 (${msg})</p>`;
+const fmtViews = (n) => (typeof n === "number" ? n.toLocaleString() : String(n));
+
+async function fetchJSON(path) {
+  const res = await fetch(path);
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return res.json();
+}
+
+async function fetchText(path) {
+  const res = await fetch(path);
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return (await res.text()).trim();
+}
+
+function renderLastUpdated(text) {
+  const el = document.getElementById("last-updated");
+  if (!text) { el.textContent = "갱신 시각 없음"; return; }
+  // shorts.json 메타도 같이 표시
+  el.textContent = `${text} · 자동 갱신`;
+}
+
+function renderTopVideos(shorts) {
+  const tbody = document.getElementById("top-videos");
+  const videos = Array.isArray(shorts?.videos) ? shorts.videos : [];
+  if (!videos.length) { tbody.innerHTML = `<tr><td colspan="3" class="err">영상 데이터 없음</td></tr>`; return; }
+  const sorted = [...videos].sort((a, b) => (b.view_count || 0) - (a.view_count || 0)).slice(0, 5);
+  tbody.innerHTML = sorted.map((v) =>
+    `<tr><td class="views">${fmtViews(v.view_count)}</td>` +
+    `<td>${escapeHtml(v.title || "")}` +
+    (v.url ? ` <a href="${escapeAttr(v.url)}" target="_blank" rel="noopener" style="font-size:12px;color:var(--muted)">↗</a>` : "") +
+    `</td><td>${escapeHtml(v.channel || "")}</td></tr>`
+  ).join("");
+}
+
+function renderFormula(insights) {
+  const el = document.getElementById("formula-text");
+  if (!insights || !insights.formula) { el.textContent = "공식 데이터 없음"; return; }
+  el.textContent = insights.formula;
+}
+
+function renderBgm(bgm, insights) {
+  const card = document.getElementById("bgm-card");
+  const parts = [];
+
+  if (bgm && bgm.status === "skipped_no_key") {
+    parts.push(`<div class="warn"><b>BGM 식별 스킵</b> — ACRCloud 키 미제공. 아래는 제목 기반 추정 트렌드입니다.</div>`);
+  } else if (bgm && bgm.results && Object.keys(bgm.results).length) {
+    const items = Object.values(bgm.results)
+      .filter((r) => r && r.status === "identified")
+      .map((r) => `<li><b>${escapeHtml(r.bgm || "?")}</b> — ${escapeHtml(r.artist || "?")}</li>`);
+    if (items.length) {
+      parts.push(`<p>ACRCloud로 식별된 BGM:</p><ul>${items.join("")}</ul>`);
+    } else {
+      parts.push(`<p>식별된 BGM 없음.</p>`);
+    }
+  }
+
+  const trends = (insights && Array.isArray(insights.bgm_trends)) ? insights.bgm_trends : [];
+  if (trends.length) {
+    parts.push(`<p>제목에서 추출한 BGM 계열 트렌드:</p><ul>` +
+      trends.map((t) => `<li><b>${escapeHtml(t)}</b></li>`).join("") + `</ul>`);
+    parts.push(`<p style="font-size:13.5px;color:var(--muted)">→ 공통: 잔잔하고 몽환적인 연주곡/lofi가 압도적. 빠른 곡·강한 비트는 이 니치에 안 보임.</p>`);
+  }
+
+  card.innerHTML = parts.length ? parts.join("") : ERR("BGM 데이터 없음");
+}
+
+function renderOpeningStat(insights, transcripts) {
+  const statEl = document.getElementById("opening-stat");
+  const patternsEl = document.getElementById("opening-patterns");
+
+  let percent = null;
+  let summary = null;
+  let patterns = [];
+
+  // insights.voice_pattern 우선
+  if (insights && insights.voice_pattern) {
+    const vp = insights.voice_pattern;
+    if (typeof vp.speech_in_first_5s_percent === "number") percent = vp.speech_in_first_5s_percent;
+    if (vp.summary) summary = vp.summary;
+    if (Array.isArray(vp.patterns)) patterns = vp.patterns;
+  }
+
+  // insights에 없으면 transcripts.json에서 직접 계산
+  if (percent === null && transcripts && typeof transcripts === "object") {
+    const entries = Object.values(transcripts).filter((t) => t && typeof t === "object");
+    const total = entries.length;
+    const withSpeech = entries.filter((t) => t.opening_mention && String(t.opening_mention).trim()).length;
+    if (total > 0) {
+      percent = Math.round((withSpeech / total) * 100);
+      summary = `앞 5초에 말이 나오는 영상 ${percent}%, ${100 - percent}%는 무음·BGM·자막`;
+    }
+  }
+
+  if (percent === null) {
+    statEl.innerHTML = `<span class="err">오프닝 멘트 통계를 불러오지 못했습니다</span>`;
+    patternsEl.innerHTML = "";
+    return;
+  }
+
+  statEl.innerHTML = `앞 5초에 <b>말이 나오는 영상은 ${percent}%</b>. ${100 - percent}%는 무음·BGM·자막.` +
+    (summary ? ` <span style="color:var(--muted);font-size:13px">(${escapeHtml(summary)})</span>` : "");
+
+  if (patterns.length) {
+    patternsEl.innerHTML = `<p>말이 나올 땐 두 종류:</p><ul>` +
+      patterns.map((p) => `<li>${escapeHtml(p)}</li>`).join("") +
+      `</ul><p>→ 이 니치에선 <b>"자막 한 줄 + 감성 BGM"이 기본</b>이고, 말을 넣으면 무조건 "위로" 톤.</p>`;
+  } else {
+    patternsEl.innerHTML = "";
+  }
+}
+
+function renderKeywords(insights) {
+  const el = document.getElementById("keyword-cloud");
+  const kws = (insights && Array.isArray(insights.trend_keywords)) ? insights.trend_keywords : [];
+  if (!kws.length) { el.innerHTML = `<p class="err">키워드 데이터 없음</p>`; return; }
+  el.innerHTML = kws.map((k) => `<span class="tag">${escapeHtml(k)}</span>`).join("");
+}
+
+function renderPlans(insights) {
+  const el = document.getElementById("plans");
+  const plans = (insights && Array.isArray(insights.plans)) ? insights.plans : [];
+  if (!plans.length) { el.innerHTML = `<p class="err">추천 기획 데이터 없음</p>`; return; }
+  el.innerHTML = plans.map((p, i) => {
+    const kws = (Array.isArray(p.keywords) ? p.keywords : [])
+      .map((k) => `<span class="tag">${escapeHtml(k)}</span>`).join("");
+    return `
+<div class="card plan">
+  <h3>기획 ${i + 1} — "${escapeHtml(p.title || "")}"</h3>
+  ${p.based_on ? `<p style="color:var(--muted);font-size:13px">${escapeHtml(p.based_on)}</p>` : ""}
+  ${p.video_title ? `<div class="label">제목</div><p>${escapeHtml(p.video_title)}</p>` : ""}
+  ${p.bgm ? `<div class="label">BGM</div><p>${escapeHtml(p.bgm)}</p>` : ""}
+  ${p.first_3s ? `<div class="label">첫 3초</div><p>${escapeHtml(p.first_3s)}</p>` : ""}
+  ${p.hook ? `<div class="label">훅</div><p>${escapeHtml(p.hook)}</p>` : ""}
+  ${kws ? `<div class="label">키워드</div><div>${kws}</div>` : ""}
+</div>`;
+  }).join("");
+}
+
+// --- HTML 이스케이프 (JSON 콘텐츠를 안전하게 DOM에 넣기 위해) ---
+function escapeHtml(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+function escapeAttr(s) { return escapeHtml(s); }
+
+async function init() {
+  // 병렬 fetch (순서 무관). 개별 실패해도 다른 섹션은 살림.
+  const tasks = await Promise.allSettled([
+    fetchText("output/last_updated.txt").catch(() => null),  // 파일 없을 수 있음
+    fetchJSON("output/shorts.json"),
+    fetchJSON("output/transcripts.json"),
+    fetchJSON("output/bgm.json"),
+    fetchJSON("output/insights.json"),
+  ]);
+  const [lastUpdated, shorts, transcripts, bgm, insights] = tasks.map((t) =>
+    t.status === "fulfilled" ? t.value : undefined
+  );
+
+  // 1. 갱신 시각
+  if (lastUpdated) renderLastUpdated(lastUpdated);
+  else document.getElementById("last-updated").textContent = "갱신 시각 없음";
+
+  // 2. 상위 영상 (shorts.json 필요)
+  if (shorts) renderTopVideos(shorts);
+  else document.getElementById("top-videos").innerHTML = `<tr><td colspan="3" class="err">shorts.json 불러오기 실패</td></tr>`;
+
+  // 7. 1등 공식 (insights.json)
+  if (insights) renderFormula(insights);
+  else document.getElementById("formula-text").textContent = "insights.json 불러오기 실패";
+
+  // 5. BGM (bgm.json + insights.json)
+  if (bgm || insights) renderBgm(bgm, insights);
+  else document.getElementById("bgm-card").innerHTML = ERR("bgm.json/insights.json 불러오기 실패");
+
+  // 3. 오프닝 통계 (insights 우선, 없으면 transcripts 계산)
+  renderOpeningStat(insights, transcripts);
+
+  // 4. 키워드 클라우드
+  if (insights) renderKeywords(insights);
+  else document.getElementById("keyword-cloud").innerHTML = `<p class="err">insights.json 불러오기 실패</p>`;
+
+  // 6. 추천 기획
+  if (insights) renderPlans(insights);
+  else document.getElementById("plans").innerHTML = `<p class="err">insights.json 불러오기 실패</p>`;
+}
+
+init().catch((e) => {
+  console.error("render init failed:", e);
+});
+</script>
 </body>
 </html>
