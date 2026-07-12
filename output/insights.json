@@ -1,79 +1,27 @@
 {
   "generated_by": "manual_fallback",
   "niche": "감성 일상 브이로그",
-  "formula": "최근 니치 채널 shorts(n=16)에서 두드러진 소재: 집순이, 30대, 루틴, 오전, #브이로그, 쉬는. (관찰 기반, AI 자동 분석 아님)",
-  "top_videos_summary": [
-    {
-      "views": 94603,
-      "title": "도쿄 워홀 6개월차! 엄마가 도쿄 오셔서 여행중 찍은 영상 짧게 편집해서 올려봐요",
-      "key": "",
-      "upload_year": "2026"
-    },
-    {
-      "views": 44646,
-      "title": "집순이 두부의 밤 힐링 루틴🛁🌙🎀🎮",
-      "key": "",
-      "upload_year": "2026"
-    },
-    {
-      "views": 43085,
-      "title": "맥모닝으로 시작하는 하루🍔🥤✨🥞",
-      "key": "",
-      "upload_year": "2026"
-    },
-    {
-      "views": 38140,
-      "title": "11평 우리집에 딱 맞는 깔끔하고 예쁜 공기청정기 ✿˖°",
-      "key": "",
-      "upload_year": "2026"
-    },
-    {
-      "views": 35456,
-      "title": "자취 5년차, 맥시멀리스트의 첫 욕실 셀프 인테리어 도전기!",
-      "key": "",
-      "upload_year": "2026"
-    }
-  ],
+  "formula": "샘플(n=0) 기반 임시 공식 — 자동 분석 미사용.",
+  "top_videos_summary": [],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_views": 94603,
-    "top1_share": 0.22,
+    "top1_views": null,
+    "top1_share": null,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "bgm_trends": [],
   "voice_pattern": {
-    "speech_in_first_5s_percent": 100,
-    "n": 4,
-    "summary": "전사 확보 4개 중 앞 5초에 말이 나오는 영상 4개 (100%). 결측 12개는 전사 비출력으로 제외.",
+    "speech_in_first_5s_percent": null,
+    "n": 0,
+    "summary": "전사 확보된 영상 없음 (결측 0개 전사 비출력). 음성 패턴 분산을 계산할 수 없음.",
     "patterns": []
   },
-  "trend_keywords": [
-    "집순이",
-    "30대",
-    "루틴",
-    "오전",
-    "#브이로그",
-    "쉬는",
-    "도쿄",
-    "Summer",
-    "Night",
-    "Routine",
-    "내가",
-    "그린",
-    "그림으로",
-    "만드는",
-    "쿠키세트✿",
-    "자취",
-    "5년차",
-    "맥시멀리스트의",
-    "욕실",
-    "셀프"
-  ],
+  "trend_keywords": [],
   "plans": [
     {
       "title": "새벽 1분, 위로의 한 문장",
-      "based_on": "니치 적합 상위 영상 + 위로 내레이션 패턴 (샘플 n=16, 1회 스냅샷)",
+      "based_on": "니치 적합 상위 영상 + 위로 내레이션 패턴 (샘플 n=0, 1회 스냅샷)",
       "video_title": "바빠서 놓친 하루, 1분만",
       "bgm": "잔잔한 피아노 연주곡 / 새벽 lofi",
       "first_3s": "(무음 시작 → 부드러운 내레이션) \"잠깐만… 숨 좀 돌려도 돼.\"",
