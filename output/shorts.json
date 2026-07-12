@@ -1,6 +1,6 @@
 {
   "niche": "감성 일상 브이로그",
-  "source": "channel_shorts",
+  "source": "channel_shorts_flat",
   "channels": [
     "문나잇 moonnight",
     "히두부 Hiddubu",
@@ -17,31 +17,31 @@
   "per_channel": {
     "문나잇 moonnight": {
       "raw": 13,
-      "passed": 0
+      "passed": 11
     },
     "히두부 Hiddubu": {
       "raw": 15,
-      "passed": 0
+      "passed": 14
     },
     "소이그린 SOIGREEN": {
       "raw": 15,
-      "passed": 0
+      "passed": 15
     },
     "오담필름 odamfilm": {
       "raw": 15,
-      "passed": 0
+      "passed": 15
     },
     "냥숲 nyangsoop": {
       "raw": 2,
-      "passed": 0
+      "passed": 2
     },
     "백미 Backme": {
       "raw": 5,
-      "passed": 0
+      "passed": 2
     },
     "이욜 eyol": {
       "raw": 4,
-      "passed": 0
+      "passed": 3
     },
     "현애 hyunnae": {
       "raw": 2,
@@ -49,28 +49,325 @@
     },
     "소람 soram": {
       "raw": 2,
-      "passed": 0
+      "passed": 2
     },
     "니지 niji": {
       "raw": 3,
-      "passed": 0
+      "passed": 3
     },
     "아린 wested_arin": {
       "raw": 2,
-      "passed": 0
+      "passed": 2
     }
   },
   "raw_ids": 78,
-  "meta_fetched": 0,
-  "shorts_found": 0,
+  "shorts_found": 30,
   "target": 30,
-  "max_duration_s": 180,
-  "max_age_days": 180,
   "min_view_count": 50,
-  "filter_version": 4,
-  "excluded_offtopic": 0,
-  "excluded_too_old": 0,
+  "filter_version": 5,
   "excluded_low_views": 0,
-  "excluded_too_long": 0,
-  "videos": []
+  "excluded_offtopic": 9,
+  "recency_note": "/shorts는 최신순 → 상위 15개를 최근 영상으로 간주 (정확한 날짜는 flat-playlist 미지원)",
+  "videos": [
+    {
+      "id": "Z6NEQmg-1xI",
+      "title": "전부터 쓰고 싶었던 음악 Kiki’s song❀",
+      "view_count": 297000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=Z6NEQmg-1xI"
+    },
+    {
+      "id": "oP778lnr4rc",
+      "title": "20만 기념 복숭아 젤리 케이크,,💗",
+      "view_count": 209000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "아린 wested_arin",
+      "source_channel": "아린 wested_arin",
+      "url": "https://www.youtube.com/watch?v=oP778lnr4rc"
+    },
+    {
+      "id": "n4-yid7bAlc",
+      "title": "끝나지 않는 겨울 속 다정함을 전하고 싶은 견습마녀 이야기🥘✿∘˚˳°∘°",
+      "view_count": 116000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=n4-yid7bAlc"
+    },
+    {
+      "id": "YxqY4fvHEK4",
+      "title": "6시가 넘어도 해가 지지 않는 3월",
+      "view_count": 102000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=YxqY4fvHEK4"
+    },
+    {
+      "id": "5m02O5LMEEg",
+      "title": "6 months into my Tokyo working holiday! Sharing a short edit of the trip I took while my mom was ...",
+      "view_count": 94000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "아린 wested_arin",
+      "source_channel": "아린 wested_arin",
+      "url": "https://www.youtube.com/watch?v=5m02O5LMEEg"
+    },
+    {
+      "id": "93Zvj3NKWkY",
+      "title": "집순이는 혼자서 이러고 놀아. .ヽ(ヅ)ノෆ",
+      "view_count": 88000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=93Zvj3NKWkY"
+    },
+    {
+      "id": "n0C35PGYO3M",
+      "title": "봄을 기다리며  #winter",
+      "view_count": 82000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=n0C35PGYO3M"
+    },
+    {
+      "id": "_KIRxQdaQf8",
+      "title": "Pink Desk🎀ㅣ데스크테리어.•ᰔᩚ",
+      "view_count": 79000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=_KIRxQdaQf8"
+    },
+    {
+      "id": "HCNNlQ6XbEw",
+      "title": "삶이 네게 레몬을 주면, 넌 그걸로 레몬에이드를 만들어라🍋 (설명 有)",
+      "view_count": 64000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=HCNNlQ6XbEw"
+    },
+    {
+      "id": "_7apuojAp0w",
+      "title": "Summer Home, Waiting ✿∘˚˳°∘° #vlog #home",
+      "view_count": 57000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=_7apuojAp0w"
+    },
+    {
+      "id": "PxW1v60uuU4",
+      "title": "💗하트티라미수💗",
+      "view_count": 57000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=PxW1v60uuU4"
+    },
+    {
+      "id": "k3xzR3l_bNA",
+      "title": "집순이의 따뜻한 겨울나기🌨️🧦🎀",
+      "view_count": 49000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=k3xzR3l_bNA"
+    },
+    {
+      "id": "Z2_lPwASnkk",
+      "title": "🍪🎀헬로키티 쿠키 굽는 몽글몽글 집순이의 밤🌙🫧",
+      "view_count": 49000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=Z2_lPwASnkk"
+    },
+    {
+      "id": "Gxv-JHdQa-A",
+      "title": "나만의 홈PC방에서 보내는 일상🎀🫧ㅣ핑크 하트 키보드 언박싱ㅣYUNZII B75 PRO✨ #yunzii",
+      "view_count": 48000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=Gxv-JHdQa-A"
+    },
+    {
+      "id": "xT-RF_q5RSQ",
+      "title": "𝑀𝑜𝑟𝑛𝑖𝑛𝑔 𝑟𝑜𝑢𝑡𝑖𝑛𝑒｡˚⋆｡˚🍓",
+      "view_count": 47000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=xT-RF_q5RSQ"
+    },
+    {
+      "id": "0pp71Reu8eY",
+      "title": "핑크 데스크에서의 언박싱🎀🫧ㅣ𝑈𝑛𝑏𝑜𝑥𝑖𝑛𝑔 𝑑𝑎𝑦-`♡´-",
+      "view_count": 46000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=0pp71Reu8eY"
+    },
+    {
+      "id": "xPWCU5WebV4",
+      "title": "집순이 두부의 밤 힐링 루틴🛁🌙🎀🎮",
+      "view_count": 44000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=xPWCU5WebV4"
+    },
+    {
+      "id": "V6mo65GeZsY",
+      "title": "Desk Vlog🍓ㅣ데스크에서 보내는 두부 일상ෆ",
+      "view_count": 44000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=V6mo65GeZsY"
+    },
+    {
+      "id": "R4mSIa0b4BY",
+      "title": "A day that starts with McMorning🍔🥤✨🥞",
+      "view_count": 43000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=R4mSIa0b4BY"
+    },
+    {
+      "id": "H_Q0VZMO3j4",
+      "title": "친구들과의 홈파티를 위한 밋프렙 레시피✿",
+      "view_count": 41000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=H_Q0VZMO3j4"
+    },
+    {
+      "id": "vDsCMvpP-5M",
+      "title": "귀여운 시나모롤 책상.ᐟ.ᐟ 💭🤍☁️🥛🏹⸝ ⸝",
+      "view_count": 41000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=vDsCMvpP-5M"
+    },
+    {
+      "id": "KzRPi8sqMLQ",
+      "title": "Decorate your iPhone home screen🤍✨ #blackandwhiteicons #iPhonedecoration",
+      "view_count": 41000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "소람 soram",
+      "source_channel": "소람 soram",
+      "url": "https://www.youtube.com/watch?v=KzRPi8sqMLQ"
+    },
+    {
+      "id": "qfuu_HM8UFk",
+      "title": "11평 우리집에 딱 맞는 깔끔하고 예쁜 공기청정기 ✿˖°",
+      "view_count": 38000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=qfuu_HM8UFk"
+    },
+    {
+      "id": "mJmXa8krJSU",
+      "title": "자취 5년차, 맥시멀리스트의 첫 욕실 셀프 인테리어 도전기!",
+      "view_count": 35000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=mJmXa8krJSU"
+    },
+    {
+      "id": "r-jEJM544C8",
+      "title": "🎀 핑크 모니터로 데스크룸 꾸미고 핑크력 max 찍은 VLOG⋆｡˚☁️",
+      "view_count": 32000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=r-jEJM544C8"
+    },
+    {
+      "id": "lSobJ9jFuJA",
+      "title": "여름이면 생각나는 토마토 솥밥🍅 달짝지근하면서 같이 곁들인 초당옥수수가 아삭아삭 씹히는 꼬소한 맛이에요🌽🌿",
+      "view_count": 32000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "냥숲 nyangsoop",
+      "source_channel": "냥숲 nyangsoop",
+      "url": "https://www.youtube.com/watch?v=lSobJ9jFuJA"
+    },
+    {
+      "id": "77Mug7WY1Xc",
+      "title": "Desk Vlog🐰⌨️ㅣ귀여운 산리오 키캡 언박싱하는 두부 일상 ˚୨୧₊",
+      "view_count": 30000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "히두부 Hiddubu",
+      "source_channel": "히두부 Hiddubu",
+      "url": "https://www.youtube.com/watch?v=77Mug7WY1Xc"
+    },
+    {
+      "id": "88KiZDsPgQs",
+      "title": "내가 그린 그림으로 만드는 쿠키세트✿.*・.*・",
+      "view_count": 24000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "문나잇 moonnight",
+      "source_channel": "문나잇 moonnight",
+      "url": "https://www.youtube.com/watch?v=88KiZDsPgQs"
+    },
+    {
+      "id": "_2GZg9rAO6k",
+      "title": "30대 집순이 쉬는 날 오전 루틴 vlog",
+      "view_count": 23000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "오담필름 odamfilm",
+      "source_channel": "오담필름 odamfilm",
+      "url": "https://www.youtube.com/watch?v=_2GZg9rAO6k"
+    },
+    {
+      "id": "ovv3-dA4lmU",
+      "title": "망고의 계절 🥭🌿",
+      "view_count": 21000,
+      "duration": null,
+      "upload_date": null,
+      "channel": "냥숲 nyangsoop",
+      "source_channel": "냥숲 nyangsoop",
+      "url": "https://www.youtube.com/watch?v=ovv3-dA4lmU"
+    }
+  ]
 }

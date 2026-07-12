@@ -1,27 +1,79 @@
 {
   "generated_by": "manual_fallback",
   "niche": "감성 일상 브이로그",
-  "formula": "샘플(n=0) 기반 임시 공식 — 자동 분석 미사용.",
-  "top_videos_summary": [],
+  "formula": "최근 니치 채널 shorts(n=30)에서 두드러진 소재: Desk, 않는, 집순이의, 보내는, 핑크, 집순이. (관찰 기반, AI 자동 분석 아님)",
+  "top_videos_summary": [
+    {
+      "views": 297000,
+      "title": "전부터 쓰고 싶었던 음악 Kiki’s song❀",
+      "key": "",
+      "upload_year": null
+    },
+    {
+      "views": 209000,
+      "title": "20만 기념 복숭아 젤리 케이크,,💗",
+      "key": "",
+      "upload_year": null
+    },
+    {
+      "views": 116000,
+      "title": "끝나지 않는 겨울 속 다정함을 전하고 싶은 견습마녀 이야기🥘✿∘˚˳°∘°",
+      "key": "",
+      "upload_year": null
+    },
+    {
+      "views": 102000,
+      "title": "6시가 넘어도 해가 지지 않는 3월",
+      "key": "",
+      "upload_year": null
+    },
+    {
+      "views": 94000,
+      "title": "6 months into my Tokyo working holiday! Sharing a short edit of the trip I took while my mom was ...",
+      "key": "",
+      "upload_year": null
+    }
+  ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_views": null,
-    "top1_share": null,
+    "top1_views": 297000,
+    "top1_share": 0.15,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "bgm_trends": [],
   "voice_pattern": {
-    "speech_in_first_5s_percent": null,
-    "n": 0,
-    "summary": "전사 확보된 영상 없음 (결측 0개 전사 비출력). 음성 패턴 분산을 계산할 수 없음.",
+    "speech_in_first_5s_percent": 86,
+    "n": 7,
+    "summary": "전사 확보 7개 중 앞 5초에 말이 나오는 영상 6개 (86%). 결측 23개는 전사 비출력으로 제외.",
     "patterns": []
   },
-  "trend_keywords": [],
+  "trend_keywords": [
+    "Desk",
+    "않는",
+    "집순이의",
+    "보내는",
+    "핑크",
+    "집순이",
+    "루틴",
+    "두부",
+    "전부터",
+    "쓰고",
+    "싶었던",
+    "음악",
+    "Kiki’s",
+    "song❀",
+    "20만",
+    "기념",
+    "복숭아",
+    "젤리",
+    "케이크",
+    "끝나지"
+  ],
   "plans": [
     {
       "title": "새벽 1분, 위로의 한 문장",
-      "based_on": "니치 적합 상위 영상 + 위로 내레이션 패턴 (샘플 n=0, 1회 스냅샷)",
+      "based_on": "니치 적합 상위 영상 + 위로 내레이션 패턴 (샘플 n=30, 1회 스냅샷)",
       "video_title": "바빠서 놓친 하루, 1분만",
       "bgm": "잔잔한 피아노 연주곡 / 새벽 lofi",
       "first_3s": "(무음 시작 → 부드러운 내레이션) \"잠깐만… 숨 좀 돌려도 돼.\"",
