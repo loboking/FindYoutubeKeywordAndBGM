@@ -659,36 +659,28 @@
     "transcribe_status": "empty",
     "transcribe_version": 2
   },
-  "_2GZg9rAO6k": {
-    "id": "_2GZg9rAO6k",
-    "title": "30대 집순이 쉬는 날 오전 루틴 vlog",
-    "view_count": 23000,
+  "b3qbLM7GVws": {
+    "id": "b3qbLM7GVws",
+    "title": "✧･ﾟ미피 토스터 언박싱하고 힐링하는 집순이 ฅᐢ..ᐢ₎♡",
+    "view_count": 60000,
     "duration": null,
     "upload_date": null,
-    "channel": "오담필름 odamfilm",
-    "source_channel": "오담필름 odamfilm",
-    "url": "https://www.youtube.com/watch?v=_2GZg9rAO6k",
-    "full_text": "",
-    "segments": [],
-    "opening_mention": "",
-    "language": "ko",
-    "transcribe_status": "empty",
+    "channel": "NA",
+    "source_channel": "히두부 Hiddubu",
+    "url": "https://www.youtube.com/watch?v=b3qbLM7GVws",
+    "error": "audio_download_failed",
     "transcribe_version": 2
   },
-  "ovv3-dA4lmU": {
-    "id": "ovv3-dA4lmU",
-    "title": "망고의 계절 🥭🌿",
-    "view_count": 21000,
+  "hT7l-i8s3Wg": {
+    "id": "hT7l-i8s3Wg",
+    "title": "My Gaming Room👾ㅣ게임방 꾸미고 하루종일 게임하는 일상ღ",
+    "view_count": 44000,
     "duration": null,
     "upload_date": null,
-    "channel": "냥숲 nyangsoop",
-    "source_channel": "냥숲 nyangsoop",
-    "url": "https://www.youtube.com/watch?v=ovv3-dA4lmU",
-    "full_text": "",
-    "segments": [],
-    "opening_mention": "",
-    "language": "ko",
-    "transcribe_status": "empty",
+    "channel": "NA",
+    "source_channel": "히두부 Hiddubu",
+    "url": "https://www.youtube.com/watch?v=hT7l-i8s3Wg",
+    "error": "audio_download_failed",
     "transcribe_version": 2
   }
 }

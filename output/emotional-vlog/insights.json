@@ -3,16 +3,16 @@
   "niche": "감성 일상 브이로그",
   "slug": "emotional-vlog",
   "source_mode": "channel",
-  "formula": "최근 니치 채널 shorts(n=30)에서 두드러진 소재: Desk, 않는, 집순이의, 보내는, 핑크, 집순이. (관찰 기반, AI 자동 분석 아님)",
+  "formula": "최근 니치 채널 shorts(n=30)에서 두드러진 소재: Desk, 않는, 집순이, 집순이의, 보내는, 핑크. (관찰 기반, AI 자동 분석 아님)",
   "top_videos_summary": [
     {
-      "views": 297000,
+      "views": 298000,
       "title": "전부터 쓰고 싶었던 음악 Kiki’s song❀",
       "key": "",
       "upload_year": null
     },
     {
-      "views": 209000,
+      "views": 210000,
       "title": "20만 기념 복숭아 젤리 케이크,,💗",
       "key": "",
       "upload_year": null
@@ -30,7 +30,7 @@
       "upload_year": null
     },
     {
-      "views": 94000,
+      "views": 95000,
       "title": "6 months into my Tokyo working holiday! Sharing a short edit of the trip I took while my mom was ...",
       "key": "",
       "upload_year": null
@@ -38,7 +38,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_views": 297000,
+    "top1_views": 298000,
     "top1_share": 0.15,
     "avg_views_excluding_top1": null,
     "note": ""
@@ -47,18 +47,18 @@
   "voice_pattern": {
     "speech_in_first_5s_percent": 86,
     "n": 7,
-    "summary": "전사 확보 7개 중 앞 5초에 말이 나오는 영상 6개 (86%). 결측 23개는 전사 비출력으로 제외.",
+    "summary": "전사 확보 7개 중 앞 5초에 말이 나오는 영상 6개 (86%). 결측 21개는 전사 비출력으로 제외, 오류 2개.",
     "patterns": []
   },
   "trend_keywords": [
     "Desk",
     "않는",
+    "집순이",
     "집순이의",
     "보내는",
     "핑크",
-    "집순이",
-    "루틴",
     "두부",
+    "꾸미고",
     "전부터",
     "쓰고",
     "싶었던",
