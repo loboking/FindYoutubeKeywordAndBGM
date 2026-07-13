@@ -1,0 +1,11 @@
+{
+  "niches": [
+    {
+      "slug": "emotional-vlog",
+      "name": "감성 일상 브이로그",
+      "mode": "channel",
+      "last_updated": "2026-07-13 05:11 (KST)"
+    }
+  ],
+  "default": "emotional-vlog"
+}

@@ -4,6 +4,21 @@ on:
   schedule:
     - cron: "23 19 * * *"  # UTC 19:23 = KST 04:23
   workflow_dispatch:
+    inputs:
+      mode:
+        description: '수집 모드 (preset=프리셋 니치, channel=채널 URL 입력, search=검색어 입력)'
+        type: choice
+        options: [preset, channel, search]
+        default: preset
+      preset_slug:
+        description: '프리셋 니치 slug (mode=preset). 예: emotional-vlog'
+        default: emotional-vlog
+      niche_name:
+        description: '새 니치명 (mode=channel/search). 표시용 + 슬러그 생성'
+      channel_urls:
+        description: '채널 URL 또는 @handle (mode=channel). 한 줄에 하나'
+      search_keyword:
+        description: '검색어 (mode=search). ytsearch — 오토픽 혼입 가능'
 
 permissions:
   contents: write
@@ -34,12 +49,19 @@ jobs:
           ACR_ACCESS_SECRET: ${{ secrets.ACR_ACCESS_SECRET }}
           ACR_HOST: ${{ secrets.ACR_HOST }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          # 온디맨드 니치 (mode != preset 일 때만 값 할당)
+          NICHE_SLUG: ${{ inputs.mode == 'preset' && inputs.preset_slug || '' }}
+          NICHE_NAME: ${{ inputs.mode != 'preset' && inputs.niche_name || '' }}
+          CHANNELS_RAW: ${{ inputs.mode == 'channel' && inputs.channel_urls || '' }}
+          SEARCH_KEYWORD: ${{ inputs.mode == 'search' && inputs.search_keyword || '' }}
         run: python run.py
 
       - name: Commit & push output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/*.json output/last_updated.txt
-          git diff --staged --quiet || git commit -m "chore(data): 자동 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add output/
+          MODE="${{ inputs.mode || 'auto' }}"
+          NICHE="${{ inputs.niche_name || inputs.preset_slug || 'emotional-vlog' }}"
+          git diff --staged --quiet || git commit -m "chore(data): ${MODE} ${NICHE} 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

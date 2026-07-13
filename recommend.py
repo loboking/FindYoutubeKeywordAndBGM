@@ -297,6 +297,8 @@ def build_insights(transcripts: dict, shorts: dict, bgm: dict) -> dict:
     return {
         "generated_by": "manual_fallback",  # 자동 분석 아님 — 계산된 통계 + 수동 plans 초안
         "niche": C.NICHE,
+        "slug": C.NICHE_SLUG,
+        "source_mode": C.SOURCE_MODE,
         "formula": formula,
         "top_videos_summary": top5,
         "outlier_adjusted": outlier_adjusted,
