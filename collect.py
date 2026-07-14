@@ -69,25 +69,33 @@ def get_search_shorts(keyword: str, limit: int = 100) -> list[dict]:
 
 
 def bulk_upload_dates(ids: list[str]) -> dict:
-    """영상 ID들 → {id: YYYYMMDD}. yt-dlp로 한 번에 배치 조회 (개별 영상 --print).
-    CI IP 차단 시 빈 dict 반환 → 호출측에서 폴백."""
-    if not ids:
+    """영상 ID들 → {id: YYYYMMDD}. YouTube Data API videos.list (CI 호환).
+    키가 없거나 API 오류 시 빈 dict → 호출측에서 폴백(필터 생략)."""
+    if not ids or not C.YOUTUBE_API_KEY:
+        if ids:
+            print("  ⚠ YOUTUBE_API_KEY 미설정 → 업로드 날짜 보강 불가 (필터 생략)")
         return {}
-    urls = [f"https://www.youtube.com/watch?v={i}" for i in ids]
-    try:
-        proc = subprocess.run(
-            [C.YT_DLP, "--print", "%(id)s\t%(upload_date)s",
-             "--skip-download", "--no-warnings", *urls],
-            capture_output=True, text=True, timeout=180,
-        )
-    except subprocess.TimeoutExpired:
-        print("  ⚠ 업로드 날짜 보강 타임아웃 (CI 차단 가능) → 필터 생략")
-        return {}
+    import requests
     out = {}
-    for ln in proc.stdout.splitlines():
-        parts = ln.split("\t")
-        if len(parts) == 2 and re.match(r"^\d{8}$", parts[1].strip()):
-            out[parts[0].strip()] = parts[1].strip()
+    for i in range(0, len(ids), 50):  # videos.list 한 번에 최대 50개
+        chunk = ids[i:i + 50]
+        try:
+            r = requests.get(
+                "https://www.googleapis.com/youtube/v3/videos",
+                params={"key": C.YOUTUBE_API_KEY, "part": "snippet", "id": ",".join(chunk)},
+                timeout=30,
+            )
+            data = r.json()
+        except Exception as e:
+            print(f"  ⚠ YouTube API 요청 실패: {e} → 필터 생략")
+            return {}
+        if "error" in data:
+            print(f"  ⚠ YouTube API 오류: {data['error'].get('message', '')[:80]} → 필터 생략")
+            return {}
+        for item in data.get("items", []):
+            d = (item.get("snippet", {}).get("publishedAt") or "")[:10].replace("-", "")
+            if re.match(r"^\d{8}$", d):
+                out[item["id"]] = d
     return out
 
 
