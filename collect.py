@@ -160,7 +160,9 @@ def main():
                 if it["id"] in seen:
                     continue
                 seen.add(it["id"])
-                ch = it.pop("channel", None) or name
+                ch = it.pop("channel", None)
+                if not ch or ch == "NA":
+                    ch = name
                 it["source_channel"] = name
                 it["channel"] = ch
                 all_items.append(it)

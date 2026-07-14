@@ -57,6 +57,19 @@ def main():
     # 매니페스트 갱신 (니치 드롭다운용)
     update_manifest(C.NICHE_SLUG, C.NICHE, C.SOURCE_MODE, last_updated)
 
+    # 텔레그램 알림 (토큰/chat_id 있을 때만)
+    try:
+        import notify
+        shorts = json.load(open(os.path.join(C.OUTPUT_DIR, "shorts.json")))
+        n = len(shorts.get("videos", []))
+        notify.send(
+            f"*{C.NICHE}* 트렌드 갱신\n"
+            f"영상 {n}개 · {last_updated}\n"
+            f"https://loboking.github.io/FindYoutubeKeywordAndBGM/"
+        )
+    except Exception as e:
+        print(f"텔레그램 알림 스킵: {e}")
+
     print(f"\n파이프라인 완료. 산출물: {C.OUTPUT_DIR}/")
 
 

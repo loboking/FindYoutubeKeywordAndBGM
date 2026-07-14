@@ -49,6 +49,8 @@ jobs:
           ACR_ACCESS_SECRET: ${{ secrets.ACR_ACCESS_SECRET }}
           ACR_HOST: ${{ secrets.ACR_HOST }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           # 온디맨드 니치 (mode != preset 일 때만 값 할당)
           NICHE_SLUG: ${{ inputs.mode == 'preset' && inputs.preset_slug || '' }}
           NICHE_NAME: ${{ inputs.mode != 'preset' && inputs.niche_name || '' }}

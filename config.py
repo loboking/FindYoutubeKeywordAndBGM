@@ -39,6 +39,24 @@ NICHES = {
             ("소람 soram", "UCiQv5x4DcBRvqTGAcDGt8gQ"),
             ("니지 niji", "UCaf77QdDa7onqPTl0fhSjcw"),
             ("아린 wested_arin", "UCoqkR26bl8dc7C19psm6whg"),
+            # 2026-07-14 추가 (ytsearch "감성 브이로그" 계열 큐레이션)
+            ("로밍 모노", "UC_c2192iCWc_fQytHcH4qXg"),
+            ("A day made for healing", "UC_cge3vkjt8reE4vjcIeSdA"),
+            ("소정아리", "UC0uJTXwMPGcQUj0YowS3puQ"),
+            ("오르미 Oreumi", "UC1IDvkQNB3GXlD5jLpumqDA"),
+            ("데이지 daysi", "UC2U-etr7m1ovGX9WrfgZkHA"),
+            ("나엉이", "UC8N4viN_BzXvjMtvlp9nhWQ"),
+            ("쫑이", "UC9V9aKSNpoy1hVBI_-cYj3Q"),
+            ("홍홍홍", "UCahbBNnAYh03L1UPruTh3XA"),
+            ("Anythingmood", "UCbaCrf-WwOMjnGBXGRd27BQ"),
+            ("일단이나연 NAYEON", "UCbFbzOHmp04AS2ZkFSpQ4Og"),
+            ("굥나", "UCCYXpT1kG-CWF2UZ_bd9oBQ"),
+            ("큐리 Kyuri", "UCdrejQtyFnp_kznxnMg8INQ"),
+            ("오렌지 로그", "UCfix86B4pwh5fSxchur3r-g"),
+            ("다은 Daeun", "UCGZ4wCgXmYU8eHAkjz4HCYQ"),
+            ("아오니 AONI", "UCHbT1KmTlkocMT0z5VB4bUg"),
+            ("ohhh 오우흐", "UCjP7RMiDXa1QaChDtnOpYHg"),
+            ("Tasty coffee", "UCfLedSlGWEsprLjHIShixLQ"),
         ],
         "desc": (
             "저는 잔잔하고 감성적인 일상을 기록하는 브이로그 채널을 운영합니다. "
@@ -97,6 +115,8 @@ ACR_ACCESS_KEY = os.environ.get("ACR_ACCESS_KEY") or None
 ACR_ACCESS_SECRET = os.environ.get("ACR_ACCESS_SECRET") or None
 ACR_HOST = os.environ.get("ACR_HOST") or "ap-sea-1.api.acrcloud.com"
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY") or None
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN") or None
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID") or None
 
 # === 파이프라인 설정 ===
 TARGET_COUNT = 30        # 목표 숏츠 개수
