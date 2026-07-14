@@ -22,6 +22,11 @@ def _slugify(name: str) -> str:
 NICHES = {
     "emotional-vlog": {
         "name": "감성 일상 브이로그",
+        "mode": "channel",  # channel(큐레이션 채널, 니치 정확) | search(키워드 — 오토픽 많음)
+        "keywords": [
+            "감성 쇼츠", "감성 일상 shorts", "힐링 일상 쇼츠",
+            "잔잔한 브이로그 shorts", "감성 브이로그",
+        ],
         "channels": [
             ("문나잇 moonnight", "UCi8PdYP_xCA4LJS2ByLhvlA"),
             ("히두부 Hiddubu", "UCziJ1h6M8hsVgze5iwnwmsg"),
@@ -76,10 +81,15 @@ else:
     NICHE_SLUG = _env_slug or DEFAULT_SLUG
     _preset = NICHES.get(NICHE_SLUG, NICHES[DEFAULT_SLUG])
     NICHE = _preset["name"]
-    CHANNELS = _preset["channels"]
     CHANNEL_DESC = _preset["desc"]
-    SEARCH_KEYWORDS = []
-    SOURCE_MODE = "channel"
+    if _preset.get("mode") == "search":
+        SEARCH_KEYWORDS = _preset.get("keywords", [])
+        CHANNELS = []
+        SOURCE_MODE = "search"
+    else:
+        CHANNELS = _preset.get("channels", [])
+        SEARCH_KEYWORDS = []
+        SOURCE_MODE = "channel"
 
 # === API 키 (환경변수에서 로드, 없으면 None → 해당 단계 스킵) ===
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") or None
@@ -100,6 +110,10 @@ WHISPER_MODEL = "small"  # faster-whisper 모델 (한국어+속도 균형)
 MAX_AGE_DAYS = 180         # 업로드일이 이 일수 이내만
 MIN_VIEW_COUNT = 50        # 채널 기반이라 낮게 (온니치는 채널 큐레이션으로 보장)
 OUTLIER_VIEW_SHARE = 0.50  # 한 영상이 전체 조회수의 이 비율 이상 차지하면 아웃라이어
+# ytsearch 오토픽 제거용 categoryId (search 모드). 채널 기반은 안 씀.
+# 10=Music, 1=Film&Animation, 24=Entertainment(잡음), 23=Comedy
+BLOCKED_CATEGORIES = {"10", "1", "24", "23"}
+MAX_SHORT_DURATION = 180  # 초. YouTube Shorts 최대 3분. 이하만 shorts로 간주
 BLOCK_KEYWORDS = [
     # 음악/채널
     "Official", "Album", "Cover", "커버", "Theme", " OST", "MV", "연주곡",

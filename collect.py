@@ -1,10 +1,9 @@
-""" Shorts 수집 (CI 호환).
-- channel 모드: 채널 /shorts 탭 flat-playlist에서 id/제목/조회수를 한 번에 가져온다.
-  channel_id / 채널 URL / @handle 모두 허용.
-- search 모드: ytsearch flat-playlist (오토픽 혼입 가능 — 페이지에 경고 표시).
-flat-playlist는 upload_date를 안 주므로, 후보 상위 N개에 대해 개별 메타 조회로
-업로드 날짜를 보강한 뒤 MAX_AGE_DAYS 필터를 적용한다. CI에서 보강이 차단되면
-폴백(필터 생략). 영상별 --dump-json(무거운 전사용)은 CI IP에서 막혀 사용 안 함."""
+""" Shorts 수집 + API 정제.
+- channel 모드: 채널 /shorts 탭 flat-playlist.
+- search 모드: ytsearch(키워드) flat-playlist → 넓은 트렌드 풀.
+공통: YouTube Data API videos.list로 (date, duration, categoryId) 보강한 뒤
+  shorts(duration≤MAX_SHORT_DURATION) + 최근(MAX_AGE_DAYS) + 오토픽(BLOCKED_CATEGORIES) 필터.
+flat-playlist는 upload_date/duration을 안 주므로 API 보강이 필수. 키 없으면 폴백(필터 생략)."""
 import datetime
 import json
 import os
@@ -23,7 +22,6 @@ def _channel_shorts_url(cid_or_url: str) -> str:
         return f"https://www.youtube.com/{x}/shorts"
     if x.startswith("UC"):
         return f"https://www.youtube.com/channel/{x}/shorts"
-    # fallback: 그대로 경로로 간주
     return f"https://www.youtube.com/{x}/shorts"
 
 
@@ -56,33 +54,42 @@ def _flat_print(url: str, extra_fields: str = "", limit_arg: str = None) -> list
     return out
 
 
-def get_channel_shorts(cid_or_url, limit: int = 15) -> list[dict]:
-    """채널 /shorts에서 최근 shorts (id, title, view_count[, channel]) limit개."""
+def get_channel_shorts(cid_or_url, limit: int = 30) -> list[dict]:
+    """채널 /shorts에서 최근 shorts limit개."""
     return _flat_print(_channel_shorts_url(cid_or_url), extra_fields="%(channel)s",
                        limit_arg=f"1-{limit}")
 
 
 def get_search_shorts(keyword: str, limit: int = 100) -> list[dict]:
-    """ytsearch에서 shorts (id, title, view_count, channel) limit개.
-    오토픽 혼입 가능 — 검색어 모드는 품질이 낮을 수 있음."""
+    """ytsearch에서 영상 limit개. shorts/일반 섞임 → API로 duration 정제 필요."""
     return _flat_print(f"ytsearch{limit}:{keyword}", extra_fields="%(channel)s")
 
 
-def bulk_upload_dates(ids: list[str]) -> dict:
-    """영상 ID들 → {id: YYYYMMDD}. YouTube Data API videos.list (CI 호환).
-    키가 없거나 API 오류 시 빈 dict → 호출측에서 폴백(필터 생략)."""
+def _parse_duration(iso: str) -> int | None:
+    """ISO 8601 duration(PT1M30S) → 초. 실패 시 None."""
+    m = re.match(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", iso or "")
+    if not m:
+        return None
+    h, mi, s = (int(x) if x else 0 for x in m.groups())
+    return h * 3600 + mi * 60 + s
+
+
+def bulk_video_meta(ids: list[str]) -> dict:
+    """영상 ID들 → {id: {date, duration, category}}. YouTube Data API videos.list.
+    part=snippet(contentDetails 포함은 별도). 한 번에 50개. 키/오류 시 빈 dict → 폴백."""
     if not ids or not C.YOUTUBE_API_KEY:
         if ids:
-            print("  ⚠ YOUTUBE_API_KEY 미설정 → 업로드 날짜 보강 불가 (필터 생략)")
+            print("  ⚠ YOUTUBE_API_KEY 미설정 → 메타 보강 불가 (필터 생략)")
         return {}
     import requests
     out = {}
-    for i in range(0, len(ids), 50):  # videos.list 한 번에 최대 50개
+    for i in range(0, len(ids), 50):
         chunk = ids[i:i + 50]
         try:
             r = requests.get(
                 "https://www.googleapis.com/youtube/v3/videos",
-                params={"key": C.YOUTUBE_API_KEY, "part": "snippet", "id": ",".join(chunk)},
+                params={"key": C.YOUTUBE_API_KEY, "part": "snippet,contentDetails",
+                        "id": ",".join(chunk)},
                 timeout=30,
             )
             data = r.json()
@@ -93,14 +100,19 @@ def bulk_upload_dates(ids: list[str]) -> dict:
             print(f"  ⚠ YouTube API 오류: {data['error'].get('message', '')[:80]} → 필터 생략")
             return {}
         for item in data.get("items", []):
-            d = (item.get("snippet", {}).get("publishedAt") or "")[:10].replace("-", "")
-            if re.match(r"^\d{8}$", d):
-                out[item["id"]] = d
+            snip = item.get("snippet", {})
+            cd = item.get("contentDetails", {})
+            d = (snip.get("publishedAt") or "")[:10].replace("-", "")
+            out[item["id"]] = {
+                "date": d if re.match(r"^\d{8}$", d) else None,
+                "duration": _parse_duration(cd.get("duration") or ""),
+                "category": snip.get("categoryId"),
+            }
     return out
 
 
 def passes_niche(v: dict) -> bool:
-    """제목/채널에 BLOCK_KEYWORDS가 있으면 False. 채널 기반이라 거의 안 걸림."""
+    """제목/채널에 BLOCK_KEYWORDS가 있으면 False."""
     hay = ((v.get("title") or "") + " " + (v.get("source_channel") or v.get("channel") or "")).lower()
     return not any(kw.lower() in hay for kw in C.BLOCK_KEYWORDS)
 
@@ -109,15 +121,13 @@ def main():
     os.makedirs(C.OUTPUT_DIR, exist_ok=True)
     out_path = os.path.join(C.OUTPUT_DIR, "shorts.json")
 
-    # 캐시: 프리셋(filter_version=5 + 대상수 충족)일 때만 스킵.
-    # 온디맨드(NICHE_NAME env)는 항상 재수집.
     is_ondemand = bool(os.environ.get("NICHE_NAME"))
     if not is_ondemand and os.path.exists(out_path):
         try:
             cached = json.load(open(out_path))
-            if (cached.get("filter_version") == 6
-                    and len(cached.get("videos", [])) >= C.TARGET_COUNT):
-                print(f"shorts.json 캐시 사용 ({len(cached['videos'])}개, filter_version=6)")
+            if (cached.get("filter_version") == 7
+                    and len(cached.get("videos", [])) >= 1):
+                print(f"shorts.json 캐시 사용 ({len(cached['videos'])}개, filter_version=7)")
                 return
         except Exception:
             pass
@@ -127,20 +137,20 @@ def main():
     seen: set[str] = set()
 
     if C.SOURCE_MODE == "search":
-        kw = C.SEARCH_KEYWORDS[0]
-        print(f"ytsearch 수집: {kw}")
-        items = get_search_shorts(kw, limit=C.INITIAL_SEARCH)
-        for it in items:
-            if it["id"] in seen:
-                continue
-            seen.add(it["id"])
-            ch = it.pop("channel", None) or "(검색)"
-            it["source_channel"] = ch
-            it["channel"] = ch
-            all_items.append(it)
-            per_channel.setdefault(ch, {"raw": 0, "passed": 0})["raw"] += 1
-        print(f"  → {len(items)}개")
-        source_tag = "search_flat"
+        for kw in C.SEARCH_KEYWORDS:
+            print(f"ytsearch 수집: {kw}")
+            items = get_search_shorts(kw, limit=C.INITIAL_SEARCH)
+            for it in items:
+                if it["id"] in seen:
+                    continue
+                seen.add(it["id"])
+                ch = it.pop("channel", None) or "(검색)"
+                it["source_channel"] = ch
+                it["channel"] = ch
+                all_items.append(it)
+                per_channel.setdefault(kw, {"raw": 0, "passed": 0})["raw"] += 1
+            print(f"  → {len(items)}개 (고유 누적 {len(all_items)})")
+        source_tag = "search_api_refined"
     else:
         for name, cid in C.CHANNELS:
             print(f"채널 /shorts 수집: {name}")
@@ -155,9 +165,9 @@ def main():
                 it["channel"] = ch
                 all_items.append(it)
             print(f"  → {len(items)}개")
-        source_tag = "channel_shorts_flat"
+        source_tag = "channel_api_refined"
 
-    print(f"\n총 {len(all_items)}개 고유. 필터링(조회수≥{C.MIN_VIEW_COUNT} + 오토픽 제외)...")
+    print(f"\n총 {len(all_items)}개 고유. 1차 필터(조회수≥{C.MIN_VIEW_COUNT} + 오토픽 키워드)...")
     passed: list[dict] = []
     excl = {"offtopic": 0, "low_views": 0}
     for it in all_items:
@@ -168,37 +178,50 @@ def main():
             excl["offtopic"] += 1
             continue
         passed.append(it)
-        ch = it["source_channel"]
-        if ch in per_channel:
-            per_channel[ch]["passed"] += 1
+        key = it["source_channel"] if C.SOURCE_MODE != "search" else next(iter(per_channel))
+        if key in per_channel:
+            per_channel[key]["passed"] += 1
 
-    # 조회수 내림차순 후 상위 후보 업로드 날짜 보강 + 최근성 필터
+    # 2차: API 보강(duration/date/category) 후 shorts+최근+카테고리 필터
     passed.sort(key=lambda x: -(x.get("view_count") or 0))
-    candidates = passed[:120]
-    dates = bulk_upload_dates([c["id"] for c in candidates])
+    candidates = passed[:150]
+    meta = bulk_video_meta([c["id"] for c in candidates])
     today = datetime.date.today()
     cutoff = today - datetime.timedelta(days=C.MAX_AGE_DAYS)
-    if dates and len(dates) >= max(1, len(candidates) // 2):
-        # 보강 충분 → 최근성 필터 적용 (오래된 영상은 개수 부족해도 제거)
+
+    if meta and len(meta) >= max(1, len(candidates) // 2):
         recent = []
+        drop_dur = drop_cat = drop_old = 0
         for c in candidates:
-            d = dates.get(c["id"])
+            m = meta.get(c["id"], {})
+            dur = m.get("duration")
+            # shorts 필터 (duration 알면 ≤61s만; 모르면 통과 — /shorts 탭은 이미 shorts)
+            if dur is not None and dur > C.MAX_SHORT_DURATION:
+                drop_dur += 1
+                continue
+            if m.get("category") in C.BLOCKED_CATEGORIES:
+                drop_cat += 1
+                continue
+            d = m.get("date")
             if not d:
                 recent.append(c)
                 continue
             try:
                 ud = datetime.date(int(d[:4]), int(d[4:6]), int(d[6:8]))
                 if ud >= cutoff:
+                    c["_date"] = d
                     recent.append(c)
+                else:
+                    drop_old += 1
             except ValueError:
                 recent.append(c)
-        before, after = len(candidates), len(recent)
-        print(f"최근성 필터(최근 {C.MAX_AGE_DAYS}일, 컷오프 {cutoff}): {before}→{after}개 "
-              f"(오래된 영상 {before - after}개 제거)")
+        print(f"API 정제: 후보 {len(candidates)} → {len(recent)} "
+              f"(duration>61s 제거 {drop_dur}, 카테고리 제거 {drop_cat}, "
+              f"오래된(>{C.MAX_AGE_DAYS}일) 제거 {drop_old})")
         shorts = recent[: C.TARGET_COUNT]
     else:
         if candidates:
-            print(f"업로드 날짜 보강 부족({len(dates)}/{len(candidates)}) → 최근성 필터 생략")
+            print(f"API 보강 부족({len(meta)}/{len(candidates)}) → 정제 필터 생략 (주의: 잡음 가능)")
         shorts = candidates[: C.TARGET_COUNT]
 
     videos = [
@@ -206,8 +229,9 @@ def main():
             "id": s["id"],
             "title": s["title"],
             "view_count": s["view_count"],
-            "duration": None,            # flat-playlist 미지원 (모두 shorts)
-            "upload_date": dates.get(s["id"]),  # 보강 (YYYYMMDD) or None
+            "duration": meta.get(s["id"], {}).get("duration"),
+            "upload_date": s.get("_date") or meta.get(s["id"], {}).get("date"),
+            "category": meta.get(s["id"], {}).get("category"),
             "channel": s["channel"],
             "source_channel": s["source_channel"],
             "url": f"https://www.youtube.com/watch?v={s['id']}",
@@ -226,20 +250,20 @@ def main():
         "target": C.TARGET_COUNT,
         "min_view_count": C.MIN_VIEW_COUNT,
         "max_age_days": C.MAX_AGE_DAYS,
-        "filter_version": 6,
+        "max_short_duration": C.MAX_SHORT_DURATION,
+        "blocked_categories": sorted(C.BLOCKED_CATEGORIES),
+        "filter_version": 7,
         "excluded_low_views": excl["low_views"],
         "excluded_offtopic": excl["offtopic"],
-        "recency_note": "/shorts는 최신순 → 상위 15개를 최근 영상으로 간주 (정확한 날짜는 flat-playlist 미지원)",
+        "recency_note": f"최근 {C.MAX_AGE_DAYS}일 + duration≤{C.MAX_SHORT_DURATION}s + 카테고리 필터 (API 정제)",
         "videos": videos,
     }
     with open(out_path, "w") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
     print(f"\n수집 완료: {len(shorts)}/{C.TARGET_COUNT}개 "
-          f"({'채널' if C.SOURCE_MODE != 'search' else '검색'} "
-          f"{len(C.CHANNELS) if C.SOURCE_MODE != 'search' else 1}소스)")
-    print(f"제외 - 저조회수(<{C.MIN_VIEW_COUNT}): {excl['low_views']}, "
-          f"오토픽: {excl['offtopic']}")
+          f"({'검색 ' + str(len(C.SEARCH_KEYWORDS)) + '키워드' if C.SOURCE_MODE == 'search' else '채널 ' + str(len(C.CHANNELS))})")
+    print(f"1차 제외 - 저조회수(<{C.MIN_VIEW_COUNT}): {excl['low_views']}, 오토픽 키워드: {excl['offtopic']}")
     print(f"저장: {out_path}")
 
 
