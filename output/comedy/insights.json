@@ -1,0 +1,117 @@
+{
+  "generated_by": "meta_stats",
+  "niche": "코미디",
+  "slug": "comedy",
+  "source_mode": "category",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, #예능, 하는, 이유, 이효리",
+  "top_videos_summary": [
+    {
+      "views": 4040343,
+      "title": "강렬한 첫인상을 보여주는 이효리 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "거끄로해드리효리",
+      "duration": 19
+    },
+    {
+      "views": 3915928,
+      "title": "엄마가 형제를 차별하면 생기는 일",
+      "upload_year": "2026",
+      "channel": "씬창고",
+      "duration": 39
+    },
+    {
+      "views": 3523706,
+      "title": "마라 맛 이효리에 지지 않는 이진ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "빵공장",
+      "duration": 60
+    },
+    {
+      "views": 3379066,
+      "title": "딸을 건드리면 반드시 응징하는 아빠",
+      "upload_year": "2026",
+      "channel": "시네(CINE) 압축기",
+      "duration": 156
+    },
+    {
+      "views": 2964622,
+      "title": "도박으로 흥한 자 도박으로 망할 것",
+      "upload_year": "2026",
+      "channel": "뭅토리",
+      "duration": 113
+    }
+  ],
+  "outlier_adjusted": {
+    "has_outlier": false,
+    "top1_share": 0.05,
+    "avg_views_excluding_top1": null,
+    "note": ""
+  },
+  "trend_keywords": [
+    "#shorts",
+    "생기는",
+    "#예능",
+    "하는",
+    "이유",
+    "이효리",
+    "도박으로",
+    "너무",
+    "#레전드",
+    "#유머",
+    "남자",
+    "KBS",
+    "방송",
+    "머리",
+    "#드라마",
+    "당황한",
+    "가족의",
+    "다시",
+    "방법",
+    "사랑이"
+  ],
+  "channel_distribution": [
+    {
+      "channel": "거끄로해드리효리",
+      "count": 1
+    },
+    {
+      "channel": "씬창고",
+      "count": 1
+    },
+    {
+      "channel": "빵공장",
+      "count": 1
+    },
+    {
+      "channel": "시네(CINE) 압축기",
+      "count": 1
+    },
+    {
+      "channel": "뭅토리",
+      "count": 1
+    },
+    {
+      "channel": "잠깐예능",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "재훍 영상툰",
+      "count": 1
+    },
+    {
+      "channel": "예능상회",
+      "count": 1
+    }
+  ],
+  "voice_pattern": null,
+  "bgm_trends": [],
+  "plans": []
+}
