@@ -1,0 +1,117 @@
+{
+  "generated_by": "meta_stats",
+  "niche": "일상/스타일",
+  "slug": "howto-style",
+  "source_mode": "category",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 이유, 사장님, 방법, 맛있는, 먹기",
+  "top_videos_summary": [
+    {
+      "views": 42727794,
+      "title": "A Leaf Becoming Art With Colorful Thread#embroidery #leafart #art #handembroidery",
+      "upload_year": "2026",
+      "channel": "Needle To Art",
+      "duration": 34
+    },
+    {
+      "views": 9725698,
+      "title": "어린 딸이 치와와랑 친해지는 과정",
+      "upload_year": "2026",
+      "channel": "심심한우드스탁",
+      "duration": 19
+    },
+    {
+      "views": 4415445,
+      "title": "I Built a Warm Dog Shelter From an Old Pallet ❤️🐕 | Amazing DIY Transformation #shorts",
+      "upload_year": "2026",
+      "channel": "NextPhase Timelapse",
+      "duration": 53
+    },
+    {
+      "views": 2885506,
+      "title": "전문가 포스(?) 남다른 오토바이 가게 사장님 행동",
+      "upload_year": "2026",
+      "channel": "인간극짱",
+      "duration": 18
+    },
+    {
+      "views": 2640945,
+      "title": "굉장히 유명한 1,100만회 영상, 3년뒤 지금은? #shorts #감동영상 #늦둥이",
+      "upload_year": "2026",
+      "channel": "개성파삼남매 ",
+      "duration": 27
+    }
+  ],
+  "outlier_adjusted": {
+    "has_outlier": false,
+    "top1_share": 0.43,
+    "avg_views_excluding_top1": null,
+    "note": ""
+  },
+  "trend_keywords": [
+    "#shorts",
+    "이유",
+    "사장님",
+    "방법",
+    "맛있는",
+    "먹기",
+    "만두",
+    "#자녀",
+    "#embroidery",
+    "#leafart",
+    "#art",
+    "#handembroidery",
+    "Leaf",
+    "Becoming",
+    "Art",
+    "With",
+    "Colorful",
+    "Thread#embroidery",
+    "어린",
+    "딸이"
+  ],
+  "channel_distribution": [
+    {
+      "channel": "Needle To Art",
+      "count": 1
+    },
+    {
+      "channel": "심심한우드스탁",
+      "count": 1
+    },
+    {
+      "channel": "NextPhase Timelapse",
+      "count": 1
+    },
+    {
+      "channel": "인간극짱",
+      "count": 1
+    },
+    {
+      "channel": "개성파삼남매 ",
+      "count": 1
+    },
+    {
+      "channel": "맛집남자 foodman",
+      "count": 1
+    },
+    {
+      "channel": "똑똑한펌킨",
+      "count": 1
+    },
+    {
+      "channel": "조랑말김포니",
+      "count": 1
+    },
+    {
+      "channel": "숏플레이",
+      "count": 1
+    },
+    {
+      "channel": "쇼츠츄러스",
+      "count": 1
+    }
+  ],
+  "voice_pattern": null,
+  "bgm_trends": [],
+  "plans": []
+}

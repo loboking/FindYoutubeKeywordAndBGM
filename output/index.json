@@ -4,7 +4,17 @@
       "slug": "entertainment",
       "name": "엔터테인먼트",
       "mode": "category",
+<<<<<<< Updated upstream
       "last_updated": "2026-07-21 01:53 (KST)"
+=======
+      "last_updated": "2026-07-21 01:47 (KST)"
+    },
+    {
+      "slug": "howto-style",
+      "name": "일상/스타일",
+      "mode": "category",
+      "last_updated": "2026-07-21 01:54 (KST)"
+>>>>>>> Stashed changes
     }
   ],
   "default": "entertainment"
