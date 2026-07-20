@@ -74,7 +74,7 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN") or None
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID") or None
 
 # === 파이프라인 설정 ===
-TARGET_COUNT = 30         # 카테고리당 목표 영상 수
+TARGET_COUNT = 50         # 카테고리당 목표 영상 수 (mostPopular API 최대 50)
 MAX_VIDEO_DURATION = 180  # 초. shorts 기준 (YouTube Shorts 최대 3분)
 OPENING_SECONDS = 5
 WHISPER_MODEL = "small"
