@@ -12,6 +12,7 @@
     {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "slug": "howto-style",
       "name": "일상/스타일",
       "mode": "category",
@@ -28,6 +29,12 @@
       "name": "과학/기술",
       "mode": "category",
       "last_updated": "2026-07-21 01:55 (KST)"
+>>>>>>> Stashed changes
+=======
+      "slug": "film",
+      "name": "영화/애니",
+      "mode": "category",
+      "last_updated": "2026-07-21 01:56 (KST)"
 >>>>>>> Stashed changes
     }
   ],
