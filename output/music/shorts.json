@@ -1,0 +1,56 @@
+{
+  "niche": "음악",
+  "slug": "music",
+  "source": "mostpopular_category",
+  "category_id": "10",
+  "shorts_found": 4,
+  "target": 50,
+  "max_video_duration": 180,
+  "filter_version": 8,
+  "videos": [
+    {
+      "id": "3F9jlnANW08",
+      "title": "BAD",
+      "view_count": 8727628,
+      "duration": 157,
+      "upload_date": "20260626",
+      "category": "10",
+      "channel": "ATEEZ - Topic",
+      "source_channel": "ATEEZ - Topic",
+      "url": "https://www.youtube.com/watch?v=3F9jlnANW08"
+    },
+    {
+      "id": "PuX7brzMxSE",
+      "title": "YO-I-DON!",
+      "view_count": 306373,
+      "duration": 164,
+      "upload_date": "20260712",
+      "category": "10",
+      "channel": "NCT WISH - Topic",
+      "source_channel": "NCT WISH - Topic",
+      "url": "https://www.youtube.com/watch?v=PuX7brzMxSE"
+    },
+    {
+      "id": "VNLUaTxDs_4",
+      "title": "Brainwash",
+      "view_count": 242882,
+      "duration": 155,
+      "upload_date": "20260718",
+      "category": "10",
+      "channel": "HEEDAE - Topic",
+      "source_channel": "HEEDAE - Topic",
+      "url": "https://www.youtube.com/watch?v=VNLUaTxDs_4"
+    },
+    {
+      "id": "1K9uyj-o1bQ",
+      "title": "이민혁 (HUTA) 'Icy & Spicy' MV",
+      "view_count": 221179,
+      "duration": 165,
+      "upload_date": "20260715",
+      "category": "10",
+      "channel": "1theK (원더케이)",
+      "source_channel": "1theK (원더케이)",
+      "url": "https://www.youtube.com/watch?v=1K9uyj-o1bQ"
+    }
+  ]
+}
