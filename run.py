@@ -56,8 +56,7 @@ def main():
         f.write(last_updated)
     print(f"갱신 시각 기록: {last_updated}")
 
-    # 매니페스트 갱신 (니치 드롭다운용)
-    update_manifest(C.NICHE_SLUG, C.NICHE, C.SOURCE_MODE, last_updated)
+    # 매니페스트(index.json)는 CI에서 build_index.py가 한 번에 생성 (matrix 충돌 방지)
 
     # 텔레그램 알림 (토큰/chat_id 있을 때만)
     try:

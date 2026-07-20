@@ -82,3 +82,25 @@ jobs:
           git add output/
           git diff --staged --quiet || git commit -m "chore(data): ${{ inputs.mode }} ${{ inputs.niche_name || inputs.preset_slug }} 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+  # matrix/ondemand 끝난 후 index.json 한 번에 생성 (충돌 방지)
+  build-index:
+    needs: [categories, single]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Build index.json
+        run: python build_index.py
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main || true
+          git add output/index.json
+          git diff --staged --quiet || git commit -m "chore(index): 매니페스트 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
