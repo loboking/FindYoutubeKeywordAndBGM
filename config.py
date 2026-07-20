@@ -26,7 +26,6 @@ NICHES = {
     "comedy": {"name": "코미디", "mode": "category", "category_id": "23"},
     "tech-science": {"name": "과학/기술", "mode": "category", "category_id": "28"},
     "film": {"name": "영화/애니", "mode": "category", "category_id": "1"},
-    "music": {"name": "음악", "mode": "category", "category_id": "10"},
 }
 DEFAULT_SLUG = "entertainment"
 

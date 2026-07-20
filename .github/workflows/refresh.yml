@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        slug: [entertainment, howto-style, comedy, tech-science, film, music]
+        slug: [entertainment, howto-style, comedy, tech-science, film]
       max-parallel: 1
     steps:
       - uses: actions/checkout@v4

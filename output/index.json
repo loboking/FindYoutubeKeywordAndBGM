@@ -29,12 +29,6 @@
       "name": "영화/애니",
       "mode": "category",
       "last_updated": "2026-07-21 01:56 (KST)"
-    },
-    {
-      "slug": "music",
-      "name": "음악",
-      "mode": "category",
-      "last_updated": "2026-07-21 01:57 (KST)"
     }
   ],
   "default": "entertainment"
