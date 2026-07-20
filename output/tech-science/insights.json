@@ -1,0 +1,117 @@
+{
+  "generated_by": "meta_stats",
+  "niche": "과학/기술",
+  "slug": "tech-science",
+  "source_mode": "category",
+  "formula": "카테고리 인기 shorts(n=38)에서 두드러진 소재/키워드: vs, 아이폰, 갤럭시, 기능, 컴퓨터, USB",
+  "top_videos_summary": [
+    {
+      "views": 33947049,
+      "title": "Phones In 2000 vs 2010 vs 2020 vs 2030.",
+      "upload_year": "2026",
+      "channel": "Ryan HD",
+      "duration": 15
+    },
+    {
+      "views": 1563559,
+      "title": "또 이상한 거 만든 LG전자",
+      "upload_year": "2026",
+      "channel": "진짜 잠깐만",
+      "duration": 27
+    },
+    {
+      "views": 1200819,
+      "title": "동사무소에서 주운 PC의 정체??",
+      "upload_year": "2026",
+      "channel": "몬스타기어",
+      "duration": 68
+    },
+    {
+      "views": 1104893,
+      "title": "모니터를 구부리면 그게 커브드 모니터지",
+      "upload_year": "2026",
+      "channel": "어랍숏",
+      "duration": 50
+    },
+    {
+      "views": 811644,
+      "title": "USB 케이블 하나로 무드등 완성",
+      "upload_year": "2026",
+      "channel": "썰헌터",
+      "duration": 18
+    }
+  ],
+  "outlier_adjusted": {
+    "has_outlier": true,
+    "top1_share": 0.71,
+    "avg_views_excluding_top1": 372760,
+    "note": "1위가 전체 조회수의 71% 차지 — 평균 왜곡."
+  },
+  "trend_keywords": [
+    "vs",
+    "아이폰",
+    "갤럭시",
+    "기능",
+    "컴퓨터",
+    "USB",
+    "삼성",
+    "내구성",
+    "이유",
+    "중국",
+    "언박싱",
+    "폴드8",
+    "지금",
+    "Phones",
+    "In",
+    "2000",
+    "2010",
+    "2020",
+    "2030",
+    "이상한"
+  ],
+  "channel_distribution": [
+    {
+      "channel": "Ryan HD",
+      "count": 1
+    },
+    {
+      "channel": "진짜 잠깐만",
+      "count": 1
+    },
+    {
+      "channel": "몬스타기어",
+      "count": 1
+    },
+    {
+      "channel": "어랍숏",
+      "count": 1
+    },
+    {
+      "channel": "썰헌터",
+      "count": 1
+    },
+    {
+      "channel": "땅콩쿠키",
+      "count": 1
+    },
+    {
+      "channel": "일분일초",
+      "count": 1
+    },
+    {
+      "channel": " YTN",
+      "count": 1
+    },
+    {
+      "channel": "제주가장(家長)",
+      "count": 1
+    },
+    {
+      "channel": "재미쏙",
+      "count": 1
+    }
+  ],
+  "voice_pattern": null,
+  "bgm_trends": [],
+  "plans": []
+}
