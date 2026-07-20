@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>숏츠 트렌드 리포트</title>
+<title>유튜브 카테고리별 트렌드</title>
 <style>
   :root{
     --bg:#faf9f7; --card:#ffffff; --ink:#2b2533; --muted:#7a7286;
@@ -13,51 +13,35 @@
   body{margin:0;background:var(--bg);color:var(--ink);
     font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
     line-height:1.6;-webkit-font-smoothing:antialiased}
-  .wrap{max-width:820px;margin:0 auto;padding:40px 20px 80px}
+  .wrap{max-width:860px;margin:0 auto;padding:40px 20px 80px}
   header.hero{padding:28px 0 24px;border-bottom:1px solid var(--line);margin-bottom:24px}
   .eyebrow{font-size:12px;letter-spacing:.14em;color:var(--accent);text-transform:uppercase;font-weight:700}
   h1{font-size:30px;margin:10px 0 6px;letter-spacing:-.01em}
   .meta{font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center}
-  h2{font-size:19px;margin:44px 0 14px;display:flex;align-items:center;gap:8px}
+  h2{font-size:19px;margin:40px 0 12px;display:flex;align-items:center;gap:8px}
   h2 .n{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;
     background:var(--accent);color:#fff;border-radius:7px;font-size:13px;font-weight:800}
   p{margin:8px 0}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:12px 0}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:12px 0}
   table{width:100%;border-collapse:collapse;font-size:14px;margin:6px 0}
   th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
   th{font-size:12px;color:var(--muted);font-weight:600}
-  td.views{font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent);white-space:nowrap}
-  .formula{background:var(--accent-soft);border-radius:12px;padding:18px 20px;font-size:16px;margin:14px 0}
+  td.views,td.dur{font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent);white-space:nowrap}
+  .formula{background:var(--accent-soft);border-radius:12px;padding:16px 18px;font-size:15px;margin:12px 0}
   .formula b{color:var(--accent)}
-  ul{margin:8px 0;padding-left:20px}
-  li{margin:5px 0}
   .tag{display:inline-block;background:var(--accent-soft);color:var(--accent);
     padding:3px 10px;border-radius:20px;font-size:12.5px;margin:3px 4px 3px 0;font-weight:600}
-  .plan{border-left:3px solid var(--accent)}
-  .plan h3{margin:0 0 8px;font-size:16.5px}
-  .plan .label{font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:700;margin:10px 0 2px}
-  .plan p,.plan li{font-size:14px;margin:3px 0}
-  .warn{background:#fdf6ec;border:1px solid #f0e0c8;color:var(--warn);border-radius:10px;
-    padding:14px 16px;font-size:13.5px;margin-top:10px}
+  .warn{background:#fdf6ec;border:1px solid #f0e0c8;color:var(--warn);border-radius:10px;padding:14px 16px;font-size:13.5px;margin-top:10px}
   code{background:#f1eef6;padding:2px 6px;border-radius:5px;font-size:13px;font-family:ui-monospace,Menlo,monospace}
   footer{margin-top:48px;padding-top:20px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
   .err{color:var(--warn)}
-  .local-hint{font-size:12px;color:var(--muted);text-align:center;margin-top:24px;padding:10px;
-    border:1px dashed var(--line);border-radius:8px}
-  /* 니치 선택 + 수집 패널 */
-  #niche-select{font:inherit;font-size:13px;padding:3px 8px;border:1px solid var(--line);
-    border-radius:7px;background:#fff;color:var(--ink);cursor:pointer}
-  #collect-panel{margin-bottom:20px}
+  #niche-select{font:inherit;font-size:13px;padding:3px 8px;border:1px solid var(--line);border-radius:7px;background:#fff;cursor:pointer}
   #collect-panel summary{cursor:pointer;font-size:14.5px;font-weight:600;color:var(--accent)}
-  #collect-panel summary:hover{text-decoration:underline}
-  .inp{display:block;width:100%;font:inherit;font-size:13.5px;padding:7px 10px;margin:4px 0 10px;
-    border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink)}
-  .inp:focus{outline:none;border-color:var(--accent)}
-  .btn{font:inherit;font-size:13.5px;font-weight:600;padding:8px 16px;border:none;border-radius:8px;
-    background:var(--accent);color:#fff;cursor:pointer;margin-top:4px}
-  .btn:hover{filter:brightness(1.07)}
-  .badge-search{display:inline-block;background:#fdf6ec;color:var(--warn);
-    padding:2px 9px;border-radius:12px;font-size:11.5px;font-weight:700;margin-left:6px}
+  .inp{display:block;width:100%;font:inherit;font-size:13.5px;padding:7px 10px;margin:4px 0 10px;border:1px solid var(--line);border-radius:8px;background:#fff}
+  .btn{font:inherit;font-size:13.5px;font-weight:600;padding:8px 16px;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer}
+  .badge{display:inline-block;background:#fdf6ec;color:var(--warn);padding:2px 9px;border-radius:12px;font-size:11.5px;font-weight:700;margin-left:6px}
+  .chrow{display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+  .chrow .cnt{font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent)}
   @media(max-width:560px){h1{font-size:24px}.wrap{padding:28px 16px 60px}}
 </style>
 </head>
@@ -65,426 +49,169 @@
 <div class="wrap">
 
 <header class="hero">
-  <div class="eyebrow">YouTube Shorts · Trend Report</div>
-  <h1 id="report-title">숏츠 트렌드 리포트</h1>
+  <div class="eyebrow">YouTube · Category Trend</div>
+  <h1 id="report-title">카테고리별 트렌드</h1>
   <div class="meta">
     <span id="last-updated">갱신 시각 불러오는 중…</span>
-    <span>니치: <select id="niche-select"><option value="">불러오는 중…</option></select></span>
+    <span>카테고리: <select id="niche-select"><option value="">불러오는 중…</option></select></span>
   </div>
 </header>
 
 <div class="card" id="collect-panel">
   <details>
-    <summary>다른 장르 / 채널 / 검색어로 수집하기</summary>
+    <summary>🔍 키워드로 직접 검색하기</summary>
     <p style="font-size:13.5px;color:var(--muted);margin:10px 0 4px">
-      원하는 장르의 채널 URL(또는 @handle)이나 검색어로 새 니치를 수집합니다.
-      실행은 GitHub Actions에서 (수분 소요). 완료되면 위 니치 선택에 자동 추가됩니다.</p>
-    <label style="font-size:12.5px;color:var(--muted);font-weight:600">니치명 (표시용)</label>
-    <input id="new-name" class="inp" placeholder="예: 힐링 룸투어">
-    <label style="font-size:12.5px;color:var(--muted);font-weight:600">채널 URL / @handle (한 줄에 하나)</label>
-    <textarea id="new-channels" class="inp" rows="3" placeholder="https://www.youtube.com/@moonnight&#10;UCi8PdYP_xCA4LJS2ByLhvlA"></textarea>
-    <label style="font-size:12.5px;color:var(--muted);font-weight:600">
-      또는 검색어 <span style="color:var(--warn)">(ytsearch — 오토픽 혼입 가능, 품질 낮을 수 있음)</span>
-    </label>
-    <input id="new-search" class="inp" placeholder="예: 감성 쇼츠">
-    <button id="run-btn" class="btn">Actions에서 실행 (입력값 클립보드 복사)</button>
+      원하는 키워드로 쇼츠를 검색합니다. 실행은 GitHub Actions(수분 소요). 완료되면 위 선택창에 추가됩니다.</p>
+    <label style="font-size:12.5px;color:var(--muted);font-weight:600">니치명(표시용)</label>
+    <input id="new-name" class="inp" placeholder="예: 내가 검색한 키워드">
+    <label style="font-size:12.5px;color:var(--muted);font-weight:600">검색어</label>
+    <input id="new-search" class="inp" placeholder="예: 캠핑 쇼츠">
+    <button id="run-btn" class="btn">Actions에서 실행 (클립보드 복사)</button>
     <p id="run-hint" style="font-size:12.5px;color:var(--muted);margin-top:8px"></p>
   </details>
 </div>
 
-<p style="font-size:14.5px;color:var(--muted)">이 페이지는 수집한 영상 샘플에서 읽어낸 패턴을 정리한 리서치 초안입니다. 통계적 트렌드라기보단 "이 샘플에서 뭐가 보이나"를 참고용으로 옮긴 것입니다.</p>
-
-<div class="warn" id="limits-warn">
-  <b>이 리포트를 읽기 전에 (한계 명시):</b>
+<div class="warn">
+  <b>읽기 전에:</b>
   <ul style="margin:8px 0 0">
-    <li><b>표본이 작습니다.</b> 기본 30건, 정직 필터(니치 + 최근 90일 + 조회수 1000+) 적용 후엔 그보다 적을 수 있고, 조건을 동시 충족하는 영상이 없으면 <b>n=0</b>일 수 있습니다.</li>
-    <li><b>1회 스냅샷입니다.</b> 특정 시점 1회 수집이며 시계열 추세가 아닙니다.</li>
-    <li><b>BGM은 음원 인식(ACRCloud) 미사용 시 식별되지 않습니다.</b> 제목 기반 추정을 하지 않습니다.</li>
-    <li><b>추천 기획은 Claude API 미사용 시 수동 초안</b>입니다 (자동 분석 아님).</li>
+    <li><b>mostPopular 기반</b> — YouTube '현재 인기' 영상 중 duration≤180s(쇼츠)만. 과거 날짜 조회는 안 됨(현재 스냅샷, 매일 갱신).</li>
+    <li><b>쇼츠 필터는 duration 기준</b> — 3분 이하 짧은 일반 영상(티저/클립)도 섞일 수 있음. YouTube가 쇼츠 전용 API를 안 줌.</li>
+    <li><b>메타 중심</b> — 조회수/업로드일/채널/duration. BGM·보이스 심층 분석은 없음.</li>
   </ul>
-  <div id="generated-by-line" style="margin-top:8px"></div>
 </div>
 
-<h2><span class="n">1</span>샘플 상위 영상 (참고용) <span id="top-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
+<h2><span class="n">1</span>상위 영상 <span id="top-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
 <table>
-  <thead><tr><th>조회수</th><th>영상</th><th>채널</th><th>업로드</th></tr></thead>
-  <tbody id="top-videos">
-    <tr><td colspan="4" class="err">데이터를 불러오는 중…</td></tr>
-  </tbody>
+  <thead><tr><th>조회수</th><th>영상</th><th>채널</th><th>길이</th><th>업로드</th></tr></thead>
+  <tbody id="top-videos"><tr><td colspan="5" class="err">불러오는 중…</td></tr></tbody>
 </table>
-<div class="formula" id="formula">
-  <b>이 니치의 1등 공식:</b> <span id="formula-text">불러오는 중…</span>
-</div>
+<div class="formula" id="formula"><b>트렌드 요약:</b> <span id="formula-text">불러오는 중…</span></div>
 <div id="outlier-note"></div>
 
-<h2><span class="n">2</span>BGM <span id="bgm-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
-<div class="card" id="bgm-card">
-  <p class="err">데이터를 불러오는 중…</p>
-</div>
+<h2><span class="n">2</span>키워드 (제목 기반) <span id="kw-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
+<div id="keyword-cloud"><p class="err">불러오는 중…</p></div>
 
-<h2><span class="n">3</span>보이스/말투 패턴 (전사 확보 샘플 기준) <span id="voice-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
+<h2><span class="n">3</span>채널 분포 <span id="ch-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
+<div class="card" id="channel-dist"><p class="err">불러오는 중…</p></div>
+
+<h2><span class="n">4</span>갱신 방법</h2>
 <div class="card">
-  <p id="opening-stat">데이터를 불러오는 중…</p>
-  <div id="opening-patterns"></div>
+  <p><b>매일 새벽 자동</b> — GitHub Actions가 6개 카테고리(엔터/일상스타일/코미디/과학/영화/음악)를 수집해 이 페이지를 갱신합니다.</p>
+  <p><b>키워드 검색</b> — 위 '키워드로 검색하기'에서 원하는 키워드로 추가 수집.</p>
 </div>
 
-<h2><span class="n">4</span>키워드/주제 (샘플 기반) <span id="kw-n-hint" style="font-size:12.5px;color:var(--muted);font-weight:400"></span></h2>
-<div id="keyword-cloud">
-  <p class="err">데이터를 불러오는 중…</p>
-</div>
-
-<h2><span class="n">5</span>추천 기획 (참고용)</h2>
-<div id="plans">
-  <p class="err">데이터를 불러오는 중…</p>
-</div>
-
-<h2><span class="n">6</span>갱신 방법</h2>
-<div class="card">
-  <p><b>매일 새벽 자동 갱신</b> — GitHub Actions가 프리셋 니치의 파이프라인을 돌려 output/*.json을 다시 뽑고, 이 페이지를 다시 렌더합니다.</p>
-  <p><b>수동 갱신 / 새 니치 수집</b> — 위 '다른 장르로 수집하기' 패널을 쓰거나, GitHub <b>Actions</b> 탭에서 <code>Run workflow</code>로 직접 실행할 수 있습니다.</p>
-  <p style="font-size:13.5px;color:var(--muted)">자동 추천(Claude)·실제 BGM 식별(ACRCloud)을 켜려면 <code>ANTHROPIC_API_KEY</code> / <code>ACR_ACCESS_KEY</code> / <code>ACR_ACCESS_SECRET</code>을 GitHub <b>Secrets</b>에 등록하세요.</p>
-</div>
-
-<div class="local-hint">
-  로컬에서 이 페이지를 보려면 CORS 제한 때문에 <code>python3 -m http.server</code> 실행 후 <code>http://localhost:8000/</code>로 열어야 합니다.
-</div>
-
-<footer>
-  FindYoutubeKeywordAndBGM · 개인용 숏츠 트렌드 리서치 도구 (0차 스파이크) ·
-  데이터는 YouTube 공개 영상 메타데이터 기반
-</footer>
+<footer>FindYoutubeKeywordAndBGM · 카테고리별 유튜브 쇼츠 트렌드 · YouTube Data API 기반</footer>
 
 </div>
 
 <script>
 "use strict";
-const DEFAULT_SLUG = "emotional-vlog";
+const DEFAULT_SLUG = "entertainment";
 const ACTIONS_URL = "https://github.com/loboking/FindYoutubeKeywordAndBGM/actions/workflows/refresh.yml";
-const ERR = (msg) => `<p class="err">데이터를 불러오지 못했습니다 (${msg})</p>`;
 const fmtViews = (n) => (typeof n === "number" ? n.toLocaleString() : String(n));
+const fmtDur = (s) => (typeof s === "number" ? `${Math.floor(s/60)}:${String(s%60).padStart(2,"0")}` : "-");
 
-let CURRENT_SLUG = null;
+async function fetchJSON(p){const r=await fetch(p);if(!r.ok)throw new Error(`${p}:${r.status}`);return r.json();}
+async function fetchText(p){const r=await fetch(p);if(!r.ok)throw new Error(`${p}:${r.status}`);return (await r.text()).trim();}
 
-async function fetchJSON(path) {
-  const res = await fetch(path);
-  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
-  return res.json();
-}
-async function fetchText(path) {
-  const res = await fetch(path);
-  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
-  return (await res.text()).trim();
-}
+async function loadManifest(){try{return await fetchJSON("output/index.json");}catch{return {niches:[],default:DEFAULT_SLUG};}}
 
-// --- 매니페스트 + 니치 선택 ---
-async function loadManifest() {
-  try { return await fetchJSON("output/index.json"); }
-  catch { return { niches: [], default: DEFAULT_SLUG }; }
+function populateSelect(m, sel){
+  const s=document.getElementById("niche-select");
+  let niches=(m.niches||[]).filter(Boolean);
+  if(!niches.some(n=>n.slug===DEFAULT_SLUG))niches=[{slug:DEFAULT_SLUG,name:"엔터테인먼트",mode:"category"},...niches];
+  s.innerHTML=niches.map(n=>`<option value="${esc(n.slug)}">${esc(n.name||n.slug)}</option>`).join("");
+  s.value = niches.some(n=>n.slug===sel)?sel:(m.default||DEFAULT_SLUG);
 }
 
-function populateNicheSelect(manifest, selectedSlug) {
-  const sel = document.getElementById("niche-select");
-  let niches = (manifest.niches || []).filter(Boolean);
-  // manifest에 없어도 기본 슬롯 보장
-  if (!niches.some((n) => n.slug === DEFAULT_SLUG)) {
-    niches = [{slug: DEFAULT_SLUG, name: "감성 일상 브이로그", mode: "preset"}, ...niches];
-  }
-  sel.innerHTML = niches.map((n) =>
-    `<option value="${escapeAttr(n.slug)}">${escapeHtml(n.name || n.slug)}</option>`).join("");
-  const ok = niches.some((n) => n.slug === selectedSlug);
-  sel.value = ok ? selectedSlug : (manifest.default || DEFAULT_SLUG);
-}
+function esc(s){return String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;");}
 
-// --- 렌더링 함수 (기존과 동일) ---
-function renderLastUpdated(text) {
-  const el = document.getElementById("last-updated");
-  if (!text) { el.textContent = "갱신 시각 없음"; return; }
-  el.textContent = `${text} · 자동 갱신`;
-}
-
-function renderTopVideos(shorts) {
-  const tbody = document.getElementById("top-videos");
-  const videos = Array.isArray(shorts?.videos) ? shorts.videos : [];
-  const n = Number.isFinite(shorts?.shorts_found) ? shorts.shorts_found : videos.length;
-  const hintEl = document.getElementById("top-n-hint");
-  if (hintEl) hintEl.textContent = `(n=${n}, 1회 스냅샷)`;
-  if (!videos.length) {
-    tbody.innerHTML = `<tr><td colspan="4" class="err">필터 통과 영상 없음.</td></tr>`;
-    return;
-  }
-  const sorted = [...videos].sort((a, b) => (b.view_count || 0) - (a.view_count || 0)).slice(0, 5);
-  tbody.innerHTML = sorted.map((v) => {
-    const ym = formatUploadDate(v.upload_date);
-    return `<tr><td class="views">${fmtViews(v.view_count)}</td>` +
-      `<td>${escapeHtml(v.title || "")}` +
-      (v.url ? ` <a href="${escapeAttr(v.url)}" target="_blank" rel="noopener" style="font-size:12px;color:var(--muted)">↗</a>` : "") +
-      `</td><td>${escapeHtml(v.channel || "")}</td>` +
+function renderTopVideos(shorts){
+  const tb=document.getElementById("top-videos");
+  const vs=Array.isArray(shorts?.videos)?shorts.videos:[];
+  document.getElementById("top-n-hint").textContent=`(n=${vs.length})`;
+  if(!vs.length){tb.innerHTML=`<tr><td colspan="5" class="err">영상 없음</td></tr>`;return;}
+  const sorted=[...vs].sort((a,b)=>(b.view_count||0)-(a.view_count||0)).slice(0,10);
+  tb.innerHTML=sorted.map(v=>{
+    const ym=(v.upload_date||"-");
+    return `<tr><td class="views">${fmtViews(v.view_count)}</td>`+
+      `<td>${esc(v.title||"")}${v.url?` <a href="${esc(v.url)}" target="_blank" rel="noopener" style="font-size:12px;color:var(--muted)">↗</a>`:""}</td>`+
+      `<td style="font-size:13px">${esc(v.channel||"")}</td>`+
+      `<td class="dur">${fmtDur(v.duration)}</td>`+
       `<td style="font-size:12.5px;color:var(--muted)">${ym}</td></tr>`;
   }).join("");
 }
 
-function formatUploadDate(d) {
-  if (!d) return "-";
-  const s = String(d);
-  if (/^\d{8}$/.test(s)) return `${s.slice(0, 4)}-${s.slice(4, 6)}`;
-  return escapeHtml(s);
+function renderKeywords(ins){
+  const el=document.getElementById("keyword-cloud");
+  const ks=(ins&&Array.isArray(ins.trend_keywords))?ins.trend_keywords:[];
+  el.innerHTML = ks.length?ks.map(k=>`<span class="tag">${esc(k)}</span>`).join(""):`<p class="err">키워드 없음</p>`;
 }
 
-function renderFormula(insights) {
-  const el = document.getElementById("formula-text");
-  if (!insights || !insights.formula) { el.textContent = "공식 데이터 없음"; return; }
-  el.textContent = insights.formula;
+function renderChannelDist(ins, shorts){
+  const el=document.getElementById("channel-dist");
+  const n=shorts?.videos?.length||0;
+  document.getElementById("ch-n-hint").textContent=`(n=${n})`;
+  let dist=(ins&&Array.isArray(ins.channel_distribution))?ins.channel_distribution:[];
+  if(!dist.length){el.innerHTML=`<p class="err">채널 분포 없음</p>`;return;}
+  el.innerHTML=dist.map(d=>`<div class="chrow"><span>${esc(d.channel)}</span><span class="cnt">${d.count}개</span></div>`).join("");
 }
 
-function renderOutlier(insights) {
-  const el = document.getElementById("outlier-note");
-  if (!el) return;
-  const oa = insights && insights.outlier_adjusted;
-  if (!oa || !oa.has_outlier) {
-    el.innerHTML = `<p style="font-size:12.5px;color:var(--muted);margin:8px 0 0">단일 영상 과점(1위 비중 50%↑) 없음 — 평균 왜곡 적음.</p>`;
-    return;
-  }
-  const share = (typeof oa.top1_share === "number") ? Math.round(oa.top1_share * 100) : null;
-  const top1 = (typeof oa.top1_views === "number") ? oa.top1_views.toLocaleString() : "?";
-  const avgEx = (typeof oa.avg_views_excluding_top1 === "number") ? oa.avg_views_excluding_top1.toLocaleString() : "?";
-  const note = oa.note ? ` <span style="color:var(--muted);font-size:12.5px">(${escapeHtml(oa.note)})</span>` : "";
-  el.innerHTML = `<div class="warn" style="margin-top:10px"><b>1위 영상이 전체 조회수의 ${share}% 차지</b> (1위 조회수 ${top1}). 1위 제외 시 평균 ${avgEx}. → 평균이 1위에 의해 왜곡됨.${note}</div>`;
+function renderFormula(ins){
+  const el=document.getElementById("formula-text");
+  el.textContent = (ins&&ins.formula)?ins.formula:"공식 없음";
+  const oa=ins&&ins.outlier_adjusted;
+  const on=document.getElementById("outlier-note");
+  if(oa&&oa.has_outlier){
+    on.innerHTML=`<div class="warn" style="margin-top:8px"><b>1위가 전체 조회수의 ${Math.round((oa.top1_share||0)*100)}% 차지</b> — 평균 왜곡. 1위 제외 평균 ${fmtViews(oa.avg_views_excluding_top1)}.</div>`;
+  } else { on.innerHTML=""; }
 }
 
-function renderBgm(bgm, insights, shorts) {
-  const card = document.getElementById("bgm-card");
-  const parts = [];
-  const n = Number.isFinite(shorts?.shorts_found) ? shorts.shorts_found : null;
-  const hintEl = document.getElementById("bgm-n-hint");
-  if (hintEl) hintEl.textContent = n !== null ? `(n=${n}, 1회 스냅샷)` : `(1회 스냅샷)`;
-
-  let acrUsed = false;
-  if (bgm && bgm.status === "skipped_no_key") {
-    parts.push(`<div class="warn"><b>BGM 식별 스킵</b> — ACRCloud 키 미제공. 음원 인식 없이, 아래는 제목 기반 추정입니다.</div>`);
-  } else if (bgm && bgm.results && Object.keys(bgm.results).length) {
-    acrUsed = true;
-    const items = Object.values(bgm.results)
-      .filter((r) => r && r.status === "identified")
-      .map((r) => `<li><b>${escapeHtml(r.bgm || "?")}</b> — ${escapeHtml(r.artist || "?")}</li>`);
-    if (items.length) {
-      parts.push(`<p>ACRCloud로 식별된 BGM:</p><ul>${items.join("")}</ul>`);
-    } else {
-      parts.push(`<p>ACRCloud 실행했으나 식별된 BGM 없음.</p>`);
-    }
-  }
-
-  const trends = (insights && Array.isArray(insights.bgm_trends)) ? insights.bgm_trends : [];
-  if (trends.length) {
-    parts.push(`<p>제목에서 추출한 BGM 계열 (추정, 음원 인식 아님):</p><ul>` +
-      trends.map((t) => `<li><b>${escapeHtml(t)}</b></li>`).join("") + `</ul>`);
-    parts.push(`<p style="font-size:13.5px;color:var(--muted)">→ 샘플에서 자주 보인 계열. (제목 추정이므로 과신 금지)</p>`);
-  }
-
-  if (!parts.length || (!acrUsed && !trends.length)) {
-    card.innerHTML = `<p class="err">식별된 BGM 없음 (ACRCloud 음원 인식 미사용 — 제목 추정 금지).</p>`;
-    return;
-  }
-  card.innerHTML = parts.join("");
-}
-
-function renderOpeningStat(insights, transcripts) {
-  const statEl = document.getElementById("opening-stat");
-  const patternsEl = document.getElementById("opening-patterns");
-  const hintEl = document.getElementById("voice-n-hint");
-  let percent = null, summary = null, patterns = [], n = null;
-
-  if (insights && insights.voice_pattern) {
-    const vp = insights.voice_pattern;
-    if (typeof vp.speech_in_first_5s_percent === "number") percent = vp.speech_in_first_5s_percent;
-    if (vp.summary) summary = vp.summary;
-    if (Array.isArray(vp.patterns)) patterns = vp.patterns;
-    if (typeof vp.n === "number") n = vp.n;
-  }
-  if (percent === null && transcripts && typeof transcripts === "object") {
-    const entries = Object.values(transcripts).filter((t) => t && typeof t === "object");
-    const total = entries.length;
-    const withSpeech = entries.filter((t) => t.opening_mention && String(t.opening_mention).trim()).length;
-    if (total > 0) {
-      percent = Math.round((withSpeech / total) * 100);
-      n = total;
-      summary = `앞 5초에 말이 나오는 영상 ${percent}%, ${100 - percent}%는 무음·BGM·자막 (n=${total})`;
-    }
-  }
-  if (hintEl) hintEl.textContent = (n !== null && n > 0) ? `(n=${n}, 1회 스냅샷)` : `(전사 미확보)`;
-  if (percent === null || n === 0) {
-    statEl.innerHTML = `<span class="err">전사 확보 영상 없음 — 통계 산출 불가.</span>`;
-    patternsEl.innerHTML = "";
-    return;
-  }
-  statEl.innerHTML = `앞 5초에 <b>말이 나오는 영상은 ${percent}%</b> (n=${n}). ${100 - percent}%는 무음·BGM·자막.` +
-    (summary ? ` <span style="color:var(--muted);font-size:13px">(${escapeHtml(summary)})</span>` : "");
-  patternsEl.innerHTML = patterns.length
-    ? `<p>말이 나올 때의 패턴 (샘플 관찰):</p><ul>${patterns.map((p) => `<li>${escapeHtml(p)}</li>`).join("")}</ul>`
-    : "";
-}
-
-function renderKeywords(insights, shorts) {
-  const el = document.getElementById("keyword-cloud");
-  const hintEl = document.getElementById("kw-n-hint");
-  const n = Number.isFinite(shorts?.shorts_found) ? shorts.shorts_found : null;
-  if (hintEl) hintEl.textContent = n !== null ? `(n=${n}, 1회 스냅샷)` : `(1회 스냅샷)`;
-  const kws = (insights && Array.isArray(insights.trend_keywords)) ? insights.trend_keywords : [];
-  if (!kws.length) {
-    el.innerHTML = `<p class="err">키워드 자동 추출 미구현 — 샘플에서 추정하지 않음.</p>`;
-    return;
-  }
-  el.innerHTML = kws.map((k) => `<span class="tag">${escapeHtml(k)}</span>`).join("");
-}
-
-function planBadge(generatedBy) {
-  if (generatedBy === "manual_fallback") {
-    return `<div class="warn" style="margin:-6px 0 10px;padding:8px 12px;font-size:12.5px"><b>수동 초안</b> (AI 자동 분석 아님)</div>`;
-  }
-  if (generatedBy === "claude_pending") {
-    return `<div class="warn" style="margin:-6px 0 10px;padding:8px 12px;font-size:12.5px"><b>AI 응답 파싱 대기</b> (초안 표시 중)</div>`;
-  }
-  return "";
-}
-
-function renderGeneratedByLine(generatedBy) {
-  const el = document.getElementById("generated-by-line");
-  if (!el) return;
-  if (generatedBy === "manual_fallback") {
-    el.innerHTML = `<b>이 리포트 전체가 수동 초안입니다</b> — Claude API 미사용으로 추천 기획은 자동 분석이 아닙니다.`;
-  } else if (generatedBy === "claude_pending") {
-    el.innerHTML = `<b>AI 응답 파싱 대기 중</b> — 현재 초안을 표시 중입니다.`;
-  } else {
-    el.innerHTML = "";
-  }
-}
-
-function renderPlans(insights) {
-  const el = document.getElementById("plans");
-  const plans = (insights && Array.isArray(insights.plans)) ? insights.plans : [];
-  if (!plans.length) { el.innerHTML = `<p class="err">추천 기획 데이터 없음</p>`; return; }
-  const badge = planBadge(insights && insights.generated_by);
-  el.innerHTML = plans.map((p, i) => {
-    const kws = (Array.isArray(p.keywords) ? p.keywords : [])
-      .map((k) => `<span class="tag">${escapeHtml(k)}</span>`).join("");
-    return `
-<div class="card plan">
-  ${badge}
-  <h3>기획 ${i + 1} — "${escapeHtml(p.title || "")}"</h3>
-  ${p.based_on ? `<p style="color:var(--muted);font-size:13px">${escapeHtml(p.based_on)}</p>` : ""}
-  ${p.video_title ? `<div class="label">제목</div><p>${escapeHtml(p.video_title)}</p>` : ""}
-  ${p.bgm ? `<div class="label">BGM</div><p>${escapeHtml(p.bgm)}</p>` : ""}
-  ${p.first_3s ? `<div class="label">첫 3초</div><p>${escapeHtml(p.first_3s)}</p>` : ""}
-  ${p.hook ? `<div class="label">훅</div><p>${escapeHtml(p.hook)}</p>` : ""}
-  ${kws ? `<div class="label">키워드</div><div>${kws}</div>` : ""}
-</div>`;
-  }).join("");
-}
-
-// --- 니치 렌더 (동적 fetch 경로) ---
-async function renderNiche(slug) {
-  CURRENT_SLUG = slug;
-  try { localStorage.setItem("niche-slug", slug); } catch {}
-  const base = `output/${encodeURIComponent(slug)}/`;
-  const tasks = await Promise.allSettled([
-    fetchText(base + "last_updated.txt").catch(() => null),
-    fetchJSON(base + "shorts.json"),
-    fetchJSON(base + "transcripts.json"),
-    fetchJSON(base + "bgm.json"),
-    fetchJSON(base + "insights.json"),
+async function renderNiche(slug){
+  try{localStorage.setItem("niche-slug",slug);}catch{}
+  const base=`output/${encodeURIComponent(slug)}/`;
+  const tasks=await Promise.allSettled([
+    fetchText(base+"last_updated.txt").catch(()=>null),
+    fetchJSON(base+"shorts.json"),
+    fetchJSON(base+"insights.json"),
   ]);
-  const [lastUpdated, shorts, transcripts, bgm, insights] = tasks.map((t) =>
-    t.status === "fulfilled" ? t.value : undefined);
-
-  // 제목/니치명 동적
-  const nicheName = (shorts && shorts.niche) || (insights && insights.niche) || slug;
-  const searchBadge = (insights && insights.source_mode === "search")
-    ? `<span class="badge-search">검색어 기반 (품질 낮을 수 있음)</span>` : "";
-  document.getElementById("report-title").innerHTML = `${escapeHtml(nicheName)} 숏츠 트렌드 리포트${searchBadge}`;
-  document.title = `${nicheName} 숏츠 트렌드 리포트`;
-
-  if (lastUpdated) renderLastUpdated(lastUpdated);
-  else document.getElementById("last-updated").textContent = "갱신 시각 없음";
-
-  if (shorts) renderTopVideos(shorts);
-  else {
-    document.getElementById("top-videos").innerHTML = `<tr><td colspan="4" class="err">shorts.json 불러오기 실패 (output/${escapeHtml(slug)}/)</td></tr>`;
-    const hintEl = document.getElementById("top-n-hint");
-    if (hintEl) hintEl.textContent = "(shorts.json 없음)";
-  }
-
-  if (insights) { renderFormula(insights); renderOutlier(insights); renderGeneratedByLine(insights.generated_by); }
-  else {
-    document.getElementById("formula-text").textContent = "insights.json 불러오기 실패";
-    const onEl = document.getElementById("outlier-note");
-    if (onEl) onEl.innerHTML = "";
-    document.getElementById("generated-by-line").innerHTML = "";
-  }
-
-  if (bgm || insights) renderBgm(bgm, insights, shorts);
-  else {
-    document.getElementById("bgm-card").innerHTML = ERR("bgm.json/insights.json 불러오기 실패");
-    const hintEl = document.getElementById("bgm-n-hint");
-    if (hintEl) hintEl.textContent = "";
-  }
-
-  renderOpeningStat(insights, transcripts);
-
-  if (insights) renderKeywords(insights, shorts);
-  else {
-    document.getElementById("keyword-cloud").innerHTML = `<p class="err">insights.json 불러오기 실패</p>`;
-    const hintEl = document.getElementById("kw-n-hint");
-    if (hintEl) hintEl.textContent = "";
-  }
-
-  if (insights) renderPlans(insights);
-  else document.getElementById("plans").innerHTML = `<p class="err">insights.json 불러오기 실패</p>`;
+  const [lu,shorts,ins]=tasks.map(t=>t.status==="fulfilled"?t.value:undefined);
+  const name=(shorts&&shorts.niche)||(ins&&ins.niche)||slug;
+  const sm=(ins&&ins.source_mode)||"";
+  const badge = sm==="search"?`<span class="badge">검색어 기반</span>`:(sm==="channel"?`<span class="badge">채널 기반</span>`:"");
+  document.getElementById("report-title").innerHTML=`${esc(name)} 트렌드${badge}`;
+  document.title=`${name} 트렌드`;
+  document.getElementById("last-updated").textContent = lu?`${lu} · 자동 갱신`:"갱신 시각 없음";
+  renderTopVideos(shorts);
+  renderFormula(ins);
+  renderKeywords(ins);
+  renderChannelDist(ins, shorts);
 }
 
-// --- 새 니치 수집 패널 ---
-function setupCollectPanel() {
-  const btn = document.getElementById("run-btn");
-  btn.addEventListener("click", () => {
-    const name = document.getElementById("new-name").value.trim();
-    const chans = document.getElementById("new-channels").value.trim();
-    const search = document.getElementById("new-search").value.trim();
-    const hint = document.getElementById("run-hint");
-    if (!name) { hint.textContent = "니치명을 입력하세요."; return; }
-    let mode, copyText, fieldLabel;
-    if (search) { mode = "search"; copyText = search; fieldLabel = "검색어"; }
-    else if (chans) { mode = "channel"; copyText = chans; fieldLabel = "채널 URL"; }
-    else { hint.textContent = "채널 URL 또는 검색어 중 하나를 입력하세요."; return; }
-    const copy = `니치명: ${name}\n${fieldLabel}:\n${copyText}`;
-    const finish = () => {
-      hint.innerHTML = `✓ 클립보드에 복사됨. Actions 페이지에서 <b>mode=${mode}</b>로 설정하고 <b>niche_name</b>에 "${escapeHtml(name)}" + ${fieldLabel} 필드에 붙여넣으세요. 완료 후 이 페이지 새로고침 시 위 니치 선택에 나타납니다.`;
-      window.open(ACTIONS_URL, "_blank");
-    };
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(copy).then(finish).catch(() => { hint.textContent = copy; finish(); });
-    } else { hint.textContent = copy; finish(); }
+function setupSearch(){
+  document.getElementById("run-btn").addEventListener("click",()=>{
+    const name=document.getElementById("new-name").value.trim();
+    const search=document.getElementById("new-search").value.trim();
+    const hint=document.getElementById("run-hint");
+    if(!name){hint.textContent="니치명 입력";return;}
+    if(!search){hint.textContent="검색어 입력";return;}
+    const copy=`니치명: ${name}\n검색어:\n${search}`;
+    const finish=()=>{hint.innerHTML=`✓ 복사됨. Actions에서 <b>mode=search</b>, niche_name="${esc(name)}", search_keyword에 붙여넣기.`;window.open(ACTIONS_URL,"_blank");};
+    if(navigator.clipboard){navigator.clipboard.writeText(copy).then(finish).catch(()=>{hint.textContent=copy;finish();});}
+    else{hint.textContent=copy;finish();}
   });
 }
 
-// --- HTML 이스케이프 ---
-function escapeHtml(s) {
-  return String(s ?? "")
-    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
-}
-function escapeAttr(s) { return escapeHtml(s); }
-
-async function init() {
-  setupCollectPanel();
-  const manifest = await loadManifest();
-  let saved = null;
-  try { saved = localStorage.getItem("niche-slug"); } catch {}
-  const exists = saved && (manifest.niches || []).some((n) => n.slug === saved);
-  const slug = exists ? saved : (manifest.default || DEFAULT_SLUG);
-  populateNicheSelect(manifest, slug);
-  document.getElementById("niche-select").addEventListener("change", (e) => renderNiche(e.target.value));
+async function init(){
+  setupSearch();
+  const m=await loadManifest();
+  let saved=null;try{saved=localStorage.getItem("niche-slug");}catch{}
+  const slug=(saved&&(m.niches||[]).some(n=>n.slug===saved))?saved:(m.default||DEFAULT_SLUG);
+  populateSelect(m,slug);
+  document.getElementById("niche-select").addEventListener("change",e=>renderNiche(e.target.value));
   await renderNiche(slug);
 }
-
-init().catch((e) => { console.error("render init failed:", e); });
+init().catch(e=>console.error(e));
 </script>
 </body>
 </html>

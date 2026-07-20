@@ -6,64 +6,79 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: '수집 모드 (preset=프리셋 니치, channel=채널 URL 입력, search=검색어 입력)'
+        description: 'preset(카테고리) | search(검색어) | channel(채널URL)'
         type: choice
-        options: [preset, channel, search]
+        options: [preset, search, channel]
         default: preset
       preset_slug:
-        description: '프리셋 니치 slug (mode=preset). 예: emotional-vlog'
-        default: emotional-vlog
+        description: '카테고리 slug (mode=preset). 예: entertainment. 비우면 전체 카테고리'
       niche_name:
-        description: '새 니치명 (mode=channel/search). 표시용 + 슬러그 생성'
-      channel_urls:
-        description: '채널 URL 또는 @handle (mode=channel). 한 줄에 하나'
+        description: '니치명 (mode=search/channel)'
       search_keyword:
-        description: '검색어 (mode=search). ytsearch — 오토픽 혼입 가능'
+        description: '검색어 (mode=search)'
+      channel_urls:
+        description: '채널 URL/@handle (mode=channel, 한 줄에 하나)'
 
 permissions:
   contents: write
 
 jobs:
-  refresh:
+  # 매일 새벽: 6 카테고리 matrix 수집 (순차 push로 충돌 방지)
+  categories:
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'preset' && inputs.preset_slug == '')
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        slug: [entertainment, howto-style, comedy, tech-science, film, music]
+      max-parallel: 1
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
-
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt && pip install yt-dlp
-
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install -r requirements.txt && pip install yt-dlp
       - name: Run pipeline
         continue-on-error: true
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ACR_ACCESS_KEY: ${{ secrets.ACR_ACCESS_KEY }}
-          ACR_ACCESS_SECRET: ${{ secrets.ACR_ACCESS_SECRET }}
-          ACR_HOST: ${{ secrets.ACR_HOST }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # 온디맨드 니치 (mode != preset 일 때만 값 할당)
+          NICHE_SLUG: ${{ matrix.slug }}
+        run: python run.py
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add output/
+          git diff --staged --quiet || git commit -m "chore(data): 카테고리 ${{ matrix.slug }} 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+  # 수동: 단일 카테고리 / 검색 / 채널
+  single:
+    if: github.event_name == 'workflow_dispatch' && !(inputs.mode == 'preset' && inputs.preset_slug == '')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install -r requirements.txt && pip install yt-dlp
+      - name: Run pipeline
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NICHE_SLUG: ${{ inputs.mode == 'preset' && inputs.preset_slug || '' }}
           NICHE_NAME: ${{ inputs.mode != 'preset' && inputs.niche_name || '' }}
-          CHANNELS_RAW: ${{ inputs.mode == 'channel' && inputs.channel_urls || '' }}
           SEARCH_KEYWORD: ${{ inputs.mode == 'search' && inputs.search_keyword || '' }}
+          CHANNELS_RAW: ${{ inputs.mode == 'channel' && inputs.channel_urls || '' }}
         run: python run.py
-
-      - name: Commit & push output
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/
-          MODE="${{ inputs.mode || 'auto' }}"
-          NICHE="${{ inputs.niche_name || inputs.preset_slug || 'emotional-vlog' }}"
-          git diff --staged --quiet || git commit -m "chore(data): ${MODE} ${NICHE} 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || git commit -m "chore(data): ${{ inputs.mode }} ${{ inputs.niche_name || inputs.preset_slug }} 갱신 $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

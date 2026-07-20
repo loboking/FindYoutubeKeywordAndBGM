@@ -43,10 +43,12 @@ def update_manifest(slug: str, name: str, mode: str, last_updated: str) -> None:
 
 def main():
     os.makedirs(C.OUTPUT_DIR, exist_ok=True)
-    run_step("1. 수집 (yt-dlp)", "collect.py")
-    run_step("2. 전사 (faster-whisper)", "transcribe.py")
-    run_step("3. BGM 식별 (ACRCloud)", "identify_bgm.py")
-    run_step("4. 추천 (Claude)", "recommend.py")
+    run_step("1. 수집", "collect.py")
+    # category/search 모드는 메타 중심 → 전사·BGM 식별 생략 (channel 온디맨드만)
+    if C.SOURCE_MODE == "channel":
+        run_step("2. 전사 (faster-whisper)", "transcribe.py")
+        run_step("3. BGM 식별 (ACRCloud)", "identify_bgm.py")
+    run_step("4. 통계/추천", "recommend.py")
 
     # 갱신 시각 기록 (index.html 상단 표시용)
     last_updated = datetime.now(KST).strftime("%Y-%m-%d %H:%M (KST)")
