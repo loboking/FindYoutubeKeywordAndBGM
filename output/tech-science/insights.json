@@ -3,77 +3,73 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: vs, 아이폰, 기능, 컴퓨터, USB, 삼성",
+  "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: 갤럭시, 삼성, 아이폰, 기능, 내구성, 이유",
   "top_videos_summary": [
     {
-      "views": 33991204,
-      "title": "Phones In 2000 vs 2010 vs 2020 vs 2030.",
-      "upload_year": "2026",
-      "channel": "Ryan HD",
-      "duration": 15
-    },
-    {
-      "views": 1564300,
+      "views": 1571883,
       "title": "또 이상한 거 만든 LG전자",
       "upload_year": "2026",
       "channel": "진짜 잠깐만",
       "duration": 27
     },
     {
-      "views": 1202788,
+      "views": 1219293,
       "title": "동사무소에서 주운 PC의 정체??",
       "upload_year": "2026",
       "channel": "몬스타기어",
       "duration": 68
     },
     {
-      "views": 1116525,
+      "views": 1152274,
       "title": "모니터를 구부리면 그게 커브드 모니터지",
       "upload_year": "2026",
       "channel": "어랍숏",
       "duration": 50
     },
     {
-      "views": 816518,
+      "views": 877681,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
       "duration": 18
+    },
+    {
+      "views": 818876,
+      "title": "1000만 유튜버도 놀란 삼성 최저가 폰의 내구성",
+      "upload_year": "2026",
+      "channel": "일분일초",
+      "duration": 35
     }
   ],
   "outlier_adjusted": {
-    "has_outlier": true,
-    "top1_share": 0.72,
-    "avg_views_excluding_top1": 365411,
-    "note": "1위가 전체 조회수의 72% 차지 — 평균 왜곡."
+    "has_outlier": false,
+    "top1_share": 0.11,
+    "avg_views_excluding_top1": null,
+    "note": ""
   },
   "trend_keywords": [
-    "vs",
+    "갤럭시",
+    "삼성",
     "아이폰",
     "기능",
-    "컴퓨터",
-    "USB",
-    "삼성",
     "내구성",
-    "갤럭시",
     "이유",
+    "폴드8",
+    "컴퓨터",
     "중국",
     "언박싱",
-    "폴드8",
-    "지금",
-    "Phones",
-    "In",
-    "2000",
-    "2010",
-    "2020",
-    "2030",
-    "이상한"
+    "이상한",
+    "만든",
+    "LG전자",
+    "동사무소에서",
+    "주운",
+    "PC의",
+    "정체",
+    "모니터를",
+    "구부리면",
+    "그게"
   ],
   "channel_distribution": [
-    {
-      "channel": "Ryan HD",
-      "count": 1
-    },
     {
       "channel": "진짜 잠깐만",
       "count": 1
@@ -108,6 +104,10 @@
     },
     {
       "channel": "짤한줌",
+      "count": 1
+    },
+    {
+      "channel": "눌러",
       "count": 1
     }
   ],
