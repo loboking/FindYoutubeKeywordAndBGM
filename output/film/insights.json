@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #드라마, 방법, 생기는, #예능, 이유",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #드라마, 방법, 이유, #넷플릭스, 생기는",
   "top_videos_summary": [
     {
-      "views": 4999599,
-      "title": "이동욱 애드립에 정신 못 차리는 유인나ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 23
-    },
-    {
-      "views": 4613335,
+      "views": 4726847,
       "title": "세계 1위 명품 브랜드가 무대를 연출하는 방법?ㄷㄷ..",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 37
     },
     {
-      "views": 3943800,
-      "title": "엄마가 형제를 차별하면 생기는 일",
-      "upload_year": "2026",
-      "channel": "씬창고",
-      "duration": 39
-    },
-    {
-      "views": 3936561,
+      "views": 4548474,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 2969538,
+      "views": 4197433,
+      "title": "엄마가 형제를 차별하면 생기는 일",
+      "upload_year": "2026",
+      "channel": "씬창고",
+      "duration": 39
+    },
+    {
+      "views": 3035558,
       "title": "도박으로 흥한 자 도박으로 망할 것",
       "upload_year": "2026",
       "channel": "뭅토리",
       "duration": 113
+    },
+    {
+      "views": 3004814,
+      "title": "나 때문이야",
+      "upload_year": "2026",
+      "channel": "먹기전에",
+      "duration": 75
     }
   ],
   "outlier_adjusted": {
@@ -51,35 +51,27 @@
     "#shorts",
     "#드라마",
     "방법",
-    "생기는",
-    "#예능",
     "이유",
     "#넷플릭스",
+    "생기는",
     "도박으로",
     "#유머",
+    "남자",
+    "#예능",
     "순발력",
-    "이효리",
+    "없는",
     "KBS",
     "방송",
-    "되는",
+    "#감동",
     "영화",
+    "되는",
+    "#snl",
     "#동궁",
-    "이동욱",
-    "애드립에",
-    "정신",
-    "차리는"
+    "세계"
   ],
   "channel_distribution": [
     {
-      "channel": "뜨비",
-      "count": 1
-    },
-    {
       "channel": "평양냉면",
-      "count": 1
-    },
-    {
-      "channel": "씬창고",
       "count": 1
     },
     {
@@ -87,15 +79,11 @@
       "count": 1
     },
     {
+      "channel": "씬창고",
+      "count": 1
+    },
+    {
       "channel": "뭅토리",
-      "count": 1
-    },
-    {
-      "channel": "잠깐예능",
-      "count": 1
-    },
-    {
-      "channel": "스타잇",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
-      "channel": "오늘의 숏",
+      "channel": "잠깐예능",
       "count": 1
     },
     {
       "channel": "한눈정리",
+      "count": 1
+    },
+    {
+      "channel": "미남재형",
+      "count": 1
+    },
+    {
+      "channel": "오늘의 숏",
+      "count": 1
+    },
+    {
+      "channel": "연예인한입",
       "count": 1
     }
   ],
