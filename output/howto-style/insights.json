@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 이유, #shorts, 사장님, 방법, 먹기, 만두",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 방법, 먹기, 이유, 만두, #자녀",
   "top_videos_summary": [
     {
-      "views": 53374657,
-      "title": "A Leaf Becoming Art With Colorful Thread#embroidery #leafart #art #handembroidery",
-      "upload_year": "2026",
-      "channel": "Needle To Art",
-      "duration": 34
-    },
-    {
-      "views": 9925046,
+      "views": 10079518,
       "title": "어린 딸이 치와와랑 친해지는 과정",
       "upload_year": "2026",
       "channel": "심심한우드스탁",
       "duration": 19
     },
     {
-      "views": 2924598,
+      "views": 3294359,
+      "title": "말 혼자 두고 도망쳤을 때 찐 반응 2탄",
+      "upload_year": "2026",
+      "channel": "판타지패밀리",
+      "duration": 28
+    },
+    {
+      "views": 2981219,
       "title": "전문가 포스(?) 남다른 오토바이 가게 사장님 행동",
       "upload_year": "2026",
       "channel": "인간극짱",
       "duration": 18
     },
     {
-      "views": 2680860,
+      "views": 2699557,
       "title": "굉장히 유명한 1,100만회 영상, 3년뒤 지금은? #shorts #감동영상 #늦둥이",
       "upload_year": "2026",
       "channel": "개성파삼남매 ",
       "duration": 27
     },
     {
-      "views": 2425639,
+      "views": 2440028,
       "title": "서비스가 무한인 건물주의 포장마차를 아시나요",
       "upload_year": "2026",
       "channel": "맛집남자 foodman",
@@ -43,39 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.48,
+    "top1_share": 0.17,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "#shorts",
-    "사장님",
     "방법",
     "먹기",
+    "이유",
     "만두",
     "#자녀",
-    "#embroidery",
-    "#leafart",
-    "#art",
-    "#handembroidery",
-    "Leaf",
-    "Becoming",
-    "Art",
-    "With",
-    "Colorful",
-    "Thread#embroidery",
+    "레시피",
     "어린",
     "딸이",
-    "치와와랑"
+    "치와와랑",
+    "친해지는",
+    "과정",
+    "혼자",
+    "두고",
+    "도망쳤을",
+    "반응",
+    "2탄",
+    "전문가",
+    "포스",
+    "남다른"
   ],
   "channel_distribution": [
     {
-      "channel": "Needle To Art",
+      "channel": "심심한우드스탁",
       "count": 1
     },
     {
-      "channel": "심심한우드스탁",
+      "channel": "판타지패밀리",
       "count": 1
     },
     {
@@ -95,10 +95,6 @@
       "count": 1
     },
     {
-      "channel": "숏플레이",
-      "count": 1
-    },
-    {
       "channel": "조랑말김포니",
       "count": 1
     },
@@ -108,6 +104,10 @@
     },
     {
       "channel": "야생일기",
+      "count": 1
+    },
+    {
+      "channel": "제로크림",
       "count": 1
     }
   ],
