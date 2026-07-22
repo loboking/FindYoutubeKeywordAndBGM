@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: 갤럭시, 삼성, 아이폰, 기능, 내구성, 이유",
+  "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: 갤럭시, 삼성, 이유, 내구성, 아이폰, 컴퓨터",
   "top_videos_summary": [
     {
-      "views": 1571883,
+      "views": 5632308,
+      "title": "[갤럭시] Invitation for Galaxy Unpacked July 2026 | 삼성전자",
+      "upload_year": "2026",
+      "channel": "삼성전자 Samsung Electronics",
+      "duration": 13
+    },
+    {
+      "views": 1579489,
       "title": "또 이상한 거 만든 LG전자",
       "upload_year": "2026",
       "channel": "진짜 잠깐만",
       "duration": 27
     },
     {
-      "views": 1219293,
-      "title": "동사무소에서 주운 PC의 정체??",
-      "upload_year": "2026",
-      "channel": "몬스타기어",
-      "duration": 68
-    },
-    {
-      "views": 1152274,
+      "views": 1188872,
       "title": "모니터를 구부리면 그게 커브드 모니터지",
       "upload_year": "2026",
       "channel": "어랍숏",
       "duration": 50
     },
     {
-      "views": 877681,
+      "views": 937867,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
       "duration": 18
     },
     {
-      "views": 818876,
+      "views": 879778,
       "title": "1000만 유튜버도 놀란 삼성 최저가 폰의 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
@@ -43,39 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.31,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "갤럭시",
     "삼성",
-    "아이폰",
-    "기능",
-    "내구성",
     "이유",
-    "폴드8",
+    "내구성",
+    "아이폰",
     "컴퓨터",
+    "폴드8",
+    "기능",
     "중국",
-    "언박싱",
+    "[갤럭시]",
+    "Invitation",
+    "for",
+    "Galaxy",
+    "Unpacked",
+    "July",
+    "2026",
+    "삼성전자",
     "이상한",
     "만든",
-    "LG전자",
-    "동사무소에서",
-    "주운",
-    "PC의",
-    "정체",
-    "모니터를",
-    "구부리면",
-    "그게"
+    "LG전자"
   ],
   "channel_distribution": [
     {
-      "channel": "진짜 잠깐만",
+      "channel": "삼성전자 Samsung Electronics",
       "count": 1
     },
     {
-      "channel": "몬스타기어",
+      "channel": "진짜 잠깐만",
       "count": 1
     },
     {
@@ -99,11 +99,11 @@
       "count": 1
     },
     {
-      "channel": "재미쏙",
+      "channel": "짤한줌",
       "count": 1
     },
     {
-      "channel": "짤한줌",
+      "channel": "재미쏙",
       "count": 1
     },
     {
