@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, #예능, 하는, 이유, 도박으로",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 남자, 이유, 하는, #레전드",
   "top_videos_summary": [
     {
-      "views": 4595771,
+      "views": 4753664,
       "title": "강렬한 첫인상을 보여주는 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 19
     },
     {
-      "views": 4195202,
+      "views": 4329263,
       "title": "엄마가 형제를 차별하면 생기는 일",
       "upload_year": "2026",
       "channel": "씬창고",
       "duration": 39
     },
     {
-      "views": 3034423,
-      "title": "도박으로 흥한 자 도박으로 망할 것",
-      "upload_year": "2026",
-      "channel": "뭅토리",
-      "duration": 113
-    },
-    {
-      "views": 2980379,
+      "views": 3021654,
       "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "잠깐예능",
       "duration": 49
     },
     {
-      "views": 2696986,
+      "views": 2972050,
       "title": "유부남과 아빠들",
       "upload_year": "2026",
       "channel": "미남재형",
       "duration": 149
+    },
+    {
+      "views": 2777222,
+      "title": "어제 왜 전화 안 받았어요? 라고 말하는 학생",
+      "upload_year": "2026",
+      "channel": "오늘마셋(TODAY MINDSET)",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "#shorts",
     "생기는",
-    "#예능",
-    "하는",
-    "이유",
-    "도박으로",
-    "#레전드",
-    "#유머",
     "남자",
+    "이유",
+    "하는",
+    "#레전드",
+    "머리",
     "KBS",
     "방송",
-    "머리",
-    "#코미디",
+    "손녀의",
     "#드라마",
     "다시",
-    "#snl",
-    "#이상이",
+    "되는",
+    "#코미디",
     "강렬한",
     "첫인상을",
-    "보여주는"
+    "보여주는",
+    "이효리",
+    "엄마가",
+    "형제를"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "씬창고",
-      "count": 1
-    },
-    {
-      "channel": "뭅토리",
       "count": 1
     },
     {
@@ -95,11 +91,11 @@
       "count": 1
     },
     {
-      "channel": "재훍 영상툰",
+      "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "예능상회",
+      "channel": "몬데몬데",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "예능다락방",
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "침착맨",
       "count": 1
     }
   ],
