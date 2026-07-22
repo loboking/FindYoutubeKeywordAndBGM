@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 100%, 이유, #드라마, #참교육, #사이다",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 100%, #드라마, #연애, 이효리가, 현실",
   "top_videos_summary": [
     {
-      "views": 4595447,
-      "title": "강렬한 첫인상을 보여주는 이효리 ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "거끄로해드리효리",
-      "duration": 19
-    },
-    {
-      "views": 4542405,
+      "views": 4928390,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 3730694,
+      "views": 4753664,
+      "title": "강렬한 첫인상을 보여주는 이효리 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "거끄로해드리효리",
+      "duration": 19
+    },
+    {
+      "views": 3903189,
       "title": "이효리가 해주는 현실 100% 연애 상담 | #연애전쟁 #shorts #연애",
       "upload_year": "2026",
       "channel": "딴짓 | 드라마·예능 쇼츠",
       "duration": 38
     },
     {
-      "views": 3002571,
-      "title": "나 때문이야",
+      "views": 3300135,
+      "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
       "upload_year": "2026",
-      "channel": "먹기전에",
-      "duration": 75
+      "channel": "한눈정리",
+      "duration": 53
     },
     {
-      "views": 2980301,
+      "views": 3021654,
       "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "잠깐예능",
@@ -43,39 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
     "100%",
-    "이유",
     "#드라마",
-    "#참교육",
-    "#사이다",
     "#연애",
     "이효리가",
     "현실",
-    "챌린지",
-    "#snl",
-    "강렬한",
-    "첫인상을",
-    "보여주는",
-    "이효리",
+    "마지막",
+    "되는",
+    "KBS",
+    "방송",
+    "이유",
+    "#참교육",
+    "#사이다",
     "#넷플릭스",
     "판사",
     "취향",
     "제대로",
-    "저격한"
+    "저격한",
+    "역대급",
+    "아빠찬스"
   ],
   "channel_distribution": [
     {
-      "channel": "거끄로해드리효리",
+      "channel": "무비젤리",
       "count": 1
     },
     {
-      "channel": "무비젤리",
+      "channel": "거끄로해드리효리",
       "count": 1
     },
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "한눈정리",
       "count": 1
     },
     {
@@ -91,23 +91,23 @@
       "count": 1
     },
     {
-      "channel": "한눈정리",
-      "count": 1
-    },
-    {
       "channel": "미남재형",
       "count": 1
     },
     {
-      "channel": "재훍 영상툰",
-      "count": 1
-    },
-    {
-      "channel": "워크맨-Workman",
-      "count": 1
-    },
-    {
       "channel": "일분일초",
+      "count": 1
+    },
+    {
+      "channel": "몬데몬데",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "시네(CINE) 압축기",
       "count": 1
     }
   ],
