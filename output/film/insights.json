@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #드라마, 남자, 생기는, 없는, KBS",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방법, #드라마, 생기는, 손녀의, #snl",
   "top_videos_summary": [
     {
-      "views": 4928801,
+      "views": 5254224,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 3300681,
+      "views": 3487202,
       "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
       "upload_year": "2026",
       "channel": "한눈정리",
       "duration": 53
     },
     {
-      "views": 3021654,
-      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
+      "views": 3163461,
+      "title": "유인나의 한마디에 긁혀버린 이동욱",
       "upload_year": "2026",
-      "channel": "잠깐예능",
-      "duration": 49
+      "channel": "뜨비",
+      "duration": 26
     },
     {
-      "views": 2972050,
+      "views": 3060712,
       "title": "유부남과 아빠들",
       "upload_year": "2026",
       "channel": "미남재형",
       "duration": 149
     },
     {
-      "views": 2537361,
-      "title": "여자들은 이해불가 남자 종특 대참사 #웃긴짤 #레전드 #유머",
+      "views": 3047101,
+      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
-      "channel": "연예인한입",
-      "duration": 100
+      "channel": "잠깐예능",
+      "duration": 49
     }
   ],
   "outlier_adjusted": {
@@ -49,14 +49,15 @@
   },
   "trend_keywords": [
     "#shorts",
+    "방법",
     "#드라마",
-    "남자",
     "생기는",
-    "없는",
-    "KBS",
-    "방송",
     "손녀의",
+    "#snl",
+    "말을",
     "영화",
+    "참교육",
+    "일진",
     "되는",
     "#참교육",
     "#사이다",
@@ -66,8 +67,7 @@
     "제대로",
     "저격한",
     "역대급",
-    "아빠찬스",
-    "조국이"
+    "아빠찬스"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "잠깐예능",
+      "channel": "뜨비",
       "count": 1
     },
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "연예인한입",
+      "channel": "잠깐예능",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "SBS ",
+      "channel": "1분윰어",
       "count": 1
     },
     {
-      "channel": "무비와쑝",
+      "channel": "거끄로해드리효리",
       "count": 1
     },
     {
-      "channel": "KBS 한국방송",
+      "channel": " 개그콘서트",
       "count": 1
     }
   ],
