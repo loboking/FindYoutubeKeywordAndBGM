@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 남자, 이유, 하는, #레전드",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, KBS, 방송, 머리, 손녀의",
   "top_videos_summary": [
     {
-      "views": 4753664,
-      "title": "강렬한 첫인상을 보여주는 이효리 ㅋㅋㅋ",
+      "views": 3460330,
+      "title": "짝사랑에 실패한 써브웨이 알바생",
       "upload_year": "2026",
-      "channel": "거끄로해드리효리",
-      "duration": 19
+      "channel": "먹기전에",
+      "duration": 130
     },
     {
-      "views": 4329263,
-      "title": "엄마가 형제를 차별하면 생기는 일",
-      "upload_year": "2026",
-      "channel": "씬창고",
-      "duration": 39
-    },
-    {
-      "views": 3021654,
-      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "잠깐예능",
-      "duration": 49
-    },
-    {
-      "views": 2972050,
+      "views": 3060599,
       "title": "유부남과 아빠들",
       "upload_year": "2026",
       "channel": "미남재형",
       "duration": 149
     },
     {
-      "views": 2777222,
+      "views": 3047101,
+      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
+      "upload_year": "2026",
+      "channel": "잠깐예능",
+      "duration": 49
+    },
+    {
+      "views": 2929433,
+      "title": "지역부심이 남다르면 생기는 일ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "스타잇",
+      "duration": 57
+    },
+    {
+      "views": 2836736,
       "title": "어제 왜 전화 안 받았어요? 라고 말하는 학생",
       "upload_year": "2026",
       "channel": "오늘마셋(TODAY MINDSET)",
@@ -43,43 +43,35 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
     "생기는",
-    "남자",
-    "이유",
-    "하는",
-    "#레전드",
-    "머리",
     "KBS",
     "방송",
+    "머리",
     "손녀의",
-    "#드라마",
-    "다시",
+    "#snl",
+    "말을",
+    "이유",
+    "부부",
     "되는",
-    "#코미디",
-    "강렬한",
-    "첫인상을",
-    "보여주는",
-    "이효리",
-    "엄마가",
-    "형제를"
+    "#참교육",
+    "최후",
+    "#시니어드라마",
+    "짝사랑에",
+    "실패한",
+    "써브웨이",
+    "알바생",
+    "#아는형님",
+    "로우킥"
   ],
   "channel_distribution": [
     {
-      "channel": "거끄로해드리효리",
-      "count": 1
-    },
-    {
-      "channel": "씬창고",
-      "count": 1
-    },
-    {
-      "channel": "잠깐예능",
+      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -87,19 +79,7 @@
       "count": 1
     },
     {
-      "channel": "오늘마셋(TODAY MINDSET)",
-      "count": 1
-    },
-    {
-      "channel": "먹기전에",
-      "count": 1
-    },
-    {
-      "channel": "몬데몬데",
-      "count": 1
-    },
-    {
-      "channel": "연예인한입",
+      "channel": "잠깐예능",
       "count": 1
     },
     {
@@ -107,7 +87,27 @@
       "count": 1
     },
     {
-      "channel": "침착맨",
+      "channel": "오늘마셋(TODAY MINDSET)",
+      "count": 1
+    },
+    {
+      "channel": "몬데몬데",
+      "count": 1
+    },
+    {
+      "channel": "1분윰어",
+      "count": 1
+    },
+    {
+      "channel": "거끄로해드리효리",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
       "count": 1
     }
   ],
