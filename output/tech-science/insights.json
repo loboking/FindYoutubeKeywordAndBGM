@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 갤럭시, 삼성, 이유, 폴드8, Z폴드8, 이상한",
+  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 갤럭시, 이유, 삼성, Z폴드8, 폴드8, 이상한",
   "top_videos_summary": [
     {
-      "views": 5643842,
+      "views": 5728029,
       "title": "[갤럭시] Invitation for Galaxy Unpacked July 2026 | 삼성전자",
       "upload_year": "2026",
       "channel": "삼성전자 Samsung Electronics",
       "duration": 13
     },
     {
-      "views": 1587880,
+      "views": 1595605,
       "title": "또 이상한 거 만든 LG전자",
       "upload_year": "2026",
       "channel": "진짜 잠깐만",
       "duration": 27
     },
     {
-      "views": 1259327,
+      "views": 1368449,
       "title": "모니터를 구부리면 그게 커브드 모니터지",
       "upload_year": "2026",
       "channel": "어랍숏",
       "duration": 50
     },
     {
-      "views": 1079943,
+      "views": 1316441,
       "title": "1000만 유튜버도 놀란 삼성 최저가 폰의 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 35
     },
     {
-      "views": 996626,
+      "views": 1053778,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.3,
+    "top1_share": 0.29,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "갤럭시",
-    "삼성",
     "이유",
-    "폴드8",
+    "삼성",
     "Z폴드8",
+    "폴드8",
     "이상한",
-    "내구성",
+    "#shorts",
     "컴퓨터",
-    "기능",
-    "시리즈",
-    "초스피드",
+    "실제로",
+    "가장",
+    "대신",
+    "그냥",
     "언박싱",
-    "와이드",
     "실물",
+    "에어컨",
     "[갤럭시]",
     "Invitation",
     "for",
     "Galaxy",
-    "Unpacked",
-    "July"
+    "Unpacked"
   ],
   "channel_distribution": [
     {
@@ -95,7 +95,7 @@
       "count": 1
     },
     {
-      "channel": "제주가장(家長)",
+      "channel": "짧주",
       "count": 1
     },
     {
