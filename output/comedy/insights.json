@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, KBS, 방송, 머리, 손녀의",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 손녀의, 말을, #snl, 이유",
   "top_videos_summary": [
     {
-      "views": 3460330,
+      "views": 4096561,
       "title": "짝사랑에 실패한 써브웨이 알바생",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 130
     },
     {
-      "views": 3060599,
-      "title": "유부남과 아빠들",
-      "upload_year": "2026",
-      "channel": "미남재형",
-      "duration": 149
-    },
-    {
-      "views": 3047101,
-      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "잠깐예능",
-      "duration": 49
-    },
-    {
-      "views": 2929433,
+      "views": 3385963,
       "title": "지역부심이 남다르면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 57
     },
     {
-      "views": 2836736,
-      "title": "어제 왜 전화 안 받았어요? 라고 말하는 학생",
+      "views": 3106204,
+      "title": "유부남과 아빠들",
       "upload_year": "2026",
-      "channel": "오늘마셋(TODAY MINDSET)",
-      "duration": 60
+      "channel": "미남재형",
+      "duration": 149
+    },
+    {
+      "views": 3060704,
+      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
+      "upload_year": "2026",
+      "channel": "잠깐예능",
+      "duration": 49
+    },
+    {
+      "views": 3049904,
+      "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "거끄로해드리효리",
+      "duration": 11
     }
   ],
   "outlier_adjusted": {
@@ -50,28 +50,32 @@
   "trend_keywords": [
     "#shorts",
     "생기는",
+    "손녀의",
+    "말을",
+    "#snl",
+    "이유",
     "KBS",
     "방송",
-    "머리",
-    "손녀의",
-    "#snl",
-    "말을",
-    "이유",
-    "부부",
     "되는",
-    "#참교육",
-    "최후",
     "#시니어드라마",
     "짝사랑에",
     "실패한",
     "써브웨이",
     "알바생",
+    "지역부심이",
+    "남다르면",
+    "일ㅋㅋ",
     "#아는형님",
-    "로우킥"
+    "로우킥",
+    "앞에서"
   ],
   "channel_distribution": [
     {
       "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
       "count": 1
     },
     {
@@ -83,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
+      "channel": "거끄로해드리효리",
       "count": 1
     },
     {
@@ -91,23 +95,19 @@
       "count": 1
     },
     {
-      "channel": "몬데몬데",
-      "count": 1
-    },
-    {
       "channel": "1분윰어",
       "count": 1
     },
     {
-      "channel": "거끄로해드리효리",
+      "channel": "예능내컷",
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
+      "channel": "올해엔 금연",
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "봤찌롱",
       "count": 1
     }
   ],
