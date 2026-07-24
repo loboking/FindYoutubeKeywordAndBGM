@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방법, #드라마, 생기는, 손녀의, #snl",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, #shorts, 마지막, 생기는, 평생, 말을",
   "top_videos_summary": [
     {
-      "views": 5254224,
+      "views": 5448737,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 3487202,
-      "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
-      "upload_year": "2026",
-      "channel": "한눈정리",
-      "duration": 53
-    },
-    {
-      "views": 3163461,
+      "views": 3974577,
       "title": "유인나의 한마디에 긁혀버린 이동욱",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 26
     },
     {
-      "views": 3060712,
-      "title": "유부남과 아빠들",
+      "views": 3523549,
+      "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
       "upload_year": "2026",
-      "channel": "미남재형",
-      "duration": 149
+      "channel": "한눈정리",
+      "duration": 53
     },
     {
-      "views": 3047101,
-      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
+      "views": 3386449,
+      "title": "지역부심이 남다르면 생기는 일ㅋㅋ",
       "upload_year": "2026",
-      "channel": "잠깐예능",
-      "duration": 49
+      "channel": "스타잇",
+      "duration": 57
+    },
+    {
+      "views": 3247091,
+      "title": "평생 고생한 아내에게 남편이 남긴 마지막 선물",
+      "upload_year": "2026",
+      "channel": "숏스터무비",
+      "duration": 47
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "방법",
-    "#드라마",
+    "#shorts",
+    "마지막",
     "생기는",
-    "손녀의",
-    "#snl",
+    "평생",
     "말을",
+    "#snl",
     "영화",
+    "이유",
     "참교육",
     "일진",
     "되는",
+    "하는",
+    "다른",
+    "#연애전쟁",
+    "#드라마",
     "#참교육",
     "#사이다",
     "#넷플릭스",
-    "판사",
-    "취향",
-    "제대로",
-    "저격한",
-    "역대급",
-    "아빠찬스"
+    "판사"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,11 @@
       "count": 1
     },
     {
-      "channel": "한눈정리",
-      "count": 1
-    },
-    {
       "channel": "뜨비",
       "count": 1
     },
     {
-      "channel": "미남재형",
-      "count": 1
-    },
-    {
-      "channel": "잠깐예능",
+      "channel": "한눈정리",
       "count": 1
     },
     {
@@ -95,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "시네(CINE) 압축기",
+      "channel": "숏스터무비",
       "count": 1
     },
     {
-      "channel": "1분윰어",
+      "channel": "미남재형",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
+      "channel": "1분윰어",
+      "count": 1
+    },
+    {
+      "channel": "올해엔 금연",
+      "count": 1
+    },
+    {
+      "channel": "봤찌롱",
       "count": 1
     }
   ],
