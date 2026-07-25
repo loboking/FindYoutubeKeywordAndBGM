@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 손녀의, 말을, #snl, 이유",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 말을, #snl, 참교육하는, 이유, 남자",
   "top_videos_summary": [
     {
-      "views": 4096561,
+      "views": 4625681,
       "title": "짝사랑에 실패한 써브웨이 알바생",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 130
     },
     {
-      "views": 3385963,
+      "views": 3832190,
       "title": "지역부심이 남다르면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 57
     },
     {
-      "views": 3106204,
-      "title": "유부남과 아빠들",
-      "upload_year": "2026",
-      "channel": "미남재형",
-      "duration": 149
-    },
-    {
-      "views": 3060704,
-      "title": "로우킥 앞에서 허세부리면 안되는 이유ㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "잠깐예능",
-      "duration": 49
-    },
-    {
-      "views": 3049904,
+      "views": 3773123,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
+    },
+    {
+      "views": 3208639,
+      "title": "한마디로 사단장이 된 한혜진",
+      "upload_year": "2026",
+      "channel": "1분윰어",
+      "duration": 21
+    },
+    {
+      "views": 2917312,
+      "title": "손석구와 마녀",
+      "upload_year": "2026",
+      "channel": "봤찌롱",
+      "duration": 44
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "생기는",
-    "손녀의",
     "말을",
     "#snl",
+    "참교육하는",
     "이유",
+    "남자",
     "KBS",
     "방송",
     "되는",
+    "#아파트",
+    "#라디오스타",
+    "리센느",
     "#시니어드라마",
+    "이선민",
     "짝사랑에",
     "실패한",
     "써브웨이",
     "알바생",
     "지역부심이",
-    "남다르면",
-    "일ㅋㅋ",
-    "#아는형님",
-    "로우킥",
-    "앞에서"
+    "남다르면"
   ],
   "channel_distribution": [
     {
@@ -79,19 +79,7 @@
       "count": 1
     },
     {
-      "channel": "미남재형",
-      "count": 1
-    },
-    {
-      "channel": "잠깐예능",
-      "count": 1
-    },
-    {
       "channel": "거끄로해드리효리",
-      "count": 1
-    },
-    {
-      "channel": "오늘마셋(TODAY MINDSET)",
       "count": 1
     },
     {
@@ -99,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "예능내컷",
+      "channel": "봤찌롱",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
-      "channel": "봤찌롱",
+      "channel": "예능내컷",
+      "count": 1
+    },
+    {
+      "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "MOO MIX 무믹스",
       "count": 1
     }
   ],
