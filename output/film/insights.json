@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, #shorts, 마지막, 생기는, 평생, 말을",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #드라마, #참교육, #사이다, 마지막, 평생, 말을",
   "top_videos_summary": [
     {
-      "views": 5448737,
+      "views": 5809659,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 3974577,
+      "views": 4661315,
       "title": "유인나의 한마디에 긁혀버린 이동욱",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 26
     },
     {
-      "views": 3523549,
-      "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
-      "upload_year": "2026",
-      "channel": "한눈정리",
-      "duration": 53
-    },
-    {
-      "views": 3386449,
+      "views": 3832190,
       "title": "지역부심이 남다르면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 57
     },
     {
-      "views": 3247091,
-      "title": "평생 고생한 아내에게 남편이 남긴 마지막 선물",
+      "views": 3773123,
+      "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
-      "channel": "숏스터무비",
-      "duration": 47
+      "channel": "거끄로해드리효리",
+      "duration": 11
+    },
+    {
+      "views": 3580283,
+      "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
+      "upload_year": "2026",
+      "channel": "한눈정리",
+      "duration": 53
     }
   ],
   "outlier_adjusted": {
@@ -48,24 +48,24 @@
     "note": ""
   },
   "trend_keywords": [
-    "방법",
-    "#shorts",
-    "마지막",
-    "생기는",
-    "평생",
-    "말을",
-    "#snl",
-    "영화",
-    "이유",
-    "참교육",
-    "일진",
-    "되는",
-    "하는",
-    "다른",
-    "#연애전쟁",
     "#드라마",
     "#참교육",
     "#사이다",
+    "마지막",
+    "평생",
+    "말을",
+    "영화",
+    "#snl",
+    "참교육하는",
+    "방법",
+    "이유",
+    "남자",
+    "#연애전쟁",
+    "#shorts",
+    "되는",
+    "#아파트",
+    "하는",
+    "다른",
     "#넷플릭스",
     "판사"
   ],
@@ -79,19 +79,7 @@
       "count": 1
     },
     {
-      "channel": "한눈정리",
-      "count": 1
-    },
-    {
       "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "숏스터무비",
-      "count": 1
-    },
-    {
-      "channel": "미남재형",
       "count": 1
     },
     {
@@ -99,7 +87,19 @@
       "count": 1
     },
     {
+      "channel": "한눈정리",
+      "count": 1
+    },
+    {
+      "channel": "숏스터무비",
+      "count": 1
+    },
+    {
       "channel": "1분윰어",
+      "count": 1
+    },
+    {
+      "channel": "봤찌롱",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "봤찌롱",
+      "channel": "헛개리카노",
       "count": 1
     }
   ],
