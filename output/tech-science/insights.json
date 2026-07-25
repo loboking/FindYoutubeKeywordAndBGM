@@ -6,44 +6,44 @@
   "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 갤럭시, 이유, 삼성, Z폴드8, 폴드8, 이상한",
   "top_videos_summary": [
     {
-      "views": 5728029,
-      "title": "[갤럭시] Invitation for Galaxy Unpacked July 2026 | 삼성전자",
-      "upload_year": "2026",
-      "channel": "삼성전자 Samsung Electronics",
-      "duration": 13
-    },
-    {
-      "views": 1595605,
+      "views": 1608648,
       "title": "또 이상한 거 만든 LG전자",
       "upload_year": "2026",
       "channel": "진짜 잠깐만",
       "duration": 27
     },
     {
-      "views": 1368449,
+      "views": 1418219,
       "title": "모니터를 구부리면 그게 커브드 모니터지",
       "upload_year": "2026",
       "channel": "어랍숏",
       "duration": 50
     },
     {
-      "views": 1316441,
+      "views": 1390533,
       "title": "1000만 유튜버도 놀란 삼성 최저가 폰의 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 35
     },
     {
-      "views": 1053778,
+      "views": 1104116,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
       "duration": 18
+    },
+    {
+      "views": 861028,
+      "title": "'역대급 수치' 찍은 갤럭시 #shorts / YTN",
+      "upload_year": "2026",
+      "channel": " YTN",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.29,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -55,25 +55,21 @@
     "폴드8",
     "이상한",
     "#shorts",
-    "컴퓨터",
     "실제로",
+    "컴퓨터",
     "가장",
     "대신",
+    "충격적인",
     "그냥",
+    "후기",
     "언박싱",
-    "실물",
+    "라벤더",
+    "이거",
+    "이제",
     "에어컨",
-    "[갤럭시]",
-    "Invitation",
-    "for",
-    "Galaxy",
-    "Unpacked"
+    "기술을"
   ],
   "channel_distribution": [
-    {
-      "channel": "삼성전자 Samsung Electronics",
-      "count": 1
-    },
     {
       "channel": "진짜 잠깐만",
       "count": 1
@@ -92,6 +88,10 @@
     },
     {
       "channel": " YTN",
+      "count": 1
+    },
+    {
+      "channel": "1분미만",
       "count": 1
     },
     {
