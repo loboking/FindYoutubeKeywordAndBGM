@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 말을, #snl, 참교육하는, 이유, 남자",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방송, 이선민, 한혜진, 참교육하는, 방법",
   "top_videos_summary": [
     {
-      "views": 4625681,
+      "views": 5077645,
       "title": "짝사랑에 실패한 써브웨이 알바생",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 130
     },
     {
-      "views": 3832190,
-      "title": "지역부심이 남다르면 생기는 일ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 57
-    },
-    {
-      "views": 3773123,
+      "views": 4482418,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
     },
     {
-      "views": 3208639,
+      "views": 3445826,
       "title": "한마디로 사단장이 된 한혜진",
       "upload_year": "2026",
       "channel": "1분윰어",
       "duration": 21
     },
     {
-      "views": 2917312,
+      "views": 3211557,
+      "title": "티라노가 인간의 말을 알아들으면 벌어지는 일",
+      "upload_year": "2026",
+      "channel": "헛개리카노",
+      "duration": 105
+    },
+    {
+      "views": 3139030,
       "title": "손석구와 마녀",
       "upload_year": "2026",
       "channel": "봤찌롱",
@@ -49,33 +49,29 @@
   },
   "trend_keywords": [
     "#shorts",
-    "말을",
-    "#snl",
+    "방송",
+    "이선민",
+    "한혜진",
     "참교육하는",
-    "이유",
+    "방법",
     "남자",
     "KBS",
-    "방송",
-    "되는",
-    "#아파트",
     "#라디오스타",
+    "되는",
+    "생기는",
+    "#아파트",
     "리센느",
     "#시니어드라마",
-    "이선민",
     "짝사랑에",
     "실패한",
     "써브웨이",
     "알바생",
-    "지역부심이",
-    "남다르면"
+    "순발력",
+    "개쩌는"
   ],
   "channel_distribution": [
     {
       "channel": "먹기전에",
-      "count": 1
-    },
-    {
-      "channel": "스타잇",
       "count": 1
     },
     {
@@ -84,6 +80,10 @@
     },
     {
       "channel": "1분윰어",
+      "count": 1
+    },
+    {
+      "channel": "헛개리카노",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
       "channel": "esports KBS",
       "count": 1
     },
     {
       "channel": "MOO MIX 무믹스",
+      "count": 1
+    },
+    {
+      "channel": "숏무비플렉스",
       "count": 1
     }
   ],
