@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 갤럭시, 이유, 삼성, Z폴드8, 폴드8, 이상한",
+  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 갤럭시, 이유, 삼성, 폴드8, 충격적인, Z폴드8",
   "top_videos_summary": [
     {
-      "views": 1608648,
+      "views": 1622348,
       "title": "또 이상한 거 만든 LG전자",
       "upload_year": "2026",
       "channel": "진짜 잠깐만",
       "duration": 27
     },
     {
-      "views": 1418219,
-      "title": "모니터를 구부리면 그게 커브드 모니터지",
-      "upload_year": "2026",
-      "channel": "어랍숏",
-      "duration": 50
-    },
-    {
-      "views": 1390533,
+      "views": 1477602,
       "title": "1000만 유튜버도 놀란 삼성 최저가 폰의 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 35
     },
     {
-      "views": 1104116,
+      "views": 1448842,
+      "title": "모니터를 구부리면 그게 커브드 모니터지",
+      "upload_year": "2026",
+      "channel": "어랍숏",
+      "duration": 50
+    },
+    {
+      "views": 1164847,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
       "duration": 18
     },
     {
-      "views": 861028,
-      "title": "'역대급 수치' 찍은 갤럭시 #shorts / YTN",
+      "views": 997574,
+      "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
       "upload_year": "2026",
-      "channel": " YTN",
-      "duration": 22
+      "channel": "1분미만",
+      "duration": 36
     }
   ],
   "outlier_adjusted": {
@@ -51,23 +51,23 @@
     "갤럭시",
     "이유",
     "삼성",
-    "Z폴드8",
     "폴드8",
-    "이상한",
-    "#shorts",
-    "실제로",
-    "컴퓨터",
-    "가장",
-    "대신",
     "충격적인",
+    "Z폴드8",
+    "이상한",
+    "실제로",
+    "#shorts",
+    "삼성이",
+    "컴퓨터",
+    "이제",
+    "기술을",
+    "대신",
     "그냥",
     "후기",
-    "언박싱",
-    "라벤더",
-    "이거",
-    "이제",
     "에어컨",
-    "기술을"
+    "울트라",
+    "이거",
+    "전에"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "어랍숏",
+      "channel": "일분일초",
       "count": 1
     },
     {
-      "channel": "일분일초",
+      "channel": "어랍숏",
       "count": 1
     },
     {
@@ -87,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": " YTN",
+      "channel": "1분미만",
       "count": 1
     },
     {
-      "channel": "1분미만",
+      "channel": " YTN",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "짤한줌",
-      "count": 1
-    },
-    {
-      "channel": "재미쏙",
-      "count": 1
-    },
-    {
       "channel": "눌러",
+      "count": 1
+    },
+    {
+      "channel": "주니웨어 주니",
+      "count": 1
+    },
+    {
+      "channel": "썰스피커",
       "count": 1
     }
   ],
