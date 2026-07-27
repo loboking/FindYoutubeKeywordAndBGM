@@ -3,77 +3,73 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 갤럭시, 이유, 삼성, 폴드8, 충격적인, Z폴드8",
+  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 이유, 갤럭시, 삼성, 충격적인, Z폴드8, 폴드8",
   "top_videos_summary": [
     {
-      "views": 1622348,
-      "title": "또 이상한 거 만든 LG전자",
-      "upload_year": "2026",
-      "channel": "진짜 잠깐만",
-      "duration": 27
-    },
-    {
-      "views": 1477602,
+      "views": 1503370,
       "title": "1000만 유튜버도 놀란 삼성 최저가 폰의 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 35
     },
     {
-      "views": 1448842,
+      "views": 1467054,
       "title": "모니터를 구부리면 그게 커브드 모니터지",
       "upload_year": "2026",
       "channel": "어랍숏",
       "duration": 50
     },
     {
-      "views": 1164847,
+      "views": 1233165,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
       "duration": 18
     },
     {
-      "views": 997574,
+      "views": 1215865,
       "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
       "upload_year": "2026",
       "channel": "1분미만",
       "duration": 36
+    },
+    {
+      "views": 787216,
+      "title": "삼성이 폴드8을 공개한 진짜 이유",
+      "upload_year": "2026",
+      "channel": "짧주",
+      "duration": 41
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "갤럭시",
     "이유",
+    "갤럭시",
     "삼성",
-    "폴드8",
     "충격적인",
     "Z폴드8",
-    "이상한",
+    "폴드8",
     "실제로",
-    "#shorts",
     "삼성이",
     "컴퓨터",
     "이제",
     "기술을",
-    "대신",
+    "삼성의",
     "그냥",
-    "후기",
+    "대신",
     "에어컨",
-    "울트라",
+    "전에",
     "이거",
-    "전에"
+    "#shorts",
+    "울트라",
+    "1000만"
   ],
   "channel_distribution": [
-    {
-      "channel": "진짜 잠깐만",
-      "count": 1
-    },
     {
       "channel": "일분일초",
       "count": 1
@@ -91,11 +87,15 @@
       "count": 1
     },
     {
-      "channel": " YTN",
+      "channel": "짧주",
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "짤컷",
+      "count": 1
+    },
+    {
+      "channel": "썰스피커",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "썰스피커",
+      "channel": "시작의땅",
       "count": 1
     }
   ],
