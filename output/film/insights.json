@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, #shorts, #드라마, #참교육, #사이다, 마지막",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, #shorts, 방송, 이유, #참교육, #사이다",
   "top_videos_summary": [
     {
-      "views": 6263640,
+      "views": 6711288,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 5020442,
+      "views": 5179495,
       "title": "유인나의 한마디에 긁혀버린 이동욱",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 26
     },
     {
-      "views": 4482418,
+      "views": 4941665,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
     },
     {
-      "views": 3658293,
-      "title": "조국이 해방된 날 조선의 마지막 옹주가 미쳐버려야 했던 이유는?",
+      "views": 3574153,
+      "title": "티라노가 인간의 말을 알아들으면 벌어지는 일",
       "upload_year": "2026",
-      "channel": "한눈정리",
-      "duration": 53
+      "channel": "헛개리카노",
+      "duration": 105
     },
     {
-      "views": 3445934,
+      "views": 3520758,
       "title": "한마디로 사단장이 된 한혜진",
       "upload_year": "2026",
       "channel": "1분윰어",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "방법",
     "#shorts",
-    "#드라마",
+    "방송",
+    "이유",
     "#참교육",
     "#사이다",
-    "마지막",
     "한혜진",
     "참교육하는",
-    "영화",
     "남자",
-    "되는",
-    "방송",
     "생기는",
-    "#아파트",
-    "#군대",
-    "#신병",
+    "참교육",
+    "#예능",
+    "#웃긴영상",
+    "훔친",
+    "#드라마",
     "#넷플릭스",
     "판사",
     "취향",
-    "제대로"
+    "제대로",
+    "저격한"
   ],
   "channel_distribution": [
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "한눈정리",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
@@ -91,11 +91,7 @@
       "count": 1
     },
     {
-      "channel": "숏스터무비",
-      "count": 1
-    },
-    {
-      "channel": "헛개리카노",
+      "channel": "올해엔 금연",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "올해엔 금연",
+      "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "esports KBS",
+      "channel": "숏무비플렉스",
+      "count": 1
+    },
+    {
+      "channel": "짧은장면",
       "count": 1
     }
   ],
