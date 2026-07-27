@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방송, 방법, 되는, 참교육하는, #아는형님",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방송, 레전드, 이유, 되는, 참교육하는",
   "top_videos_summary": [
     {
-      "views": 6263156,
+      "views": 6711288,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 5020209,
+      "views": 5179495,
       "title": "유인나의 한마디에 긁혀버린 이동욱",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 26
     },
     {
-      "views": 4481773,
+      "views": 4941478,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
     },
     {
-      "views": 4295084,
+      "views": 4485631,
       "title": "함부로 따라하면 안 되는 국경 점프 챌린지",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 37
     },
     {
-      "views": 3932980,
+      "views": 4256393,
       "title": "‘연예인병이 없어야만‘ 나온다는 명장면들",
       "upload_year": "2026",
       "channel": "K-인정",
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "#shorts",
     "방송",
-    "방법",
-    "되는",
-    "참교육하는",
-    "#아는형님",
-    "남자",
-    "KBS",
     "레전드",
     "이유",
-    "리센느",
+    "되는",
+    "참교육하는",
+    "방법",
+    "#아는형님",
+    "남자",
+    "생기는",
+    "참교육",
+    "KBS",
+    "#예능",
+    "복수",
     "#드라마",
     "#참교육",
     "#사이다",
     "#넷플릭스",
     "판사",
-    "취향",
-    "제대로",
-    "저격한",
-    "역대급"
+    "취향"
   ],
   "channel_distribution": [
     {
@@ -91,19 +91,19 @@
       "count": 1
     },
     {
-      "channel": "팩냥이",
-      "count": 1
-    },
-    {
-      "channel": "1분윰어",
-      "count": 1
-    },
-    {
       "channel": "초미녀갤러리",
       "count": 1
     },
     {
+      "channel": "팩냥이",
+      "count": 1
+    },
+    {
       "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "1분윰어",
       "count": 1
     },
     {
