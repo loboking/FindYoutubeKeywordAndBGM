@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방송, 한혜진, 참교육하는, 방법, 남자",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 남자, 방송, 한혜진, 참교육하는, 생기는",
   "top_videos_summary": [
     {
-      "views": 5287188,
-      "title": "짝사랑에 실패한 써브웨이 알바생",
-      "upload_year": "2026",
-      "channel": "먹기전에",
-      "duration": 130
-    },
-    {
-      "views": 4941665,
+      "views": 5112640,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
     },
     {
-      "views": 3574153,
+      "views": 3647020,
       "title": "티라노가 인간의 말을 알아들으면 벌어지는 일",
       "upload_year": "2026",
       "channel": "헛개리카노",
       "duration": 105
     },
     {
-      "views": 3520758,
+      "views": 3578112,
+      "title": "공부천재 싸패 손녀의 진로선택 #수지 #김미경",
+      "upload_year": "2026",
+      "channel": "올해엔 금연",
+      "duration": 60
+    },
+    {
+      "views": 3561229,
       "title": "한마디로 사단장이 된 한혜진",
       "upload_year": "2026",
       "channel": "1분윰어",
       "duration": 21
     },
     {
-      "views": 3270526,
-      "title": "공부천재 싸패 손녀의 진로선택 #수지 #김미경",
+      "views": 3293933,
+      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
-      "channel": "올해엔 금연",
-      "duration": 60
+      "channel": "숏파민",
+      "duration": 59
     }
   ],
   "outlier_adjusted": {
@@ -49,31 +49,27 @@
   },
   "trend_keywords": [
     "#shorts",
+    "남자",
     "방송",
     "한혜진",
     "참교육하는",
-    "방법",
-    "남자",
     "생기는",
-    "KBS",
-    "리센느",
-    "이유",
-    "이선민",
+    "방법",
+    "참교육",
     "#예능",
+    "이선민",
+    "이유",
+    "리센느",
     "#웃긴영상",
-    "#시니어드라마",
     "최용수",
-    "짝사랑에",
-    "실패한",
-    "써브웨이",
-    "알바생",
-    "순발력"
+    "순발력",
+    "개쩌는",
+    "신동엽과",
+    "이효리",
+    "티라노가",
+    "인간의"
   ],
   "channel_distribution": [
-    {
-      "channel": "먹기전에",
-      "count": 1
-    },
     {
       "channel": "거끄로해드리효리",
       "count": 1
@@ -83,23 +79,11 @@
       "count": 1
     },
     {
-      "channel": "1분윰어",
-      "count": 1
-    },
-    {
       "channel": "올해엔 금연",
       "count": 1
     },
     {
-      "channel": "봤찌롱",
-      "count": 1
-    },
-    {
-      "channel": "예능내컷",
-      "count": 1
-    },
-    {
-      "channel": "숏무비플렉스",
+      "channel": "1분윰어",
       "count": 1
     },
     {
@@ -108,6 +92,22 @@
     },
     {
       "channel": "짧은장면",
+      "count": 1
+    },
+    {
+      "channel": "봤찌롱",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "숏무비플렉스",
+      "count": 1
+    },
+    {
+      "channel": "예능내컷",
       "count": 1
     }
   ],
