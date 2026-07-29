@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 만드는, 힘든, 이유, 진짜, #shorts, 케이크를",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 만드는, 방법, 이유, 인생, 피규어, 만들기",
   "top_videos_summary": [
     {
-      "views": 10504189,
+      "views": 15716996,
       "title": "哈哈哈，怪好玩的咧～ #鬥舞 #萌娃跳舞 #人類幼崽 #今日萌娃 #幼崽社交",
       "upload_year": "2026",
       "channel": "nuobaoriji",
       "duration": 16
     },
     {
-      "views": 6185169,
+      "views": 7084444,
       "title": "6살 수영천재의 미친 훈련 수준 ㄷㄷ",
       "upload_year": "2026",
       "channel": "꿀잼공장장",
       "duration": 26
     },
     {
-      "views": 4853987,
+      "views": 6495095,
       "title": "Con Quái Từ Bóng Tối! | The Monster From the Shadows!",
       "upload_year": "2026",
       "channel": "Dân Biển Vlog",
       "duration": 13
     },
     {
-      "views": 3106003,
+      "views": 3182011,
       "title": "목줄 길이만 30M 7살 보더콜리 마당개",
       "upload_year": "2026",
       "channel": "햅독 HAPDOG",
       "duration": 118
     },
     {
-      "views": 3007937,
+      "views": 3156390,
       "title": "왁뿌볼 부수기 초보 중수 고수",
       "upload_year": "2026",
       "channel": "제로크림",
@@ -43,19 +43,20 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.18,
+    "top1_share": 0.23,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "만드는",
-    "힘든",
+    "방법",
     "이유",
-    "진짜",
-    "#shorts",
-    "케이크를",
     "인생",
+    "피규어",
     "만들기",
+    "엄마",
+    "레시피",
+    "음식",
     "6살",
     "수영천재의",
     "미친",
@@ -66,8 +67,7 @@
     "Từ",
     "Bóng",
     "Tối",
-    "The",
-    "Monster"
+    "The"
   ],
   "channel_distribution": [
     {
