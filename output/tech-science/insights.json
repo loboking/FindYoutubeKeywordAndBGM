@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 이유, 갤럭시, 충격적인, 삼성, 폴드8, Z폴드8",
+  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 이유, 삼성, 충격적인, 폴드8, 갤럭시, Z폴드8",
   "top_videos_summary": [
     {
-      "views": 1476305,
+      "views": 1489577,
       "title": "모니터를 구부리면 그게 커브드 모니터지",
       "upload_year": "2026",
       "channel": "어랍숏",
       "duration": 50
     },
     {
-      "views": 1326235,
+      "views": 1361455,
       "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
       "upload_year": "2026",
       "channel": "1분미만",
       "duration": 36
     },
     {
-      "views": 1272179,
+      "views": 1301376,
       "title": "USB 케이블 하나로 무드등 완성",
       "upload_year": "2026",
       "channel": "썰헌터",
       "duration": 18
     },
     {
-      "views": 680243,
+      "views": 849767,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
     },
     {
-      "views": 664451,
-      "title": "애플 엿 먹이기 시작한 삼성",
+      "views": 801725,
+      "title": "삼성이 홍보도 안 한 휴대폰의 정체",
       "upload_year": "2026",
-      "channel": "썰스피커",
-      "duration": 34
+      "channel": "일분일초",
+      "duration": 42
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "이유",
-    "갤럭시",
-    "충격적인",
     "삼성",
+    "충격적인",
     "폴드8",
+    "갤럭시",
     "Z폴드8",
-    "단점",
     "실제로",
     "이제",
     "기술을",
     "삼성의",
-    "기능",
+    "삼성이",
     "폴드8로",
     "대신",
+    "후기",
     "에어컨",
-    "삼성이",
-    "전에",
-    "#갤럭시Z폴드8",
     "모니터를",
-    "구부리면"
+    "구부리면",
+    "그게",
+    "커브드",
+    "모니터지"
   ],
   "channel_distribution": [
     {
@@ -87,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "일분일초",
+      "count": 1
+    },
+    {
       "channel": "썰스피커",
       "count": 1
     },
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": "김블루",
-      "count": 1
-    },
-    {
-      "channel": "손끝다큐",
-      "count": 1
-    },
-    {
-      "channel": "지식꼬다리",
+      "channel": "짧주",
       "count": 1
     },
     {
       "channel": "주연 ZUYONI",
+      "count": 1
+    },
+    {
+      "channel": "김블루",
       "count": 1
     }
   ],
