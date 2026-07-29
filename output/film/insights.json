@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 남자, 방송, 방법, 참교육, 이유",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 방법, 이유, 남자, 방송, 생기는",
   "top_videos_summary": [
     {
-      "views": 7138915,
+      "views": 7424356,
       "title": "판사 취향 제대로 저격한 역대급 아빠찬스 #드라마 #참교육 #사이다 #넷플릭스",
       "upload_year": "2026",
       "channel": "무비젤리",
       "duration": 61
     },
     {
-      "views": 5350742,
+      "views": 5497678,
       "title": "유인나의 한마디에 긁혀버린 이동욱",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 26
     },
     {
-      "views": 5113481,
+      "views": 5246319,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
     },
     {
-      "views": 3647176,
-      "title": "티라노가 인간의 말을 알아들으면 벌어지는 일",
+      "views": 3906936,
+      "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
-      "channel": "헛개리카노",
-      "duration": 105
+      "channel": "짧은장면",
+      "duration": 47
     },
     {
-      "views": 3561432,
-      "title": "한마디로 사단장이 된 한혜진",
+      "views": 3588010,
+      "title": "방송 중 군대 얘기가 나오면 생기는 일ㅋㅋ",
       "upload_year": "2026",
-      "channel": "1분윰어",
-      "duration": 21
+      "channel": "스타잇",
+      "duration": 58
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "#shorts",
+    "방법",
+    "이유",
     "남자",
     "방송",
-    "방법",
-    "참교육",
-    "이유",
-    "#드라마",
-    "#넷플릭스",
-    "한혜진",
-    "참교육하는",
     "생기는",
+    "참교육",
     "#예능",
     "#웃긴영상",
+    "#드라마",
+    "#넷플릭스",
+    "역대급",
+    "참교육하는",
+    "#수지",
+    "#이주영",
+    "#스케치코미디",
+    "#코미디",
+    "정체",
     "#참교육",
-    "#사이다",
-    "판사",
-    "취향",
-    "제대로",
-    "저격한",
-    "역대급"
+    "#사이다"
   ],
   "channel_distribution": [
     {
@@ -83,14 +83,6 @@
       "count": 1
     },
     {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
-      "channel": "1분윰어",
-      "count": 1
-    },
-    {
       "channel": "짧은장면",
       "count": 1
     },
@@ -99,15 +91,23 @@
       "count": 1
     },
     {
-      "channel": "숏무비플렉스",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
       "count": 1
     },
     {
-      "channel": "CheezeFilm",
+      "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "숏무비플렉스",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     }
   ],
