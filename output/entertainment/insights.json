@@ -3,99 +3,75 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 방법, 참교육, 이유, 마지막",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 참교육, 마지막, #shorts, 참교육하는, 레전드",
   "top_videos_summary": [
     {
-      "views": 5497678,
-      "title": "유인나의 한마디에 긁혀버린 이동욱",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 26
-    },
-    {
-      "views": 4436969,
-      "title": "같은 반에 뉴진스 엔믹스",
-      "upload_year": "2026",
-      "channel": "초미녀갤러리",
-      "duration": 15
-    },
-    {
-      "views": 4341241,
+      "views": 4567150,
       "title": "독기 가득한 아이브 마지막 월말평가",
       "upload_year": "2026",
       "channel": "팩냥이",
       "duration": 27
     },
     {
-      "views": 3905410,
+      "views": 4359649,
+      "title": "이수근 예능감",
+      "upload_year": "2026",
+      "channel": "esports KBS",
+      "duration": 33
+    },
+    {
+      "views": 4354241,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 3755593,
+      "views": 4212903,
       "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
       "channel": "숏파민",
       "duration": 59
+    },
+    {
+      "views": 3997478,
+      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
+      "upload_year": "2026",
+      "channel": "영화볼래",
+      "duration": 27
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.04,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "생기는",
-    "방법",
     "참교육",
-    "이유",
     "마지막",
-    "남자",
+    "#shorts",
     "참교육하는",
     "레전드",
-    "방송",
-    "#아는형님",
-    "리센느",
     "모국어",
+    "방법",
+    "리센느",
     "#수지",
     "#이주영",
+    "카리나",
+    "하면",
+    "행동",
     "#예능",
-    "정체",
-    "유인나의",
-    "한마디에",
-    "긁혀버린"
+    "이유",
+    "#웃긴영상",
+    "#넷플릭스",
+    "독기",
+    "가득한"
   ],
   "channel_distribution": [
     {
-      "channel": "뜨비",
-      "count": 1
-    },
-    {
-      "channel": "초미녀갤러리",
-      "count": 1
-    },
-    {
       "channel": "팩냥이",
-      "count": 1
-    },
-    {
-      "channel": "짧은장면",
-      "count": 1
-    },
-    {
-      "channel": "숏파민",
-      "count": 1
-    },
-    {
-      "channel": "아이픽",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -103,11 +79,35 @@
       "count": 1
     },
     {
-      "channel": "숏무비플렉스",
+      "channel": "짧은장면",
+      "count": 1
+    },
+    {
+      "channel": "숏파민",
+      "count": 1
+    },
+    {
+      "channel": "영화볼래",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
       "count": 1
     },
     {
       "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "숏무비플렉스",
+      "count": 1
+    },
+    {
+      "channel": "IDM CAM",
       "count": 1
     }
   ],
