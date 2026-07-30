@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #웃긴영상, 남자, 방송, 생기는, 방법",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, #예능, 참교육하는, 벌어지는, 방송",
   "top_videos_summary": [
     {
-      "views": 3906936,
+      "views": 4359649,
+      "title": "이수근 예능감",
+      "upload_year": "2026",
+      "channel": "esports KBS",
+      "duration": 33
+    },
+    {
+      "views": 4354827,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 3756720,
+      "views": 4212903,
       "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
       "channel": "숏파민",
       "duration": 59
     },
     {
-      "views": 3588010,
-      "title": "방송 중 군대 얘기가 나오면 생기는 일ㅋㅋ",
+      "views": 3997478,
+      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 58
+      "channel": "영화볼래",
+      "duration": 27
     },
     {
-      "views": 3336337,
+      "views": 3661684,
       "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 79
-    },
-    {
-      "views": 3294603,
-      "title": "이수근 예능감",
-      "upload_year": "2026",
-      "channel": "esports KBS",
-      "duration": 33
     }
   ],
   "outlier_adjusted": {
@@ -49,27 +49,31 @@
   },
   "trend_keywords": [
     "#shorts",
-    "#웃긴영상",
-    "남자",
-    "방송",
     "생기는",
-    "방법",
     "#예능",
     "참교육하는",
+    "벌어지는",
+    "방송",
     "이선민",
     "참교육",
     "반전",
-    "#스케치코미디",
-    "#코미디",
     "이유",
-    "#웃긴짤",
+    "#웃긴영상",
+    "#리센느",
+    "아니라",
+    "있는",
+    "#예능레전드",
+    "이수근",
+    "예능감",
     "#연애전쟁",
     "※이숙캠",
-    "아님※",
-    "돈으로",
-    "무시하는"
+    "아님※"
   ],
   "channel_distribution": [
+    {
+      "channel": "esports KBS",
+      "count": 1
+    },
     {
       "channel": "짧은장면",
       "count": 1
@@ -79,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
+      "channel": "영화볼래",
       "count": 1
     },
     {
@@ -87,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "esports KBS",
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
-    {
       "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "올해엔 금연",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
-      "channel": "숨은명화찾기",
+      "channel": "올해엔 금연",
       "count": 1
     }
   ],
