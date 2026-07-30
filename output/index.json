@@ -4,31 +4,31 @@
       "slug": "entertainment",
       "name": "엔터테인먼트",
       "mode": "category",
-      "last_updated": "2026-07-29 05:36 (KST)"
+      "last_updated": "2026-07-30 05:27 (KST)"
     },
     {
       "slug": "howto-style",
       "name": "일상/스타일",
       "mode": "category",
-      "last_updated": "2026-07-29 05:37 (KST)"
+      "last_updated": "2026-07-30 05:28 (KST)"
     },
     {
       "slug": "comedy",
       "name": "코미디",
       "mode": "category",
-      "last_updated": "2026-07-29 05:38 (KST)"
+      "last_updated": "2026-07-30 05:30 (KST)"
     },
     {
       "slug": "tech-science",
       "name": "과학/기술",
       "mode": "category",
-      "last_updated": "2026-07-29 05:56 (KST)"
+      "last_updated": "2026-07-30 05:31 (KST)"
     },
     {
       "slug": "film",
       "name": "영화/애니",
       "mode": "category",
-      "last_updated": "2026-07-29 05:57 (KST)"
+      "last_updated": "2026-07-30 05:32 (KST)"
     }
   ],
   "default": "entertainment"
