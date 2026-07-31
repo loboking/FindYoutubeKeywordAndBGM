@@ -3,79 +3,83 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 참교육, 마지막, #shorts, 참교육하는, 레전드",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, #shorts, 참교육, 모국어, 레전드, 카리나",
   "top_videos_summary": [
     {
-      "views": 4567150,
-      "title": "독기 가득한 아이브 마지막 월말평가",
-      "upload_year": "2026",
-      "channel": "팩냥이",
-      "duration": 27
-    },
-    {
-      "views": 4359649,
+      "views": 5195202,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 4354241,
+      "views": 4826018,
+      "title": "독기 가득한 아이브 마지막 월말평가",
+      "upload_year": "2026",
+      "channel": "팩냥이",
+      "duration": 27
+    },
+    {
+      "views": 4595435,
+      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
+      "upload_year": "2026",
+      "channel": "영화볼래",
+      "duration": 27
+    },
+    {
+      "views": 4554298,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 4212903,
+      "views": 4517103,
       "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
       "channel": "숏파민",
       "duration": 59
-    },
-    {
-      "views": 3997478,
-      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
-      "upload_year": "2026",
-      "channel": "영화볼래",
-      "duration": 27
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.04,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "생기는",
-    "참교육",
-    "마지막",
     "#shorts",
-    "참교육하는",
-    "레전드",
+    "참교육",
     "모국어",
-    "방법",
-    "리센느",
-    "#수지",
-    "#이주영",
+    "레전드",
     "카리나",
     "하면",
     "행동",
-    "#예능",
     "이유",
-    "#웃긴영상",
-    "#넷플릭스",
+    "장면",
+    "#김부장",
+    "이수근",
+    "예능감",
     "독기",
-    "가득한"
+    "가득한",
+    "아이브",
+    "마지막",
+    "월말평가",
+    "#스물다섯스물하나",
+    "#김태리"
   ],
   "channel_distribution": [
+    {
+      "channel": "esports KBS",
+      "count": 1
+    },
     {
       "channel": "팩냥이",
       "count": 1
     },
     {
-      "channel": "esports KBS",
+      "channel": "영화볼래",
       "count": 1
     },
     {
@@ -87,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "영화볼래",
+      "channel": "스타잇",
       "count": 1
     },
     {
@@ -99,11 +103,7 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "숏무비플렉스",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
