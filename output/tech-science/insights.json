@@ -3,87 +3,79 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=41)에서 두드러진 소재/키워드: 이유, 삼성, 충격적인, 폴드8, 갤럭시, 실제로",
+  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 이유, 갤럭시, 기능, 폴드8, 후기, 삼성이",
   "top_videos_summary": [
     {
-      "views": 1504435,
-      "title": "모니터를 구부리면 그게 커브드 모니터지",
-      "upload_year": "2026",
-      "channel": "어랍숏",
-      "duration": 50
-    },
-    {
-      "views": 1375726,
-      "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
-      "upload_year": "2026",
-      "channel": "1분미만",
-      "duration": 36
-    },
-    {
-      "views": 1331766,
-      "title": "USB 케이블 하나로 무드등 완성",
-      "upload_year": "2026",
-      "channel": "썰헌터",
-      "duration": 18
-    },
-    {
-      "views": 1173388,
+      "views": 1465468,
       "title": "삼성이 홍보도 안 한 휴대폰의 정체",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 42
     },
     {
-      "views": 959825,
+      "views": 1384915,
+      "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
+      "upload_year": "2026",
+      "channel": "1분미만",
+      "duration": 36
+    },
+    {
+      "views": 1068153,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
+    },
+    {
+      "views": 1003818,
+      "title": "폴드8부터 들어간다는 새로운 보안 기능",
+      "upload_year": "2026",
+      "channel": "짧주",
+      "duration": 41
+    },
+    {
+      "views": 789590,
+      "title": "삼성이 애플에게 모욕감을 줬어",
+      "upload_year": "2026",
+      "channel": "프로필TV",
+      "duration": 67
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "삼성",
-    "충격적인",
-    "폴드8",
     "갤럭시",
-    "실제로",
+    "기능",
+    "폴드8",
+    "후기",
     "삼성이",
+    "실제로",
     "이제",
     "기술을",
     "삼성의",
-    "기능",
-    "폴드8로",
+    "충격적인",
+    "폴드를",
+    "애플",
+    "삼성",
     "Z폴드8",
-    "후기",
-    "대신",
     "에어컨",
-    "모니터를",
-    "구부리면",
-    "그게",
-    "커브드"
+    "#갤럭시",
+    "홍보도",
+    "휴대폰의",
+    "정체"
   ],
   "channel_distribution": [
     {
-      "channel": "어랍숏",
+      "channel": "일분일초",
       "count": 1
     },
     {
       "channel": "1분미만",
-      "count": 1
-    },
-    {
-      "channel": "썰헌터",
-      "count": 1
-    },
-    {
-      "channel": "일분일초",
       "count": 1
     },
     {
@@ -95,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "주니웨어 주니",
-      "count": 1
-    },
-    {
-      "channel": "썰스피커",
+      "channel": "프로필TV",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
-      "channel": "프로필TV",
+      "channel": "썰스피커",
+      "count": 1
+    },
+    {
+      "channel": "Shocking Spot",
+      "count": 1
+    },
+    {
+      "channel": "지식꼬다리",
+      "count": 1
+    },
+    {
+      "channel": "재미쏙",
       "count": 1
     }
   ],
