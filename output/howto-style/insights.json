@@ -3,77 +3,73 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 왁뿌볼, 인생, 엄마, 레시피, 음식, #haaland",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: #shorts, 생기는, 음식, Hero, Frees, Pelicans",
   "top_videos_summary": [
     {
-      "views": 31279795,
-      "title": "Haaland is enjoying his vacation🇳🇴 #haaland #worldcup2026 #norway",
-      "upload_year": "2026",
-      "channel": "Alex Noddeland",
-      "duration": 10
-    },
-    {
-      "views": 20248079,
+      "views": 23791997,
       "title": "哈哈哈，怪好玩的咧～ #鬥舞 #萌娃跳舞 #人類幼崽 #今日萌娃 #幼崽社交",
       "upload_year": "2026",
       "channel": "nuobaoriji",
       "duration": 16
     },
     {
-      "views": 14327364,
+      "views": 18891953,
       "title": "Hero Frees Pelicans Beak",
       "upload_year": "2026",
       "channel": "Sassy ",
       "duration": 113
     },
     {
-      "views": 7744371,
+      "views": 8264829,
       "title": "6살 수영천재의 미친 훈련 수준 ㄷㄷ",
       "upload_year": "2026",
       "channel": "꿀잼공장장",
       "duration": 26
     },
     {
-      "views": 3283074,
-      "title": "왁뿌볼 부수기 초보 중수 고수",
+      "views": 5175202,
+      "title": "#farming #agriculture #shortvideo #shortsfeed #youtubeshorts",
       "upload_year": "2026",
-      "channel": "제로크림",
+      "channel": "AK VIP Kotputli",
       "duration": 34
+    },
+    {
+      "views": 3390442,
+      "title": "목줄 길이만 30M 7살 보더콜리 마당개",
+      "upload_year": "2026",
+      "channel": "햅독 HAPDOG",
+      "duration": 118
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.29,
+    "top1_share": 0.28,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "왁뿌볼",
-    "인생",
-    "엄마",
-    "레시피",
+    "#shorts",
+    "생기는",
     "음식",
-    "#haaland",
-    "#worldcup2026",
-    "#norway",
-    "Haaland",
-    "is",
-    "enjoying",
-    "his",
-    "vacation",
     "Hero",
     "Frees",
     "Pelicans",
     "Beak",
     "6살",
     "수영천재의",
-    "미친"
+    "미친",
+    "훈련",
+    "수준",
+    "#farming",
+    "#agriculture",
+    "#shortvideo",
+    "#shortsfeed",
+    "#youtubeshorts",
+    "목줄",
+    "길이만",
+    "30M"
   ],
   "channel_distribution": [
-    {
-      "channel": "Alex Noddeland",
-      "count": 1
-    },
     {
       "channel": "nuobaoriji",
       "count": 1
@@ -87,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "제로크림",
+      "channel": "AK VIP Kotputli",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "쇼츠츄러스",
+      "channel": "숏플레이",
       "count": 1
     },
     {
-      "channel": "\b고기남자",
+      "channel": "공간 탐닉 Space Tamnik",
+      "count": 1
+    },
+    {
+      "channel": "晚晚小北鼻",
       "count": 1
     }
   ],
