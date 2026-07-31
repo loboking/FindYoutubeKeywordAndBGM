@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, #예능, 참교육하는, 벌어지는, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, 생기는, #웃긴영상, 벌어지는, #shorts, 참교육하는",
   "top_videos_summary": [
     {
-      "views": 4359649,
+      "views": 5195216,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 4354827,
-      "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
-      "upload_year": "2026",
-      "channel": "짧은장면",
-      "duration": 47
-    },
-    {
-      "views": 4212903,
-      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
-      "upload_year": "2026",
-      "channel": "숏파민",
-      "duration": 59
-    },
-    {
-      "views": 3997478,
+      "views": 4595435,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 3661684,
+      "views": 4554823,
+      "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
+      "upload_year": "2026",
+      "channel": "짧은장면",
+      "duration": 47
+    },
+    {
+      "views": 4517422,
+      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
+      "upload_year": "2026",
+      "channel": "숏파민",
+      "duration": 59
+    },
+    {
+      "views": 4079574,
       "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
       "channel": "옥상평상",
@@ -43,35 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
-    "생기는",
     "#예능",
-    "참교육하는",
-    "벌어지는",
-    "방송",
-    "이선민",
-    "참교육",
-    "반전",
-    "이유",
+    "생기는",
     "#웃긴영상",
-    "#리센느",
+    "벌어지는",
+    "#shorts",
+    "참교육하는",
+    "방송",
+    "방법",
+    "참교육",
+    "이선민",
+    "이유",
+    "#스케치코미디",
+    "#코미디",
     "아니라",
+    "웃긴",
     "있는",
     "#예능레전드",
     "이수근",
     "예능감",
-    "#연애전쟁",
-    "※이숙캠",
-    "아님※"
+    "#스물다섯스물하나"
   ],
   "channel_distribution": [
     {
       "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "영화볼래",
       "count": 1
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "channel": "숏파민",
-      "count": 1
-    },
-    {
-      "channel": "영화볼래",
       "count": 1
     },
     {
@@ -99,11 +99,11 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
-      "channel": "헛개리카노",
+      "channel": "힐링무비",
       "count": 1
     },
     {
