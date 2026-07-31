@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 남자, 생기는, #예능, 참교육",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, #예능, 벌어지는, 남자",
   "top_videos_summary": [
     {
-      "views": 5672125,
-      "title": "유인나의 한마디에 긁혀버린 이동욱",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 26
-    },
-    {
-      "views": 5469960,
+      "views": 5624554,
       "title": "순발력 개쩌는 신동엽과 이효리 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "거끄로해드리효리",
       "duration": 11
     },
     {
-      "views": 4359649,
+      "views": 5195216,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 4354827,
+      "views": 4596138,
+      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
+      "upload_year": "2026",
+      "channel": "영화볼래",
+      "duration": 27
+    },
+    {
+      "views": 4554829,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 3997478,
-      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
+      "views": 4079574,
+      "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
-      "channel": "영화볼래",
-      "duration": 27
+      "channel": "옥상평상",
+      "duration": 79
     }
   ],
   "outlier_adjusted": {
@@ -50,30 +50,26 @@
   "trend_keywords": [
     "이유",
     "#shorts",
-    "남자",
     "생기는",
     "#예능",
-    "참교육",
+    "벌어지는",
+    "남자",
     "참교육하는",
     "레전드",
-    "방송",
     "방법",
     "#수지",
     "#이주영",
-    "정체",
+    "참교육",
     "#넷플릭스",
-    "#드라마",
+    "장면",
     "#김부장",
-    "유인나의",
-    "한마디에",
-    "긁혀버린",
-    "이동욱"
+    "#드라마",
+    "순발력",
+    "개쩌는",
+    "신동엽과",
+    "이효리"
   ],
   "channel_distribution": [
-    {
-      "channel": "뜨비",
-      "count": 1
-    },
     {
       "channel": "거끄로해드리효리",
       "count": 1
@@ -83,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "짧은장면",
+      "channel": "영화볼래",
       "count": 1
     },
     {
-      "channel": "영화볼래",
+      "channel": "짧은장면",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
-      "channel": "헛개리카노",
+      "channel": "힐링무비",
+      "count": 1
+    },
+    {
+      "channel": "올해엔 금연",
       "count": 1
     }
   ],
