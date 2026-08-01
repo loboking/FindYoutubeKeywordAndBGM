@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, 생기는, #웃긴영상, 벌어지는, #shorts, 참교육하는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, #웃긴영상, #shorts, 생기는, 이유, 벌어지는",
   "top_videos_summary": [
     {
-      "views": 5195216,
+      "views": 6076496,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 4595435,
+      "views": 5250260,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 4554823,
-      "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
-      "upload_year": "2026",
-      "channel": "짧은장면",
-      "duration": 47
-    },
-    {
-      "views": 4517422,
+      "views": 4767355,
       "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
       "channel": "숏파민",
       "duration": 59
     },
     {
-      "views": 4079574,
+      "views": 4731501,
+      "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
+      "upload_year": "2026",
+      "channel": "짧은장면",
+      "duration": 47
+    },
+    {
+      "views": 4542942,
       "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
       "channel": "옥상평상",
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "#예능",
-    "생기는",
     "#웃긴영상",
-    "벌어지는",
     "#shorts",
-    "참교육하는",
-    "방송",
-    "방법",
-    "참교육",
-    "이선민",
+    "생기는",
     "이유",
+    "벌어지는",
+    "남자",
+    "참교육하는",
+    "방법",
+    "이선민",
+    "아니라",
+    "#snl",
     "#스케치코미디",
     "#코미디",
-    "아니라",
-    "웃긴",
     "있는",
+    "웃긴",
     "#예능레전드",
+    "#유머",
     "이수근",
-    "예능감",
-    "#스물다섯스물하나"
+    "예능감"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "짧은장면",
+      "channel": "숏파민",
       "count": 1
     },
     {
-      "channel": "숏파민",
+      "channel": "짧은장면",
       "count": 1
     },
     {
@@ -95,11 +95,11 @@
       "count": 1
     },
     {
-      "channel": "숏무비플렉스",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
-      "channel": "헛개리카노",
+      "channel": "숏무비플렉스",
       "count": 1
     },
     {
