@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, #shorts, 참교육, 모국어, 레전드, 카리나",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 생기는, 남자, 모국어, #예능, 이유",
   "top_videos_summary": [
     {
-      "views": 5195202,
+      "views": 6074977,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 4826018,
-      "title": "독기 가득한 아이브 마지막 월말평가",
-      "upload_year": "2026",
-      "channel": "팩냥이",
-      "duration": 27
-    },
-    {
-      "views": 4595435,
+      "views": 5248937,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 4554298,
+      "views": 4767355,
+      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
+      "upload_year": "2026",
+      "channel": "숏파민",
+      "duration": 59
+    },
+    {
+      "views": 4731501,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 4517103,
-      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
+      "views": 4602584,
+      "title": "모국어 쓰면 생기는 일ㅋㅋ 한국어 vs 모국어 온도차",
       "upload_year": "2026",
-      "channel": "숏파민",
-      "duration": 59
+      "channel": "스타잇",
+      "duration": 53
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "생기는",
     "#shorts",
-    "참교육",
+    "생기는",
+    "남자",
     "모국어",
-    "레전드",
-    "카리나",
-    "하면",
-    "행동",
+    "#예능",
     "이유",
-    "장면",
     "#김부장",
+    "#예능레전드",
     "이수근",
     "예능감",
-    "독기",
-    "가득한",
-    "아이브",
-    "마지막",
-    "월말평가",
     "#스물다섯스물하나",
-    "#김태리"
+    "#김태리",
+    "#김지연",
+    "짜장면",
+    "두그릇",
+    "시켰는데",
+    "한그릇만",
+    "주면",
+    "벌어지는",
+    "#라디오스타"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,15 @@
       "count": 1
     },
     {
-      "channel": "팩냥이",
-      "count": 1
-    },
-    {
       "channel": "영화볼래",
       "count": 1
     },
     {
-      "channel": "짧은장면",
+      "channel": "숏파민",
       "count": 1
     },
     {
-      "channel": "숏파민",
+      "channel": "짧은장면",
       "count": 1
     },
     {
@@ -104,6 +100,10 @@
     },
     {
       "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "힐링무비",
       "count": 1
     },
     {
