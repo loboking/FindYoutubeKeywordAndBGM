@@ -3,7 +3,7 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 42,
+  "shorts_found": 45,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
@@ -11,7 +11,7 @@
     {
       "id": "RqA8qpEiuKo",
       "title": "삼성이 홍보도 안 한 휴대폰의 정체",
-      "view_count": 1465468,
+      "view_count": 1656141,
       "duration": 42,
       "upload_date": "20260728",
       "category": "23",
@@ -22,7 +22,7 @@
     {
       "id": "uDHz0n_pqxs",
       "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
-      "view_count": 1384915,
+      "view_count": 1391776,
       "duration": 36,
       "upload_date": "20260724",
       "category": "26",
@@ -33,7 +33,7 @@
     {
       "id": "P0qTBwutwvI",
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
-      "view_count": 1068153,
+      "view_count": 1141456,
       "duration": 123,
       "upload_date": "20260725",
       "category": "22",
@@ -42,20 +42,9 @@
       "url": "https://www.youtube.com/watch?v=P0qTBwutwvI"
     },
     {
-      "id": "udk6KuLbYz4",
-      "title": "폴드8부터 들어간다는 새로운 보안 기능",
-      "view_count": 1003818,
-      "duration": 41,
-      "upload_date": "20260727",
-      "category": "20",
-      "channel": "짧주",
-      "source_channel": "짧주",
-      "url": "https://www.youtube.com/watch?v=udk6KuLbYz4"
-    },
-    {
       "id": "1X8dFWfs51g",
       "title": "삼성이 애플에게 모욕감을 줬어",
-      "view_count": 789590,
+      "view_count": 1067122,
       "duration": 67,
       "upload_date": "20260729",
       "category": "24",
@@ -64,9 +53,20 @@
       "url": "https://www.youtube.com/watch?v=1X8dFWfs51g"
     },
     {
+      "id": "udk6KuLbYz4",
+      "title": "폴드8부터 들어간다는 새로운 보안 기능",
+      "view_count": 1027621,
+      "duration": 41,
+      "upload_date": "20260727",
+      "category": "20",
+      "channel": "짧주",
+      "source_channel": "짧주",
+      "url": "https://www.youtube.com/watch?v=udk6KuLbYz4"
+    },
+    {
       "id": "uYCkDXrkUis",
       "title": "폴드를 제발 이렇게 쓰지마세요😵‍💫🙏🙏 폴드8 살사람 필독!! (제품대여포함)",
-      "view_count": 741012,
+      "view_count": 794280,
       "duration": 58,
       "upload_date": "20260727",
       "category": "28",
@@ -75,20 +75,9 @@
       "url": "https://www.youtube.com/watch?v=uYCkDXrkUis"
     },
     {
-      "id": "yqNKx7dCkag",
-      "title": "애플 엿 먹이기 시작한 삼성",
-      "view_count": 724822,
-      "duration": 34,
-      "upload_date": "20260723",
-      "category": "24",
-      "channel": "썰스피커",
-      "source_channel": "썰스피커",
-      "url": "https://www.youtube.com/watch?v=yqNKx7dCkag"
-    },
-    {
       "id": "FAQ9e-v7Jjk",
       "title": "오래된 모니터 절대 버리지 마세요!",
-      "view_count": 688739,
+      "view_count": 776307,
       "duration": 29,
       "upload_date": "20260727",
       "category": "23",
@@ -97,9 +86,31 @@
       "url": "https://www.youtube.com/watch?v=FAQ9e-v7Jjk"
     },
     {
+      "id": "yqNKx7dCkag",
+      "title": "애플 엿 먹이기 시작한 삼성",
+      "view_count": 752171,
+      "duration": 34,
+      "upload_date": "20260723",
+      "category": "24",
+      "channel": "썰스피커",
+      "source_channel": "썰스피커",
+      "url": "https://www.youtube.com/watch?v=yqNKx7dCkag"
+    },
+    {
+      "id": "penwhaZFQK8",
+      "title": "[리센느] 개인폰 없는 아이돌의 신형폰 리뷰 #리센느 #갤럭시 #제나",
+      "view_count": 568068,
+      "duration": 30,
+      "upload_date": "20260731",
+      "category": "24",
+      "channel": "리센느입니다",
+      "source_channel": "리센느입니다",
+      "url": "https://www.youtube.com/watch?v=penwhaZFQK8"
+    },
+    {
       "id": "AkI5TZQwYt4",
       "title": "불 켜고 보는 빔프로젝터",
-      "view_count": 484994,
+      "view_count": 485562,
       "duration": 13,
       "upload_date": "20260724",
       "category": "22",
@@ -108,9 +119,20 @@
       "url": "https://www.youtube.com/watch?v=AkI5TZQwYt4"
     },
     {
+      "id": "YON91JW-Y1o",
+      "title": "폴드8 궁금한점 모두 답해드림",
+      "view_count": 470352,
+      "duration": 163,
+      "upload_date": "20260729",
+      "category": "28",
+      "channel": "ITSub잇섭",
+      "source_channel": "ITSub잇섭",
+      "url": "https://www.youtube.com/watch?v=YON91JW-Y1o"
+    },
+    {
       "id": "pxOQivI297w",
       "title": "낚시 고수도 한번 써보고 감탄한 이유",
-      "view_count": 437476,
+      "view_count": 460330,
       "duration": 11,
       "upload_date": "20260725",
       "category": "22",
@@ -121,7 +143,7 @@
     {
       "id": "G2-qxJhxY2E",
       "title": "폴드7에서 폴드8로 넘어가야하는 결정적 이유..!",
-      "view_count": 427096,
+      "view_count": 438877,
       "duration": 18,
       "upload_date": "20260723",
       "category": "28",
@@ -130,9 +152,20 @@
       "url": "https://www.youtube.com/watch?v=G2-qxJhxY2E"
     },
     {
+      "id": "D-L7UPqiOGc",
+      "title": "리센느가 삼성한테 갤럭시 폴드를 선물받은 이유",
+      "view_count": 383900,
+      "duration": 19,
+      "upload_date": "20260731",
+      "category": "22",
+      "channel": "입덕창고",
+      "source_channel": "입덕창고",
+      "url": "https://www.youtube.com/watch?v=D-L7UPqiOGc"
+    },
+    {
       "id": "YGBSj7h4ECo",
       "title": "갤럭시 Z폴드8 후기, 실제로 써보면 괜찮을까?",
-      "view_count": 363257,
+      "view_count": 382843,
       "duration": 50,
       "upload_date": "20260724",
       "category": "28",
@@ -143,7 +176,7 @@
     {
       "id": "AP3yxcr_sVI",
       "title": "삼성, 애플 참교육. 메모리 수저 다운 모습... “당하지만은 않겠다”",
-      "view_count": 362147,
+      "view_count": 381128,
       "duration": 62,
       "upload_date": "20260727",
       "category": "25",
@@ -154,7 +187,7 @@
     {
       "id": "aza0PPaXwzM",
       "title": "스프레드시트 연동 스마트 줄자",
-      "view_count": 321959,
+      "view_count": 322734,
       "duration": 10,
       "upload_date": "20260726",
       "category": "26",
@@ -163,64 +196,9 @@
       "url": "https://www.youtube.com/watch?v=aza0PPaXwzM"
     },
     {
-      "id": "JfjRMokGqgM",
-      "title": "차라리 안하는게 나았던 갤폴드8 사전예약..? ㄷㄷ",
-      "view_count": 301917,
-      "duration": 32,
-      "upload_date": "20260728",
-      "category": "28",
-      "channel": "맥가이버",
-      "source_channel": "맥가이버",
-      "url": "https://www.youtube.com/watch?v=JfjRMokGqgM"
-    },
-    {
-      "id": "ynuSENBiY7w",
-      "title": "이제 에어컨 끌 때는 전원버튼 대신 '이 버튼' 누르세요. 에어컨 냄새 제거 방법으로 가장 확실한 꿀팁입니다",
-      "view_count": 280891,
-      "duration": 59,
-      "upload_date": "20260723",
-      "category": "26",
-      "channel": "슬이뷰",
-      "source_channel": "슬이뷰",
-      "url": "https://www.youtube.com/watch?v=ynuSENBiY7w"
-    },
-    {
-      "id": "udxYngfn3JE",
-      "title": "갤럭시 Z폴드8 생각보다 혜자인 이유",
-      "view_count": 252821,
-      "duration": 33,
-      "upload_date": "20260725",
-      "category": "28",
-      "channel": "티노",
-      "source_channel": "티노",
-      "url": "https://www.youtube.com/watch?v=udxYngfn3JE"
-    },
-    {
-      "id": "D-L7UPqiOGc",
-      "title": "리센느가 삼성한테 갤럭시 폴드를 선물받은 이유",
-      "view_count": 231968,
-      "duration": 19,
-      "upload_date": "20260731",
-      "category": "22",
-      "channel": "입덕창고",
-      "source_channel": "입덕창고",
-      "url": "https://www.youtube.com/watch?v=D-L7UPqiOGc"
-    },
-    {
-      "id": "03-pY44PEUE",
-      "title": "320만원 삼성 갤럭시z폴드와이드 와... 돈값하네",
-      "view_count": 223025,
-      "duration": 50,
-      "upload_date": "20260728",
-      "category": "24",
-      "channel": "보겸s",
-      "source_channel": "보겸s",
-      "url": "https://www.youtube.com/watch?v=03-pY44PEUE"
-    },
-    {
       "id": "aohcyMg3K_s",
       "title": "아이폰 1 출시일에 나타난 갑부여성",
-      "view_count": 208442,
+      "view_count": 312282,
       "duration": 32,
       "upload_date": "20260729",
       "category": "23",
@@ -229,86 +207,9 @@
       "url": "https://www.youtube.com/watch?v=aohcyMg3K_s"
     },
     {
-      "id": "JbqFX37J3vI",
-      "title": "아이폰이 유독 오타났던 충격적인 이유",
-      "view_count": 188282,
-      "duration": 24,
-      "upload_date": "20260725",
-      "category": "22",
-      "channel": "짤한줌",
-      "source_channel": "짤한줌",
-      "url": "https://www.youtube.com/watch?v=JbqFX37J3vI"
-    },
-    {
-      "id": "YZ8e4M6cMOU",
-      "title": "폴드8 미친(p) 이유",
-      "view_count": 183610,
-      "duration": 96,
-      "upload_date": "20260725",
-      "category": "22",
-      "channel": "제인킴",
-      "source_channel": "제인킴",
-      "url": "https://www.youtube.com/watch?v=YZ8e4M6cMOU"
-    },
-    {
-      "id": "CtD-N15ub_A",
-      "title": "엔비디아가 숨겨놓은 1,500만원짜리 기능",
-      "view_count": 182131,
-      "duration": 41,
-      "upload_date": "20260730",
-      "category": "23",
-      "channel": "군림보",
-      "source_channel": "군림보",
-      "url": "https://www.youtube.com/watch?v=CtD-N15ub_A"
-    },
-    {
-      "id": "wvIF8sts_kM",
-      "title": "폰 고른거 준다고 했더니 ㅋㅋㅋ",
-      "view_count": 173175,
-      "duration": 37,
-      "upload_date": "20260729",
-      "category": "24",
-      "channel": "뚜아뚜지TV",
-      "source_channel": "뚜아뚜지TV",
-      "url": "https://www.youtube.com/watch?v=wvIF8sts_kM"
-    },
-    {
-      "id": "Hg3xKH-Sap8",
-      "title": "채굴 개무섭네! 고장 난 이엠텍 RTX 3070 터보젯 그래픽 카드!",
-      "view_count": 159861,
-      "duration": 75,
-      "upload_date": "20260730",
-      "category": "28",
-      "channel": "낮에",
-      "source_channel": "낮에",
-      "url": "https://www.youtube.com/watch?v=Hg3xKH-Sap8"
-    },
-    {
-      "id": "mxEuERGUkY0",
-      "title": "미국 코스트코에서 난리난 게이밍 PC.jpg",
-      "view_count": 141996,
-      "duration": 27,
-      "upload_date": "20260731",
-      "category": "23",
-      "channel": "펀숏",
-      "source_channel": "펀숏",
-      "url": "https://www.youtube.com/watch?v=mxEuERGUkY0"
-    },
-    {
-      "id": "iRpxtiDjbXM",
-      "title": "선풍기 날개가 멈춰 보이는 이유",
-      "view_count": 141053,
-      "duration": 25,
-      "upload_date": "20260727",
-      "category": "22",
-      "channel": "조슈아매거진",
-      "source_channel": "조슈아매거진",
-      "url": "https://www.youtube.com/watch?v=iRpxtiDjbXM"
-    },
-    {
       "id": "O03xDhGUrv8",
       "title": "삼성에게 협찬받은 제나의 갤럭시 폴드8 후기",
-      "view_count": 140520,
+      "view_count": 279117,
       "duration": 20,
       "upload_date": "20260731",
       "category": "23",
@@ -317,31 +218,53 @@
       "url": "https://www.youtube.com/watch?v=O03xDhGUrv8"
     },
     {
-      "id": "Cdzelb_e5YI",
-      "title": "삼성의 '승부수' #shorts / YTN",
-      "view_count": 138579,
-      "duration": 32,
-      "upload_date": "20260726",
-      "category": "25",
-      "channel": " YTN",
-      "source_channel": " YTN",
-      "url": "https://www.youtube.com/watch?v=Cdzelb_e5YI"
+      "id": "udxYngfn3JE",
+      "title": "갤럭시 Z폴드8 생각보다 혜자인 이유",
+      "view_count": 262994,
+      "duration": 33,
+      "upload_date": "20260725",
+      "category": "28",
+      "channel": "티노",
+      "source_channel": "티노",
+      "url": "https://www.youtube.com/watch?v=udxYngfn3JE"
     },
     {
-      "id": "bQqFIlyHpT4",
-      "title": "당신의 컴퓨터 용량이 부족한 ‘충격적인 이유’",
-      "view_count": 133796,
-      "duration": 58,
-      "upload_date": "20260730",
-      "category": "26",
-      "channel": "꿀팁노트",
-      "source_channel": "꿀팁노트",
-      "url": "https://www.youtube.com/watch?v=bQqFIlyHpT4"
+      "id": "mxEuERGUkY0",
+      "title": "미국 코스트코에서 난리난 게이밍 PC.jpg",
+      "view_count": 259195,
+      "duration": 27,
+      "upload_date": "20260731",
+      "category": "23",
+      "channel": "펀숏",
+      "source_channel": "펀숏",
+      "url": "https://www.youtube.com/watch?v=mxEuERGUkY0"
+    },
+    {
+      "id": "03-pY44PEUE",
+      "title": "320만원 삼성 갤럭시z폴드와이드 와... 돈값하네",
+      "view_count": 231074,
+      "duration": 50,
+      "upload_date": "20260728",
+      "category": "24",
+      "channel": "보겸s",
+      "source_channel": "보겸s",
+      "url": "https://www.youtube.com/watch?v=03-pY44PEUE"
+    },
+    {
+      "id": "wvIF8sts_kM",
+      "title": "폰 고른거 준다고 했더니 ㅋㅋㅋ",
+      "view_count": 206610,
+      "duration": 37,
+      "upload_date": "20260729",
+      "category": "24",
+      "channel": "뚜아뚜지TV",
+      "source_channel": "뚜아뚜지TV",
+      "url": "https://www.youtube.com/watch?v=wvIF8sts_kM"
     },
     {
       "id": "FJ63W5RCKX0",
       "title": "까도까도 악행만 줄줄이 터지는 애플 #애플 #아이팟 #배터리 #바르타",
-      "view_count": 128580,
+      "view_count": 200541,
       "duration": 37,
       "upload_date": "20260730",
       "category": "22",
@@ -350,9 +273,86 @@
       "url": "https://www.youtube.com/watch?v=FJ63W5RCKX0"
     },
     {
+      "id": "F20u_EWv0v0",
+      "title": "이거 닌텐도 스위치 아니고 폴드8입니다;;",
+      "view_count": 197606,
+      "duration": 13,
+      "upload_date": "20260731",
+      "category": "28",
+      "channel": "더신자 TheSINZA",
+      "source_channel": "더신자 TheSINZA",
+      "url": "https://www.youtube.com/watch?v=F20u_EWv0v0"
+    },
+    {
+      "id": "CtD-N15ub_A",
+      "title": "엔비디아가 숨겨놓은 1,500만원짜리 기능",
+      "view_count": 195746,
+      "duration": 41,
+      "upload_date": "20260730",
+      "category": "23",
+      "channel": "군림보",
+      "source_channel": "군림보",
+      "url": "https://www.youtube.com/watch?v=CtD-N15ub_A"
+    },
+    {
+      "id": "YZ8e4M6cMOU",
+      "title": "폴드8 미친(p) 이유",
+      "view_count": 190778,
+      "duration": 96,
+      "upload_date": "20260725",
+      "category": "22",
+      "channel": "제인킴",
+      "source_channel": "제인킴",
+      "url": "https://www.youtube.com/watch?v=YZ8e4M6cMOU"
+    },
+    {
+      "id": "JbqFX37J3vI",
+      "title": "아이폰이 유독 오타났던 충격적인 이유",
+      "view_count": 189843,
+      "duration": 24,
+      "upload_date": "20260725",
+      "category": "22",
+      "channel": "짤한줌",
+      "source_channel": "짤한줌",
+      "url": "https://www.youtube.com/watch?v=JbqFX37J3vI"
+    },
+    {
+      "id": "Hg3xKH-Sap8",
+      "title": "채굴 개무섭네! 고장 난 이엠텍 RTX 3070 터보젯 그래픽 카드!",
+      "view_count": 188821,
+      "duration": 75,
+      "upload_date": "20260730",
+      "category": "28",
+      "channel": "낮에",
+      "source_channel": "낮에",
+      "url": "https://www.youtube.com/watch?v=Hg3xKH-Sap8"
+    },
+    {
+      "id": "ib0y6RXOCSI",
+      "title": "없어서 못파는게 아니었던 갤폴드8..? ㄷㄷ",
+      "view_count": 187888,
+      "duration": 29,
+      "upload_date": "20260731",
+      "category": "28",
+      "channel": "맥가이버",
+      "source_channel": "맥가이버",
+      "url": "https://www.youtube.com/watch?v=ib0y6RXOCSI"
+    },
+    {
+      "id": "iRpxtiDjbXM",
+      "title": "선풍기 날개가 멈춰 보이는 이유",
+      "view_count": 168739,
+      "duration": 25,
+      "upload_date": "20260727",
+      "category": "22",
+      "channel": "조슈아매거진",
+      "source_channel": "조슈아매거진",
+      "url": "https://www.youtube.com/watch?v=iRpxtiDjbXM"
+    },
+    {
       "id": "SkkaVEl_5ow",
       "title": "폴드8 실사용 후기 살? 말? #리뷰",
-      "view_count": 123654,
+      "view_count": 149946,
       "duration": 91,
       "upload_date": "20260729",
       "category": "27",
@@ -361,31 +361,20 @@
       "url": "https://www.youtube.com/watch?v=SkkaVEl_5ow"
     },
     {
-      "id": "tePI8hhgNSs",
-      "title": "알리에서 온 10만원(이었던) 플스5 #BC250 #플스5 #알리",
-      "view_count": 106267,
-      "duration": 100,
-      "upload_date": "20260727",
-      "category": "28",
-      "channel": "민티저",
-      "source_channel": "민티저",
-      "url": "https://www.youtube.com/watch?v=tePI8hhgNSs"
-    },
-    {
-      "id": "u2mMVNR-WMY",
-      "title": "아이폰만 17년 썼는데… 갤럭시 갈아타고 싶어졌습니다",
-      "view_count": 98045,
-      "duration": 25,
-      "upload_date": "20260727",
-      "category": "26",
-      "channel": "프로페셔널",
-      "source_channel": "프로페셔널",
-      "url": "https://www.youtube.com/watch?v=u2mMVNR-WMY"
+      "id": "Cdzelb_e5YI",
+      "title": "삼성의 '승부수' #shorts / YTN",
+      "view_count": 148732,
+      "duration": 32,
+      "upload_date": "20260726",
+      "category": "25",
+      "channel": " YTN",
+      "source_channel": " YTN",
+      "url": "https://www.youtube.com/watch?v=Cdzelb_e5YI"
     },
     {
       "id": "0vwW_t2AGhY",
       "title": "윈도우12 ..출시..?ㅋㅋ",
-      "view_count": 95458,
+      "view_count": 110509,
       "duration": 11,
       "upload_date": "20260729",
       "category": "22",
@@ -394,42 +383,9 @@
       "url": "https://www.youtube.com/watch?v=0vwW_t2AGhY"
     },
     {
-      "id": "IzK1MzPzxLY",
-      "title": "울트라 사러 갔다가 일반형에 흔들린 이유",
-      "view_count": 92207,
-      "duration": 25,
-      "upload_date": "20260726",
-      "category": "25",
-      "channel": "숏앤픽",
-      "source_channel": "숏앤픽",
-      "url": "https://www.youtube.com/watch?v=IzK1MzPzxLY"
-    },
-    {
-      "id": "penwhaZFQK8",
-      "title": "[리센느] 개인폰 없는 아이돌의 신형폰 리뷰 #리센느 #갤럭시 #제나",
-      "view_count": 71851,
-      "duration": 30,
-      "upload_date": "20260731",
-      "category": "24",
-      "channel": "리센느입니다",
-      "source_channel": "리센느입니다",
-      "url": "https://www.youtube.com/watch?v=penwhaZFQK8"
-    },
-    {
-      "id": "qokVe0RFBqM",
-      "title": "광케이블 피복 순식간에 벗기는 기계",
-      "view_count": 68560,
-      "duration": 17,
-      "upload_date": "20260728",
-      "category": "10",
-      "channel": "해봄이의 할인정보",
-      "source_channel": "해봄이의 할인정보",
-      "url": "https://www.youtube.com/watch?v=qokVe0RFBqM"
-    },
-    {
       "id": "V97LdnK40ds",
       "title": "현재 ‘미쳤다는’ 아이폰의 혁신적인 신규 기능 근황?ㅋㅋㅋ",
-      "view_count": 63611,
+      "view_count": 108663,
       "duration": 33,
       "upload_date": "20260731",
       "category": "23",
@@ -438,9 +394,31 @@
       "url": "https://www.youtube.com/watch?v=V97LdnK40ds"
     },
     {
+      "id": "p1L5Qv76t78",
+      "title": "삶의 질이 바뀌는 서브 PC 장비 TOP 5",
+      "view_count": 104388,
+      "duration": 47,
+      "upload_date": "20260715",
+      "category": "20",
+      "channel": "아이티모",
+      "source_channel": "아이티모",
+      "url": "https://www.youtube.com/watch?v=p1L5Qv76t78"
+    },
+    {
+      "id": "u2mMVNR-WMY",
+      "title": "아이폰만 17년 썼는데… 갤럭시 갈아타고 싶어졌습니다",
+      "view_count": 100445,
+      "duration": 25,
+      "upload_date": "20260727",
+      "category": "26",
+      "channel": "프로페셔널",
+      "source_channel": "프로페셔널",
+      "url": "https://www.youtube.com/watch?v=u2mMVNR-WMY"
+    },
+    {
       "id": "aqSw8mdth9A",
       "title": "대천바다에 등장한 대왕ㅁㄹㅊ#GalaxyZFold8  #갤럭시Z폴드8 #갤럭시 #삼성전자",
-      "view_count": 53772,
+      "view_count": 90699,
       "duration": 69,
       "upload_date": "20260731",
       "category": "22",
@@ -451,7 +429,7 @@
     {
       "id": "q22uauXW5po",
       "title": "아이폰에 최초로 생기는 기능",
-      "view_count": 37273,
+      "view_count": 78092,
       "duration": 32,
       "upload_date": "20260731",
       "category": "22",
@@ -460,15 +438,70 @@
       "url": "https://www.youtube.com/watch?v=q22uauXW5po"
     },
     {
+      "id": "YmiyRMxn6bI",
+      "title": "실제로 보면 진짜 비명이 절로 나옵니다",
+      "view_count": 77183,
+      "duration": 28,
+      "upload_date": "20260731",
+      "category": "26",
+      "channel": "Home_Design_Note",
+      "source_channel": "Home_Design_Note",
+      "url": "https://www.youtube.com/watch?v=YmiyRMxn6bI"
+    },
+    {
       "id": "JuxYfDxGSi0",
       "title": "리센느 제나가 갤럭시 폴드폰 닫는 방법?",
-      "view_count": 19450,
+      "view_count": 58465,
       "duration": 13,
       "upload_date": "20260731",
       "category": "24",
       "channel": "케이팝",
       "source_channel": "케이팝",
       "url": "https://www.youtube.com/watch?v=JuxYfDxGSi0"
+    },
+    {
+      "id": "m0xFDyHOXX4",
+      "title": "폴드8 카톡 두 줄만 보이는 이유 (이거 모르면 계속 답답함)",
+      "view_count": 49184,
+      "duration": 44,
+      "upload_date": "20260801",
+      "category": "28",
+      "channel": "인스펙팅룸 InspectingRoom",
+      "source_channel": "인스펙팅룸 InspectingRoom",
+      "url": "https://www.youtube.com/watch?v=m0xFDyHOXX4"
+    },
+    {
+      "id": "TdzlECUeezY",
+      "title": "맥북 같은 부품으로 만든 노트북 보다 왜 비싼가요? - 애플에서 만들었으니까요",
+      "view_count": 47903,
+      "duration": 72,
+      "upload_date": "20260801",
+      "category": "26",
+      "channel": "허수아비(scarecrow)",
+      "source_channel": "허수아비(scarecrow)",
+      "url": "https://www.youtube.com/watch?v=TdzlECUeezY"
+    },
+    {
+      "id": "CxGKBYKSam4",
+      "title": "노태문 애플은 7년째 못 따라온다. 삼성 갤럭시 핸드폰 Z폴더폰 출시 #노태문 #삼성핸드폰 #zfold8 #z플립8",
+      "view_count": 47000,
+      "duration": 50,
+      "upload_date": "20260731",
+      "category": "25",
+      "channel": "정부남 - 정보와 부 그리고 남다른 이야기",
+      "source_channel": "정부남 - 정보와 부 그리고 남다른 이야기",
+      "url": "https://www.youtube.com/watch?v=CxGKBYKSam4"
+    },
+    {
+      "id": "ea_gPMQxb7Y",
+      "title": "갤럭시Z폴드8에 키보드 붙여봤더니...",
+      "view_count": 35591,
+      "duration": 16,
+      "upload_date": "20260801",
+      "category": "28",
+      "channel": "디에디트 THE EDIT",
+      "source_channel": "디에디트 THE EDIT",
+      "url": "https://www.youtube.com/watch?v=ea_gPMQxb7Y"
     }
   ]
 }
