@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, #웃긴영상, #shorts, 생기는, 이유, 벌어지는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, 이유, #웃긴영상, #shorts, #스물다섯스물하나, 벌어지는",
   "top_videos_summary": [
     {
-      "views": 6076496,
+      "views": 6752221,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 5250260,
+      "views": 5998367,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 4767355,
-      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
-      "upload_year": "2026",
-      "channel": "숏파민",
-      "duration": 59
-    },
-    {
-      "views": 4731501,
+      "views": 4921661,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 4542942,
+      "views": 4903180,
+      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
+      "upload_year": "2026",
+      "channel": "숏파민",
+      "duration": 59
+    },
+    {
+      "views": 4786023,
       "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
       "channel": "옥상평상",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#예능",
+    "이유",
     "#웃긴영상",
     "#shorts",
-    "생기는",
-    "이유",
+    "#스물다섯스물하나",
     "벌어지는",
     "남자",
-    "참교육하는",
-    "방법",
-    "이선민",
-    "아니라",
+    "생기는",
     "#snl",
     "#스케치코미디",
     "#코미디",
-    "있는",
     "웃긴",
+    "있는",
     "#예능레전드",
     "#유머",
+    "정말",
     "이수근",
-    "예능감"
+    "예능감",
+    "#김태리",
+    "#김지연"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "숏파민",
+      "channel": "짧은장면",
       "count": 1
     },
     {
-      "channel": "짧은장면",
+      "channel": "숏파민",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
-      "channel": "숏무비플렉스",
-      "count": 1
-    },
-    {
       "channel": "힐링무비",
       "count": 1
     },
     {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
       "channel": "올해엔 금연",
+      "count": 1
+    },
+    {
+      "channel": "이웃집드라마",
       "count": 1
     }
   ],
