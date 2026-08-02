@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 이유, 갤럭시, 폴드8, 기능, 실제로, 삼성",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 이유, 갤럭시, 기능, 폴드8, 삼성, 애플",
   "top_videos_summary": [
     {
-      "views": 1656141,
+      "views": 1718199,
       "title": "삼성이 홍보도 안 한 휴대폰의 정체",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 42
     },
     {
-      "views": 1391776,
+      "views": 1400823,
       "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
       "upload_year": "2026",
       "channel": "1분미만",
       "duration": 36
     },
     {
-      "views": 1141456,
-      "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
-      "upload_year": "2026",
-      "channel": "시작의땅",
-      "duration": 123
-    },
-    {
-      "views": 1067122,
+      "views": 1247555,
       "title": "삼성이 애플에게 모욕감을 줬어",
       "upload_year": "2026",
       "channel": "프로필TV",
       "duration": 67
     },
     {
-      "views": 1027621,
+      "views": 1197021,
+      "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
+      "upload_year": "2026",
+      "channel": "시작의땅",
+      "duration": 123
+    },
+    {
+      "views": 1039337,
       "title": "폴드8부터 들어간다는 새로운 보안 기능",
       "upload_year": "2026",
       "channel": "짧주",
@@ -50,22 +50,22 @@
   "trend_keywords": [
     "이유",
     "갤럭시",
-    "폴드8",
     "기능",
-    "실제로",
+    "폴드8",
     "삼성",
-    "후기",
+    "애플",
     "삼성이",
+    "실제로",
+    "이제",
     "기술을",
-    "삼성의",
     "충격적인",
     "폴드를",
-    "애플",
     "#갤럭시",
-    "Z폴드8",
     "PC",
+    "후기",
     "이거",
     "보이는",
+    "근황",
     "출시",
     "홍보도"
   ],
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "시작의땅",
+      "channel": "프로필TV",
       "count": 1
     },
     {
-      "channel": "프로필TV",
+      "channel": "시작의땅",
       "count": 1
     },
     {
@@ -91,19 +91,19 @@
       "count": 1
     },
     {
-      "channel": "주연 ZUYONI",
-      "count": 1
-    },
-    {
       "channel": "Shocking Spot",
       "count": 1
     },
     {
-      "channel": "썰스피커",
+      "channel": "주연 ZUYONI",
       "count": 1
     },
     {
       "channel": "리센느입니다",
+      "count": 1
+    },
+    {
+      "channel": "썰스피커",
       "count": 1
     },
     {
