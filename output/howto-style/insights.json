@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, 이유, 만든, 진짜, 가능할까, Hero",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, dog, 만든, 진짜, 외국인, Hero",
   "top_videos_summary": [
     {
-      "views": 26880248,
+      "views": 29476556,
       "title": "哈哈哈，怪好玩的咧～ #鬥舞 #萌娃跳舞 #人類幼崽 #今日萌娃 #幼崽社交",
       "upload_year": "2026",
       "channel": "nuobaoriji",
       "duration": 16
     },
     {
-      "views": 23201824,
+      "views": 26147066,
       "title": "Hero Frees Pelicans Beak",
       "upload_year": "2026",
       "channel": "Sassy ",
       "duration": 113
     },
     {
-      "views": 8701115,
-      "title": "🔥1600만뷰🔥 6살 수영천재의 미친 훈련 수준 ㄷㄷ",
+      "views": 8882658,
+      "title": "Assisted wall climbing",
       "upload_year": "2026",
-      "channel": "꿀잼공장장",
-      "duration": 26
+      "channel": "Corinne Nicewick",
+      "duration": 16
     },
     {
-      "views": 6595922,
+      "views": 8829748,
       "title": "#farming #agriculture #shortvideo #shortsfeed #youtubeshorts",
       "upload_year": "2026",
       "channel": "AK VIP Kotputli",
       "duration": 34
     },
     {
-      "views": 3538571,
-      "title": "목줄 길이만 30M 7살 보더콜리 마당개",
+      "views": 7221145,
+      "title": "A dog with a calm and steady demeanor—you won’t know the joy of dog ownership until you ha",
       "upload_year": "2026",
-      "channel": "햅독 HAPDOG",
-      "duration": 118
+      "channel": "PhoenixOrion",
+      "duration": 32
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.27,
+    "top1_share": 0.26,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "이유",
+    "dog",
     "만든",
     "진짜",
-    "가능할까",
+    "외국인",
     "Hero",
     "Frees",
     "Pelicans",
     "Beak",
-    "1600만뷰",
-    "6살",
-    "수영천재의",
-    "미친",
-    "훈련",
-    "수준",
+    "Assisted",
+    "wall",
+    "climbing",
     "#farming",
     "#agriculture",
     "#shortvideo",
     "#shortsfeed",
-    "#youtubeshorts"
+    "#youtubeshorts",
+    "with",
+    "calm",
+    "and"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "꿀잼공장장",
+      "channel": "Corinne Nicewick",
       "count": 1
     },
     {
@@ -87,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "햅독 HAPDOG",
+      "channel": "PhoenixOrion",
       "count": 1
     },
     {
-      "channel": "かっちゃんねる",
+      "channel": "햅독 HAPDOG",
       "count": 1
     },
     {
@@ -99,11 +99,11 @@
       "count": 1
     },
     {
-      "channel": "뭐랭하맨",
+      "channel": "숏플레이",
       "count": 1
     },
     {
-      "channel": "숏플레이",
+      "channel": "쇼츠츄러스",
       "count": 1
     },
     {
