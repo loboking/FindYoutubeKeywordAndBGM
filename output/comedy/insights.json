@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, 이유, #웃긴영상, #shorts, #스물다섯스물하나, 벌어지는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #예능, 이유, #스물다섯스물하나, 벌어지는, 남자",
   "top_videos_summary": [
     {
-      "views": 6752221,
+      "views": 7279306,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 5998367,
+      "views": 6366742,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 4921661,
+      "views": 5128045,
       "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
       "upload_year": "2026",
       "channel": "짧은장면",
       "duration": 47
     },
     {
-      "views": 4903180,
+      "views": 5008229,
       "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
       "channel": "숏파민",
       "duration": 59
     },
     {
-      "views": 4786023,
+      "views": 4933300,
       "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
       "channel": "옥상평상",
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
+    "#shorts",
     "#예능",
     "이유",
-    "#웃긴영상",
-    "#shorts",
     "#스물다섯스물하나",
     "벌어지는",
     "남자",
     "생기는",
     "#snl",
-    "#스케치코미디",
-    "#코미디",
     "웃긴",
     "있는",
+    "정체",
     "#예능레전드",
     "#유머",
+    "#윤경호",
+    "#웃긴영상",
+    "#신병",
     "정말",
     "이수근",
     "예능감",
-    "#김태리",
-    "#김지연"
+    "#김태리"
   ],
   "channel_distribution": [
     {
@@ -95,10 +95,6 @@
       "count": 1
     },
     {
-      "channel": "힐링무비",
-      "count": 1
-    },
-    {
       "channel": "스타잇",
       "count": 1
     },
@@ -108,6 +104,10 @@
     },
     {
       "channel": "이웃집드라마",
+      "count": 1
+    },
+    {
+      "channel": "예능다락방",
       "count": 1
     }
   ],
