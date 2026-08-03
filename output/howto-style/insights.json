@@ -3,56 +3,57 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, dog, 만든, 진짜, 외국인, Hero",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 진짜, 만든, #shorts, 외국인, TOP7, #연예인",
   "top_videos_summary": [
     {
-      "views": 29476556,
+      "views": 31808995,
       "title": "哈哈哈，怪好玩的咧～ #鬥舞 #萌娃跳舞 #人類幼崽 #今日萌娃 #幼崽社交",
       "upload_year": "2026",
       "channel": "nuobaoriji",
       "duration": 16
     },
     {
-      "views": 26147066,
+      "views": 27116994,
       "title": "Hero Frees Pelicans Beak",
       "upload_year": "2026",
       "channel": "Sassy ",
       "duration": 113
     },
     {
-      "views": 8882658,
+      "views": 12792470,
       "title": "Assisted wall climbing",
       "upload_year": "2026",
       "channel": "Corinne Nicewick",
       "duration": 16
     },
     {
-      "views": 8829748,
+      "views": 11151930,
       "title": "#farming #agriculture #shortvideo #shortsfeed #youtubeshorts",
       "upload_year": "2026",
       "channel": "AK VIP Kotputli",
       "duration": 34
     },
     {
-      "views": 7221145,
-      "title": "A dog with a calm and steady demeanor—you won’t know the joy of dog ownership until you ha",
+      "views": 3133560,
+      "title": "구멍치기 낚시로 잡은 팔뚝만 한 미터급 대물장어",
       "upload_year": "2026",
-      "channel": "PhoenixOrion",
-      "duration": 32
+      "channel": "이런거야",
+      "duration": 25
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.26,
+    "top1_share": 0.28,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
-    "dog",
-    "만든",
     "진짜",
+    "만든",
+    "#shorts",
     "외국인",
+    "TOP7",
+    "#연예인",
     "Hero",
     "Frees",
     "Pelicans",
@@ -65,9 +66,8 @@
     "#shortvideo",
     "#shortsfeed",
     "#youtubeshorts",
-    "with",
-    "calm",
-    "and"
+    "구멍치기",
+    "낚시로"
   ],
   "channel_distribution": [
     {
@@ -87,19 +87,15 @@
       "count": 1
     },
     {
-      "channel": "PhoenixOrion",
-      "count": 1
-    },
-    {
-      "channel": "햅독 HAPDOG",
-      "count": 1
-    },
-    {
       "channel": "이런거야",
       "count": 1
     },
     {
-      "channel": "숏플레이",
+      "channel": "제로비",
+      "count": 1
+    },
+    {
+      "channel": "귀한장면",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "귀한장면",
+      "channel": "정앤수",
+      "count": 1
+    },
+    {
+      "channel": "하우머치코리아 (HOWMUCH KOREA)",
       "count": 1
     }
   ],
