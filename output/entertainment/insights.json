@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 생기는, 이유, 벌어지는, 모국어, #예능, 하면",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #예능, #스물다섯스물하나, 벌어지는, 모국어, 생기는, 시절",
   "top_videos_summary": [
     {
-      "views": 6752220,
+      "views": 7279306,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 5998367,
+      "views": 6366643,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 4981694,
+      "views": 5151278,
       "title": "모국어 쓰면 생기는 일ㅋㅋ 한국어 vs 모국어 온도차",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 53
     },
     {
-      "views": 4903180,
+      "views": 5008229,
       "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
       "upload_year": "2026",
       "channel": "숏파민",
       "duration": 59
     },
     {
-      "views": 4785467,
+      "views": 4933300,
       "title": "문세윤 분노 5단계 레전드 모음.",
       "upload_year": "2026",
       "channel": "옥상평상",
@@ -48,18 +48,17 @@
     "note": ""
   },
   "trend_keywords": [
-    "생기는",
-    "이유",
+    "#예능",
+    "#스물다섯스물하나",
     "벌어지는",
     "모국어",
-    "#예능",
-    "하면",
-    "#김부장",
+    "생기는",
     "시절",
-    "#비하인드",
+    "이유",
+    "#shorts",
+    "#윤경호",
     "이수근",
     "예능감",
-    "#스물다섯스물하나",
     "#김태리",
     "#김지연",
     "짜장면",
@@ -67,7 +66,8 @@
     "시켰는데",
     "한그릇만",
     "주면",
-    "쓰면"
+    "쓰면",
+    "일ㅋㅋ"
   ],
   "channel_distribution": [
     {
@@ -95,7 +95,7 @@
       "count": 1
     },
     {
-      "channel": "힐링무비",
+      "channel": "sun무비",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "올해엔 금연",
+      "channel": "예능다락방",
       "count": 1
     },
     {
-      "channel": "예능다락방",
+      "channel": "놀면 뭐하니?",
       "count": 1
     }
   ],
