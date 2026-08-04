@@ -3,60 +3,59 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #예능, #스물다섯스물하나, 벌어지는, 모국어, 생기는, 시절",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 생기는, #예능, #스물다섯스물하나, 벌어지는, 시절",
   "top_videos_summary": [
     {
-      "views": 7279306,
+      "views": 7633636,
       "title": "이수근 예능감",
       "upload_year": "2026",
       "channel": "esports KBS",
       "duration": 33
     },
     {
-      "views": 6366643,
+      "views": 6438516,
       "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
       "upload_year": "2026",
       "channel": "영화볼래",
       "duration": 27
     },
     {
-      "views": 5151278,
-      "title": "모국어 쓰면 생기는 일ㅋㅋ 한국어 vs 모국어 온도차",
+      "views": 4836683,
+      "title": "나만 모르는 녹화 내용 | 개그콘서트 Gagconcert | KBS 260719 방송",
+      "upload_year": "2026",
+      "channel": " 개그콘서트",
+      "duration": 36
+    },
+    {
+      "views": 4159374,
+      "title": "제대로 참교육하면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
-      "duration": 53
+      "duration": 52
     },
     {
-      "views": 5008229,
-      "title": "현실 연기 장인 엄지윤 #라디오스타 #엄지윤",
+      "views": 4006252,
+      "title": "철없는 손자를 바꾼 외할머니의 깊은 사랑 #맛있는영화 #무비 #영화",
       "upload_year": "2026",
-      "channel": "숏파민",
-      "duration": 59
-    },
-    {
-      "views": 4933300,
-      "title": "문세윤 분노 5단계 레전드 모음.",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 79
+      "channel": "sun무비",
+      "duration": 143
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "이유",
+    "생기는",
     "#예능",
     "#스물다섯스물하나",
     "벌어지는",
-    "모국어",
-    "생기는",
     "시절",
-    "이유",
     "#shorts",
-    "#윤경호",
+    "제일",
     "이수근",
     "예능감",
     "#김태리",
@@ -66,8 +65,9 @@
     "시켰는데",
     "한그릇만",
     "주면",
-    "쓰면",
-    "일ㅋㅋ"
+    "개그콘서트",
+    "Gagconcert",
+    "KBS"
   ],
   "channel_distribution": [
     {
@@ -79,19 +79,11 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "숏파민",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
-      "count": 1
-    },
-    {
       "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
       "count": 1
     },
     {
@@ -99,15 +91,23 @@
       "count": 1
     },
     {
-      "channel": "K-POP Rainbow Records",
+      "channel": "별똥별이슈",
       "count": 1
     },
     {
-      "channel": "예능다락방",
+      "channel": "인물쇼츠팅",
       "count": 1
     },
     {
-      "channel": "놀면 뭐하니?",
+      "channel": "트렌드룸 Trend Room",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "뭅토리",
       "count": 1
     }
   ],
