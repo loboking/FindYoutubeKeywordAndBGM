@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 이유, 갤럭시, 기능, 폴드8, 삼성, 애플",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 폴드8, 이유, 갤럭시, 삼성, 애플, 삼성이",
   "top_videos_summary": [
     {
-      "views": 1766183,
+      "views": 1797832,
       "title": "삼성이 홍보도 안 한 휴대폰의 정체",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 42
     },
     {
-      "views": 1411241,
+      "views": 1419696,
       "title": "설마 했는데 실제로 나왔네요ㄷㄷ(삼성기술력 최신근황)",
       "upload_year": "2026",
       "channel": "1분미만",
       "duration": 36
     },
     {
-      "views": 1355336,
+      "views": 1410418,
       "title": "삼성이 애플에게 모욕감을 줬어",
       "upload_year": "2026",
       "channel": "프로필TV",
       "duration": 67
     },
     {
-      "views": 1279758,
+      "views": 1342768,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
     },
     {
-      "views": 1049925,
-      "title": "폴드8부터 들어간다는 새로운 보안 기능",
+      "views": 1084426,
+      "title": "[리센느] 개인폰 없는 아이돌의 신형폰 리뷰 #리센느 #갤럭시 #제나",
       "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 41
+      "channel": "리센느입니다",
+      "duration": 30
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
+    "폴드8",
     "이유",
     "갤럭시",
-    "기능",
-    "폴드8",
     "삼성",
     "애플",
     "삼성이",
     "실제로",
     "이제",
     "기술을",
-    "충격적인",
     "#갤럭시",
     "폴드를",
+    "근황",
     "PC",
     "이거",
     "후기",
-    "근황",
     "보이는",
-    "출시",
-    "진짜"
+    "진짜",
+    "홍보도",
+    "휴대폰의",
+    "정체"
   ],
   "channel_distribution": [
     {
@@ -87,10 +87,6 @@
       "count": 1
     },
     {
-      "channel": "짧주",
-      "count": 1
-    },
-    {
       "channel": "리센느입니다",
       "count": 1
     },
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "썰스피커",
+      "channel": "짧주",
       "count": 1
     },
     {
       "channel": "박광필",
+      "count": 1
+    },
+    {
+      "channel": "썰스피커",
       "count": 1
     }
   ],
