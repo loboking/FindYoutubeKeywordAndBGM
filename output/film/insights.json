@@ -3,85 +3,73 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #윤경호, #스물다섯스물하나, #shorts, 남자",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #영화, #드라마, #shorts, 바꾼",
   "top_videos_summary": [
     {
-      "views": 7634206,
-      "title": "이수근 예능감",
-      "upload_year": "2026",
-      "channel": "esports KBS",
-      "duration": 33
-    },
-    {
-      "views": 6438612,
-      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
-      "upload_year": "2026",
-      "channel": "영화볼래",
-      "duration": 27
-    },
-    {
-      "views": 5267184,
-      "title": "※이숙캠 아님※ 돈으로 무시하는 남자 참교육하는 서장훈 #연애전쟁 #shorts",
-      "upload_year": "2026",
-      "channel": "짧은장면",
-      "duration": 47
-    },
-    {
-      "views": 4837477,
+      "views": 5148981,
       "title": "나만 모르는 녹화 내용 | 개그콘서트 Gagconcert | KBS 260719 방송",
       "upload_year": "2026",
       "channel": " 개그콘서트",
       "duration": 36
     },
     {
-      "views": 4159922,
+      "views": 4271159,
       "title": "제대로 참교육하면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 52
+    },
+    {
+      "views": 4236182,
+      "title": "철없는 손자를 바꾼 외할머니의 깊은 사랑 #맛있는영화 #무비 #영화",
+      "upload_year": "2026",
+      "channel": "sun무비",
+      "duration": 143
+    },
+    {
+      "views": 3322730,
+      "title": "중국 공안에게 잡힌 조선족의 최후",
+      "upload_year": "2026",
+      "channel": "뭅토리",
+      "duration": 148
+    },
+    {
+      "views": 3054568,
+      "title": "[놀면 뭐하니] GD에게 고소당해도 할 말 없을 곽범",
+      "upload_year": "2026",
+      "channel": "놀면 뭐하니?",
+      "duration": 50
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "생기는",
-    "#윤경호",
-    "#스물다섯스물하나",
-    "#shorts",
-    "남자",
-    "#예능",
-    "#snl",
-    "#신병",
-    "웃기는",
+    "#영화",
     "#드라마",
-    "김부장",
+    "#shorts",
+    "바꾼",
+    "최후",
+    "#신병",
+    "좋은",
+    "#윤경호",
+    "#예능",
     "스파이더맨",
-    "#김고은",
+    "#스물다섯스물하나",
+    "찐으로",
     "하면",
-    "이수근",
-    "예능감",
-    "#김태리",
-    "#김지연",
-    "짜장면"
+    "#이선민",
+    "개그콘서트",
+    "Gagconcert",
+    "KBS",
+    "260719"
   ],
   "channel_distribution": [
-    {
-      "channel": "esports KBS",
-      "count": 1
-    },
-    {
-      "channel": "영화볼래",
-      "count": 1
-    },
-    {
-      "channel": "짧은장면",
-      "count": 1
-    },
     {
       "channel": " 개그콘서트",
       "count": 1
@@ -95,11 +83,7 @@
       "count": 1
     },
     {
-      "channel": "올해엔 금연",
-      "count": 1
-    },
-    {
-      "channel": "예능다락방",
+      "channel": "뭅토리",
       "count": 1
     },
     {
@@ -108,6 +92,22 @@
     },
     {
       "channel": "별똥별이슈",
+      "count": 1
+    },
+    {
+      "channel": "뜨비",
+      "count": 1
+    },
+    {
+      "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "KBS 한국방송",
       "count": 1
     }
   ],
