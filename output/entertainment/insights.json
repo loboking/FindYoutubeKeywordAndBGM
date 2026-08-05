@@ -3,95 +3,79 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 생기는, #예능, #스물다섯스물하나, 벌어지는, 시절",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 생기는, #드라마, #예능, #shorts, 하면",
   "top_videos_summary": [
     {
-      "views": 7633636,
-      "title": "이수근 예능감",
-      "upload_year": "2026",
-      "channel": "esports KBS",
-      "duration": 33
-    },
-    {
-      "views": 6438516,
-      "title": "짜장면 두그릇 시켰는데 한그릇만 주면 벌어지는 일 #스물다섯스물하나 #김태리 #김지연",
-      "upload_year": "2026",
-      "channel": "영화볼래",
-      "duration": 27
-    },
-    {
-      "views": 4836683,
-      "title": "나만 모르는 녹화 내용 | 개그콘서트 Gagconcert | KBS 260719 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 36
-    },
-    {
-      "views": 4159374,
+      "views": 4270987,
       "title": "제대로 참교육하면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 52
     },
     {
-      "views": 4006252,
-      "title": "철없는 손자를 바꾼 외할머니의 깊은 사랑 #맛있는영화 #무비 #영화",
+      "views": 3322730,
+      "title": "중국 공안에게 잡힌 조선족의 최후",
       "upload_year": "2026",
-      "channel": "sun무비",
-      "duration": 143
+      "channel": "뭅토리",
+      "duration": 148
+    },
+    {
+      "views": 3296721,
+      "title": "아이돌이 털털하면 생기는 일 TOP5",
+      "upload_year": "2026",
+      "channel": "인물쇼츠팅",
+      "duration": 54
+    },
+    {
+      "views": 3181558,
+      "title": "교회 무대에서 로봇춤 추는 이찬혁 실존",
+      "upload_year": "2026",
+      "channel": "트렌드룸 Trend Room",
+      "duration": 24
+    },
+    {
+      "views": 3049614,
+      "title": "이수근이 자신의 능력을 발휘하면 생기는 일 / #이수근 #나태주 #윤형빈",
+      "upload_year": "2026",
+      "channel": "별똥별이슈",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "생기는",
+    "#드라마",
     "#예능",
-    "#스물다섯스물하나",
-    "벌어지는",
-    "시절",
     "#shorts",
+    "하면",
+    "시절",
+    "하는",
+    "좋은",
+    "#윤경호",
+    "#스물다섯스물하나",
     "제일",
-    "이수근",
-    "예능감",
-    "#김태리",
-    "#김지연",
-    "짜장면",
-    "두그릇",
-    "시켰는데",
-    "한그릇만",
-    "주면",
-    "개그콘서트",
-    "Gagconcert",
-    "KBS"
+    "마이클잭슨",
+    "홀랜드",
+    "제대로",
+    "참교육하면",
+    "일ㅋㅋ",
+    "중국",
+    "공안에게",
+    "잡힌"
   ],
   "channel_distribution": [
-    {
-      "channel": "esports KBS",
-      "count": 1
-    },
-    {
-      "channel": "영화볼래",
-      "count": 1
-    },
-    {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
     {
       "channel": "스타잇",
       "count": 1
     },
     {
-      "channel": "sun무비",
-      "count": 1
-    },
-    {
-      "channel": "별똥별이슈",
+      "channel": "뭅토리",
       "count": 1
     },
     {
@@ -103,11 +87,27 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
+      "channel": "별똥별이슈",
       "count": 1
     },
     {
-      "channel": "뭅토리",
+      "channel": "뜨비",
+      "count": 1
+    },
+    {
+      "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "누군가는 해야 하잖아",
+      "count": 1
+    },
+    {
+      "channel": "예능내컷",
+      "count": 1
+    },
+    {
+      "channel": "KBS 한국방송",
       "count": 1
     }
   ],
