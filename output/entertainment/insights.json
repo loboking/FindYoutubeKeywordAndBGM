@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #드라마, 역대급, 생기는, #shorts, 하면, #윤경호",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 역대급, #드라마, 이유, 톰홀랜드, #shorts, 하면",
   "top_videos_summary": [
     {
-      "views": 4152870,
+      "views": 4462618,
       "title": "중국 공안에게 잡힌 조선족의 최후",
       "upload_year": "2026",
       "channel": "뭅토리",
       "duration": 148
     },
     {
-      "views": 3642337,
+      "views": 4247026,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3506280,
+      "views": 3898908,
+      "title": "사기 매물이 워낙 많아야지 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "윤설",
+      "duration": 11
+    },
+    {
+      "views": 3806706,
+      "title": "젠데이아보고 넋나간 톰홀랜드",
+      "upload_year": "2026",
+      "channel": "초미녀갤러리",
+      "duration": 12
+    },
+    {
+      "views": 3578885,
       "title": "교회 무대에서 로봇춤 추는 이찬혁 실존",
       "upload_year": "2026",
       "channel": "트렌드룸 Trend Room",
       "duration": 24
-    },
-    {
-      "views": 3292563,
-      "title": "30년동안 온 세상 사람들이나를 속였다",
-      "upload_year": "2026",
-      "channel": "헛개리카노",
-      "duration": 174
-    },
-    {
-      "views": 3110650,
-      "title": "이수근이 자신의 능력을 발휘하면 생기는 일 / #이수근 #나태주 #윤형빈",
-      "upload_year": "2026",
-      "channel": "별똥별이슈",
-      "duration": 60
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#드라마",
     "역대급",
-    "생기는",
+    "#드라마",
+    "이유",
+    "톰홀랜드",
     "#shorts",
     "하면",
     "#윤경호",
     "#예능",
     "하는",
-    "아이돌",
-    "이유",
-    "마이클잭슨",
     "찐으로",
-    "랭킹",
     "홀랜드",
+    "랭킹",
+    "생기는",
     "중국",
     "공안에게",
     "잡힌",
     "조선족의",
     "최후",
-    "여자들도"
+    "여자들도",
+    "놀란"
   ],
   "channel_distribution": [
     {
@@ -79,6 +79,14 @@
       "count": 1
     },
     {
+      "channel": "윤설",
+      "count": 1
+    },
+    {
+      "channel": "초미녀갤러리",
+      "count": 1
+    },
+    {
       "channel": "트렌드룸 Trend Room",
       "count": 1
     },
@@ -87,23 +95,15 @@
       "count": 1
     },
     {
-      "channel": "별똥별이슈",
-      "count": 1
-    },
-    {
-      "channel": "초미녀갤러리",
-      "count": 1
-    },
-    {
       "channel": "예능내컷",
       "count": 1
     },
     {
-      "channel": "윤설",
+      "channel": "심리야놀자",
       "count": 1
     },
     {
-      "channel": "누군가는 해야 하잖아",
+      "channel": "1분실화",
       "count": 1
     },
     {
