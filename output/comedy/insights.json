@@ -3,79 +3,83 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #예능, #shorts, 하는, #코미디",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #shorts, 생기는, 하는, #코미디",
   "top_videos_summary": [
     {
-      "views": 3642337,
-      "title": "여자들도 놀란 윤경호의 디테일",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 57
-    },
-    {
-      "views": 3581634,
+      "views": 4855891,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 3463470,
+      "views": 4247026,
+      "title": "여자들도 놀란 윤경호의 디테일",
+      "upload_year": "2026",
+      "channel": "뜨비",
+      "duration": 57
+    },
+    {
+      "views": 3991225,
+      "title": "어라 문이 열려있었네",
+      "upload_year": "2026",
+      "channel": "먹기전에",
+      "duration": 71
+    },
+    {
+      "views": 3597486,
       "title": "2000만명을 웃긴 선생님의 결혼식",
       "upload_year": "2026",
       "channel": "신기+템",
       "duration": 27
     },
     {
-      "views": 3292563,
+      "views": 3559258,
       "title": "30년동안 온 세상 사람들이나를 속였다",
       "upload_year": "2026",
       "channel": "헛개리카노",
       "duration": 174
-    },
-    {
-      "views": 3110650,
-      "title": "이수근이 자신의 능력을 발휘하면 생기는 일 / #이수근 #나태주 #윤형빈",
-      "upload_year": "2026",
-      "channel": "별똥별이슈",
-      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "생기는",
     "#예능",
     "#shorts",
+    "생기는",
     "하는",
     "#코미디",
     "#유머",
-    "엄마",
-    "#이선민",
+    "#이효리",
     "친구",
     "#웃긴영상",
-    "#신병",
-    "여자들도",
-    "놀란",
-    "윤경호의",
-    "디테일",
     "추성훈에게",
     "로우킥을",
     "가장",
-    "세게"
+    "세게",
+    "맞은",
+    "인물",
+    "여자들도",
+    "놀란",
+    "윤경호의",
+    "디테일"
   ],
   "channel_distribution": [
+    {
+      "channel": "방구석_숏포츠",
+      "count": 1
+    },
     {
       "channel": "뜨비",
       "count": 1
     },
     {
-      "channel": "방구석_숏포츠",
+      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -84,10 +88,6 @@
     },
     {
       "channel": "헛개리카노",
-      "count": 1
-    },
-    {
-      "channel": "별똥별이슈",
       "count": 1
     },
     {
@@ -95,7 +95,7 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "별똥별이슈",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "해외쇼쇼",
+      "channel": "케슛슛",
       "count": 1
     }
   ],
