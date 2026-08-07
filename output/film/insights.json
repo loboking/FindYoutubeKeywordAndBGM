@@ -3,95 +3,79 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #영화, #드라마, #shorts, 바꾼",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #드라마, 생기는, 최후, #shorts, #윤경호",
   "top_videos_summary": [
     {
-      "views": 5148981,
-      "title": "나만 모르는 녹화 내용 | 개그콘서트 Gagconcert | KBS 260719 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 36
-    },
-    {
-      "views": 4271159,
+      "views": 4365692,
       "title": "제대로 참교육하면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 52
     },
     {
-      "views": 4236182,
-      "title": "철없는 손자를 바꾼 외할머니의 깊은 사랑 #맛있는영화 #무비 #영화",
-      "upload_year": "2026",
-      "channel": "sun무비",
-      "duration": 143
-    },
-    {
-      "views": 3322730,
+      "views": 4153603,
       "title": "중국 공안에게 잡힌 조선족의 최후",
       "upload_year": "2026",
       "channel": "뭅토리",
       "duration": 148
     },
     {
-      "views": 3054568,
-      "title": "[놀면 뭐하니] GD에게 고소당해도 할 말 없을 곽범",
+      "views": 3642337,
+      "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
-      "channel": "놀면 뭐하니?",
-      "duration": 50
+      "channel": "뜨비",
+      "duration": 57
+    },
+    {
+      "views": 3293157,
+      "title": "30년동안 온 세상 사람들이나를 속였다",
+      "upload_year": "2026",
+      "channel": "헛개리카노",
+      "duration": 174
+    },
+    {
+      "views": 3110650,
+      "title": "이수근이 자신의 능력을 발휘하면 생기는 일 / #이수근 #나태주 #윤형빈",
+      "upload_year": "2026",
+      "channel": "별똥별이슈",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "생기는",
-    "#영화",
     "#드라마",
-    "#shorts",
-    "바꾼",
+    "생기는",
     "최후",
-    "#신병",
-    "좋은",
+    "#shorts",
     "#윤경호",
     "#예능",
-    "스파이더맨",
-    "#스물다섯스물하나",
+    "#참교육",
+    "#마블",
     "찐으로",
-    "하면",
     "#이선민",
-    "개그콘서트",
-    "Gagconcert",
-    "KBS",
-    "260719"
+    "#영화",
+    "제대로",
+    "참교육하면",
+    "일ㅋㅋ",
+    "중국",
+    "공안에게",
+    "잡힌",
+    "조선족의",
+    "여자들도"
   ],
   "channel_distribution": [
-    {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
     {
       "channel": "스타잇",
       "count": 1
     },
     {
-      "channel": "sun무비",
-      "count": 1
-    },
-    {
       "channel": "뭅토리",
-      "count": 1
-    },
-    {
-      "channel": "놀면 뭐하니?",
-      "count": 1
-    },
-    {
-      "channel": "별똥별이슈",
       "count": 1
     },
     {
@@ -103,11 +87,27 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
+      "channel": "별똥별이슈",
       "count": 1
     },
     {
       "channel": "KBS 한국방송",
+      "count": 1
+    },
+    {
+      "channel": "초미녀갤러리",
+      "count": 1
+    },
+    {
+      "channel": "FUNNYHOUZ",
+      "count": 1
+    },
+    {
+      "channel": "무비젤리",
+      "count": 1
+    },
+    {
+      "channel": "어바웃마블",
       "count": 1
     }
   ],
