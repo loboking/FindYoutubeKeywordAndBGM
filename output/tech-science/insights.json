@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 폴드8, 갤럭시, 이유, 애플, 삼성이, 삼성",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 삼성이, 근황, 삼성, #갤럭시",
   "top_videos_summary": [
     {
-      "views": 1843735,
+      "views": 1894669,
       "title": "삼성이 홍보도 안 한 휴대폰의 정체",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 42
     },
     {
-      "views": 1422875,
-      "title": "삼성이 애플에게 모욕감을 줬어",
-      "upload_year": "2026",
-      "channel": "프로필TV",
-      "duration": 67
-    },
-    {
-      "views": 1376995,
-      "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
-      "upload_year": "2026",
-      "channel": "시작의땅",
-      "duration": 123
-    },
-    {
-      "views": 1243412,
+      "views": 1541405,
       "title": "삼성 역사상 처음이라는 갤럭시 폴드8 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 36
     },
     {
-      "views": 1138411,
+      "views": 1426665,
+      "title": "삼성이 애플에게 모욕감을 줬어",
+      "upload_year": "2026",
+      "channel": "프로필TV",
+      "duration": 67
+    },
+    {
+      "views": 1404376,
+      "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
+      "upload_year": "2026",
+      "channel": "시작의땅",
+      "duration": 123
+    },
+    {
+      "views": 1162697,
       "title": "[리센느] 개인폰 없는 아이돌의 신형폰 리뷰 #리센느 #갤럭시 #제나",
       "upload_year": "2026",
       "channel": "리센느입니다",
@@ -48,30 +48,34 @@
     "note": ""
   },
   "trend_keywords": [
-    "폴드8",
     "갤럭시",
-    "이유",
-    "애플",
+    "폴드8",
     "삼성이",
-    "삼성",
     "근황",
+    "삼성",
+    "#갤럭시",
+    "애플",
+    "이유",
     "중국이",
     "이제",
     "기술을",
-    "#갤럭시",
-    "폴드를",
     "PC",
-    "이거",
+    "#삼성전자",
+    "노트북",
     "홍보도",
     "휴대폰의",
     "정체",
-    "애플에게",
-    "모욕감을",
-    "줬어"
+    "역사상",
+    "처음이라는",
+    "애플에게"
   ],
   "channel_distribution": [
     {
       "channel": "일분일초",
+      "count": 1
+    },
+    {
+      "channel": "짧주",
       "count": 1
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "channel": "시작의땅",
-      "count": 1
-    },
-    {
-      "channel": "짧주",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "주연 ZUYONI",
-      "count": 1
-    },
-    {
       "channel": "썰스피커",
       "count": 1
     },
     {
       "channel": "1분미만",
+      "count": 1
+    },
+    {
+      "channel": "펀숏",
       "count": 1
     }
   ],
