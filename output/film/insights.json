@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #예능, #드라마, #윤경호, #코미디",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #드라마, #윤경호, #예능, 찐으로",
   "top_videos_summary": [
     {
-      "views": 4462844,
-      "title": "중국 공안에게 잡힌 조선족의 최후",
-      "upload_year": "2026",
-      "channel": "뭅토리",
-      "duration": 148
-    },
-    {
-      "views": 4247821,
+      "views": 4946247,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3559258,
+      "views": 3731787,
       "title": "30년동안 온 세상 사람들이나를 속였다",
       "upload_year": "2026",
       "channel": "헛개리카노",
       "duration": 174
     },
     {
-      "views": 3181398,
+      "views": 3252703,
       "title": "이수근이 자신의 능력을 발휘하면 생기는 일 / #이수근 #나태주 #윤형빈",
       "upload_year": "2026",
       "channel": "별똥별이슈",
       "duration": 60
     },
     {
-      "views": 3078998,
+      "views": 3162074,
       "title": "시상식에서 캐치캐치? 은행장은 문제없어~ | [제 5회 청룡시리즈어워즈]",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 22
+    },
+    {
+      "views": 3161980,
+      "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
+      "upload_year": "2026",
+      "channel": "FUNNYHOUZ",
+      "duration": 104
     }
   ],
   "outlier_adjusted": {
@@ -50,30 +50,26 @@
   "trend_keywords": [
     "이유",
     "생기는",
-    "#예능",
     "#드라마",
     "#윤경호",
-    "#코미디",
+    "#예능",
     "찐으로",
-    "배우",
-    "중국",
-    "공안에게",
-    "잡힌",
-    "조선족의",
-    "최후",
+    "#shorts",
+    "#아는형님",
+    "진짜",
     "여자들도",
     "놀란",
     "윤경호의",
     "디테일",
     "30년동안",
     "세상",
-    "사람들이나를"
+    "사람들이나를",
+    "속였다",
+    "#이수근",
+    "#나태주",
+    "#윤형빈"
   ],
   "channel_distribution": [
-    {
-      "channel": "뭅토리",
-      "count": 1
-    },
     {
       "channel": "뜨비",
       "count": 1
@@ -95,11 +91,11 @@
       "count": 1
     },
     {
-      "channel": "초미녀갤러리",
+      "channel": "무비펭",
       "count": 1
     },
     {
-      "channel": "무비펭",
+      "channel": "초미녀갤러리",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "무비젤리",
+      "count": 1
+    },
+    {
+      "channel": "어바웃마블",
       "count": 1
     }
   ],
