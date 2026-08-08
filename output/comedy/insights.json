@@ -3,47 +3,47 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #shorts, 생기는, 하는, #코미디",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #shorts, 생기는, 하는, #아는형님",
   "top_videos_summary": [
     {
-      "views": 4855891,
+      "views": 6037253,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 4247026,
+      "views": 4945359,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3991225,
+      "views": 4838173,
       "title": "어라 문이 열려있었네",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 71
     },
     {
-      "views": 3597486,
-      "title": "2000만명을 웃긴 선생님의 결혼식",
-      "upload_year": "2026",
-      "channel": "신기+템",
-      "duration": 27
-    },
-    {
-      "views": 3559258,
+      "views": 3731787,
       "title": "30년동안 온 세상 사람들이나를 속였다",
       "upload_year": "2026",
       "channel": "헛개리카노",
       "duration": 174
+    },
+    {
+      "views": 3626305,
+      "title": "2000만명을 웃긴 선생님의 결혼식",
+      "upload_year": "2026",
+      "channel": "신기+템",
+      "duration": 27
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -53,11 +53,9 @@
     "#shorts",
     "생기는",
     "하는",
+    "#아는형님",
     "#코미디",
-    "#유머",
-    "#이효리",
     "친구",
-    "#웃긴영상",
     "추성훈에게",
     "로우킥을",
     "가장",
@@ -67,7 +65,9 @@
     "여자들도",
     "놀란",
     "윤경호의",
-    "디테일"
+    "디테일",
+    "어라",
+    "문이"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "신기+템",
+      "channel": "헛개리카노",
       "count": 1
     },
     {
-      "channel": "헛개리카노",
+      "channel": "신기+템",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "거끄로해드리효리",
+      "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "거끄로해드리효리",
       "count": 1
     }
   ],
