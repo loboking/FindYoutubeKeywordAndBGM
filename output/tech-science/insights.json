@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 삼성이, 근황, 삼성, 이유",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 삼성이, 근황, 삼성, 이유",
   "top_videos_summary": [
     {
-      "views": 1926800,
+      "views": 1959933,
       "title": "삼성이 홍보도 안 한 휴대폰의 정체",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 42
     },
     {
-      "views": 1745663,
+      "views": 1834362,
       "title": "삼성 역사상 처음이라는 갤럭시 폴드8 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 36
     },
     {
-      "views": 1433426,
+      "views": 1490917,
+      "title": "갤럭시 폴드8 스파이더맨 에디션",
+      "upload_year": "2026",
+      "channel": "짤딜러",
+      "duration": 38
+    },
+    {
+      "views": 1441934,
       "title": "삼성이 애플에게 모욕감을 줬어",
       "upload_year": "2026",
       "channel": "프로필TV",
       "duration": 67
     },
     {
-      "views": 1421007,
+      "views": 1438837,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
-    },
-    {
-      "views": 1167872,
-      "title": "[리센느] 개인폰 없는 아이돌의 신형폰 리뷰 #리센느 #갤럭시 #제나",
-      "upload_year": "2026",
-      "channel": "리센느입니다",
-      "duration": 30
     }
   ],
   "outlier_adjusted": {
@@ -59,15 +59,15 @@
     "이제",
     "기술을",
     "#갤럭시",
+    "아이폰",
+    "한번",
+    "폴드를",
     "폴드8은",
-    "노트북",
-    "너무",
     "진짜",
     "홍보도",
     "휴대폰의",
     "정체",
-    "역사상",
-    "처음이라는"
+    "역사상"
   ],
   "channel_distribution": [
     {
@@ -76,6 +76,10 @@
     },
     {
       "channel": "짧주",
+      "count": 1
+    },
+    {
+      "channel": "짤딜러",
       "count": 1
     },
     {
@@ -91,6 +95,10 @@
       "count": 1
     },
     {
+      "channel": "지식봄",
+      "count": 1
+    },
+    {
       "channel": "Shocking Spot",
       "count": 1
     },
@@ -99,15 +107,7 @@
       "count": 1
     },
     {
-      "channel": "지식봄",
-      "count": 1
-    },
-    {
-      "channel": "1분미만",
-      "count": 1
-    },
-    {
-      "channel": "짤딜러",
+      "channel": "쉰소리뷰",
       "count": 1
     }
   ],
