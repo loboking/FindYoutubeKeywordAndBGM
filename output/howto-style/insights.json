@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, 짜파게티, 먹고, 하는, 강아지, 한국",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, 만든, 짜파게티, 강아지, 먹고, 하는",
   "top_videos_summary": [
     {
-      "views": 48737208,
+      "views": 63753478,
       "title": "What if a skydive could grow a forest? 🌵 | Insta360 Ace Pro 2 #shorts",
       "upload_year": "2026",
       "channel": "Insta360",
       "duration": 16
     },
     {
-      "views": 34320487,
+      "views": 34842082,
       "title": "God helping #trendingshorts #india #emotional #prayer",
       "upload_year": "2026",
       "channel": "Ayman Islamic ",
       "duration": 29
     },
     {
-      "views": 3216660,
+      "views": 3370666,
       "title": "100% 레진으로 만든 열쇠로 진짜 복제가 가능할까? ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "정앤수",
       "duration": 180
     },
     {
-      "views": 2766525,
+      "views": 2801120,
       "title": "닭한마리의 재료원가는 얼마일까?",
       "upload_year": "2026",
       "channel": "제로비",
       "duration": 176
     },
     {
-      "views": 2629232,
+      "views": 2686175,
       "title": "위생 1티어 인도 맛집",
       "upload_year": "2026",
       "channel": "쇼츠츄러스",
@@ -43,19 +43,19 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.39,
+    "top1_share": 0.45,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
+    "만든",
     "짜파게티",
+    "강아지",
     "먹고",
     "하는",
-    "강아지",
-    "한국",
-    "놀란",
-    "외국인",
+    "이거",
+    "잠자리채",
     "What",
     "if",
     "skydive",
@@ -91,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "귀한장면",
+      "channel": "박광필",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "어쩔수없는윤화",
+      "channel": "99와이프",
       "count": 1
     },
     {
-      "channel": "감동톡",
+      "channel": "제로크림",
       "count": 1
     },
     {
-      "channel": "박광필",
+      "channel": "이영상",
       "count": 1
     }
   ],
