@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, #예능, 이유, 역대급, #아는형님, 레전드",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, #예능, 이유, 톰홀랜드, #아는형님, 너무",
   "top_videos_summary": [
     {
-      "views": 4945359,
+      "views": 5419911,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 4339960,
-      "title": "젠데이아보고 넋나간 톰홀랜드",
-      "upload_year": "2026",
-      "channel": "초미녀갤러리",
-      "duration": 12
-    },
-    {
-      "views": 4305356,
-      "title": "사기 매물이 워낙 많아야지 ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "윤설",
-      "duration": 11
-    },
-    {
-      "views": 4123626,
+      "views": 4951344,
       "title": "기발한 리더 밑에 있으면 벌어지는 일 (효율 200%)",
       "upload_year": "2026",
       "channel": "심리야놀자",
       "duration": 15
     },
     {
-      "views": 3731787,
-      "title": "30년동안 온 세상 사람들이나를 속였다",
+      "views": 4622152,
+      "title": "젠데이아보고 넋나간 톰홀랜드",
       "upload_year": "2026",
-      "channel": "헛개리카노",
-      "duration": 174
+      "channel": "초미녀갤러리",
+      "duration": 12
+    },
+    {
+      "views": 4583825,
+      "title": "사기 매물이 워낙 많아야지 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "윤설",
+      "duration": 11
+    },
+    {
+      "views": 4039930,
+      "title": "각자 입장이서 생각하면 웃김ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "학교가좋아",
+      "duration": 11
     }
   ],
   "outlier_adjusted": {
@@ -51,27 +51,31 @@
     "#shorts",
     "#예능",
     "이유",
-    "역대급",
+    "톰홀랜드",
     "#아는형님",
+    "너무",
+    "같이",
+    "스파이더맨",
     "레전드",
-    "홀랜드",
+    "#이선민",
+    "역대급",
+    "#이런엿같은사랑",
     "생기는",
-    "차이",
     "여자들도",
     "놀란",
     "윤경호의",
     "디테일",
-    "젠데이아보고",
-    "넋나간",
-    "톰홀랜드",
-    "사기",
-    "매물이",
-    "워낙",
-    "많아야지"
+    "기발한",
+    "리더",
+    "밑에"
   ],
   "channel_distribution": [
     {
       "channel": "뜨비",
+      "count": 1
+    },
+    {
+      "channel": "심리야놀자",
       "count": 1
     },
     {
@@ -83,15 +87,15 @@
       "count": 1
     },
     {
-      "channel": "심리야놀자",
-      "count": 1
-    },
-    {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
       "channel": "학교가좋아",
+      "count": 1
+    },
+    {
+      "channel": "아이돌캐치",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
       "count": 1
     },
     {
@@ -103,11 +107,7 @@
       "count": 1
     },
     {
-      "channel": "패션탐정냥",
-      "count": 1
-    },
-    {
-      "channel": "KBS 한국방송",
+      "channel": "FUNNYHOUZ",
       "count": 1
     }
   ],
