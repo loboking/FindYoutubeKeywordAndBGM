@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #드라마, #윤경호, #예능, 찐으로",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #이런엿같은사랑, 스파이더맨, 진짜, 하는, #윤경호",
   "top_videos_summary": [
     {
-      "views": 4946247,
+      "views": 5420195,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3731787,
-      "title": "30년동안 온 세상 사람들이나를 속였다",
+      "views": 3376103,
+      "title": "감독이 OK해도 슬의생 아역배우가 연기를 끝내지 못한 이유",
       "upload_year": "2026",
-      "channel": "헛개리카노",
-      "duration": 174
+      "channel": "무비펭",
+      "duration": 17
     },
     {
-      "views": 3252703,
-      "title": "이수근이 자신의 능력을 발휘하면 생기는 일 / #이수근 #나태주 #윤형빈",
+      "views": 3363659,
+      "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
       "upload_year": "2026",
-      "channel": "별똥별이슈",
-      "duration": 60
+      "channel": "FUNNYHOUZ",
+      "duration": 104
     },
     {
-      "views": 3162074,
+      "views": 3294852,
       "title": "시상식에서 캐치캐치? 은행장은 문제없어~ | [제 5회 청룡시리즈어워즈]",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 22
     },
     {
-      "views": 3161980,
-      "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
+      "views": 2562967,
+      "title": "아빠랑 같이 담배 핀 19살 정찬우 #유재석",
       "upload_year": "2026",
-      "channel": "FUNNYHOUZ",
-      "duration": 104
+      "channel": "케슛슛",
+      "duration": 39
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "생기는",
-    "#드라마",
+    "#이런엿같은사랑",
+    "스파이더맨",
+    "진짜",
+    "하는",
     "#윤경호",
     "#예능",
+    "같이",
+    "#드라마",
     "찐으로",
-    "#shorts",
-    "#아는형님",
-    "진짜",
+    "#이선민",
+    "톰홀랜드",
+    "복싱",
+    "여자",
+    "방송",
+    "서장훈",
     "여자들도",
     "놀란",
     "윤경호의",
-    "디테일",
-    "30년동안",
-    "세상",
-    "사람들이나를",
-    "속였다",
-    "#이수근",
-    "#나태주",
-    "#윤형빈"
+    "디테일"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
-      "channel": "별똥별이슈",
-      "count": 1
-    },
-    {
-      "channel": "KBS 한국방송",
+      "channel": "무비펭",
       "count": 1
     },
     {
@@ -91,11 +83,7 @@
       "count": 1
     },
     {
-      "channel": "무비펭",
-      "count": 1
-    },
-    {
-      "channel": "초미녀갤러리",
+      "channel": "KBS 한국방송",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
-      "channel": "무비젤리",
+      "channel": "어바웃마블",
       "count": 1
     },
     {
-      "channel": "어바웃마블",
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "뭅토리",
+      "count": 1
+    },
+    {
+      "channel": "심쿵무비",
+      "count": 1
+    },
+    {
+      "channel": "빡빡이횽",
       "count": 1
     }
   ],
