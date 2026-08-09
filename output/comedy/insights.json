@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #shorts, 생기는, 하는, #아는형님",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 하는, #shorts, #이런엿같은사랑, #아는형님",
   "top_videos_summary": [
     {
-      "views": 6037253,
+      "views": 7222476,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 4945359,
-      "title": "여자들도 놀란 윤경호의 디테일",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 57
-    },
-    {
-      "views": 4838173,
+      "views": 5759085,
       "title": "어라 문이 열려있었네",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 71
     },
     {
-      "views": 3731787,
-      "title": "30년동안 온 세상 사람들이나를 속였다",
+      "views": 5419911,
+      "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
-      "channel": "헛개리카노",
-      "duration": 174
+      "channel": "뜨비",
+      "duration": 57
     },
     {
-      "views": 3626305,
+      "views": 3655728,
       "title": "2000만명을 웃긴 선생님의 결혼식",
       "upload_year": "2026",
       "channel": "신기+템",
       "duration": 27
+    },
+    {
+      "views": 3553038,
+      "title": "장훈아, 마이클 조던이랑 1:1 하면 이길 수 있어? #shorts #아는형님",
+      "upload_year": "2026",
+      "channel": "예능내컷",
+      "duration": 41
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "#예능",
-    "#shorts",
-    "생기는",
     "하는",
+    "#shorts",
+    "#이런엿같은사랑",
     "#아는형님",
-    "#코미디",
     "친구",
+    "레전드",
+    "생기는",
+    "진짜",
+    "#이선민",
+    "바꾼",
+    "#예능레전드",
+    "방송",
+    "서장훈",
     "추성훈에게",
     "로우킥을",
     "가장",
     "세게",
-    "맞은",
-    "인물",
-    "여자들도",
-    "놀란",
-    "윤경호의",
-    "디테일",
-    "어라",
-    "문이"
+    "맞은"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,11 @@
       "count": 1
     },
     {
-      "channel": "뜨비",
-      "count": 1
-    },
-    {
       "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "헛개리카노",
+      "channel": "뜨비",
       "count": 1
     },
     {
@@ -92,10 +88,6 @@
     },
     {
       "channel": "예능내컷",
-      "count": 1
-    },
-    {
-      "channel": "별똥별이슈",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "거끄로해드리효리",
+      "count": 1
+    },
+    {
+      "channel": "시다래",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
       "count": 1
     }
   ],
