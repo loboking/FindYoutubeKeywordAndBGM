@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, #예능, 이유, 톰홀랜드, #아는형님, 너무",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #이런엿같은사랑, 이유, #shorts, 톰홀랜드, 너무, 이효리",
   "top_videos_summary": [
     {
-      "views": 5419911,
+      "views": 5498398,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 4951344,
+      "views": 5078152,
       "title": "기발한 리더 밑에 있으면 벌어지는 일 (효율 200%)",
       "upload_year": "2026",
       "channel": "심리야놀자",
       "duration": 15
     },
     {
-      "views": 4622152,
+      "views": 4713749,
       "title": "젠데이아보고 넋나간 톰홀랜드",
       "upload_year": "2026",
       "channel": "초미녀갤러리",
       "duration": 12
     },
     {
-      "views": 4583825,
-      "title": "사기 매물이 워낙 많아야지 ㅋㅋㅋ",
+      "views": 4399516,
+      "title": "백지헌의 사투리를 바로 캐치한 심사위원",
       "upload_year": "2026",
-      "channel": "윤설",
-      "duration": 11
+      "channel": "아이돌캐치",
+      "duration": 23
     },
     {
-      "views": 4039930,
+      "views": 4098992,
       "title": "각자 입장이서 생각하면 웃김ㅋㅋ",
       "upload_year": "2026",
       "channel": "학교가좋아",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
-    "#예능",
-    "이유",
-    "톰홀랜드",
-    "#아는형님",
-    "너무",
-    "같이",
-    "스파이더맨",
-    "레전드",
-    "#이선민",
-    "역대급",
     "#이런엿같은사랑",
+    "이유",
+    "#shorts",
+    "톰홀랜드",
+    "너무",
+    "이효리",
+    "결혼",
     "생기는",
+    "복싱",
     "여자들도",
     "놀란",
     "윤경호의",
     "디테일",
     "기발한",
     "리더",
-    "밑에"
+    "밑에",
+    "있으면",
+    "벌어지는",
+    "효율",
+    "200%"
   ],
   "channel_distribution": [
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "윤설",
+      "channel": "아이돌캐치",
       "count": 1
     },
     {
@@ -91,23 +91,23 @@
       "count": 1
     },
     {
-      "channel": "아이돌캐치",
-      "count": 1
-    },
-    {
       "channel": "패션탐정냥",
       "count": 1
     },
     {
-      "channel": "예능내컷",
+      "channel": "아기두지",
       "count": 1
     },
     {
-      "channel": "1분실화",
+      "channel": "인물쇼츠팅",
       "count": 1
     },
     {
-      "channel": "FUNNYHOUZ",
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "토파리뷰",
       "count": 1
     }
   ],
