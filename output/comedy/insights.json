@@ -3,69 +3,69 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 하는, #shorts, #이런엿같은사랑, #아는형님",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 레전드, #shorts, 하는, 가장",
   "top_videos_summary": [
     {
-      "views": 7222476,
+      "views": 7803207,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 5759085,
+      "views": 6158712,
       "title": "어라 문이 열려있었네",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 71
     },
     {
-      "views": 5419911,
+      "views": 5498398,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3655728,
+      "views": 3668550,
       "title": "2000만명을 웃긴 선생님의 결혼식",
       "upload_year": "2026",
       "channel": "신기+템",
       "duration": 27
     },
     {
-      "views": 3553038,
-      "title": "장훈아, 마이클 조던이랑 1:1 하면 이길 수 있어? #shorts #아는형님",
+      "views": 3414652,
+      "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
       "upload_year": "2026",
-      "channel": "예능내컷",
-      "duration": 41
+      "channel": "FUNNYHOUZ",
+      "duration": 104
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "#예능",
-    "하는",
-    "#shorts",
-    "#이런엿같은사랑",
-    "#아는형님",
-    "친구",
     "레전드",
-    "생기는",
-    "진짜",
+    "#shorts",
+    "하는",
+    "가장",
+    "#이효리",
     "#이선민",
-    "바꾼",
-    "#예능레전드",
+    "#이런엿같은사랑",
     "방송",
+    "결혼",
+    "생기는",
+    "#예능레전드",
     "서장훈",
+    "#아는형님",
+    "#넷플릭스",
     "추성훈에게",
     "로우킥을",
-    "가장",
     "세게",
     "맞은"
   ],
@@ -87,19 +87,19 @@
       "count": 1
     },
     {
-      "channel": "예능내컷",
-      "count": 1
-    },
-    {
       "channel": "FUNNYHOUZ",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "토파리뷰",
       "count": 1
     },
     {
-      "channel": "거끄로해드리효리",
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "미미미누",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "뭅토리",
       "count": 1
     }
   ],
