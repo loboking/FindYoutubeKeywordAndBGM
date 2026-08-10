@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #이런엿같은사랑, 스파이더맨, 진짜, 하는, #윤경호",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #이런엿같은사랑, 하는, #넷플릭스, #예능, 스파이더맨",
   "top_videos_summary": [
     {
-      "views": 5420195,
+      "views": 5498399,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3376103,
+      "views": 3455895,
       "title": "감독이 OK해도 슬의생 아역배우가 연기를 끝내지 못한 이유",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 17
     },
     {
-      "views": 3363659,
+      "views": 3414694,
       "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
       "upload_year": "2026",
       "channel": "FUNNYHOUZ",
       "duration": 104
     },
     {
-      "views": 3294852,
+      "views": 3368373,
       "title": "시상식에서 캐치캐치? 은행장은 문제없어~ | [제 5회 청룡시리즈어워즈]",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 22
     },
     {
-      "views": 2562967,
-      "title": "아빠랑 같이 담배 핀 19살 정찬우 #유재석",
+      "views": 3339644,
+      "title": "어른들은 이해할 수 없는 아이들의 순수함",
       "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 39
+      "channel": "눈물한가득",
+      "duration": 154
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "#이런엿같은사랑",
-    "스파이더맨",
-    "진짜",
     "하는",
-    "#윤경호",
+    "#넷플릭스",
     "#예능",
-    "같이",
-    "#드라마",
-    "찐으로",
+    "스파이더맨",
+    "레전드",
+    "미친",
     "#이선민",
     "톰홀랜드",
-    "복싱",
-    "여자",
+    "찐으로",
     "방송",
+    "결혼",
+    "복싱",
     "서장훈",
     "여자들도",
     "놀란",
     "윤경호의",
-    "디테일"
+    "디테일",
+    "감독이"
   ],
   "channel_distribution": [
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
       "channel": "뭅토리",
       "count": 1
     },
     {
-      "channel": "심쿵무비",
+      "channel": "케슛슛",
       "count": 1
     },
     {
       "channel": "빡빡이횽",
+      "count": 1
+    },
+    {
+      "channel": "로켓업",
       "count": 1
     }
   ],
