@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #이런엿같은사랑, 이유, #shorts, 톰홀랜드, 너무, 이효리",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, #이런엿같은사랑, #유세윤, #붐, #장동민, 스파이더맨",
   "top_videos_summary": [
     {
-      "views": 5498398,
+      "views": 5554340,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 5078152,
+      "views": 5081988,
       "title": "기발한 리더 밑에 있으면 벌어지는 일 (효율 200%)",
       "upload_year": "2026",
       "channel": "심리야놀자",
       "duration": 15
     },
     {
-      "views": 4713749,
-      "title": "젠데이아보고 넋나간 톰홀랜드",
-      "upload_year": "2026",
-      "channel": "초미녀갤러리",
-      "duration": 12
-    },
-    {
-      "views": 4399516,
+      "views": 4894582,
       "title": "백지헌의 사투리를 바로 캐치한 심사위원",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 23
     },
     {
-      "views": 4098992,
+      "views": 4103902,
       "title": "각자 입장이서 생각하면 웃김ㅋㅋ",
       "upload_year": "2026",
       "channel": "학교가좋아",
       "duration": 11
+    },
+    {
+      "views": 3902376,
+      "title": "‘하필 지젤 옆이라…‘ 딱 들킨 카리나 콤플렉스",
+      "upload_year": "2026",
+      "channel": "패션탐정냥",
+      "duration": 25
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#이런엿같은사랑",
-    "이유",
     "#shorts",
-    "톰홀랜드",
-    "너무",
-    "이효리",
+    "#이런엿같은사랑",
+    "#유세윤",
+    "#붐",
+    "#장동민",
+    "스파이더맨",
     "결혼",
     "생기는",
+    "vs",
+    "이유",
     "복싱",
+    "#넷플릭스",
+    "#감동",
+    "아빠",
     "여자들도",
     "놀란",
     "윤경호의",
     "디테일",
     "기발한",
-    "리더",
-    "밑에",
-    "있으면",
-    "벌어지는",
-    "효율",
-    "200%"
+    "리더"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "심리야놀자",
-      "count": 1
-    },
-    {
-      "channel": "초미녀갤러리",
       "count": 1
     },
     {
@@ -95,15 +91,19 @@
       "count": 1
     },
     {
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
       "channel": "아기두지",
       "count": 1
     },
     {
-      "channel": "인물쇼츠팅",
+      "channel": "랭킹감자",
       "count": 1
     },
     {
-      "channel": "눈물한가득",
+      "channel": "인물쇼츠팅",
       "count": 1
     },
     {
