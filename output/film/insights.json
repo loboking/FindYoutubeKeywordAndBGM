@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #이런엿같은사랑, 하는, #넷플릭스, #예능, 스파이더맨",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #이런엿같은사랑, 이유, 복싱, #넷플릭스, #예능, 레전드",
   "top_videos_summary": [
     {
-      "views": 5498399,
+      "views": 5554435,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3455895,
+      "views": 4010413,
+      "title": "어른들은 이해할 수 없는 아이들의 순수함",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 154
+    },
+    {
+      "views": 3505614,
       "title": "감독이 OK해도 슬의생 아역배우가 연기를 끝내지 못한 이유",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 17
     },
     {
-      "views": 3414694,
+      "views": 3428690,
       "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
       "upload_year": "2026",
       "channel": "FUNNYHOUZ",
       "duration": 104
     },
     {
-      "views": 3368373,
-      "title": "시상식에서 캐치캐치? 은행장은 문제없어~ | [제 5회 청룡시리즈어워즈]",
+      "views": 2423636,
+      "title": "1박2일 레전드 노홍철 몰카ㅋㅋ 미친 연기력",
       "upload_year": "2026",
-      "channel": "KBS 한국방송",
-      "duration": 22
-    },
-    {
-      "views": 3339644,
-      "title": "어른들은 이해할 수 없는 아이들의 순수함",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 154
+      "channel": "케슛슛",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
@@ -48,30 +48,34 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "#이런엿같은사랑",
-    "하는",
+    "이유",
+    "복싱",
     "#넷플릭스",
     "#예능",
-    "스파이더맨",
     "레전드",
     "미친",
-    "#이선민",
-    "톰홀랜드",
-    "찐으로",
     "방송",
     "결혼",
-    "복싱",
+    "생기는",
+    "일ㅋㅋ",
+    "#이선민",
+    "하는",
+    "조폭이",
     "서장훈",
+    "#shorts",
     "여자들도",
     "놀란",
     "윤경호의",
-    "디테일",
-    "감독이"
+    "디테일"
   ],
   "channel_distribution": [
     {
       "channel": "뜨비",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -83,15 +87,7 @@
       "count": 1
     },
     {
-      "channel": "KBS 한국방송",
-      "count": 1
-    },
-    {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "어바웃마블",
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -99,7 +95,11 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "로켓업",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "로켓업",
+      "channel": "스타잇",
       "count": 1
     }
   ],
