@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, the, 역대급, for, The, 짜파게티",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: the, #shorts, The, for, 강아지, 방송",
   "top_videos_summary": [
     {
-      "views": 95386649,
+      "views": 97997208,
       "title": "What if a skydive could grow a forest? 🌵 | Insta360 Ace Pro 2 #shorts",
       "upload_year": "2026",
       "channel": "Insta360",
       "duration": 16
     },
     {
-      "views": 34564679,
-      "title": "Unfold anti-snag and explosion hooks for sea fishing rods; the hook retracts into a spring during",
-      "upload_year": "2026",
-      "channel": "Once again 2",
-      "duration": 22
-    },
-    {
-      "views": 30772117,
+      "views": 40253079,
       "title": "The Last Obstacle Is INSANE 🤯",
       "upload_year": "2026",
       "channel": "Red Bull",
       "duration": 72
     },
     {
-      "views": 25831692,
+      "views": 35765499,
+      "title": "Unfold anti-snag and explosion hooks for sea fishing rods; the hook retracts into a spring during",
+      "upload_year": "2026",
+      "channel": "Once again 2",
+      "duration": 22
+    },
+    {
+      "views": 26221936,
       "title": "Guess who finally gets to be the drummer by the sea？ #aeroband #pocketdrum #airdrums",
       "upload_year": "2026",
       "channel": "AeroBand",
       "duration": 20
     },
     {
-      "views": 14282898,
+      "views": 17042106,
       "title": "The Craziest Surface Lure for Big Pike? 😱 🐍 3D Snake #SavageGear #fishing  #3DSnake",
       "upload_year": "2026",
       "channel": "Savage Gear",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.4,
+    "top1_share": 0.39,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "the",
-    "역대급",
-    "for",
+    "#shorts",
     "The",
-    "짜파게티",
+    "for",
     "강아지",
     "방송",
-    "결혼",
-    "먹고",
-    "부부",
     "이거",
-    "레시피",
     "대회",
     "잠자리채",
+    "이유",
+    "찾은",
+    "됩니다",
     "#랭킹",
+    "역대급",
+    "스타",
+    "TOP7",
+    "걱정되는",
     "What",
     "if",
-    "skydive",
-    "could"
+    "skydive"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "Once again 2",
+      "channel": "Red Bull",
       "count": 1
     },
     {
-      "channel": "Red Bull",
+      "channel": "Once again 2",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "쇼츠츄러스",
-      "count": 1
-    },
-    {
-      "channel": "콩만이",
-      "count": 1
-    },
-    {
-      "channel": "99와이프",
-      "count": 1
-    },
-    {
       "channel": "TV-People",
+      "count": 1
+    },
+    {
+      "channel": "보동웍스BodongWorks",
+      "count": 1
+    },
+    {
+      "channel": "판타지패밀리",
+      "count": 1
+    },
+    {
+      "channel": "국뽕휴게소",
       "count": 1
     }
   ],
