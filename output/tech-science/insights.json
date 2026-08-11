@@ -3,47 +3,47 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 삼성, 애플, 삼성이, 근황",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 삼성, 애플, 중국이, 기술을",
   "top_videos_summary": [
     {
-      "views": 2262364,
+      "views": 2319134,
       "title": "갤럭시 폴드8 스파이더맨 에디션",
       "upload_year": "2026",
       "channel": "짤딜러",
       "duration": 38
     },
     {
-      "views": 1979819,
-      "title": "삼성이 홍보도 안 한 휴대폰의 정체",
-      "upload_year": "2026",
-      "channel": "일분일초",
-      "duration": 42
-    },
-    {
-      "views": 1874074,
-      "title": "삼성 역사상 처음이라는 갤럭시 폴드8 근황",
-      "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 36
-    },
-    {
-      "views": 1515083,
+      "views": 1592238,
       "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
       "upload_year": "2026",
       "channel": "지식봄",
       "duration": 12
     },
     {
-      "views": 1473754,
+      "views": 1542293,
+      "title": "갤럭시Z 폴드8 뜯자마자 딱 하루 접어두었습니다",
+      "upload_year": "2026",
+      "channel": "쉰소리뷰",
+      "duration": 73
+    },
+    {
+      "views": 1500847,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
+    },
+    {
+      "views": 1456591,
+      "title": "삼성이 애플에게 모욕감을 줬어",
+      "upload_year": "2026",
+      "channel": "프로필TV",
+      "duration": 67
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -52,22 +52,22 @@
     "폴드8",
     "삼성",
     "애플",
-    "삼성이",
-    "근황",
     "중국이",
     "기술을",
     "삼성의",
     "아이폰",
-    "Galaxy",
-    "폴드8은",
+    "내구성",
+    "이거",
+    "당장",
+    "설정",
     "빡친",
-    "진짜",
+    "폴드8은",
     "결국",
     "TSMC",
+    "컴퓨터",
     "스파이더맨",
     "에디션",
-    "홍보도",
-    "휴대폰의"
+    "전체를"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,7 @@
       "count": 1
     },
     {
-      "channel": "일분일초",
-      "count": 1
-    },
-    {
-      "channel": "짧주",
-      "count": 1
-    },
-    {
       "channel": "지식봄",
-      "count": 1
-    },
-    {
-      "channel": "시작의땅",
       "count": 1
     },
     {
@@ -95,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "프로필TV",
+      "channel": "시작의땅",
       "count": 1
     },
     {
-      "channel": "리센느입니다",
+      "channel": "프로필TV",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "리센느입니다",
+      "count": 1
+    },
+    {
       "channel": "박광필",
+      "count": 1
+    },
+    {
+      "channel": "지금들어봐",
+      "count": 1
+    },
+    {
+      "channel": "일분일초",
       "count": 1
     }
   ],
