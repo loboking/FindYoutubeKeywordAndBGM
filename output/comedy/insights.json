@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 레전드, #shorts, 하는, 가장",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, #shorts, 레전드, 이유, 생기는, 가장",
   "top_videos_summary": [
     {
-      "views": 7803207,
+      "views": 7971782,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 6158712,
+      "views": 6350120,
       "title": "어라 문이 열려있었네",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 71
     },
     {
-      "views": 5498398,
+      "views": 5554340,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3668550,
-      "title": "2000만명을 웃긴 선생님의 결혼식",
-      "upload_year": "2026",
-      "channel": "신기+템",
-      "duration": 27
-    },
-    {
-      "views": 3414652,
+      "views": 3428690,
       "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
       "upload_year": "2026",
       "channel": "FUNNYHOUZ",
       "duration": 104
+    },
+    {
+      "views": 3001373,
+      "title": "계산 하려다 깜짝놀란 붐의딸 윤서 #최우수산 #MBC #유세윤 #붐 #장동민",
+      "upload_year": "2026",
+      "channel": "토파리뷰",
+      "duration": 32
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "#예능",
-    "레전드",
     "#shorts",
-    "하는",
+    "레전드",
+    "이유",
+    "생기는",
     "가장",
-    "#이효리",
-    "#이선민",
-    "#이런엿같은사랑",
+    "#유세윤",
+    "#붐",
+    "#장동민",
     "방송",
     "결혼",
-    "생기는",
+    "일ㅋㅋ",
+    "#이선민",
+    "하는",
     "#예능레전드",
+    "#이런엿같은사랑",
     "서장훈",
     "#아는형님",
     "#넷플릭스",
-    "추성훈에게",
-    "로우킥을",
-    "세게",
-    "맞은"
+    "역대급"
   ],
   "channel_distribution": [
     {
@@ -83,10 +83,6 @@
       "count": 1
     },
     {
-      "channel": "신기+템",
-      "count": 1
-    },
-    {
       "channel": "FUNNYHOUZ",
       "count": 1
     },
@@ -95,11 +91,11 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "미미미누",
       "count": 1
     },
     {
-      "channel": "미미미누",
+      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "뭅토리",
+      "channel": "막장썰롱",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     }
   ],
