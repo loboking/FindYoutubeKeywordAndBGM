@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, #shorts, 레전드, 이유, 생기는, 가장",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, #예능, 가장, #유세윤, #붐",
   "top_videos_summary": [
     {
-      "views": 7971782,
+      "views": 8079024,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 6350120,
-      "title": "어라 문이 열려있었네",
-      "upload_year": "2026",
-      "channel": "먹기전에",
-      "duration": 71
-    },
-    {
-      "views": 5554340,
+      "views": 5587187,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 3428690,
-      "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
+      "views": 4175666,
+      "title": "내 폰 달라고 쫌",
       "upload_year": "2026",
-      "channel": "FUNNYHOUZ",
-      "duration": 104
+      "channel": "먹기전에",
+      "duration": 93
     },
     {
-      "views": 3001373,
+      "views": 3022517,
       "title": "계산 하려다 깜짝놀란 붐의딸 윤서 #최우수산 #MBC #유세윤 #붐 #장동민",
       "upload_year": "2026",
       "channel": "토파리뷰",
       "duration": 32
+    },
+    {
+      "views": 2922107,
+      "title": "너 한국인이지",
+      "upload_year": "2026",
+      "channel": "미미미누",
+      "duration": 46
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#예능",
     "#shorts",
-    "레전드",
     "이유",
-    "생기는",
+    "#예능",
     "가장",
     "#유세윤",
     "#붐",
     "#장동민",
     "방송",
     "결혼",
+    "생기는",
     "일ㅋㅋ",
     "#이선민",
     "하는",
     "#예능레전드",
+    "vs",
     "#이런엿같은사랑",
     "서장훈",
-    "#아는형님",
-    "#넷플릭스",
-    "역대급"
+    "레전드",
+    "엄마의",
+    "#아는형님"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,11 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
-      "count": 1
-    },
-    {
       "channel": "뜨비",
       "count": 1
     },
     {
-      "channel": "FUNNYHOUZ",
+      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -95,7 +91,15 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "막장썰롱",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "힐링무비",
       "count": 1
     },
     {
@@ -103,11 +107,7 @@
       "count": 1
     },
     {
-      "channel": "막장썰롱",
-      "count": 1
-    },
-    {
-      "channel": "케슛슛",
+      "channel": "뭅토리",
       "count": 1
     }
   ],
