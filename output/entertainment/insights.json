@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 기발한, 잃은, TOP5, 스파이더맨, 결혼",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 스파이더맨, 결혼, 생기는, 일ㅋㅋ, vs",
   "top_videos_summary": [
     {
-      "views": 5587187,
-      "title": "여자들도 놀란 윤경호의 디테일",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 57
-    },
-    {
-      "views": 5295473,
+      "views": 5520206,
       "title": "백지헌의 사투리를 바로 캐치한 심사위원",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 23
     },
     {
-      "views": 5085365,
-      "title": "기발한 리더 밑에 있으면 벌어지는 일 (효율 200%)",
-      "upload_year": "2026",
-      "channel": "심리야놀자",
-      "duration": 15
-    },
-    {
-      "views": 4175666,
+      "views": 4431834,
       "title": "내 폰 달라고 쫌",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 93
     },
     {
-      "views": 4107585,
-      "title": "각자 입장이서 생각하면 웃김ㅋㅋ",
+      "views": 4096484,
+      "title": "‘하필 지젤 옆이라…‘ 딱 들킨 카리나 콤플렉스",
       "upload_year": "2026",
-      "channel": "학교가좋아",
-      "duration": 11
+      "channel": "패션탐정냥",
+      "duration": 25
+    },
+    {
+      "views": 3654616,
+      "title": "인과응보 돌려주기 모음집 2",
+      "upload_year": "2026",
+      "channel": "랭킹감자",
+      "duration": 46
+    },
+    {
+      "views": 3205992,
+      "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
+      "upload_year": "2026",
+      "channel": " 개그콘서트",
+      "duration": 53
     }
   ],
   "outlier_adjusted": {
@@ -49,37 +49,29 @@
   },
   "trend_keywords": [
     "#shorts",
-    "기발한",
-    "잃은",
-    "TOP5",
     "스파이더맨",
     "결혼",
+    "생기는",
+    "일ㅋㅋ",
     "vs",
-    "#이런엿같은사랑",
-    "이유",
     "#감동",
     "아빠",
-    "여자들도",
-    "놀란",
-    "윤경호의",
-    "디테일",
+    "이유",
+    "만난",
+    "잃은",
     "백지헌의",
     "사투리를",
     "바로",
     "캐치한",
-    "심사위원"
+    "심사위원",
+    "달라고",
+    "‘하필",
+    "지젤",
+    "옆이라…‘"
   ],
   "channel_distribution": [
     {
-      "channel": "뜨비",
-      "count": 1
-    },
-    {
       "channel": "아이돌캐치",
-      "count": 1
-    },
-    {
-      "channel": "심리야놀자",
       "count": 1
     },
     {
@@ -87,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "학교가좋아",
-      "count": 1
-    },
-    {
       "channel": "패션탐정냥",
-      "count": 1
-    },
-    {
-      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -103,11 +87,27 @@
       "count": 1
     },
     {
-      "channel": "아기두지",
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
-      "channel": "인물쇼츠팅",
+      "channel": "대장 곽두팔",
+      "count": 1
+    },
+    {
+      "channel": "막장썰롱",
+      "count": 1
+    },
+    {
+      "channel": "돈데기리",
+      "count": 1
+    },
+    {
+      "channel": "숨은명화찾기",
+      "count": 1
+    },
+    {
+      "channel": "핫팝",
       "count": 1
     }
   ],
