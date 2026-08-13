@@ -3,91 +3,83 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 외국인, #shorts, The, the, 강아지, 방송",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 절대, 됩니다, 강아지, 방송, 방법, 한국",
   "top_videos_summary": [
     {
-      "views": 100461629,
-      "title": "What if a skydive could grow a forest? 🌵 | Insta360 Ace Pro 2 #shorts",
-      "upload_year": "2026",
-      "channel": "Insta360",
-      "duration": 16
-    },
-    {
-      "views": 46204184,
-      "title": "The Last Obstacle Is INSANE 🤯",
-      "upload_year": "2026",
-      "channel": "Red Bull",
-      "duration": 72
-    },
-    {
-      "views": 26404026,
-      "title": "Guess who finally gets to be the drummer by the sea？ #aeroband #pocketdrum #airdrums",
-      "upload_year": "2026",
-      "channel": "AeroBand",
-      "duration": 20
-    },
-    {
-      "views": 22674106,
+      "views": 27438137,
       "title": "The Craziest Surface Lure for Big Pike? 😱 🐍 3D Snake #SavageGear #fishing  #3DSnake",
       "upload_year": "2026",
       "channel": "Savage Gear",
       "duration": 14
     },
     {
-      "views": 3198199,
+      "views": 3204605,
       "title": "전문 패러글라이딩 선수의 제대로 즐기는법",
       "upload_year": "2026",
       "channel": "박광필",
       "duration": 31
+    },
+    {
+      "views": 2244836,
+      "title": "이 연어는 절대 잡으면 안 됩니다",
+      "upload_year": "2026",
+      "channel": "지식창",
+      "duration": 46
+    },
+    {
+      "views": 2120869,
+      "title": "【#TVPP】강아지인지 찹쌀떡인지 헷갈리는 설인아 강아지 | 나혼자산다 | TVPP | MBC 260612 방송 외",
+      "upload_year": "2026",
+      "channel": "TV-People",
+      "duration": 36
+    },
+    {
+      "views": 1855382,
+      "title": "남들과 다른 #BAD 챌린지",
+      "upload_year": "2026",
+      "channel": "1분조각",
+      "duration": 26
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.44,
+    "top1_share": 0.42,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "외국인",
-    "#shorts",
-    "The",
-    "the",
+    "절대",
+    "됩니다",
     "강아지",
     "방송",
-    "됩니다",
-    "대회",
+    "방법",
     "한국",
-    "놀란",
-    "먹는",
     "스타",
     "TOP7",
     "잠자리채",
-    "찾은",
-    "#랭킹",
-    "역대급",
-    "What",
-    "if",
-    "skydive"
+    "빌런",
+    "없는",
+    "#SavageGear",
+    "#fishing",
+    "#3DSnake",
+    "The",
+    "Craziest",
+    "Surface",
+    "Lure",
+    "for",
+    "Big"
   ],
   "channel_distribution": [
-    {
-      "channel": "Insta360",
-      "count": 1
-    },
-    {
-      "channel": "Red Bull",
-      "count": 1
-    },
-    {
-      "channel": "AeroBand",
-      "count": 1
-    },
     {
       "channel": "Savage Gear",
       "count": 1
     },
     {
       "channel": "박광필",
+      "count": 1
+    },
+    {
+      "channel": "지식창",
       "count": 1
     },
     {
@@ -95,7 +87,11 @@
       "count": 1
     },
     {
-      "channel": "지식창",
+      "channel": "1분조각",
+      "count": 1
+    },
+    {
+      "channel": "마법소년  김셰프",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "판타지패밀리",
+      "count": 1
+    },
+    {
+      "channel": "공간 탐닉 Space Tamnik",
       "count": 1
     }
   ],
