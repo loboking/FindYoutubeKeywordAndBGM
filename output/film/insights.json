@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #이런엿같은사랑, 이유, #shorts, #넷플릭스, 복싱, #예능",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, #이런엿같은사랑, 복싱, 없는",
   "top_videos_summary": [
     {
-      "views": 5587230,
+      "views": 5626744,
       "title": "여자들도 놀란 윤경호의 디테일",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 57
     },
     {
-      "views": 4459014,
+      "views": 4789264,
       "title": "어른들은 이해할 수 없는 아이들의 순수함",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 154
     },
     {
-      "views": 4175666,
+      "views": 4431834,
       "title": "내 폰 달라고 쫌",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 93
     },
     {
-      "views": 3536859,
+      "views": 3571857,
       "title": "감독이 OK해도 슬의생 아역배우가 연기를 끝내지 못한 이유",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 17
     },
     {
-      "views": 3438337,
-      "title": "오열하는 나영석 숨쉬듯 웃기는 윤경호 #윤경호 #나영석 #예능 #코미디",
+      "views": 3205992,
+      "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
       "upload_year": "2026",
-      "channel": "FUNNYHOUZ",
-      "duration": 104
+      "channel": " 개그콘서트",
+      "duration": 53
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#이런엿같은사랑",
     "이유",
     "#shorts",
-    "#넷플릭스",
+    "생기는",
+    "#이런엿같은사랑",
     "복싱",
-    "#예능",
+    "없는",
     "스파이더맨",
     "순간",
     "결혼",
-    "생기는",
     "일ㅋㅋ",
-    "#이선민",
-    "하는",
+    "#넷플릭스",
     "조폭이",
-    "조폭",
-    "서장훈",
-    "레전드",
-    "#참교육",
-    "#사이다",
-    "여자들도"
+    "만난",
+    "#드라마",
+    "#킬러들의쇼핑몰시즌2",
+    "여자들도",
+    "놀란",
+    "윤경호의",
+    "디테일",
+    "어른들은"
   ],
   "channel_distribution": [
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "FUNNYHOUZ",
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
-    {
-      "channel": "로켓업",
-      "count": 1
-    },
-    {
-      "channel": "뭅토리",
+      "channel": "숨은명화찾기",
       "count": 1
     },
     {
       "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "1분드라마모음zip",
+      "count": 1
+    },
+    {
+      "channel": "로켓업",
       "count": 1
     }
   ],
