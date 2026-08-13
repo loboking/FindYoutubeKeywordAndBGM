@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 폴드8, 갤럭시, 아이폰, 삼성, 애플, 기술을",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 폴드8, 갤럭시, 아이폰, 애플, 삼성, 기술을",
   "top_videos_summary": [
     {
-      "views": 2329459,
+      "views": 2369960,
       "title": "갤럭시 폴드8 스파이더맨 에디션",
       "upload_year": "2026",
       "channel": "짤딜러",
       "duration": 38
     },
     {
-      "views": 1614686,
+      "views": 1685527,
       "title": "갤럭시Z 폴드8 뜯자마자 딱 하루 접어두었습니다",
       "upload_year": "2026",
       "channel": "쉰소리뷰",
       "duration": 73
     },
     {
-      "views": 1608247,
-      "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
-      "upload_year": "2026",
-      "channel": "지식봄",
-      "duration": 12
-    },
-    {
-      "views": 1558727,
+      "views": 1623265,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
     },
     {
-      "views": 1458693,
-      "title": "삼성이 애플에게 모욕감을 줬어",
+      "views": 1621726,
+      "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
       "upload_year": "2026",
-      "channel": "프로필TV",
-      "duration": 67
+      "channel": "지식봄",
+      "duration": 12
+    },
+    {
+      "views": 1541100,
+      "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
+      "upload_year": "2026",
+      "channel": "일분일초",
+      "duration": 43
     }
   ],
   "outlier_adjusted": {
@@ -51,23 +51,23 @@
     "폴드8",
     "갤럭시",
     "아이폰",
-    "삼성",
     "애플",
+    "삼성",
     "기술을",
     "삼성의",
-    "삼성이",
     "내구성",
-    "당장",
-    "설정",
+    "삼성이",
     "때문에",
     "진짜",
     "이유",
+    "당장",
+    "설정",
+    "쓰면",
     "실물",
     "컴퓨터",
-    "쓰면",
-    "스파이더맨",
-    "에디션",
-    "갤럭시Z"
+    "있습니다",
+    "아이패드",
+    "스파이더맨"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,15 @@
       "count": 1
     },
     {
+      "channel": "시작의땅",
+      "count": 1
+    },
+    {
       "channel": "지식봄",
       "count": 1
     },
     {
-      "channel": "시작의땅",
+      "channel": "일분일초",
       "count": 1
     },
     {
@@ -95,15 +99,11 @@
       "count": 1
     },
     {
-      "channel": "리센느입니다",
-      "count": 1
-    },
-    {
       "channel": "박광필",
       "count": 1
     },
     {
-      "channel": "일분일초",
+      "channel": "아아한잔",
       "count": 1
     },
     {
