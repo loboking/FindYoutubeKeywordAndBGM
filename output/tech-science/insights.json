@@ -3,47 +3,47 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 폴드8, 갤럭시, 아이폰, 애플, 삼성, 기술을",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 폴드8, 갤럭시, 아이폰, 삼성, 애플, 이유",
   "top_videos_summary": [
     {
-      "views": 2369960,
+      "views": 2407311,
       "title": "갤럭시 폴드8 스파이더맨 에디션",
       "upload_year": "2026",
       "channel": "짤딜러",
       "duration": 38
     },
     {
-      "views": 1685527,
+      "views": 1998365,
+      "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
+      "upload_year": "2026",
+      "channel": "일분일초",
+      "duration": 43
+    },
+    {
+      "views": 1745740,
       "title": "갤럭시Z 폴드8 뜯자마자 딱 하루 접어두었습니다",
       "upload_year": "2026",
       "channel": "쉰소리뷰",
       "duration": 73
     },
     {
-      "views": 1623265,
+      "views": 1661521,
       "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
       "upload_year": "2026",
       "channel": "시작의땅",
       "duration": 123
     },
     {
-      "views": 1621726,
+      "views": 1653319,
       "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
       "upload_year": "2026",
       "channel": "지식봄",
       "duration": 12
-    },
-    {
-      "views": 1541100,
-      "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
-      "upload_year": "2026",
-      "channel": "일분일초",
-      "duration": 43
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,27 +51,31 @@
     "폴드8",
     "갤럭시",
     "아이폰",
-    "애플",
     "삼성",
+    "애플",
+    "이유",
+    "내구성",
     "기술을",
     "삼성의",
-    "내구성",
     "삼성이",
-    "때문에",
     "진짜",
-    "이유",
+    "쓰면",
     "당장",
     "설정",
-    "쓰면",
     "실물",
     "컴퓨터",
+    "폴드8은",
     "있습니다",
-    "아이패드",
-    "스파이더맨"
+    "폴더블",
+    "아이패드"
   ],
   "channel_distribution": [
     {
       "channel": "짤딜러",
+      "count": 1
+    },
+    {
+      "channel": "일분일초",
       "count": 1
     },
     {
@@ -84,10 +88,6 @@
     },
     {
       "channel": "지식봄",
-      "count": 1
-    },
-    {
-      "channel": "일분일초",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "아아한잔",
+      "channel": "지금들어봐",
       "count": 1
     },
     {
-      "channel": "꽉TV",
+      "channel": "아아한잔",
       "count": 1
     }
   ],
