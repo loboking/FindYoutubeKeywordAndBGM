@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 최후, 이유, 생기는, 순간, 일ㅋㅋ",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 일ㅋㅋ, 순간, #예능레전드, #예능",
   "top_videos_summary": [
     {
-      "views": 8672022,
+      "views": 8946058,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 5701644,
-      "title": "여자들도 놀란 윤경호의 디테일",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 57
-    },
-    {
-      "views": 3383720,
+      "views": 3826006,
       "title": "추억돋는 새학기 풍경",
       "upload_year": "2026",
       "channel": "숨은명화찾기",
       "duration": 114
     },
     {
-      "views": 3377077,
+      "views": 3445197,
       "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
       "upload_year": "2026",
       "channel": " 개그콘서트",
       "duration": 53
     },
     {
-      "views": 3129576,
+      "views": 3176415,
       "title": "나보다 친정 식구들이랑 더 친한 남편 ㅋㅋ  #shorts",
       "upload_year": "2026",
       "channel": "막장썰롱",
       "duration": 22
+    },
+    {
+      "views": 2604697,
+      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "예능한스푼",
+      "duration": 56
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.12,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "최후",
-    "이유",
     "생기는",
-    "순간",
     "일ㅋㅋ",
+    "순간",
     "#예능레전드",
     "#예능",
     "vs",
+    "이유",
+    "#유세윤",
+    "서울",
     "아들",
-    "잘못",
-    "건드린",
+    "최후",
     "추성훈에게",
     "로우킥을",
     "가장",
     "세게",
     "맞은",
     "인물",
-    "여자들도",
-    "놀란"
+    "추억돋는",
+    "새학기"
   ],
   "channel_distribution": [
     {
@@ -75,10 +75,6 @@
       "count": 1
     },
     {
-      "channel": "뜨비",
-      "count": 1
-    },
-    {
       "channel": "숨은명화찾기",
       "count": 1
     },
@@ -91,15 +87,11 @@
       "count": 1
     },
     {
-      "channel": "힐링무비",
+      "channel": "예능한스푼",
       "count": 1
     },
     {
       "channel": "즐거운타임",
-      "count": 1
-    },
-    {
-      "channel": "예능한스푼",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "숏슛",
+      "count": 1
+    },
+    {
+      "channel": "혹이슈",
+      "count": 1
+    },
+    {
+      "channel": "먹기전에",
       "count": 1
     }
   ],
