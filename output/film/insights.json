@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 이유, #shorts, 생기는, 없는, 스파이더맨",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 순간, 최후, 없는, #마블",
   "top_videos_summary": [
     {
-      "views": 4988871,
+      "views": 5182956,
       "title": "어른들은 이해할 수 없는 아이들의 순수함",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 154
     },
     {
-      "views": 3383720,
+      "views": 3826006,
       "title": "추억돋는 새학기 풍경",
       "upload_year": "2026",
       "channel": "숨은명화찾기",
       "duration": 114
     },
     {
-      "views": 3377370,
+      "views": 3445251,
       "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
       "upload_year": "2026",
       "channel": " 개그콘서트",
       "duration": 53
     },
     {
-      "views": 2891316,
+      "views": 3203819,
       "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
       "upload_year": "2026",
       "channel": "어바웃마블",
       "duration": 38
     },
     {
-      "views": 2846246,
-      "title": "당일 예약 손님을 누락한 고급 레스토랑 직원 도와주기 #shorts",
+      "views": 2605047,
+      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
-      "channel": "1분드라마모음zip",
-      "duration": 54
+      "channel": "예능한스푼",
+      "duration": 56
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "최후",
     "이유",
-    "#shorts",
     "생기는",
-    "없는",
-    "스파이더맨",
-    "일ㅋㅋ",
-    "정해인",
     "순간",
-    "건드린",
-    "#드라마",
+    "최후",
+    "없는",
+    "#마블",
+    "일ㅋㅋ",
     "30년",
-    "영화",
-    "만난",
+    "#드라마",
+    "잃은",
+    "잠시",
     "어른들은",
     "이해할",
     "아이들의",
     "순수함",
     "추억돋는",
-    "새학기"
+    "새학기",
+    "풍경",
+    "개그콘서트",
+    "Gagconcert"
   ],
   "channel_distribution": [
     {
@@ -87,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "1분드라마모음zip",
-      "count": 1
-    },
-    {
-      "channel": "로켓업",
+      "channel": "예능한스푼",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "숏슛",
+      "channel": "돈데기리",
+      "count": 1
+    },
+    {
+      "channel": "스마일_예능",
       "count": 1
     }
   ],
