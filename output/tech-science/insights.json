@@ -3,87 +3,83 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 폴드8, 갤럭시, 아이폰, 삼성, 애플, 이유",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 폴드8, 아이폰, 삼성, 갤럭시, 이유, 컴퓨터",
   "top_videos_summary": [
     {
-      "views": 2407311,
-      "title": "갤럭시 폴드8 스파이더맨 에디션",
-      "upload_year": "2026",
-      "channel": "짤딜러",
-      "duration": 38
-    },
-    {
-      "views": 1998365,
+      "views": 2446682,
       "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 43
     },
     {
-      "views": 1745740,
+      "views": 2425061,
+      "title": "갤럭시 폴드8 스파이더맨 에디션",
+      "upload_year": "2026",
+      "channel": "짤딜러",
+      "duration": 38
+    },
+    {
+      "views": 1832571,
       "title": "갤럭시Z 폴드8 뜯자마자 딱 하루 접어두었습니다",
       "upload_year": "2026",
       "channel": "쉰소리뷰",
       "duration": 73
     },
     {
-      "views": 1661521,
-      "title": "중국이 한국의 삼성은 이제 끝이라며 기술을 내놓을때 삼성의 기술을 보자 충격적인 반응",
-      "upload_year": "2026",
-      "channel": "시작의땅",
-      "duration": 123
-    },
-    {
-      "views": 1653319,
+      "views": 1680338,
       "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
       "upload_year": "2026",
       "channel": "지식봄",
       "duration": 12
+    },
+    {
+      "views": 1481167,
+      "title": "삼성이 애플에게 모욕감을 줬어",
+      "upload_year": "2026",
+      "channel": "프로필TV",
+      "duration": 67
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "폴드8",
-    "갤럭시",
     "아이폰",
     "삼성",
-    "애플",
+    "갤럭시",
     "이유",
-    "내구성",
-    "기술을",
-    "삼성의",
+    "컴퓨터",
     "삼성이",
+    "애플",
     "진짜",
     "쓰면",
     "당장",
     "설정",
     "실물",
-    "컴퓨터",
-    "폴드8은",
-    "있습니다",
+    "모르는",
     "폴더블",
-    "아이패드"
+    "출시한",
+    "카메라",
+    "아이패드",
+    "1000만",
+    "유튜버도"
   ],
   "channel_distribution": [
-    {
-      "channel": "짤딜러",
-      "count": 1
-    },
     {
       "channel": "일분일초",
       "count": 1
     },
     {
-      "channel": "쉰소리뷰",
+      "channel": "짤딜러",
       "count": 1
     },
     {
-      "channel": "시작의땅",
+      "channel": "쉰소리뷰",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "아아한잔",
+      "count": 1
+    },
+    {
+      "channel": "미엠지 Me:MZ",
       "count": 1
     }
   ],
