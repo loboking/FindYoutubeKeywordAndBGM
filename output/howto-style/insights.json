@@ -3,75 +3,75 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 한국, 절대, 됩니다, 강아지, 방송, 방법",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, #viral, 방법, 먼저, 행동, #instantkarma",
   "top_videos_summary": [
     {
-      "views": 3216667,
-      "title": "전문 패러글라이딩 선수의 제대로 즐기는법",
+      "views": 5978031,
+      "title": "Respect Women 💯💯🤯 Greatest Save 😇😇 #instantkarma #shorts #viral #viralvideo #viralshorts #trending",
       "upload_year": "2026",
-      "channel": "박광필",
-      "duration": 31
+      "channel": "Usmani Shorts",
+      "duration": 14
     },
     {
-      "views": 2757213,
+      "views": 3397694,
       "title": "이 연어는 절대 잡으면 안 됩니다",
       "upload_year": "2026",
       "channel": "지식창",
       "duration": 46
     },
     {
-      "views": 2208606,
-      "title": "남들과 다른 #BAD 챌린지",
+      "views": 3230800,
+      "title": "전문 패러글라이딩 선수의 제대로 즐기는법",
       "upload_year": "2026",
-      "channel": "1분조각",
-      "duration": 26
+      "channel": "박광필",
+      "duration": 31
     },
     {
-      "views": 2136035,
-      "title": "【#TVPP】강아지인지 찹쌀떡인지 헷갈리는 설인아 강아지 | 나혼자산다 | TVPP | MBC 260612 방송 외",
-      "upload_year": "2026",
-      "channel": "TV-People",
-      "duration": 36
-    },
-    {
-      "views": 2002176,
+      "views": 2643690,
       "title": "박재범 몸 만드는데 얼마나 걸릴까?",
       "upload_year": "2026",
       "channel": "달려서 세계속으로",
       "duration": 62
+    },
+    {
+      "views": 2602594,
+      "title": "남들과 다른 #BAD 챌린지",
+      "upload_year": "2026",
+      "channel": "1분조각",
+      "duration": 26
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.13,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "한국",
-    "절대",
-    "됩니다",
-    "강아지",
-    "방송",
+    "#shorts",
+    "#viral",
     "방법",
-    "스타",
-    "TOP7",
-    "꿀팁",
-    "이유",
-    "없는",
-    "빌런",
+    "먼저",
+    "행동",
+    "#instantkarma",
+    "#viralvideo",
+    "#viralshorts",
+    "#trending",
+    "Respect",
+    "Women",
+    "Greatest",
+    "Save",
+    "연어는",
+    "절대",
+    "잡으면",
+    "됩니다",
     "전문",
     "패러글라이딩",
-    "선수의",
-    "제대로",
-    "즐기는법",
-    "연어는",
-    "잡으면",
-    "#BAD"
+    "선수의"
   ],
   "channel_distribution": [
     {
-      "channel": "박광필",
+      "channel": "Usmani Shorts",
       "count": 1
     },
     {
@@ -79,15 +79,15 @@
       "count": 1
     },
     {
-      "channel": "1분조각",
-      "count": 1
-    },
-    {
-      "channel": "TV-People",
+      "channel": "박광필",
       "count": 1
     },
     {
       "channel": "달려서 세계속으로",
+      "count": 1
+    },
+    {
+      "channel": "1분조각",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "푸키키 fookikie",
-      "count": 1
-    },
-    {
-      "channel": "국뽕휴게소",
+      "channel": "푸키키",
       "count": 1
     },
     {
       "channel": "핫이슈포착",
+      "count": 1
+    },
+    {
+      "channel": "숏싹숏싹",
       "count": 1
     }
   ],
