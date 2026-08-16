@@ -3,73 +3,77 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, #viral, 방법, 먼저, 행동, #instantkarma",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 절대, 충격적인, 이유, 행동, 가장",
   "top_videos_summary": [
     {
-      "views": 5978031,
+      "views": 29473357,
+      "title": "Grandpa Made This Gold Hands Planter with Rubber Gloves! 🤯",
+      "upload_year": "2026",
+      "channel": "Prime Production",
+      "duration": 42
+    },
+    {
+      "views": 7323396,
       "title": "Respect Women 💯💯🤯 Greatest Save 😇😇 #instantkarma #shorts #viral #viralvideo #viralshorts #trending",
       "upload_year": "2026",
       "channel": "Usmani Shorts",
       "duration": 14
     },
     {
-      "views": 3397694,
+      "views": 3666673,
       "title": "이 연어는 절대 잡으면 안 됩니다",
       "upload_year": "2026",
       "channel": "지식창",
       "duration": 46
     },
     {
-      "views": 3230800,
+      "views": 3300561,
       "title": "전문 패러글라이딩 선수의 제대로 즐기는법",
       "upload_year": "2026",
       "channel": "박광필",
       "duration": 31
     },
     {
-      "views": 2643690,
+      "views": 3188604,
       "title": "박재범 몸 만드는데 얼마나 걸릴까?",
       "upload_year": "2026",
       "channel": "달려서 세계속으로",
       "duration": 62
-    },
-    {
-      "views": 2602594,
-      "title": "남들과 다른 #BAD 챌린지",
-      "upload_year": "2026",
-      "channel": "1분조각",
-      "duration": 26
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.13,
+    "top1_share": 0.36,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "#viral",
-    "방법",
-    "먼저",
-    "행동",
-    "#instantkarma",
-    "#viralvideo",
-    "#viralshorts",
-    "#trending",
-    "Respect",
-    "Women",
-    "Greatest",
-    "Save",
-    "연어는",
     "절대",
-    "잡으면",
-    "됩니다",
-    "전문",
-    "패러글라이딩",
-    "선수의"
+    "충격적인",
+    "이유",
+    "행동",
+    "가장",
+    "되는",
+    "Grandpa",
+    "Made",
+    "This",
+    "Gold",
+    "Hands",
+    "Planter",
+    "with",
+    "Rubber",
+    "Gloves",
+    "#instantkarma",
+    "#viral",
+    "#viralvideo",
+    "#viralshorts"
   ],
   "channel_distribution": [
+    {
+      "channel": "Prime Production",
+      "count": 1
+    },
     {
       "channel": "Usmani Shorts",
       "count": 1
@@ -88,10 +92,6 @@
     },
     {
       "channel": "1분조각",
-      "count": 1
-    },
-    {
-      "channel": "마법소년  김셰프",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "핫이슈포착",
+      "channel": "숏싹숏싹",
       "count": 1
     },
     {
-      "channel": "숏싹숏싹",
+      "channel": "핫이슈포착",
       "count": 1
     }
   ],
