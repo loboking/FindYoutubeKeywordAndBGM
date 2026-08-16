@@ -3,7 +3,7 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 45,
+  "shorts_found": 44,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
@@ -11,7 +11,7 @@
     {
       "id": "boILykahMB0",
       "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
-      "view_count": 2446682,
+      "view_count": 2948310,
       "duration": 43,
       "upload_date": "20260811",
       "category": "23",
@@ -22,7 +22,7 @@
     {
       "id": "ilbrkJN4nGw",
       "title": "갤럭시 폴드8 스파이더맨 에디션",
-      "view_count": 2425061,
+      "view_count": 2441051,
       "duration": 38,
       "upload_date": "20260806",
       "category": "24",
@@ -33,7 +33,7 @@
     {
       "id": "eaNLMPfhqDQ",
       "title": "갤럭시Z 폴드8 뜯자마자 딱 하루 접어두었습니다",
-      "view_count": 1832571,
+      "view_count": 1900126,
       "duration": 73,
       "upload_date": "20260806",
       "category": "28",
@@ -44,7 +44,7 @@
     {
       "id": "yuLtK47it-A",
       "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
-      "view_count": 1680338,
+      "view_count": 1692549,
       "duration": 12,
       "upload_date": "20260805",
       "category": "26",
@@ -55,7 +55,7 @@
     {
       "id": "1X8dFWfs51g",
       "title": "삼성이 애플에게 모욕감을 줬어",
-      "view_count": 1481167,
+      "view_count": 1488455,
       "duration": 67,
       "upload_date": "20260729",
       "category": "24",
@@ -64,31 +64,9 @@
       "url": "https://www.youtube.com/watch?v=1X8dFWfs51g"
     },
     {
-      "id": "FAQ9e-v7Jjk",
-      "title": "오래된 모니터 절대 버리지 마세요!",
-      "view_count": 1216091,
-      "duration": 29,
-      "upload_date": "20260727",
-      "category": "23",
-      "channel": "Shocking Spot",
-      "source_channel": "Shocking Spot",
-      "url": "https://www.youtube.com/watch?v=FAQ9e-v7Jjk"
-    },
-    {
-      "id": "aohcyMg3K_s",
-      "title": "아이폰 1 출시일에 나타난 갑부여성",
-      "view_count": 1143116,
-      "duration": 32,
-      "upload_date": "20260729",
-      "category": "23",
-      "channel": "박광필",
-      "source_channel": "박광필",
-      "url": "https://www.youtube.com/watch?v=aohcyMg3K_s"
-    },
-    {
       "id": "mA1Isk6p-8k",
       "title": "\"몇 수를 내다 본 거지?\" 애플 때문에 삼성이 폴더블폰을 통째로 갈아엎은 게 신의 한수가 된 진짜 이유",
-      "view_count": 1051637,
+      "view_count": 1158066,
       "duration": 125,
       "upload_date": "20260811",
       "category": "1",
@@ -97,9 +75,20 @@
       "url": "https://www.youtube.com/watch?v=mA1Isk6p-8k"
     },
     {
+      "id": "aohcyMg3K_s",
+      "title": "아이폰 1 출시일에 나타난 갑부여성",
+      "view_count": 1144267,
+      "duration": 32,
+      "upload_date": "20260729",
+      "category": "23",
+      "channel": "박광필",
+      "source_channel": "박광필",
+      "url": "https://www.youtube.com/watch?v=aohcyMg3K_s"
+    },
+    {
       "id": "AwmJ3jtarKY",
       "title": "옛날 아이폰 사는 이유가 다 있음..ㄷㄷ",
-      "view_count": 945849,
+      "view_count": 1004311,
       "duration": 16,
       "upload_date": "20260812",
       "category": "23",
@@ -108,9 +97,20 @@
       "url": "https://www.youtube.com/watch?v=AwmJ3jtarKY"
     },
     {
+      "id": "i8tPkNfUKGg",
+      "title": "폴드8으로 스타크래프트 1을 직접 돌려보는데...",
+      "view_count": 703054,
+      "duration": 44,
+      "upload_date": "20260815",
+      "category": "28",
+      "channel": "더신자 TheSINZA",
+      "source_channel": "더신자 TheSINZA",
+      "url": "https://www.youtube.com/watch?v=i8tPkNfUKGg"
+    },
+    {
       "id": "4c8w0rtP-Yg",
       "title": "노트북의 새로운 시대가 시작됐다🔥",
-      "view_count": 693111,
+      "view_count": 700980,
       "duration": 82,
       "upload_date": "20260805",
       "category": "22",
@@ -121,7 +121,7 @@
     {
       "id": "VlYq-lwLQOU",
       "title": "난생처음 아이폰 쓰면 생기는일",
-      "view_count": 578562,
+      "view_count": 641029,
       "duration": 48,
       "upload_date": "20260812",
       "category": "26",
@@ -130,31 +130,9 @@
       "url": "https://www.youtube.com/watch?v=VlYq-lwLQOU"
     },
     {
-      "id": "LWRuQNIs__8",
-      "title": "지금 당장 해야 된다는 윈도우11 설정 변경",
-      "view_count": 477978,
-      "duration": 30,
-      "upload_date": "20260810",
-      "category": "20",
-      "channel": "짧주",
-      "source_channel": "짧주",
-      "url": "https://www.youtube.com/watch?v=LWRuQNIs__8"
-    },
-    {
-      "id": "Jlim5TAGav4",
-      "title": "실물 보면 안 살수 없다 진짜~~너무 이뻐",
-      "view_count": 445990,
-      "duration": 20,
-      "upload_date": "20260806",
-      "category": "26",
-      "channel": "봉희픽",
-      "source_channel": "봉희픽",
-      "url": "https://www.youtube.com/watch?v=Jlim5TAGav4"
-    },
-    {
       "id": "I2NemuNfn4c",
       "title": "초딩딸이 고른 폰 무조건 주기 마지막편 ㅋㅋㅋ z폴드8 포함",
-      "view_count": 442101,
+      "view_count": 455083,
       "duration": 55,
       "upload_date": "20260805",
       "category": "24",
@@ -163,20 +141,20 @@
       "url": "https://www.youtube.com/watch?v=I2NemuNfn4c"
     },
     {
-      "id": "YT1kAo9pKRU",
-      "title": "100인치 TV를 10만원에사버린다",
-      "view_count": 413229,
-      "duration": 22,
-      "upload_date": "20260802",
-      "category": "22",
-      "channel": "만물상점",
-      "source_channel": "만물상점",
-      "url": "https://www.youtube.com/watch?v=YT1kAo9pKRU"
+      "id": "3Ov-IaCt8Dg",
+      "title": "끊어진 전선을 1분만에 연결시켜주는 공구",
+      "view_count": 398404,
+      "duration": 20,
+      "upload_date": "20260811",
+      "category": "26",
+      "channel": "기어로그",
+      "source_channel": "기어로그",
+      "url": "https://www.youtube.com/watch?v=3Ov-IaCt8Dg"
     },
     {
       "id": "Q80UlA4GBMs",
       "title": "이거 당장 끄세요! 내 컴퓨터 계속 갉아먹고 있었습니다ㄷㄷ",
-      "view_count": 380102,
+      "view_count": 391834,
       "duration": 37,
       "upload_date": "20260811",
       "category": "26",
@@ -185,42 +163,9 @@
       "url": "https://www.youtube.com/watch?v=Q80UlA4GBMs"
     },
     {
-      "id": "GU_stOAjWnw",
-      "title": "폴드8 대화면 멀티태스킹 설정 5가지 추천!",
-      "view_count": 296545,
-      "duration": 63,
-      "upload_date": "20260804",
-      "category": "26",
-      "channel": "테크사냥꾼 쭈모",
-      "source_channel": "테크사냥꾼 쭈모",
-      "url": "https://www.youtube.com/watch?v=GU_stOAjWnw"
-    },
-    {
-      "id": "uIGhJWhbBh0",
-      "title": "찍을 때마다 색과 모양이 변하는 스탬프",
-      "view_count": 294473,
-      "duration": 22,
-      "upload_date": "20260810",
-      "category": "24",
-      "channel": "호두지니",
-      "source_channel": "호두지니",
-      "url": "https://www.youtube.com/watch?v=uIGhJWhbBh0"
-    },
-    {
-      "id": "YkydmFhvXXU",
-      "title": "아내에게 갤럭시 폴드를 사주면 생기는 일",
-      "view_count": 290675,
-      "duration": 20,
-      "upload_date": "20260808",
-      "category": "22",
-      "channel": "뇌피셜보이",
-      "source_channel": "뇌피셜보이",
-      "url": "https://www.youtube.com/watch?v=YkydmFhvXXU"
-    },
-    {
       "id": "r1yC9nOUfn4",
       "title": "러시아 드론에서 발견된 삼성전자 메모리칩, 50초 안에 설명하기",
-      "view_count": 277280,
+      "view_count": 390821,
       "duration": 46,
       "upload_date": "20260815",
       "category": "22",
@@ -229,9 +174,20 @@
       "url": "https://www.youtube.com/watch?v=r1yC9nOUfn4"
     },
     {
+      "id": "spIpzcwizPA",
+      "title": "아이폰에서만 쓸 수 있다는 진짜 신기한 앱",
+      "view_count": 364642,
+      "duration": 44,
+      "upload_date": "20260816",
+      "category": "20",
+      "channel": "짧주",
+      "source_channel": "짧주",
+      "url": "https://www.youtube.com/watch?v=spIpzcwizPA"
+    },
+    {
       "id": "aqeXFivmHWg",
       "title": "폴드8 이것만은 제발 바꾸세요!! (커버화면 꿀팁 2탄!)",
-      "view_count": 273337,
+      "view_count": 345712,
       "duration": 46,
       "upload_date": "20260814",
       "category": "28",
@@ -240,20 +196,64 @@
       "url": "https://www.youtube.com/watch?v=aqeXFivmHWg"
     },
     {
-      "id": "PsKBfAhO7ZA",
-      "title": "삼성핸드폰반전",
-      "view_count": 250217,
+      "id": "uIGhJWhbBh0",
+      "title": "찍을 때마다 색과 모양이 변하는 스탬프",
+      "view_count": 336395,
+      "duration": 22,
+      "upload_date": "20260810",
+      "category": "24",
+      "channel": "호두지니",
+      "source_channel": "호두지니",
+      "url": "https://www.youtube.com/watch?v=uIGhJWhbBh0"
+    },
+    {
+      "id": "28q-jZ1Z5YA",
+      "title": "갤럭시 Z폴드8 실물 미쳤다",
+      "view_count": 303318,
+      "duration": 18,
+      "upload_date": "20260815",
+      "category": "26",
+      "channel": "봉희픽",
+      "source_channel": "봉희픽",
+      "url": "https://www.youtube.com/watch?v=28q-jZ1Z5YA"
+    },
+    {
+      "id": "GU_stOAjWnw",
+      "title": "폴드8 대화면 멀티태스킹 설정 5가지 추천!",
+      "view_count": 301714,
       "duration": 63,
-      "upload_date": "20260802",
+      "upload_date": "20260804",
+      "category": "26",
+      "channel": "테크사냥꾼 쭈모",
+      "source_channel": "테크사냥꾼 쭈모",
+      "url": "https://www.youtube.com/watch?v=GU_stOAjWnw"
+    },
+    {
+      "id": "YkydmFhvXXU",
+      "title": "아내에게 갤럭시 폴드를 사주면 생기는 일",
+      "view_count": 298844,
+      "duration": 20,
+      "upload_date": "20260808",
       "category": "22",
-      "channel": "언락 코리아 ",
-      "source_channel": "언락 코리아 ",
-      "url": "https://www.youtube.com/watch?v=PsKBfAhO7ZA"
+      "channel": "뇌피셜보이",
+      "source_channel": "뇌피셜보이",
+      "url": "https://www.youtube.com/watch?v=YkydmFhvXXU"
+    },
+    {
+      "id": "fvfPGcug8Sc",
+      "title": "당근 새벽 에어컨 수리",
+      "view_count": 290140,
+      "duration": 32,
+      "upload_date": "20260815",
+      "category": "22",
+      "channel": "김준표",
+      "source_channel": "김준표",
+      "url": "https://www.youtube.com/watch?v=fvfPGcug8Sc"
     },
     {
       "id": "7AiNEs1-Ljo",
       "title": "아이폰 폴드 실물 유출! 스펙 공개",
-      "view_count": 245133,
+      "view_count": 272109,
       "duration": 26,
       "upload_date": "20260811",
       "category": "26",
@@ -264,7 +264,7 @@
     {
       "id": "ebtK-xuoxxU",
       "title": "효도폰 대신 효도 무전기",
-      "view_count": 239442,
+      "view_count": 263362,
       "duration": 25,
       "upload_date": "20260807",
       "category": "22",
@@ -275,7 +275,7 @@
     {
       "id": "dno7bFhqYXI",
       "title": "인간적으로 고객 스마트폰으로는 연습하지 맙시다. #스마트폰 #데이터복구 #스마트폰수리",
-      "view_count": 234783,
+      "view_count": 253549,
       "duration": 95,
       "upload_date": "20260810",
       "category": "28",
@@ -286,7 +286,7 @@
     {
       "id": "eqelZJiXL4c",
       "title": "애플 메모리 못구해 TSMC 패키징까지 놀고 있어 민폐. 아이폰 출시 연기 하나?",
-      "view_count": 230501,
+      "view_count": 232959,
       "duration": 60,
       "upload_date": "20260808",
       "category": "25",
@@ -295,9 +295,20 @@
       "url": "https://www.youtube.com/watch?v=eqelZJiXL4c"
     },
     {
+      "id": "nKLon0eWIW0",
+      "title": "해외에서 난리난 다이슨 헤드폰",
+      "view_count": 231249,
+      "duration": 28,
+      "upload_date": "20260816",
+      "category": "20",
+      "channel": "김블루",
+      "source_channel": "김블루",
+      "url": "https://www.youtube.com/watch?v=nKLon0eWIW0"
+    },
+    {
       "id": "dLqoSf5or-c",
       "title": "갤럭시 유저 90%가 모르는 키보드 숨은 기능 4가지!  #갤럭시꿀팁 #갤럭시기능 #갤럭시키보드",
-      "view_count": 205379,
+      "view_count": 224366,
       "duration": 40,
       "upload_date": "20260811",
       "category": "26",
@@ -306,20 +317,9 @@
       "url": "https://www.youtube.com/watch?v=dLqoSf5or-c"
     },
     {
-      "id": "TJh7bCRQs5U",
-      "title": "폴드8이 처음이면 하게 되는 실수..? ㄷㄷ",
-      "view_count": 200227,
-      "duration": 25,
-      "upload_date": "20260809",
-      "category": "28",
-      "channel": "맥가이버",
-      "source_channel": "맥가이버",
-      "url": "https://www.youtube.com/watch?v=TJh7bCRQs5U"
-    },
-    {
       "id": "qhD909gv7vE",
       "title": "벌떼처럼 몰려오는 드론을 1초 만에 전멸시키는 최첨단 AI 드론 방어 시스템의 무서운 위력 #군대",
-      "view_count": 195785,
+      "view_count": 218240,
       "duration": 13,
       "upload_date": "20260810",
       "category": "22",
@@ -328,9 +328,20 @@
       "url": "https://www.youtube.com/watch?v=qhD909gv7vE"
     },
     {
+      "id": "TJh7bCRQs5U",
+      "title": "폴드8이 처음이면 하게 되는 실수..? ㄷㄷ",
+      "view_count": 205510,
+      "duration": 25,
+      "upload_date": "20260809",
+      "category": "28",
+      "channel": "맥가이버",
+      "source_channel": "맥가이버",
+      "url": "https://www.youtube.com/watch?v=TJh7bCRQs5U"
+    },
+    {
       "id": "14Vaq3IhyOU",
       "title": "삼성 폴더블 이기기 위해 출시한 Google의 폰",
-      "view_count": 184783,
+      "view_count": 200888,
       "duration": 37,
       "upload_date": "20260813",
       "category": "22",
@@ -341,7 +352,7 @@
     {
       "id": "onxQuUS3nOE",
       "title": "폴드8 쓰면 이건 못참지",
-      "view_count": 163163,
+      "view_count": 177504,
       "duration": 21,
       "upload_date": "20260812",
       "category": "28",
@@ -350,20 +361,9 @@
       "url": "https://www.youtube.com/watch?v=onxQuUS3nOE"
     },
     {
-      "id": "ZNvZj4poKpM",
-      "title": "컴퓨터 고장났습니다",
-      "view_count": 161684,
-      "duration": 41,
-      "upload_date": "20260810",
-      "category": "20",
-      "channel": "밍모",
-      "source_channel": "밍모",
-      "url": "https://www.youtube.com/watch?v=ZNvZj4poKpM"
-    },
-    {
       "id": "uNf-bh4AjEc",
       "title": "과학을 무시하는 카메라 보정",
-      "view_count": 159527,
+      "view_count": 173829,
       "duration": 12,
       "upload_date": "20260809",
       "category": "22",
@@ -372,20 +372,20 @@
       "url": "https://www.youtube.com/watch?v=uNf-bh4AjEc"
     },
     {
-      "id": "Mi9h_q1nGAE",
-      "title": "삼성의 새 폴더블폰 실물을 처음 본 중국인들 난리난 이유",
-      "view_count": 145106,
-      "duration": 52,
-      "upload_date": "20260809",
-      "category": "25",
-      "channel": "이슈서치",
-      "source_channel": "이슈서치",
-      "url": "https://www.youtube.com/watch?v=Mi9h_q1nGAE"
+      "id": "ZNvZj4poKpM",
+      "title": "컴퓨터 고장났습니다",
+      "view_count": 169303,
+      "duration": 41,
+      "upload_date": "20260810",
+      "category": "20",
+      "channel": "밍모",
+      "source_channel": "밍모",
+      "url": "https://www.youtube.com/watch?v=ZNvZj4poKpM"
     },
     {
       "id": "QY-9kUSY7Ok",
       "title": "비보 X폴드 삼성디스플레이 패널·카메라 센서 채택. 폴더블 디스플레이 공급 구조",
-      "view_count": 142914,
+      "view_count": 160119,
       "duration": 77,
       "upload_date": "20260812",
       "category": "27",
@@ -394,31 +394,9 @@
       "url": "https://www.youtube.com/watch?v=QY-9kUSY7Ok"
     },
     {
-      "id": "ZqMYM4ZyPsw",
-      "title": "의외로 잘 모르는 전자레인지 사용법",
-      "view_count": 139192,
-      "duration": 30,
-      "upload_date": "20260815",
-      "category": "20",
-      "channel": "김블루",
-      "source_channel": "김블루",
-      "url": "https://www.youtube.com/watch?v=ZqMYM4ZyPsw"
-    },
-    {
-      "id": "KINiyZa8Zh8",
-      "title": "이게 한국에서 만든 앱? 신박한 아이패드 3D 앱 보여드림.",
-      "view_count": 139148,
-      "duration": 24,
-      "upload_date": "20260811",
-      "category": "28",
-      "channel": "더신자 TheSINZA",
-      "source_channel": "더신자 TheSINZA",
-      "url": "https://www.youtube.com/watch?v=KINiyZa8Zh8"
-    },
-    {
       "id": "CxvkiVt25rw",
       "title": "좋은 청소기를 써야하는 이유 #제품리뷰 #아이닉맥스제로",
-      "view_count": 124267,
+      "view_count": 157720,
       "duration": 57,
       "upload_date": "20260814",
       "category": "24",
@@ -427,42 +405,20 @@
       "url": "https://www.youtube.com/watch?v=CxvkiVt25rw"
     },
     {
-      "id": "fvfPGcug8Sc",
-      "title": "당근 새벽 에어컨 수리",
-      "view_count": 112544,
-      "duration": 32,
-      "upload_date": "20260815",
-      "category": "22",
-      "channel": "김준표",
-      "source_channel": "김준표",
-      "url": "https://www.youtube.com/watch?v=fvfPGcug8Sc"
-    },
-    {
-      "id": "USrIj5bocwg",
-      "title": "사과는 맛있어.. 고장 난 애플 아이패드 9세대!",
-      "view_count": 100169,
-      "duration": 78,
-      "upload_date": "20260813",
-      "category": "28",
-      "channel": "낮에",
-      "source_channel": "낮에",
-      "url": "https://www.youtube.com/watch?v=USrIj5bocwg"
-    },
-    {
-      "id": "lnaTMgBxc5o",
-      "title": "스크린이 비브라늄인 삼성 Z폴드8",
-      "view_count": 88943,
-      "duration": 61,
-      "upload_date": "20260810",
-      "category": "17",
-      "channel": "어랍숏",
-      "source_channel": "어랍숏",
-      "url": "https://www.youtube.com/watch?v=lnaTMgBxc5o"
+      "id": "Mi9h_q1nGAE",
+      "title": "삼성의 새 폴더블폰 실물을 처음 본 중국인들 난리난 이유",
+      "view_count": 150595,
+      "duration": 52,
+      "upload_date": "20260809",
+      "category": "25",
+      "channel": "이슈서치",
+      "source_channel": "이슈서치",
+      "url": "https://www.youtube.com/watch?v=Mi9h_q1nGAE"
     },
     {
       "id": "4LyER_Wcmys",
       "title": "5년 된 컴퓨터 3080을 5080으로 업글하려는데 찬성 vs반대?",
-      "view_count": 88538,
+      "view_count": 113154,
       "duration": 68,
       "upload_date": "20260815",
       "category": "26",
@@ -471,9 +427,31 @@
       "url": "https://www.youtube.com/watch?v=4LyER_Wcmys"
     },
     {
+      "id": "YTpzXdYnxU4",
+      "title": "형광등에 빔프로젝트를 달아보자",
+      "view_count": 110224,
+      "duration": 20,
+      "upload_date": "20260816",
+      "category": "22",
+      "channel": "만물상점",
+      "source_channel": "만물상점",
+      "url": "https://www.youtube.com/watch?v=YTpzXdYnxU4"
+    },
+    {
+      "id": "USrIj5bocwg",
+      "title": "사과는 맛있어.. 고장 난 애플 아이패드 9세대!",
+      "view_count": 106918,
+      "duration": 78,
+      "upload_date": "20260813",
+      "category": "28",
+      "channel": "낮에",
+      "source_channel": "낮에",
+      "url": "https://www.youtube.com/watch?v=USrIj5bocwg"
+    },
+    {
       "id": "oFyhCKuljqQ",
       "title": "여름휴가비가 모니터에…    #asus #게이밍모니터 #xg27jcg",
-      "view_count": 83679,
+      "view_count": 106434,
       "duration": 113,
       "upload_date": "20260807",
       "category": "28",
@@ -484,7 +462,7 @@
     {
       "id": "AAhCj-f5mvk",
       "title": "광복절을 맞이해 ‘한정판 에디션’ 출시한 모나미",
-      "view_count": 46749,
+      "view_count": 65118,
       "duration": 27,
       "upload_date": "20260815",
       "category": "23",
@@ -495,13 +473,24 @@
     {
       "id": "1b5H50y1XHA",
       "title": "카메라 바꿨더니 인생샷 폭발📸",
-      "view_count": 40400,
+      "view_count": 50599,
       "duration": 19,
       "upload_date": "20260815",
       "category": "20",
       "channel": "롱이살림",
       "source_channel": "롱이살림",
       "url": "https://www.youtube.com/watch?v=1b5H50y1XHA"
+    },
+    {
+      "id": "apym6fRlrN0",
+      "title": "홈캠의 중요성",
+      "view_count": 29680,
+      "duration": 29,
+      "upload_date": "20260816",
+      "category": "15",
+      "channel": "하얀낙타",
+      "source_channel": "하얀낙타",
+      "url": "https://www.youtube.com/watch?v=apym6fRlrN0"
     }
   ]
 }
