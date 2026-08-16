@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 최후, 일ㅋㅋ, 몰래",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 일ㅋㅋ, 최후, 스파이더맨",
   "top_videos_summary": [
     {
-      "views": 5834102,
+      "views": 5932115,
       "title": "백지헌의 사투리를 바로 캐치한 심사위원",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 23
     },
     {
-      "views": 4086068,
+      "views": 4181182,
       "title": "인과응보 돌려주기 모음집 2",
       "upload_year": "2026",
       "channel": "랭킹감자",
       "duration": 46
     },
     {
-      "views": 3826006,
-      "title": "추억돋는 새학기 풍경",
-      "upload_year": "2026",
-      "channel": "숨은명화찾기",
-      "duration": 114
-    },
-    {
-      "views": 3762590,
+      "views": 3867104,
       "title": "두 남자를 잃을뻔 했다",
       "upload_year": "2026",
       "channel": "대장 곽두팔",
       "duration": 16
     },
     {
-      "views": 3445197,
-      "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
+      "views": 3791418,
+      "title": "13년 돌본 남편에게 이혼하자는 아내",
       "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 53
+      "channel": "불빛사연",
+      "duration": 49
+    },
+    {
+      "views": 3396150,
+      "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
+      "upload_year": "2026",
+      "channel": "어바웃마블",
+      "duration": 38
     }
   ],
   "outlier_adjusted": {
@@ -51,11 +51,12 @@
     "이유",
     "#shorts",
     "생기는",
-    "최후",
     "일ㅋㅋ",
+    "최후",
+    "스파이더맨",
     "몰래",
     "아빠",
-    "리센느",
+    "많은",
     "백지헌의",
     "사투리를",
     "바로",
@@ -64,10 +65,9 @@
     "인과응보",
     "돌려주기",
     "모음집",
-    "추억돋는",
-    "새학기",
-    "풍경",
-    "남자를"
+    "남자를",
+    "잃을뻔",
+    "했다"
   ],
   "channel_distribution": [
     {
@@ -79,19 +79,7 @@
       "count": 1
     },
     {
-      "channel": "숨은명화찾기",
-      "count": 1
-    },
-    {
       "channel": "대장 곽두팔",
-      "count": 1
-    },
-    {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
-    {
-      "channel": "어바웃마블",
       "count": 1
     },
     {
@@ -99,7 +87,11 @@
       "count": 1
     },
     {
-      "channel": "랭킹권",
+      "channel": "어바웃마블",
+      "count": 1
+    },
+    {
+      "channel": "예능한스푼",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "아이돌탐정",
+      "count": 1
+    },
+    {
+      "channel": "초미녀갤러리",
+      "count": 1
+    },
+    {
+      "channel": "즐거운타임",
       "count": 1
     }
   ],
