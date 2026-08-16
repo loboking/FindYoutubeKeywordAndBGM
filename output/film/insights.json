@@ -3,79 +3,75 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 순간, 최후, 없는, #마블",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 최후, 없는, #마블, 일ㅋㅋ",
   "top_videos_summary": [
     {
-      "views": 5182956,
+      "views": 5425684,
       "title": "어른들은 이해할 수 없는 아이들의 순수함",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 154
     },
     {
-      "views": 3826006,
-      "title": "추억돋는 새학기 풍경",
-      "upload_year": "2026",
-      "channel": "숨은명화찾기",
-      "duration": 114
-    },
-    {
-      "views": 3445251,
+      "views": 3486423,
       "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
       "upload_year": "2026",
       "channel": " 개그콘서트",
       "duration": 53
     },
     {
-      "views": 3203819,
+      "views": 3396555,
       "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
       "upload_year": "2026",
       "channel": "어바웃마블",
       "duration": 38
     },
     {
-      "views": 2605047,
+      "views": 2914682,
       "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 56
+    },
+    {
+      "views": 2693522,
+      "title": "시작은 스파이더맨 끝은",
+      "upload_year": "2026",
+      "channel": "초미녀갤러리",
+      "duration": 18
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "생기는",
-    "순간",
     "최후",
     "없는",
     "#마블",
     "일ㅋㅋ",
+    "스파이더맨",
     "30년",
-    "#드라마",
-    "잃은",
+    "순간",
     "잠시",
     "어른들은",
     "이해할",
     "아이들의",
     "순수함",
-    "추억돋는",
-    "새학기",
-    "풍경",
     "개그콘서트",
-    "Gagconcert"
+    "Gagconcert",
+    "KBS",
+    "260802",
+    "방송",
+    "엔드게임"
   ],
   "channel_distribution": [
     {
       "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "숨은명화찾기",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
-      "count": 1
-    },
-    {
       "channel": "돈데기리",
       "count": 1
     },
     {
       "channel": "스마일_예능",
+      "count": 1
+    },
+    {
+      "channel": "무드뷰",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
       "count": 1
     }
   ],
