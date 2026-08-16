@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 일ㅋㅋ, 순간, #예능레전드, #예능",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 일ㅋㅋ, 방송, #shorts, 이유, 얼마나",
   "top_videos_summary": [
     {
-      "views": 8946058,
+      "views": 9375258,
       "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
       "upload_year": "2026",
       "channel": "방구석_숏포츠",
       "duration": 47
     },
     {
-      "views": 3826006,
+      "views": 4003214,
       "title": "추억돋는 새학기 풍경",
       "upload_year": "2026",
       "channel": "숨은명화찾기",
       "duration": 114
     },
     {
-      "views": 3445197,
+      "views": 3486244,
       "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
       "upload_year": "2026",
       "channel": " 개그콘서트",
       "duration": 53
     },
     {
-      "views": 3176415,
-      "title": "나보다 친정 식구들이랑 더 친한 남편 ㅋㅋ  #shorts",
-      "upload_year": "2026",
-      "channel": "막장썰롱",
-      "duration": 22
-    },
-    {
-      "views": 2604697,
+      "views": 2914682,
       "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 56
+    },
+    {
+      "views": 2637200,
+      "title": "이효리가 노홍철에게 던진 시원한 한마디 ㅋㅋㅋㅋ 이상형과 결혼 안했다는 이효리 #이효리 #이상순",
+      "upload_year": "2026",
+      "channel": "즐거운타임",
+      "duration": 21
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.12,
+    "top1_share": 0.13,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "생기는",
     "일ㅋㅋ",
-    "순간",
-    "#예능레전드",
-    "#예능",
-    "vs",
+    "방송",
+    "#shorts",
     "이유",
-    "#유세윤",
+    "얼마나",
     "서울",
     "아들",
     "최후",
+    "만난",
+    "정체",
+    "순간",
+    "방법",
+    "레전드",
     "추성훈에게",
     "로우킥을",
     "가장",
     "세게",
     "맞은",
-    "인물",
-    "추억돋는",
-    "새학기"
+    "인물"
   ],
   "channel_distribution": [
     {
@@ -83,10 +83,6 @@
       "count": 1
     },
     {
-      "channel": "막장썰롱",
-      "count": 1
-    },
-    {
       "channel": "예능한스푼",
       "count": 1
     },
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "드라마보는 남자",
-      "count": 1
-    },
-    {
-      "channel": "숏슛",
-      "count": 1
-    },
-    {
       "channel": "혹이슈",
       "count": 1
     },
     {
       "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "스마일_예능",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
       "count": 1
     }
   ],
