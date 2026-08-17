@@ -3,87 +3,79 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 일ㅋㅋ, 최후, 스파이더맨",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 최후, #shorts, 생기는, 일ㅋㅋ, 스파이더맨",
   "top_videos_summary": [
     {
-      "views": 5932115,
-      "title": "백지헌의 사투리를 바로 캐치한 심사위원",
-      "upload_year": "2026",
-      "channel": "아이돌캐치",
-      "duration": 23
-    },
-    {
-      "views": 4181182,
-      "title": "인과응보 돌려주기 모음집 2",
-      "upload_year": "2026",
-      "channel": "랭킹감자",
-      "duration": 46
-    },
-    {
-      "views": 3867104,
-      "title": "두 남자를 잃을뻔 했다",
-      "upload_year": "2026",
-      "channel": "대장 곽두팔",
-      "duration": 16
-    },
-    {
-      "views": 3791418,
+      "views": 4283769,
       "title": "13년 돌본 남편에게 이혼하자는 아내",
       "upload_year": "2026",
       "channel": "불빛사연",
       "duration": 49
     },
     {
-      "views": 3396150,
+      "views": 3883015,
+      "title": "두 남자를 잃을뻔 했다",
+      "upload_year": "2026",
+      "channel": "대장 곽두팔",
+      "duration": 16
+    },
+    {
+      "views": 3571390,
       "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
       "upload_year": "2026",
       "channel": "어바웃마블",
       "duration": 38
+    },
+    {
+      "views": 3077367,
+      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "예능한스푼",
+      "duration": 56
+    },
+    {
+      "views": 3006127,
+      "title": "'걸그룹 멤버'들이 서로 의지하는 이유",
+      "upload_year": "2026",
+      "channel": "아이돌탐정",
+      "duration": 40
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
+    "최후",
     "#shorts",
     "생기는",
     "일ㅋㅋ",
-    "최후",
     "스파이더맨",
-    "몰래",
-    "아빠",
-    "많은",
-    "백지헌의",
-    "사투리를",
-    "바로",
-    "캐치한",
-    "심사위원",
-    "인과응보",
-    "돌려주기",
-    "모음집",
+    "역대급",
+    "남자의",
+    "13년",
+    "돌본",
+    "남편에게",
+    "이혼하자는",
+    "아내",
     "남자를",
     "잃을뻔",
-    "했다"
+    "했다",
+    "#마블",
+    "엔드게임",
+    "이후",
+    "호크아이에게"
   ],
   "channel_distribution": [
     {
-      "channel": "아이돌캐치",
-      "count": 1
-    },
-    {
-      "channel": "랭킹감자",
+      "channel": "불빛사연",
       "count": 1
     },
     {
       "channel": "대장 곽두팔",
-      "count": 1
-    },
-    {
-      "channel": "불빛사연",
       "count": 1
     },
     {
@@ -95,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "감자의 취미생활",
+      "channel": "아이돌탐정",
       "count": 1
     },
     {
-      "channel": "아이돌탐정",
+      "channel": "감자의 취미생활",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "즐거운타임",
+      "count": 1
+    },
+    {
+      "channel": "무드뷰",
+      "count": 1
+    },
+    {
+      "channel": "방구석_숏포츠",
       "count": 1
     }
   ],
