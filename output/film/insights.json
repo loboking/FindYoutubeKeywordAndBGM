@@ -3,47 +3,47 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 최후, 없는, #마블, 일ㅋㅋ",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 최후, 일ㅋㅋ, 스파이더맨, 친구",
   "top_videos_summary": [
     {
-      "views": 5425684,
-      "title": "어른들은 이해할 수 없는 아이들의 순수함",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 154
-    },
-    {
-      "views": 3486423,
-      "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 53
-    },
-    {
-      "views": 3396555,
+      "views": 3571391,
       "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
       "upload_year": "2026",
       "channel": "어바웃마블",
       "duration": 38
     },
     {
-      "views": 2914682,
+      "views": 3077620,
       "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 56
     },
     {
-      "views": 2693522,
+      "views": 2862925,
       "title": "시작은 스파이더맨 끝은",
       "upload_year": "2026",
       "channel": "초미녀갤러리",
       "duration": 18
+    },
+    {
+      "views": 2727249,
+      "title": "이효리가 노홍철에게 던진 시원한 한마디 ㅋㅋㅋㅋ 이상형과 결혼 안했다는 이효리 #이효리 #이상순",
+      "upload_year": "2026",
+      "channel": "즐거운타임",
+      "duration": 21
+    },
+    {
+      "views": 2691686,
+      "title": "사랑해서 거짓말하던 남친의 최후",
+      "upload_year": "2026",
+      "channel": "무드뷰",
+      "duration": 65
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,33 +51,25 @@
     "이유",
     "생기는",
     "최후",
-    "없는",
-    "#마블",
     "일ㅋㅋ",
     "스파이더맨",
-    "30년",
-    "순간",
+    "친구",
     "잠시",
-    "어른들은",
-    "이해할",
-    "아이들의",
-    "순수함",
-    "개그콘서트",
-    "Gagconcert",
-    "KBS",
-    "260802",
-    "방송",
-    "엔드게임"
+    "순간",
+    "#쇼츠",
+    "그의",
+    "#마블",
+    "엔드게임",
+    "이후",
+    "호크아이에게",
+    "남은",
+    "#shorts",
+    "키가",
+    "유난히",
+    "크면",
+    "시작은"
   ],
   "channel_distribution": [
-    {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
     {
       "channel": "어바웃마블",
       "count": 1
@@ -95,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "돈데기리",
+      "channel": "무드뷰",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "무드뷰",
+      "channel": "사이드라마",
       "count": 1
     },
     {
-      "channel": "다시볼티비",
+      "channel": "감동비디오",
+      "count": 1
+    },
+    {
+      "channel": "뭅토리",
+      "count": 1
+    },
+    {
+      "channel": "오세요한국",
       "count": 1
     }
   ],
