@@ -3,83 +3,75 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 일ㅋㅋ, 방송, #shorts, 이유, 얼마나",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 일ㅋㅋ, #shorts, 얼마나, 정체, 서울",
   "top_videos_summary": [
     {
-      "views": 9375258,
-      "title": "추성훈에게 로우킥을 가장 세게 맞은 인물",
-      "upload_year": "2026",
-      "channel": "방구석_숏포츠",
-      "duration": 47
-    },
-    {
-      "views": 4003214,
+      "views": 4140856,
       "title": "추억돋는 새학기 풍경",
       "upload_year": "2026",
       "channel": "숨은명화찾기",
       "duration": 114
     },
     {
-      "views": 3486244,
-      "title": "인터뷰 중 만난 전 여친 예비 남편 충격... | 개그콘서트 Gagconcert | KBS 260802 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 53
-    },
-    {
-      "views": 2914682,
+      "views": 3077620,
       "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 56
     },
     {
-      "views": 2637200,
+      "views": 2727249,
       "title": "이효리가 노홍철에게 던진 시원한 한마디 ㅋㅋㅋㅋ 이상형과 결혼 안했다는 이효리 #이효리 #이상순",
       "upload_year": "2026",
       "channel": "즐거운타임",
       "duration": 21
+    },
+    {
+      "views": 2245735,
+      "title": "얼마나 웃기고 싶은지 감도 안옴..!!ㅋ #박진영 #JYP #숏박스 #김원훈 #조진세 #워터밤",
+      "upload_year": "2026",
+      "channel": "스마일_예능",
+      "duration": 55
+    },
+    {
+      "views": 2236978,
+      "title": "이름이 싫어와 아파",
+      "upload_year": "2026",
+      "channel": "사이드라마",
+      "duration": 44
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.13,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "생기는",
     "일ㅋㅋ",
-    "방송",
     "#shorts",
-    "이유",
     "얼마나",
-    "서울",
-    "아들",
-    "최후",
-    "만난",
     "정체",
-    "순간",
-    "방법",
+    "서울",
     "레전드",
-    "추성훈에게",
-    "로우킥을",
-    "가장",
-    "세게",
-    "맞은",
-    "인물"
+    "역대급",
+    "만난",
+    "최후",
+    "참교육하는",
+    "이유",
+    "모먼트",
+    "순간",
+    "#웃긴영상",
+    "#개그",
+    "추억돋는",
+    "새학기",
+    "풍경",
+    "키가"
   ],
   "channel_distribution": [
     {
-      "channel": "방구석_숏포츠",
-      "count": 1
-    },
-    {
       "channel": "숨은명화찾기",
-      "count": 1
-    },
-    {
-      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -88,14 +80,6 @@
     },
     {
       "channel": "즐거운타임",
-      "count": 1
-    },
-    {
-      "channel": "혹이슈",
-      "count": 1
-    },
-    {
-      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -103,11 +87,27 @@
       "count": 1
     },
     {
+      "channel": "사이드라마",
+      "count": 1
+    },
+    {
       "channel": "스타잇",
       "count": 1
     },
     {
+      "channel": "헛개리카노",
+      "count": 1
+    },
+    {
       "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "예능존",
+      "count": 1
+    },
+    {
+      "channel": "꽃다발",
       "count": 1
     }
   ],
