@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 절대, 충격적인, 이유, 행동, 가장",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, 절대, 충격적인, 이유, 행동, 되는",
   "top_videos_summary": [
     {
-      "views": 29473357,
+      "views": 30698846,
       "title": "Grandpa Made This Gold Hands Planter with Rubber Gloves! 🤯",
       "upload_year": "2026",
       "channel": "Prime Production",
       "duration": 42
     },
     {
-      "views": 7323396,
+      "views": 8034217,
       "title": "Respect Women 💯💯🤯 Greatest Save 😇😇 #instantkarma #shorts #viral #viralvideo #viralshorts #trending",
       "upload_year": "2026",
       "channel": "Usmani Shorts",
       "duration": 14
     },
     {
-      "views": 3666673,
+      "views": 5427994,
+      "title": "Dogs are the best friends of humans 🐶 #fyp #doglover #love",
+      "upload_year": "2026",
+      "channel": "Sylvia Fisher",
+      "duration": 58
+    },
+    {
+      "views": 3846328,
       "title": "이 연어는 절대 잡으면 안 됩니다",
       "upload_year": "2026",
       "channel": "지식창",
       "duration": 46
     },
     {
-      "views": 3300561,
-      "title": "전문 패러글라이딩 선수의 제대로 즐기는법",
-      "upload_year": "2026",
-      "channel": "박광필",
-      "duration": 31
-    },
-    {
-      "views": 3188604,
+      "views": 3718025,
       "title": "박재범 몸 만드는데 얼마나 걸릴까?",
       "upload_year": "2026",
       "channel": "달려서 세계속으로",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.36,
+    "top1_share": 0.33,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -53,8 +53,9 @@
     "충격적인",
     "이유",
     "행동",
-    "가장",
     "되는",
+    "요리",
+    "가지를",
     "Grandpa",
     "Made",
     "This",
@@ -66,8 +67,7 @@
     "Gloves",
     "#instantkarma",
     "#viral",
-    "#viralvideo",
-    "#viralshorts"
+    "#viralvideo"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "지식창",
+      "channel": "Sylvia Fisher",
       "count": 1
     },
     {
-      "channel": "박광필",
+      "channel": "지식창",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "숏싹숏싹",
+      "channel": "popconic",
       "count": 1
     },
     {
-      "channel": "핫이슈포착",
+      "channel": "숏싹숏싹",
       "count": 1
     }
   ],
