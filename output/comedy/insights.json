@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 일ㅋㅋ, #shorts, 얼마나, 정체, 서울",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 생기는, 일ㅋㅋ, 만난, 이유, #웃긴영상",
   "top_videos_summary": [
     {
-      "views": 4140856,
+      "views": 4178331,
       "title": "추억돋는 새학기 풍경",
       "upload_year": "2026",
       "channel": "숨은명화찾기",
       "duration": 114
     },
     {
-      "views": 3077620,
+      "views": 3107676,
       "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 56
     },
     {
-      "views": 2727249,
-      "title": "이효리가 노홍철에게 던진 시원한 한마디 ㅋㅋㅋㅋ 이상형과 결혼 안했다는 이효리 #이효리 #이상순",
+      "views": 2988643,
+      "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
-      "channel": "즐거운타임",
-      "duration": 21
-    },
-    {
-      "views": 2245735,
-      "title": "얼마나 웃기고 싶은지 감도 안옴..!!ㅋ #박진영 #JYP #숏박스 #김원훈 #조진세 #워터밤",
-      "upload_year": "2026",
-      "channel": "스마일_예능",
+      "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 2236978,
+      "views": 2631333,
+      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "스타잇",
+      "duration": 56
+    },
+    {
+      "views": 2502684,
       "title": "이름이 싫어와 아파",
       "upload_year": "2026",
       "channel": "사이드라마",
@@ -48,21 +48,21 @@
     "note": ""
   },
   "trend_keywords": [
+    "#shorts",
     "생기는",
     "일ㅋㅋ",
-    "#shorts",
-    "얼마나",
-    "정체",
-    "서울",
-    "레전드",
-    "역대급",
     "만난",
-    "최후",
-    "참교육하는",
     "이유",
-    "모먼트",
-    "순간",
     "#웃긴영상",
+    "역대급",
+    "#아는형님",
+    "얼마나",
+    "서울",
+    "정체",
+    "최후",
+    "순간",
+    "모먼트",
+    "#코미디",
     "#개그",
     "추억돋는",
     "새학기",
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "즐거운타임",
-      "count": 1
-    },
-    {
-      "channel": "스마일_예능",
-      "count": 1
-    },
-    {
-      "channel": "사이드라마",
+      "channel": "꽃다발",
       "count": 1
     },
     {
@@ -95,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
+      "channel": "사이드라마",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
-      "channel": "꽃다발",
+      "channel": "스마일_예능",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "텐필름",
       "count": 1
     }
   ],
