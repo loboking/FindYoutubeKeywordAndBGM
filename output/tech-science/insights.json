@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 아이폰, 이유, 컴퓨터, 삼성전자",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 컴퓨터, 진짜, 이유, 아이폰",
   "top_videos_summary": [
     {
-      "views": 3637496,
+      "views": 3979296,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "키보드왕",
       "duration": 18
     },
     {
-      "views": 3422906,
+      "views": 3516151,
       "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 43
     },
     {
-      "views": 2460057,
+      "views": 2468719,
       "title": "갤럭시 폴드8 스파이더맨 에디션",
       "upload_year": "2026",
       "channel": "짤딜러",
       "duration": 38
     },
     {
-      "views": 1953614,
+      "views": 1990901,
       "title": "갤럭시Z 폴드8 뜯자마자 딱 하루 접어두었습니다",
       "upload_year": "2026",
       "channel": "쉰소리뷰",
       "duration": 73
     },
     {
-      "views": 1701054,
+      "views": 1712265,
       "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
       "upload_year": "2026",
       "channel": "지식봄",
@@ -43,24 +43,24 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.13,
+    "top1_share": 0.14,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "갤럭시",
     "폴드8",
-    "아이폰",
-    "이유",
     "컴퓨터",
+    "진짜",
+    "이유",
+    "아이폰",
+    "모르는",
     "삼성전자",
     "삼성",
     "삼성이",
     "애플",
-    "진짜",
     "쓰면",
     "Z폴드8",
-    "실물",
     "난리난",
     "하나",
     "폴더블",
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "미엠지 Me:MZ",
+      "channel": "제로크림",
       "count": 1
     }
   ],
