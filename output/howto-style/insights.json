@@ -3,56 +3,54 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, 절대, 충격적인, 이유, 행동, 되는",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 절대, 충격적인, 이유, 되는, 요리, 가지를",
   "top_videos_summary": [
     {
-      "views": 30698846,
+      "views": 31285388,
       "title": "Grandpa Made This Gold Hands Planter with Rubber Gloves! 🤯",
       "upload_year": "2026",
       "channel": "Prime Production",
       "duration": 42
     },
     {
-      "views": 8034217,
+      "views": 8273799,
       "title": "Respect Women 💯💯🤯 Greatest Save 😇😇 #instantkarma #shorts #viral #viralvideo #viralshorts #trending",
       "upload_year": "2026",
       "channel": "Usmani Shorts",
       "duration": 14
     },
     {
-      "views": 5427994,
+      "views": 7899190,
       "title": "Dogs are the best friends of humans 🐶 #fyp #doglover #love",
       "upload_year": "2026",
       "channel": "Sylvia Fisher",
       "duration": 58
     },
     {
-      "views": 3846328,
-      "title": "이 연어는 절대 잡으면 안 됩니다",
-      "upload_year": "2026",
-      "channel": "지식창",
-      "duration": 46
-    },
-    {
-      "views": 3718025,
+      "views": 4089035,
       "title": "박재범 몸 만드는데 얼마나 걸릴까?",
       "upload_year": "2026",
       "channel": "달려서 세계속으로",
       "duration": 62
+    },
+    {
+      "views": 3943571,
+      "title": "이 연어는 절대 잡으면 안 됩니다",
+      "upload_year": "2026",
+      "channel": "지식창",
+      "duration": 46
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.33,
+    "top1_share": 0.31,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "절대",
     "충격적인",
     "이유",
-    "행동",
     "되는",
     "요리",
     "가지를",
@@ -66,8 +64,10 @@
     "Rubber",
     "Gloves",
     "#instantkarma",
+    "#shorts",
     "#viral",
-    "#viralvideo"
+    "#viralvideo",
+    "#viralshorts"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "지식창",
+      "channel": "달려서 세계속으로",
       "count": 1
     },
     {
-      "channel": "달려서 세계속으로",
+      "channel": "지식창",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "푸키키",
-      "count": 1
-    },
-    {
       "channel": "popconic",
       "count": 1
     },
     {
-      "channel": "숏싹숏싹",
+      "channel": "토파리뷰",
+      "count": 1
+    },
+    {
+      "channel": "푸키키",
       "count": 1
     }
   ],
