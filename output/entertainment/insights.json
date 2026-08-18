@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 최후, #shorts, 생기는, 일ㅋㅋ, 스파이더맨",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 최후, 레전드, 역대급, #shorts, 생기는",
   "top_videos_summary": [
     {
-      "views": 4283769,
+      "views": 4590435,
       "title": "13년 돌본 남편에게 이혼하자는 아내",
       "upload_year": "2026",
       "channel": "불빛사연",
       "duration": 49
     },
     {
-      "views": 3883015,
+      "views": 3884542,
       "title": "두 남자를 잃을뻔 했다",
       "upload_year": "2026",
       "channel": "대장 곽두팔",
       "duration": 16
     },
     {
-      "views": 3571390,
+      "views": 3670914,
       "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
       "upload_year": "2026",
       "channel": "어바웃마블",
       "duration": 38
     },
     {
-      "views": 3077367,
-      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "예능한스푼",
-      "duration": 56
-    },
-    {
-      "views": 3006127,
+      "views": 3136018,
       "title": "'걸그룹 멤버'들이 서로 의지하는 이유",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 40
+    },
+    {
+      "views": 3098428,
+      "title": "사랑해서 거짓말하던 남친의 최후",
+      "upload_year": "2026",
+      "channel": "무드뷰",
+      "duration": 65
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "최후",
+    "레전드",
+    "역대급",
     "#shorts",
     "생기는",
     "일ㅋㅋ",
-    "스파이더맨",
-    "역대급",
+    "되는",
+    "#랭킹",
     "남자의",
+    "#시니어드라마",
+    "모든게",
+    "선배한테",
     "13년",
     "돌본",
     "남편에게",
     "이혼하자는",
     "아내",
     "남자를",
-    "잃을뻔",
-    "했다",
-    "#마블",
-    "엔드게임",
-    "이후",
-    "호크아이에게"
+    "잃을뻔"
   ],
   "channel_distribution": [
     {
@@ -83,23 +83,7 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
-      "count": 1
-    },
-    {
       "channel": "아이돌탐정",
-      "count": 1
-    },
-    {
-      "channel": "감자의 취미생활",
-      "count": 1
-    },
-    {
-      "channel": "초미녀갤러리",
-      "count": 1
-    },
-    {
-      "channel": "즐거운타임",
       "count": 1
     },
     {
@@ -107,7 +91,23 @@
       "count": 1
     },
     {
-      "channel": "방구석_숏포츠",
+      "channel": "꽃다발",
+      "count": 1
+    },
+    {
+      "channel": "감자의 취미생활",
+      "count": 1
+    },
+    {
+      "channel": "차트충",
+      "count": 1
+    },
+    {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
+      "channel": "예능존",
       "count": 1
     }
   ],
