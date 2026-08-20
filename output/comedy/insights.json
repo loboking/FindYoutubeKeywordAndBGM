@@ -3,47 +3,47 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 생기는, 일ㅋㅋ, 만난, 이유, #웃긴영상",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 일ㅋㅋ, #아는형님, 이유, 역대급",
   "top_videos_summary": [
     {
-      "views": 4178331,
-      "title": "추억돋는 새학기 풍경",
-      "upload_year": "2026",
-      "channel": "숨은명화찾기",
-      "duration": 114
-    },
-    {
-      "views": 3107676,
-      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "예능한스푼",
-      "duration": 56
-    },
-    {
-      "views": 2988643,
+      "views": 4835185,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 2631333,
+      "views": 3121135,
+      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "예능한스푼",
+      "duration": 56
+    },
+    {
+      "views": 3017004,
       "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 56
     },
     {
-      "views": 2502684,
-      "title": "이름이 싫어와 아파",
+      "views": 2937608,
+      "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
       "upload_year": "2026",
-      "channel": "사이드라마",
-      "duration": 44
+      "channel": "예능존",
+      "duration": 42
+    },
+    {
+      "views": 2458529,
+      "title": "고급초밥 진짜 맛있게먹는 변종구",
+      "upload_year": "2026",
+      "channel": "텐필름",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,27 +51,27 @@
     "#shorts",
     "생기는",
     "일ㅋㅋ",
-    "만난",
-    "이유",
-    "#웃긴영상",
-    "역대급",
     "#아는형님",
-    "얼마나",
-    "서울",
+    "이유",
+    "역대급",
     "정체",
+    "만난",
+    "민폐",
     "최후",
     "순간",
-    "모먼트",
-    "#코미디",
-    "#개그",
-    "추억돋는",
-    "새학기",
-    "풍경",
-    "키가"
+    "남자가",
+    "부부",
+    "개그맨ㅋㅋ",
+    "#문세윤",
+    "#김준현",
+    "#2024kbs연예대상",
+    "레전드",
+    "방송사고에",
+    "대처ㅋㅋㅋ"
   ],
   "channel_distribution": [
     {
-      "channel": "숨은명화찾기",
+      "channel": "꽃다발",
       "count": 1
     },
     {
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "꽃다발",
-      "count": 1
-    },
-    {
       "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "사이드라마",
       "count": 1
     },
     {
@@ -95,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "스마일_예능",
+      "channel": "텐필름",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "텐필름",
+      "channel": "리즈시절 천개 모으기",
+      "count": 1
+    },
+    {
+      "channel": "매드뭅",
+      "count": 1
+    },
+    {
+      "channel": "달빛시네",
       "count": 1
     }
   ],
