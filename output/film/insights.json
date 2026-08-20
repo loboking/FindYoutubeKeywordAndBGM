@@ -3,59 +3,62 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 생기는, 이유, #shorts, 일ㅋㅋ, 스파이더맨",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 이유, 생기는, #마블, #시니어쇼츠, #쇼츠",
   "top_videos_summary": [
     {
-      "views": 13923420,
+      "views": 14256838,
       "title": "저승사자 vs 천사 (4편)",
       "upload_year": "2026",
       "channel": "저승이와 친구들",
       "duration": 26
     },
     {
-      "views": 3303232,
+      "views": 3364418,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
     },
     {
-      "views": 3121218,
-      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "예능한스푼",
-      "duration": 56
-    },
-    {
-      "views": 3017004,
+      "views": 3085368,
       "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 56
     },
     {
-      "views": 2933893,
-      "title": "시작은 스파이더맨 끝은",
+      "views": 2838272,
+      "title": "말 많은 해적 덕분에목숨을 구한 여자",
       "upload_year": "2026",
-      "channel": "초미녀갤러리",
-      "duration": 18
+      "channel": "오세요한국",
+      "duration": 92
+    },
+    {
+      "views": 2606156,
+      "title": "친일파 아버지가 쌍둥이 딸을 착각한 결과 #암살",
+      "upload_year": "2026",
+      "channel": "김과장",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.17,
+    "top1_share": 0.18,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "최후",
-    "생기는",
     "이유",
-    "#shorts",
-    "일ㅋㅋ",
-    "스파이더맨",
+    "생기는",
+    "#마블",
+    "#시니어쇼츠",
+    "#쇼츠",
     "개그맨ㅋㅋ",
+    "영화",
     "#신병",
+    "실제",
+    "#감동",
     "#반전",
     "저승사자",
     "vs",
@@ -64,9 +67,6 @@
     "사랑해서",
     "거짓말하던",
     "남친의",
-    "키가",
-    "유난히",
-    "크면",
     "남녀가"
   ],
   "channel_distribution": [
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
-      "count": 1
-    },
-    {
       "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "초미녀갤러리",
       "count": 1
     },
     {
@@ -95,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "김과장",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "김과장",
+      "channel": "순간숏",
       "count": 1
     },
     {
-      "channel": "순간숏",
+      "channel": "짤시네마",
+      "count": 1
+    },
+    {
+      "channel": "리즈시절 천개 모으기",
+      "count": 1
+    },
+    {
+      "channel": "tvN D ENT",
       "count": 1
     }
   ],
