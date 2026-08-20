@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 생기는, 일ㅋㅋ, #아는형님, 이유, 역대급",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #아는형님, 이유, #shorts, 레전드, 역대급, 일ㅋㅋ",
   "top_videos_summary": [
     {
-      "views": 4835185,
+      "views": 5633083,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 3121135,
-      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "예능한스푼",
-      "duration": 56
-    },
-    {
-      "views": 3017004,
-      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 56
-    },
-    {
-      "views": 2937608,
+      "views": 3158628,
       "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 42
     },
     {
-      "views": 2458529,
+      "views": 3085173,
+      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "스타잇",
+      "duration": 56
+    },
+    {
+      "views": 2621658,
       "title": "고급초밥 진짜 맛있게먹는 변종구",
       "upload_year": "2026",
       "channel": "텐필름",
       "duration": 22
+    },
+    {
+      "views": 2388789,
+      "title": "부모를 속이고입양된 아이의 정체",
+      "upload_year": "2026",
+      "channel": "헛개리카노",
+      "duration": 159
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
-    "생기는",
-    "일ㅋㅋ",
     "#아는형님",
     "이유",
+    "#shorts",
+    "레전드",
     "역대급",
+    "일ㅋㅋ",
+    "생기는",
     "정체",
-    "만난",
-    "민폐",
-    "최후",
+    "방법",
     "순간",
     "남자가",
-    "부부",
+    "이름이",
+    "랭킹",
     "개그맨ㅋㅋ",
+    "세대",
+    "당한",
     "#문세윤",
     "#김준현",
     "#2024kbs연예대상",
-    "레전드",
-    "방송사고에",
-    "대처ㅋㅋㅋ"
+    "방송사고에"
   ],
   "channel_distribution": [
     {
@@ -75,7 +75,7 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "예능존",
       "count": 1
     },
     {
@@ -83,15 +83,7 @@
       "count": 1
     },
     {
-      "channel": "예능존",
-      "count": 1
-    },
-    {
       "channel": "텐필름",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -99,7 +91,11 @@
       "count": 1
     },
     {
-      "channel": "리즈시절 천개 모으기",
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "하류사회",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "달빛시네",
+      "channel": "리즈시절 천개 모으기",
+      "count": 1
+    },
+    {
+      "channel": "tvN D ENT",
       "count": 1
     }
   ],
