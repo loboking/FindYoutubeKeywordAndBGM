@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 최후, 일ㅋㅋ, 스파이더맨, 순간",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 생기는, 이유, #shorts, 일ㅋㅋ, 스파이더맨",
   "top_videos_summary": [
     {
-      "views": 12558088,
+      "views": 13923420,
       "title": "저승사자 vs 천사 (4편)",
       "upload_year": "2026",
       "channel": "저승이와 친구들",
       "duration": 26
     },
     {
-      "views": 3671626,
-      "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
-      "upload_year": "2026",
-      "channel": "어바웃마블",
-      "duration": 38
-    },
-    {
-      "views": 3107868,
-      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "예능한스푼",
-      "duration": 56
-    },
-    {
-      "views": 3100417,
+      "views": 3303232,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
     },
     {
-      "views": 2920535,
+      "views": 3121218,
+      "title": "키가 유난히 크면 생기는 일ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "예능한스푼",
+      "duration": 56
+    },
+    {
+      "views": 3017004,
+      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "스타잇",
+      "duration": 56
+    },
+    {
+      "views": 2933893,
       "title": "시작은 스파이더맨 끝은",
       "upload_year": "2026",
       "channel": "초미녀갤러리",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.14,
+    "top1_share": 0.17,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "생기는",
     "최후",
+    "생기는",
+    "이유",
+    "#shorts",
     "일ㅋㅋ",
     "스파이더맨",
-    "순간",
-    "잠시",
-    "친구",
-    "영화",
+    "개그맨ㅋㅋ",
+    "#신병",
+    "#반전",
     "저승사자",
     "vs",
     "천사",
     "4편",
-    "#마블",
-    "엔드게임",
-    "이후",
-    "호크아이에게",
-    "남은",
-    "#shorts",
-    "키가"
+    "사랑해서",
+    "거짓말하던",
+    "남친의",
+    "키가",
+    "유난히",
+    "크면",
+    "남녀가"
   ],
   "channel_distribution": [
     {
@@ -75,7 +75,7 @@
       "count": 1
     },
     {
-      "channel": "어바웃마블",
+      "channel": "무드뷰",
       "count": 1
     },
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "무드뷰",
+      "channel": "스타잇",
       "count": 1
     },
     {
@@ -91,23 +91,23 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "사이드라마",
-      "count": 1
-    },
-    {
       "channel": "오세요한국",
       "count": 1
     },
     {
-      "channel": "뭅토리",
+      "channel": "옥상평상",
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "헛개리카노",
+      "count": 1
+    },
+    {
+      "channel": "김과장",
+      "count": 1
+    },
+    {
+      "channel": "순간숏",
       "count": 1
     }
   ],
