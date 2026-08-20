@@ -3,61 +3,62 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 되는, #shorts, 절대, 충격적인, 행동",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, #carpfishing, 절대, 충격적인, 메이크업, 되는",
   "top_videos_summary": [
     {
-      "views": 19646805,
-      "title": "#fishing #钓鱼 #大魚 #carpfishing #户外钓鱼 #bassfishing #fish",
+      "views": 22252790,
+      "title": "#fishing #钓鱼 #大魚 #carpfishing #户外钓鱼 #bassfishing #fish #親子釣魚  #carpfishing",
       "upload_year": "2026",
       "channel": "爱看钓鱼 | Love Fishing",
       "duration": 16
     },
     {
-      "views": 11323306,
+      "views": 12559167,
       "title": "Dogs are the best friends of humans 🐶 #fyp #doglover #love",
       "upload_year": "2026",
       "channel": "Sylvia Fisher",
       "duration": 58
     },
     {
-      "views": 8658001,
+      "views": 8916642,
       "title": "Respect Women 💯💯🤯 Greatest Save 😇😇 #instantkarma #shorts #viral #viralvideo #viralshorts #trending",
       "upload_year": "2026",
       "channel": "Usmani Shorts",
       "duration": 14
     },
     {
-      "views": 4450420,
-      "title": "박재범 몸 만드는데 얼마나 걸릴까?",
-      "upload_year": "2026",
-      "channel": "달려서 세계속으로",
-      "duration": 62
-    },
-    {
-      "views": 4427109,
+      "views": 5289730,
       "title": "哈哈，说不上两句就开始发抖了#剪映#人类幼崽#萌娃跳舞#小表情太可爱了#斗舞名场面",
       "upload_year": "2026",
       "channel": "이자영",
       "duration": 22
+    },
+    {
+      "views": 4783012,
+      "title": "Karen Gets Instant Karma For Throwing Rock At Car #shorts",
+      "upload_year": "2026",
+      "channel": "KarmaOnCamera",
+      "duration": 15
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.19,
+    "top1_share": 0.21,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "되는",
     "#shorts",
+    "#carpfishing",
     "절대",
     "충격적인",
+    "메이크업",
+    "되는",
     "행동",
     "요리",
+    "생기는",
     "가지를",
     "#fishing",
-    "#carpfishing",
     "#bassfishing",
     "#fish",
     "#fyp",
@@ -66,8 +67,7 @@
     "Dogs",
     "are",
     "the",
-    "best",
-    "friends"
+    "best"
   ],
   "channel_distribution": [
     {
@@ -83,19 +83,19 @@
       "count": 1
     },
     {
-      "channel": "달려서 세계속으로",
-      "count": 1
-    },
-    {
       "channel": "이자영",
       "count": 1
     },
     {
-      "channel": "지식창",
+      "channel": "KarmaOnCamera",
       "count": 1
     },
     {
-      "channel": "KarmaOnCamera",
+      "channel": "달려서 세계속으로",
+      "count": 1
+    },
+    {
+      "channel": "지식창",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "공간 탐닉 Space Tamnik",
+      "channel": "알고포스",
       "count": 1
     }
   ],
