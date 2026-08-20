@@ -3,64 +3,64 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 최후, 레전드, 역대급, #shorts, 생기는",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 레전드, 이유, 최후, 일ㅋㅋ, 알았는데, 남자의",
   "top_videos_summary": [
     {
-      "views": 4590435,
+      "views": 5633069,
+      "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
+      "upload_year": "2026",
+      "channel": "꽃다발",
+      "duration": 55
+    },
+    {
+      "views": 4735801,
       "title": "13년 돌본 남편에게 이혼하자는 아내",
       "upload_year": "2026",
       "channel": "불빛사연",
       "duration": 49
     },
     {
-      "views": 3884542,
+      "views": 3885650,
       "title": "두 남자를 잃을뻔 했다",
       "upload_year": "2026",
       "channel": "대장 곽두팔",
       "duration": 16
     },
     {
-      "views": 3670914,
-      "title": "엔드게임 이후 호크아이에게 남은 것 #마블",
-      "upload_year": "2026",
-      "channel": "어바웃마블",
-      "duration": 38
-    },
-    {
-      "views": 3136018,
-      "title": "'걸그룹 멤버'들이 서로 의지하는 이유",
-      "upload_year": "2026",
-      "channel": "아이돌탐정",
-      "duration": 40
-    },
-    {
-      "views": 3098428,
+      "views": 3364418,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
+    },
+    {
+      "views": 3159415,
+      "title": "프로미스나인 몸무게 실체에 경악한 스태프",
+      "upload_year": "2026",
+      "channel": "우리 바보 아니야",
+      "duration": 14
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "레전드",
     "이유",
     "최후",
-    "레전드",
-    "역대급",
-    "#shorts",
-    "생기는",
     "일ㅋㅋ",
-    "되는",
-    "#랭킹",
+    "알았는데",
     "남자의",
-    "#시니어드라마",
-    "모든게",
     "선배한테",
+    "#문세윤",
+    "#김준현",
+    "#2024kbs연예대상",
+    "방송사고에",
+    "역대급",
+    "대처ㅋㅋㅋ",
     "13년",
     "돌본",
     "남편에게",
@@ -71,6 +71,10 @@
   ],
   "channel_distribution": [
     {
+      "channel": "꽃다발",
+      "count": 1
+    },
+    {
       "channel": "불빛사연",
       "count": 1
     },
@@ -79,27 +83,15 @@
       "count": 1
     },
     {
-      "channel": "어바웃마블",
-      "count": 1
-    },
-    {
-      "channel": "아이돌탐정",
-      "count": 1
-    },
-    {
       "channel": "무드뷰",
       "count": 1
     },
     {
-      "channel": "꽃다발",
+      "channel": "우리 바보 아니야",
       "count": 1
     },
     {
-      "channel": "감자의 취미생활",
-      "count": 1
-    },
-    {
-      "channel": "차트충",
+      "channel": "예능존",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "예능존",
+      "channel": "차트충",
+      "count": 1
+    },
+    {
+      "channel": "오세요한국",
+      "count": 1
+    },
+    {
+      "channel": "대파민",
       "count": 1
     }
   ],
