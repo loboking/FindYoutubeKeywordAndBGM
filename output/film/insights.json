@@ -3,77 +3,73 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 이유, 생기는, #마블, #시니어쇼츠, #쇼츠",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 생기는, 이유, #마블, 배우, 김원효",
   "top_videos_summary": [
     {
-      "views": 14256838,
-      "title": "저승사자 vs 천사 (4편)",
-      "upload_year": "2026",
-      "channel": "저승이와 친구들",
-      "duration": 26
-    },
-    {
-      "views": 3364418,
+      "views": 3445012,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
     },
     {
-      "views": 3085368,
+      "views": 3114262,
       "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 56
     },
     {
-      "views": 2838272,
+      "views": 2923883,
+      "title": "친일파 아버지가 쌍둥이 딸을 착각한 결과 #암살",
+      "upload_year": "2026",
+      "channel": "김과장",
+      "duration": 60
+    },
+    {
+      "views": 2853890,
       "title": "말 많은 해적 덕분에목숨을 구한 여자",
       "upload_year": "2026",
       "channel": "오세요한국",
       "duration": 92
     },
     {
-      "views": 2606156,
-      "title": "친일파 아버지가 쌍둥이 딸을 착각한 결과 #암살",
+      "views": 2230900,
+      "title": "눈이 뒤집힌 형사가 한곳만 맴도는 이유",
       "upload_year": "2026",
-      "channel": "김과장",
-      "duration": 60
+      "channel": "짤시네마",
+      "duration": 57
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.18,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "최후",
-    "이유",
     "생기는",
+    "이유",
     "#마블",
-    "#시니어쇼츠",
-    "#쇼츠",
+    "배우",
+    "김원효",
+    "당한",
     "개그맨ㅋㅋ",
-    "영화",
+    "#쇼츠",
+    "#웃긴영상",
+    "다시",
     "#신병",
+    "할아버지",
+    "#shorts",
     "실제",
-    "#감동",
-    "#반전",
-    "저승사자",
-    "vs",
-    "천사",
-    "4편",
-    "사랑해서",
-    "거짓말하던",
-    "남친의",
-    "남녀가"
+    "#시니어드라마",
+    "#시니어쇼츠",
+    "할머니를",
+    "잠시",
+    "사랑해서"
   ],
   "channel_distribution": [
-    {
-      "channel": "저승이와 친구들",
-      "count": 1
-    },
     {
       "channel": "무드뷰",
       "count": 1
@@ -83,19 +79,11 @@
       "count": 1
     },
     {
-      "channel": "오세요한국",
-      "count": 1
-    },
-    {
       "channel": "김과장",
       "count": 1
     },
     {
-      "channel": "헛개리카노",
-      "count": 1
-    },
-    {
-      "channel": "순간숏",
+      "channel": "오세요한국",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
-      "channel": "리즈시절 천개 모으기",
+      "channel": "tvN D ENT",
       "count": 1
     },
     {
-      "channel": "tvN D ENT",
+      "channel": "상승기류",
+      "count": 1
+    },
+    {
+      "channel": "김동댕",
+      "count": 1
+    },
+    {
+      "channel": "뿌숏뿌숏",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
       "count": 1
     }
   ],
