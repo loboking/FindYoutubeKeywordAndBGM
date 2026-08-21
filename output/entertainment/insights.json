@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 레전드, 이유, 최후, 일ㅋㅋ, 알았는데, 남자의",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 레전드, 역대급, 일ㅋㅋ, 놀란, 생기는, #랭킹",
   "top_videos_summary": [
     {
-      "views": 5633069,
+      "views": 6306634,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 4735801,
+      "views": 4886968,
       "title": "13년 돌본 남편에게 이혼하자는 아내",
       "upload_year": "2026",
       "channel": "불빛사연",
       "duration": 49
     },
     {
-      "views": 3885650,
-      "title": "두 남자를 잃을뻔 했다",
+      "views": 3719821,
+      "title": "프로미스나인 몸무게 실체에 경악한 스태프",
       "upload_year": "2026",
-      "channel": "대장 곽두팔",
-      "duration": 16
+      "channel": "우리 바보 아니야",
+      "duration": 14
     },
     {
-      "views": 3364418,
+      "views": 3444819,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
     },
     {
-      "views": 3159415,
-      "title": "프로미스나인 몸무게 실체에 경악한 스태프",
+      "views": 3271998,
+      "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
       "upload_year": "2026",
-      "channel": "우리 바보 아니야",
-      "duration": 14
+      "channel": "예능존",
+      "duration": 42
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "레전드",
-    "이유",
-    "최후",
+    "역대급",
     "일ㅋㅋ",
+    "놀란",
+    "생기는",
+    "#랭킹",
     "알았는데",
-    "남자의",
     "선배한테",
+    "이유",
+    "#예능",
+    "#마블",
+    "#웃긴영상",
+    "할아버지",
+    "#유머",
+    "#시니어드라마",
     "#문세윤",
     "#김준현",
     "#2024kbs연예대상",
     "방송사고에",
-    "역대급",
-    "대처ㅋㅋㅋ",
-    "13년",
-    "돌본",
-    "남편에게",
-    "이혼하자는",
-    "아내",
-    "남자를",
-    "잃을뻔"
+    "대처ㅋㅋㅋ"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "대장 곽두팔",
+      "channel": "우리 바보 아니야",
       "count": 1
     },
     {
@@ -87,15 +87,7 @@
       "count": 1
     },
     {
-      "channel": "우리 바보 아니야",
-      "count": 1
-    },
-    {
       "channel": "예능존",
-      "count": 1
-    },
-    {
-      "channel": "스타잇",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "오세요한국",
+      "channel": "스타잇",
       "count": 1
     },
     {
-      "channel": "대파민",
+      "channel": "네상에이런일이",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "오늘의스타",
       "count": 1
     }
   ],
