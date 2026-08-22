@@ -6,46 +6,46 @@
   "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 이유, 아이폰, AI, 삼성전자, 삼성",
   "top_videos_summary": [
     {
-      "views": 24376345,
+      "views": 26851330,
       "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
       "upload_year": "2026",
       "channel": "Lasa Technology ",
       "duration": 11
     },
     {
-      "views": 4495507,
+      "views": 4699426,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "키보드왕",
       "duration": 18
     },
     {
-      "views": 3634793,
+      "views": 3710085,
       "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 43
     },
     {
-      "views": 1742965,
-      "title": "방 전체를 채우는 프랑스산 음향 공학 스피커",
-      "upload_year": "2026",
-      "channel": "지식봄",
-      "duration": 12
-    },
-    {
-      "views": 1316941,
+      "views": 1325204,
       "title": "\"몇 수를 내다 본 거지?\" 애플 때문에 삼성이 폴더블폰을 통째로 갈아엎은 게 신의 한수가 된 진짜 이유",
       "upload_year": "2026",
       "channel": "지금들어봐",
       "duration": 125
+    },
+    {
+      "views": 1154514,
+      "title": "옛날 아이폰 사는 이유가 다 있음..ㄷㄷ",
+      "upload_year": "2026",
+      "channel": "아아한잔",
+      "duration": 16
     }
   ],
   "outlier_adjusted": {
     "has_outlier": true,
-    "top1_share": 0.5,
-    "avg_views_excluding_top1": 556681,
-    "note": "1위가 전체 조회수의 50% 차지 — 평균 왜곡."
+    "top1_share": 0.53,
+    "avg_views_excluding_top1": 544961,
+    "note": "1위가 전체 조회수의 53% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
     "갤럭시",
@@ -54,7 +54,6 @@
     "AI",
     "삼성전자",
     "삼성",
-    "애플",
     "진짜",
     "지금",
     "Z폴드8",
@@ -67,7 +66,8 @@
     "#gtx1080ti",
     "“PC",
     "Parts",
-    "have"
+    "have",
+    "arrived"
   ],
   "channel_distribution": [
     {
@@ -80,10 +80,6 @@
     },
     {
       "channel": "일분일초",
-      "count": 1
-    },
-    {
-      "channel": "지식봄",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
+      "channel": "짧주",
+      "count": 1
+    },
+    {
       "channel": "제로크림",
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "봉희픽",
       "count": 1
     }
   ],
