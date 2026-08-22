@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 레전드, 역대급, 일ㅋㅋ, 놀란, 생기는, #랭킹",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 레전드, 생기는, 일ㅋㅋ, 이유ㅋㅋ, #마블",
   "top_videos_summary": [
     {
-      "views": 6306634,
+      "views": 6702277,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 4886968,
-      "title": "13년 돌본 남편에게 이혼하자는 아내",
+      "views": 4332942,
+      "title": "돈 많은 아이돌이 가족이면 생기는 일ㅋㅋ",
       "upload_year": "2026",
-      "channel": "불빛사연",
-      "duration": 49
+      "channel": "스타잇",
+      "duration": 54
     },
     {
-      "views": 3719821,
+      "views": 4062227,
       "title": "프로미스나인 몸무게 실체에 경악한 스태프",
       "upload_year": "2026",
       "channel": "우리 바보 아니야",
       "duration": 14
     },
     {
-      "views": 3444819,
+      "views": 3720865,
+      "title": "인어가 실제로 존재하는 이유ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "네상에이런일이",
+      "duration": 42
+    },
+    {
+      "views": 3598029,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
-    },
-    {
-      "views": 3271998,
-      "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
-      "upload_year": "2026",
-      "channel": "예능존",
-      "duration": 42
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "레전드",
-    "역대급",
-    "일ㅋㅋ",
-    "놀란",
-    "생기는",
-    "#랭킹",
-    "알았는데",
-    "선배한테",
     "이유",
-    "#예능",
+    "레전드",
+    "생기는",
+    "일ㅋㅋ",
+    "이유ㅋㅋ",
     "#마블",
-    "#웃긴영상",
     "할아버지",
-    "#유머",
     "#시니어드라마",
+    "#재미",
     "#문세윤",
     "#김준현",
     "#2024kbs연예대상",
     "방송사고에",
-    "대처ㅋㅋㅋ"
+    "역대급",
+    "대처ㅋㅋㅋ",
+    "많은",
+    "아이돌이",
+    "가족이면",
+    "프로미스나인",
+    "몸무게"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,15 @@
       "count": 1
     },
     {
-      "channel": "불빛사연",
+      "channel": "스타잇",
       "count": 1
     },
     {
       "channel": "우리 바보 아니야",
+      "count": 1
+    },
+    {
+      "channel": "네상에이런일이",
       "count": 1
     },
     {
@@ -91,15 +95,7 @@
       "count": 1
     },
     {
-      "channel": "차트충",
-      "count": 1
-    },
-    {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "네상에이런일이",
+      "channel": "상승기류",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "오늘의스타",
+      "channel": "광광우럭따",
+      "count": 1
+    },
+    {
+      "channel": "먹기전에",
       "count": 1
     }
   ],
