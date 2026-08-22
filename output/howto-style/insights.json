@@ -3,91 +3,79 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #carpfishing, 절대, 직접, 되는, #연예계이슈, #shorts",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 직접, 되는, #김연아, #연예계이슈, #shorts, 요리",
   "top_videos_summary": [
     {
-      "views": 23810625,
-      "title": "#fishing #钓鱼 #大魚 #carpfishing #户外钓鱼 #bassfishing #fish #親子釣魚  #carpfishing",
-      "upload_year": "2026",
-      "channel": "爱看钓鱼 | Love Fishing",
-      "duration": 16
-    },
-    {
-      "views": 13743431,
+      "views": 14731396,
       "title": "Dogs are the best friends of humans 🐶 #fyp #doglover #love",
       "upload_year": "2026",
       "channel": "Sylvia Fisher",
       "duration": 58
     },
     {
-      "views": 4578038,
+      "views": 4616550,
       "title": "박재범 몸 만드는데 얼마나 걸릴까?",
       "upload_year": "2026",
       "channel": "달려서 세계속으로",
       "duration": 62
     },
     {
-      "views": 3998310,
-      "title": "이 연어는 절대 잡으면 안 됩니다",
+      "views": 3696780,
+      "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
-      "channel": "지식창",
-      "duration": 46
+      "channel": "하루10초",
+      "duration": 22
     },
     {
-      "views": 3365001,
-      "title": "남들과 다른 #BAD 챌린지",
+      "views": 2486293,
+      "title": "손님 맛있겠죠? 대답하세요",
       "upload_year": "2026",
-      "channel": "1분조각",
-      "duration": 26
+      "channel": "popconic",
+      "duration": 16
+    },
+    {
+      "views": 2433081,
+      "title": "빠지에서 세운 세계 신기록ㄷㄷ",
+      "upload_year": "2026",
+      "channel": "알고포스",
+      "duration": 14
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.26,
+    "top1_share": 0.22,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#carpfishing",
-    "절대",
     "직접",
     "되는",
+    "#김연아",
     "#연예계이슈",
     "#shorts",
+    "요리",
     "많이",
-    "생긴",
-    "스타",
-    "가지를",
     "재벌",
-    "#fishing",
-    "#bassfishing",
-    "#fish",
+    "스타",
+    "생긴",
+    "진짜",
+    "가지를",
+    "레시피",
     "#fyp",
     "#doglover",
     "#love",
     "Dogs",
     "are",
-    "the"
+    "the",
+    "best"
   ],
   "channel_distribution": [
-    {
-      "channel": "爱看钓鱼 | Love Fishing",
-      "count": 1
-    },
     {
       "channel": "Sylvia Fisher",
       "count": 1
     },
     {
       "channel": "달려서 세계속으로",
-      "count": 1
-    },
-    {
-      "channel": "지식창",
-      "count": 1
-    },
-    {
-      "channel": "1분조각",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
+      "channel": "디데이쇼츠",
+      "count": 1
+    },
+    {
+      "channel": "블랙캠",
+      "count": 1
+    },
+    {
       "channel": "토파리뷰",
       "count": 1
     },
     {
-      "channel": "디데이쇼츠",
+      "channel": "뭉치의 개팔상팔",
+      "count": 1
+    },
+    {
+      "channel": "K-스타 해설소",
       "count": 1
     }
   ],
