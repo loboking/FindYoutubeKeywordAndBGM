@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 생기는, 이유, #마블, 배우, 김원효",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, 생기는, 스파이더맨, 김원효",
   "top_videos_summary": [
     {
-      "views": 3445012,
+      "views": 3598029,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
     },
     {
-      "views": 3114262,
+      "views": 3123898,
       "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 56
     },
     {
-      "views": 2923883,
-      "title": "친일파 아버지가 쌍둥이 딸을 착각한 결과 #암살",
+      "views": 2719915,
+      "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
-      "channel": "김과장",
-      "duration": 60
+      "channel": "상승기류",
+      "duration": 61
     },
     {
-      "views": 2853890,
-      "title": "말 많은 해적 덕분에목숨을 구한 여자",
+      "views": 2192877,
+      "title": "아바다케다브라는 좀 심했어",
       "upload_year": "2026",
-      "channel": "오세요한국",
-      "duration": 92
+      "channel": "먹기전에",
+      "duration": 118
     },
     {
-      "views": 2230900,
-      "title": "눈이 뒤집힌 형사가 한곳만 맴도는 이유",
+      "views": 2100260,
+      "title": "다른 전투 방식을 가진 3명의 스파이더맨",
       "upload_year": "2026",
-      "channel": "짤시네마",
-      "duration": 57
+      "channel": "김동댕",
+      "duration": 96
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "이유",
+    "#shorts",
     "최후",
     "생기는",
-    "이유",
-    "#마블",
-    "배우",
+    "스파이더맨",
     "김원효",
-    "당한",
-    "개그맨ㅋㅋ",
-    "#쇼츠",
-    "#웃긴영상",
-    "다시",
-    "#신병",
+    "참교육",
+    "배우",
     "할아버지",
-    "#shorts",
-    "실제",
     "#시니어드라마",
+    "#신병",
+    "빠진",
+    "#웃긴영상",
+    "#유머",
+    "남자",
     "#시니어쇼츠",
+    "#시니어",
     "할머니를",
     "잠시",
-    "사랑해서"
+    "방법"
   ],
   "channel_distribution": [
     {
@@ -79,23 +79,11 @@
       "count": 1
     },
     {
-      "channel": "김과장",
-      "count": 1
-    },
-    {
-      "channel": "오세요한국",
-      "count": 1
-    },
-    {
-      "channel": "짤시네마",
-      "count": 1
-    },
-    {
-      "channel": "tvN D ENT",
-      "count": 1
-    },
-    {
       "channel": "상승기류",
+      "count": 1
+    },
+    {
+      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "짧은 즐거움",
+      "count": 1
+    },
+    {
+      "channel": "무비펭",
+      "count": 1
+    },
+    {
+      "channel": "예능쥬아",
       "count": 1
     }
   ],
