@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, 레전드, 역대급, #아는형님, 일ㅋㅋ",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, #아는형님, 방법, 레전드, 생기는",
   "top_videos_summary": [
     {
-      "views": 6306635,
+      "views": 6702277,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 3271998,
+      "views": 4332942,
+      "title": "돈 많은 아이돌이 가족이면 생기는 일ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "스타잇",
+      "duration": 54
+    },
+    {
+      "views": 3331826,
       "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 42
     },
     {
-      "views": 3114262,
-      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
+      "views": 2719915,
+      "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 56
+      "channel": "상승기류",
+      "duration": 61
     },
     {
-      "views": 2672482,
-      "title": "고급초밥 진짜 맛있게먹는 변종구",
+      "views": 2705479,
+      "title": "공짜 음료를 창조하는 신입 알바의 정체",
       "upload_year": "2026",
-      "channel": "텐필름",
-      "duration": 22
-    },
-    {
-      "views": 2469076,
-      "title": "최병남이 하극상 위기를 넘어가는 방법 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
-      "upload_year": "2026",
-      "channel": "다시볼티비",
-      "duration": 58
+      "channel": "하류사회",
+      "duration": 20
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "#shorts",
     "이유",
-    "레전드",
-    "역대급",
     "#아는형님",
-    "일ㅋㅋ",
-    "생기는",
-    "진짜",
     "방법",
-    "방송",
+    "레전드",
+    "생기는",
+    "일ㅋㅋ",
     "김원효",
+    "참교육",
     "당한",
-    "개그맨ㅋㅋ",
+    "#반전드라마",
+    "#시니어드라마",
     "#웃긴영상",
-    "다시",
     "#유머",
     "#예능",
-    "시누이",
+    "#시니어",
     "#문세윤",
-    "#김준현"
+    "#김준현",
+    "#2024kbs연예대상",
+    "방송사고에"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,19 @@
       "count": 1
     },
     {
+      "channel": "스타잇",
+      "count": 1
+    },
+    {
       "channel": "예능존",
       "count": 1
     },
     {
-      "channel": "스타잇",
+      "channel": "상승기류",
+      "count": 1
+    },
+    {
+      "channel": "하류사회",
       "count": 1
     },
     {
@@ -91,23 +99,15 @@
       "count": 1
     },
     {
-      "channel": "하류사회",
+      "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "tvN D ENT",
+      "channel": "옥상평상",
       "count": 1
     },
     {
-      "channel": "상승기류",
-      "count": 1
-    },
-    {
-      "channel": "해외쇼쇼",
-      "count": 1
-    },
-    {
-      "channel": "눈물한가득",
+      "channel": "숏라마",
       "count": 1
     }
   ],
