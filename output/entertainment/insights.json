@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 레전드, 생기는, 일ㅋㅋ, 이유ㅋㅋ, #마블",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, 역대급, 방법, vs, 할아버지",
   "top_videos_summary": [
     {
-      "views": 6702277,
+      "views": 6916266,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 4332942,
-      "title": "돈 많은 아이돌이 가족이면 생기는 일ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 54
-    },
-    {
-      "views": 4062227,
-      "title": "프로미스나인 몸무게 실체에 경악한 스태프",
-      "upload_year": "2026",
-      "channel": "우리 바보 아니야",
-      "duration": 14
-    },
-    {
-      "views": 3720865,
+      "views": 4726610,
       "title": "인어가 실제로 존재하는 이유ㅋㅋ",
       "upload_year": "2026",
       "channel": "네상에이런일이",
       "duration": 42
     },
     {
-      "views": 3598029,
-      "title": "사랑해서 거짓말하던 남친의 최후",
+      "views": 4326770,
+      "title": "프로미스나인 몸무게 실체에 경악한 스태프",
       "upload_year": "2026",
-      "channel": "무드뷰",
-      "duration": 65
+      "channel": "우리 바보 아니야",
+      "duration": 14
+    },
+    {
+      "views": 3316848,
+      "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
+      "upload_year": "2026",
+      "channel": "상승기류",
+      "duration": 61
+    },
+    {
+      "views": 2763911,
+      "title": "최병남이 하극상 위기를 넘어가는 방법 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "upload_year": "2026",
+      "channel": "다시볼티비",
+      "duration": 58
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "레전드",
-    "생기는",
-    "일ㅋㅋ",
-    "이유ㅋㅋ",
-    "#마블",
+    "역대급",
+    "방법",
+    "vs",
     "할아버지",
+    "남자",
     "#시니어드라마",
-    "#재미",
+    "#리센느",
+    "끝까지",
     "#문세윤",
     "#김준현",
     "#2024kbs연예대상",
     "방송사고에",
-    "역대급",
     "대처ㅋㅋㅋ",
-    "많은",
-    "아이돌이",
-    "가족이면",
-    "프로미스나인",
-    "몸무게"
+    "인어가",
+    "실제로",
+    "존재하는",
+    "이유ㅋㅋ",
+    "프로미스나인"
   ],
   "channel_distribution": [
     {
@@ -75,23 +75,11 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "우리 바보 아니야",
-      "count": 1
-    },
-    {
       "channel": "네상에이런일이",
       "count": 1
     },
     {
-      "channel": "무드뷰",
-      "count": 1
-    },
-    {
-      "channel": "예능존",
+      "channel": "우리 바보 아니야",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
+      "channel": "무비펭",
+      "count": 1
+    },
+    {
       "channel": "광광우럭따",
       "count": 1
     },
     {
       "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "윤정한 너로 정한다",
       "count": 1
     }
   ],
