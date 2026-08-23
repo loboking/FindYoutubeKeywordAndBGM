@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, 생기는, 스파이더맨, 김원효",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 최후, 방법, 참교육, 당한",
   "top_videos_summary": [
     {
-      "views": 3598029,
+      "views": 3676510,
       "title": "사랑해서 거짓말하던 남친의 최후",
       "upload_year": "2026",
       "channel": "무드뷰",
       "duration": 65
     },
     {
-      "views": 3123898,
-      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 56
-    },
-    {
-      "views": 2719915,
+      "views": 3317916,
       "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
       "channel": "상승기류",
       "duration": 61
     },
     {
-      "views": 2192877,
-      "title": "아바다케다브라는 좀 심했어",
+      "views": 3141726,
+      "title": "남녀가 감정 1도 없으면 생기는 일ㅋㅋ",
       "upload_year": "2026",
-      "channel": "먹기전에",
-      "duration": 118
+      "channel": "스타잇",
+      "duration": 56
     },
     {
-      "views": 2100260,
-      "title": "다른 전투 방식을 가진 3명의 스파이더맨",
+      "views": 2763945,
+      "title": "최병남이 하극상 위기를 넘어가는 방법 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
       "upload_year": "2026",
-      "channel": "김동댕",
-      "duration": 96
+      "channel": "다시볼티비",
+      "duration": 58
+    },
+    {
+      "views": 2533260,
+      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
+      "upload_year": "2026",
+      "channel": "무비펭",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
-    "최후",
     "생기는",
-    "스파이더맨",
-    "김원효",
+    "최후",
+    "방법",
     "참교육",
-    "배우",
-    "할아버지",
+    "당한",
+    "#마블",
+    "남자",
     "#시니어드라마",
-    "#신병",
-    "빠진",
+    "조폭",
+    "#shorts",
+    "#아는형님",
     "#웃긴영상",
     "#유머",
-    "남자",
-    "#시니어쇼츠",
     "#시니어",
     "할머니를",
-    "잠시",
-    "방법"
+    "#예능",
+    "진짜",
+    "스파이더맨",
+    "순간"
   ],
   "channel_distribution": [
     {
@@ -75,31 +75,15 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
       "channel": "상승기류",
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "스타잇",
       "count": 1
     },
     {
-      "channel": "김동댕",
-      "count": 1
-    },
-    {
-      "channel": "뿌숏뿌숏",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "짧은 즐거움",
+      "channel": "다시볼티비",
       "count": 1
     },
     {
@@ -107,7 +91,23 @@
       "count": 1
     },
     {
-      "channel": "예능쥬아",
+      "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "뿌숏뿌숏",
+      "count": 1
+    },
+    {
+      "channel": "짧은 즐거움",
+      "count": 1
+    },
+    {
+      "channel": "명화관",
       "count": 1
     }
   ],
