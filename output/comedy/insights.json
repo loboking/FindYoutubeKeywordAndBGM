@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, #아는형님, 방법, 레전드, 생기는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #아는형님, 생기는, 방법, #웃긴영상",
   "top_videos_summary": [
     {
-      "views": 6702277,
+      "views": 6916266,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 4332942,
+      "views": 4402300,
       "title": "돈 많은 아이돌이 가족이면 생기는 일ㅋㅋ",
       "upload_year": "2026",
       "channel": "스타잇",
       "duration": 54
     },
     {
-      "views": 3331826,
+      "views": 3348554,
       "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 42
     },
     {
-      "views": 2719915,
+      "views": 3316848,
       "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
       "channel": "상승기류",
       "duration": 61
     },
     {
-      "views": 2705479,
+      "views": 2904735,
       "title": "공짜 음료를 창조하는 신입 알바의 정체",
       "upload_year": "2026",
       "channel": "하류사회",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "이유",
+    "#shorts",
     "#아는형님",
-    "방법",
-    "레전드",
     "생기는",
+    "방법",
+    "#웃긴영상",
+    "#예능",
+    "레전드",
+    "역대급",
     "일ㅋㅋ",
-    "김원효",
+    "#신병",
     "참교육",
     "당한",
+    "편의점",
     "#반전드라마",
     "#시니어드라마",
-    "#웃긴영상",
+    "#스케치코미디",
+    "#코미디",
     "#유머",
-    "#예능",
-    "#시니어",
-    "#문세윤",
-    "#김준현",
-    "#2024kbs연예대상",
-    "방송사고에"
+    "#시니어"
   ],
   "channel_distribution": [
     {
@@ -91,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "텐필름",
+      "channel": "이영상",
       "count": 1
     },
     {
@@ -99,11 +99,11 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "무비펭",
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "먹기전에",
       "count": 1
     },
     {
