@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #아는형님, 생기는, 방법, #웃긴영상",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #아는형님, 방법, #웃긴영상, 역대급",
   "top_videos_summary": [
     {
-      "views": 6916266,
+      "views": 7140388,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 4402300,
-      "title": "돈 많은 아이돌이 가족이면 생기는 일ㅋㅋ",
+      "views": 4014893,
+      "title": "클락션 한번 더 눌렀으면 쪽팔렸을뻔",
       "upload_year": "2026",
-      "channel": "스타잇",
-      "duration": 54
+      "channel": "이영상",
+      "duration": 20
     },
     {
-      "views": 3348554,
-      "title": "김규원이 '뚱보 편견' 깨려고 한 일ㅋㅋ #아는형님 #김규원",
-      "upload_year": "2026",
-      "channel": "예능존",
-      "duration": 42
-    },
-    {
-      "views": 3316848,
+      "views": 3572712,
       "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
       "channel": "상승기류",
       "duration": 61
     },
     {
-      "views": 2904735,
-      "title": "공짜 음료를 창조하는 신입 알바의 정체",
+      "views": 3452125,
+      "title": "생각치 못한 선물을 받았을때 반응ㅋㅋ",
       "upload_year": "2026",
-      "channel": "하류사회",
-      "duration": 20
+      "channel": "롤더쿠",
+      "duration": 19
+    },
+    {
+      "views": 3275132,
+      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
+      "upload_year": "2026",
+      "channel": "무비펭",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
@@ -51,23 +51,23 @@
     "이유",
     "#shorts",
     "#아는형님",
-    "생기는",
     "방법",
     "#웃긴영상",
-    "#예능",
-    "레전드",
     "역대급",
-    "일ㅋㅋ",
-    "#신병",
     "참교육",
     "당한",
+    "#신병",
     "편의점",
+    "지디",
     "#반전드라마",
     "#시니어드라마",
     "#스케치코미디",
     "#코미디",
     "#유머",
-    "#시니어"
+    "#예능",
+    "#시니어",
+    "#문세윤",
+    "#김준현"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,7 @@
       "count": 1
     },
     {
-      "channel": "스타잇",
-      "count": 1
-    },
-    {
-      "channel": "예능존",
+      "channel": "이영상",
       "count": 1
     },
     {
@@ -87,15 +83,7 @@
       "count": 1
     },
     {
-      "channel": "하류사회",
-      "count": 1
-    },
-    {
-      "channel": "이영상",
-      "count": 1
-    },
-    {
-      "channel": "다시볼티비",
+      "channel": "롤더쿠",
       "count": 1
     },
     {
@@ -103,7 +91,19 @@
       "count": 1
     },
     {
+      "channel": "하류사회",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
       "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "명화관",
       "count": 1
     },
     {
