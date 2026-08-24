@@ -3,87 +3,83 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 생긴, 직접, 이유, #김연아, #연예계이슈, #shorts",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 진짜, 생기는, 직접, #김연아, #연예계이슈",
   "top_videos_summary": [
     {
-      "views": 4673034,
-      "title": "박재범 몸 만드는데 얼마나 걸릴까?",
-      "upload_year": "2026",
-      "channel": "달려서 세계속으로",
-      "duration": 62
-    },
-    {
-      "views": 4558450,
+      "views": 5236476,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 2766465,
+      "views": 4710360,
+      "title": "박재범 몸 만드는데 얼마나 걸릴까?",
+      "upload_year": "2026",
+      "channel": "달려서 세계속으로",
+      "duration": 62
+    },
+    {
+      "views": 2929806,
       "title": "엄마가 직접 잘라준 버터플라이컷의 충격적인 결과",
       "upload_year": "2026",
       "channel": "디데이쇼츠",
       "duration": 38
     },
     {
-      "views": 2602339,
-      "title": "손님 맛있겠죠? 대답하세요",
-      "upload_year": "2026",
-      "channel": "popconic",
-      "duration": 16
-    },
-    {
-      "views": 2547068,
+      "views": 2612675,
       "title": "절대 실수하면 안 되는 사이클 스태프 1인칭 시점",
       "upload_year": "2026",
       "channel": "블랙캠",
       "duration": 22
+    },
+    {
+      "views": 2533764,
+      "title": "빠지에서 세운 세계 신기록ㄷㄷ",
+      "upload_year": "2026",
+      "channel": "알고포스",
+      "duration": 14
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "생긴",
+    "#shorts",
+    "진짜",
+    "생기는",
     "직접",
-    "이유",
     "#김연아",
     "#연예계이슈",
-    "#shorts",
-    "한국에서",
-    "가장",
-    "요리",
     "많이",
     "재벌",
-    "진짜",
+    "생긴",
+    "요리",
+    "이유",
     "원조",
-    "박재범",
-    "만드는데",
-    "얼마나",
-    "걸릴까",
     "매일",
     "양치하듯",
-    "스트레칭하면"
+    "스트레칭하면",
+    "1년",
+    "놀라운",
+    "변화",
+    "박재범",
+    "만드는데"
   ],
   "channel_distribution": [
-    {
-      "channel": "달려서 세계속으로",
-      "count": 1
-    },
     {
       "channel": "하루10초",
       "count": 1
     },
     {
-      "channel": "디데이쇼츠",
+      "channel": "달려서 세계속으로",
       "count": 1
     },
     {
-      "channel": "popconic",
+      "channel": "디데이쇼츠",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "토파리뷰",
-      "count": 1
-    },
-    {
-      "channel": "뭉치의 개팔상팔",
-      "count": 1
-    },
-    {
       "channel": "K-스타 해설소",
       "count": 1
     },
     {
+      "channel": "푸드픽 (Food Pick)",
+      "count": 1
+    },
+    {
       "channel": "JPOP 후추",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "SON콕",
       "count": 1
     }
   ],
