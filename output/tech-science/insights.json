@@ -3,57 +3,57 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 이유, 아이폰, 삼성전자, 삼성, 진짜",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 갤럭시, 아이폰, 삼성전자, 삼성, 진짜, 이유",
   "top_videos_summary": [
     {
-      "views": 28297323,
+      "views": 29905733,
       "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
       "upload_year": "2026",
       "channel": "Lasa Technology ",
       "duration": 11
     },
     {
-      "views": 4832691,
+      "views": 4944402,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "키보드왕",
       "duration": 18
     },
     {
-      "views": 3777645,
+      "views": 3789289,
       "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 43
     },
     {
-      "views": 1338997,
+      "views": 1482778,
+      "title": "모기를 얼마나 싫어하는 감도 안오네",
+      "upload_year": "2026",
+      "channel": "이거진짜예요?",
+      "duration": 15
+    },
+    {
+      "views": 1348425,
       "title": "\"몇 수를 내다 본 거지?\" 애플 때문에 삼성이 폴더블폰을 통째로 갈아엎은 게 신의 한수가 된 진짜 이유",
       "upload_year": "2026",
       "channel": "지금들어봐",
       "duration": 125
-    },
-    {
-      "views": 1165790,
-      "title": "옛날 아이폰 사는 이유가 다 있음..ㄷㄷ",
-      "upload_year": "2026",
-      "channel": "아아한잔",
-      "duration": 16
     }
   ],
   "outlier_adjusted": {
     "has_outlier": true,
-    "top1_share": 0.52,
-    "avg_views_excluding_top1": 586607,
-    "note": "1위가 전체 조회수의 52% 차지 — 평균 왜곡."
+    "top1_share": 0.53,
+    "avg_views_excluding_top1": 610638,
+    "note": "1위가 전체 조회수의 53% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
     "갤럭시",
-    "이유",
     "아이폰",
     "삼성전자",
     "삼성",
     "진짜",
+    "이유",
     "Z폴드8",
     "폴드8",
     "모르는",
@@ -83,6 +83,10 @@
       "count": 1
     },
     {
+      "channel": "이거진짜예요?",
+      "count": 1
+    },
+    {
       "channel": "지금들어봐",
       "count": 1
     },
@@ -95,15 +99,11 @@
       "count": 1
     },
     {
-      "channel": "이거진짜예요?",
-      "count": 1
-    },
-    {
       "channel": "김블루",
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "1분미만",
       "count": 1
     },
     {
