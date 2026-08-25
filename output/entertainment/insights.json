@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, 역대급, 당한, vs, 아는",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 역대급, 레전드, 당한, 아는, #리센느",
   "top_videos_summary": [
     {
-      "views": 7139492,
+      "views": 7381195,
       "title": "레전드 방송사고에 역대급 대처ㅋㅋㅋ #문세윤 #김준현 #2024kbs연예대상",
       "upload_year": "2026",
       "channel": "꽃다발",
       "duration": 55
     },
     {
-      "views": 4414788,
+      "views": 4432446,
       "title": "프로미스나인 몸무게 실체에 경악한 스태프",
       "upload_year": "2026",
       "channel": "우리 바보 아니야",
       "duration": 14
     },
     {
-      "views": 3572206,
+      "views": 3725940,
       "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
       "channel": "상승기류",
       "duration": 61
     },
     {
-      "views": 3452125,
-      "title": "생각치 못한 선물을 받았을때 반응ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "롤더쿠",
-      "duration": 19
-    },
-    {
-      "views": 3275132,
+      "views": 3666655,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
+    },
+    {
+      "views": 3584118,
+      "title": "생각치 못한 선물을 받았을때 반응ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "롤더쿠",
+      "duration": 19
     }
   ],
   "outlier_adjusted": {
@@ -49,17 +49,14 @@
   },
   "trend_keywords": [
     "이유",
-    "레전드",
     "역대급",
+    "레전드",
     "당한",
-    "vs",
     "아는",
-    "남자",
     "#리센느",
+    "남자",
     "#참교육",
-    "#반전드라마",
-    "#시니어드라마",
-    "끝까지",
+    "영화",
     "#문세윤",
     "#김준현",
     "#2024kbs연예대상",
@@ -67,7 +64,10 @@
     "대처ㅋㅋㅋ",
     "프로미스나인",
     "몸무게",
-    "실체에"
+    "실체에",
+    "경악한",
+    "스태프",
+    "#박정민"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "롤더쿠",
+      "channel": "무비펭",
       "count": 1
     },
     {
-      "channel": "무비펭",
+      "channel": "롤더쿠",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "윤정한 너로 정한다",
+      "channel": "먹구리",
       "count": 1
     },
     {
-      "channel": "뿌숏뿌숏",
+      "channel": "B하인드S토리",
       "count": 1
     }
   ],
