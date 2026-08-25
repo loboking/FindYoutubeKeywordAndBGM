@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 방법, 참교육, 당한, #shorts, #아는형님",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 남자, #참교육, 당한, #shorts, #반전드라마",
   "top_videos_summary": [
     {
-      "views": 3572712,
+      "views": 3725940,
       "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
       "channel": "상승기류",
       "duration": 61
     },
     {
-      "views": 3452772,
-      "title": "생각치 못한 선물을 받았을때 반응ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "롤더쿠",
-      "duration": 19
-    },
-    {
-      "views": 3275132,
+      "views": 3666655,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 2776925,
-      "title": "최병남이 하극상 위기를 넘어가는 방법 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "views": 3584488,
+      "title": "생각치 못한 선물을 받았을때 반응ㅋㅋ",
       "upload_year": "2026",
-      "channel": "다시볼티비",
-      "duration": 58
+      "channel": "롤더쿠",
+      "duration": 19
     },
     {
-      "views": 2662719,
+      "views": 2891598,
       "title": "아바다케다브라는 좀 심했어",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 118
+    },
+    {
+      "views": 2451649,
+      "title": "이동휘 참고 참다가 지른 애드립ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 30
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "방법",
-    "참교육",
-    "당한",
-    "#shorts",
-    "#아는형님",
     "남자",
     "#참교육",
+    "당한",
+    "#shorts",
     "#반전드라마",
     "#시니어드라마",
     "스파이더맨",
-    "#유머",
-    "생기는",
-    "진짜",
-    "#마블",
-    "되는",
+    "역대급",
     "순간",
+    "진짜",
+    "영화",
     "#박정민",
     "#임성재",
-    "직업정신"
+    "직업정신",
+    "투철한",
+    "미슐랭",
+    "레스토랑",
+    "쉐프",
+    "아역배우에게"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,11 @@
       "count": 1
     },
     {
-      "channel": "롤더쿠",
-      "count": 1
-    },
-    {
       "channel": "무비펭",
       "count": 1
     },
     {
-      "channel": "다시볼티비",
+      "channel": "롤더쿠",
       "count": 1
     },
     {
@@ -91,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "명화관",
+      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "짧은 즐거움",
-      "count": 1
-    },
-    {
-      "channel": "B하인드S토리",
+      "channel": "케슛슛",
       "count": 1
     },
     {
       "channel": "1분예능모음zip",
+      "count": 1
+    },
+    {
+      "channel": "짧은 즐거움",
+      "count": 1
+    },
+    {
+      "channel": "감동비디오",
       "count": 1
     }
   ],
