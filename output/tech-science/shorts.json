@@ -3,7 +3,7 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 45,
+  "shorts_found": 44,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
@@ -11,7 +11,7 @@
     {
       "id": "8Dzp5oAb5WI",
       "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
-      "view_count": 29905733,
+      "view_count": 31636828,
       "duration": 11,
       "upload_date": "20260723",
       "category": "20",
@@ -22,7 +22,7 @@
     {
       "id": "b2D_-q127rc",
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
-      "view_count": 4944402,
+      "view_count": 5063518,
       "duration": 18,
       "upload_date": "20260811",
       "category": "22",
@@ -33,7 +33,7 @@
     {
       "id": "boILykahMB0",
       "title": "1000만 유튜버도 놀란 삼성 초고가 폰 내구성",
-      "view_count": 3789289,
+      "view_count": 3805957,
       "duration": 43,
       "upload_date": "20260811",
       "category": "23",
@@ -44,7 +44,7 @@
     {
       "id": "MrQufcs-BY8",
       "title": "모기를 얼마나 싫어하는 감도 안오네",
-      "view_count": 1482778,
+      "view_count": 1730373,
       "duration": 15,
       "upload_date": "20260818",
       "category": "28",
@@ -55,7 +55,7 @@
     {
       "id": "mA1Isk6p-8k",
       "title": "\"몇 수를 내다 본 거지?\" 애플 때문에 삼성이 폴더블폰을 통째로 갈아엎은 게 신의 한수가 된 진짜 이유",
-      "view_count": 1348425,
+      "view_count": 1356811,
       "duration": 125,
       "upload_date": "20260811",
       "category": "1",
@@ -64,31 +64,9 @@
       "url": "https://www.youtube.com/watch?v=mA1Isk6p-8k"
     },
     {
-      "id": "AwmJ3jtarKY",
-      "title": "옛날 아이폰 사는 이유가 다 있음..ㄷㄷ",
-      "view_count": 1171393,
-      "duration": 16,
-      "upload_date": "20260812",
-      "category": "23",
-      "channel": "아아한잔",
-      "source_channel": "아아한잔",
-      "url": "https://www.youtube.com/watch?v=AwmJ3jtarKY"
-    },
-    {
-      "id": "i8tPkNfUKGg",
-      "title": "폴드8으로 스타크래프트 1을 직접 돌려보는데...",
-      "view_count": 1088163,
-      "duration": 44,
-      "upload_date": "20260815",
-      "category": "28",
-      "channel": "더신자 TheSINZA",
-      "source_channel": "더신자 TheSINZA",
-      "url": "https://www.youtube.com/watch?v=i8tPkNfUKGg"
-    },
-    {
       "id": "GqiF1Y5UdVo",
       "title": "레전드였던 문어발 멀티탭",
-      "view_count": 1015386,
+      "view_count": 1031937,
       "duration": 30,
       "upload_date": "20260819",
       "category": "20",
@@ -99,7 +77,7 @@
     {
       "id": "3ox9G1kl8Is",
       "title": "내 폰에 이거 당장 막으세요ㄷㄷ(늦으면 나만 털립니다)",
-      "view_count": 931632,
+      "view_count": 1024538,
       "duration": 35,
       "upload_date": "20260823",
       "category": "26",
@@ -110,7 +88,7 @@
     {
       "id": "VlYq-lwLQOU",
       "title": "난생처음 아이폰 쓰면 생기는일",
-      "view_count": 874462,
+      "view_count": 888209,
       "duration": 48,
       "upload_date": "20260812",
       "category": "26",
@@ -119,9 +97,20 @@
       "url": "https://www.youtube.com/watch?v=VlYq-lwLQOU"
     },
     {
+      "id": "BTDFfonvurQ",
+      "title": "애플이 키보드로 가스라이팅하는 방법",
+      "view_count": 818826,
+      "duration": 44,
+      "upload_date": "20260822",
+      "category": "22",
+      "channel": "국밥먹던도령",
+      "source_channel": "국밥먹던도령",
+      "url": "https://www.youtube.com/watch?v=BTDFfonvurQ"
+    },
+    {
       "id": "28q-jZ1Z5YA",
       "title": "갤럭시 Z폴드8 실물 미쳤다",
-      "view_count": 727032,
+      "view_count": 734277,
       "duration": 18,
       "upload_date": "20260815",
       "category": "26",
@@ -132,7 +121,7 @@
     {
       "id": "3Ov-IaCt8Dg",
       "title": "끊어진 전선을 1분만에 연결시켜주는 공구",
-      "view_count": 692363,
+      "view_count": 704445,
       "duration": 20,
       "upload_date": "20260811",
       "category": "26",
@@ -143,7 +132,7 @@
     {
       "id": "r1yC9nOUfn4",
       "title": "러시아 드론에서 발견된 삼성전자 메모리칩, 50초 안에 설명하기",
-      "view_count": 687659,
+      "view_count": 688407,
       "duration": 46,
       "upload_date": "20260815",
       "category": "22",
@@ -152,20 +141,9 @@
       "url": "https://www.youtube.com/watch?v=r1yC9nOUfn4"
     },
     {
-      "id": "BTDFfonvurQ",
-      "title": "애플이 키보드로 가스라이팅하는 방법",
-      "view_count": 628079,
-      "duration": 44,
-      "upload_date": "20260822",
-      "category": "22",
-      "channel": "국밥먹던도령",
-      "source_channel": "국밥먹던도령",
-      "url": "https://www.youtube.com/watch?v=BTDFfonvurQ"
-    },
-    {
       "id": "JR424C81yqc",
       "title": "폴드8 궁극기 나왔다;;",
-      "view_count": 580433,
+      "view_count": 595754,
       "duration": 23,
       "upload_date": "20260820",
       "category": "28",
@@ -176,7 +154,7 @@
     {
       "id": "XHB2MpFhUuU",
       "title": "외국인이 발견한 삼성폰 고치는법",
-      "view_count": 528869,
+      "view_count": 540270,
       "duration": 14,
       "upload_date": "20260820",
       "category": "24",
@@ -187,7 +165,7 @@
     {
       "id": "dgJ4NeNx02U",
       "title": "갤럭시가 아이폰을 못이기는이유",
-      "view_count": 479200,
+      "view_count": 535771,
       "duration": 14,
       "upload_date": "20260822",
       "category": "22",
@@ -198,7 +176,7 @@
     {
       "id": "CxvkiVt25rw",
       "title": "좋은 청소기를 써야하는 이유 #제품리뷰 #아이닉맥스제로",
-      "view_count": 453492,
+      "view_count": 461731,
       "duration": 57,
       "upload_date": "20260814",
       "category": "24",
@@ -209,7 +187,7 @@
     {
       "id": "YTpzXdYnxU4",
       "title": "형광등에 빔프로젝트를 달아보자",
-      "view_count": 418642,
+      "view_count": 425149,
       "duration": 20,
       "upload_date": "20260816",
       "category": "22",
@@ -220,7 +198,7 @@
     {
       "id": "fvfPGcug8Sc",
       "title": "당근 새벽 에어컨 수리",
-      "view_count": 415468,
+      "view_count": 416163,
       "duration": 32,
       "upload_date": "20260815",
       "category": "22",
@@ -229,9 +207,31 @@
       "url": "https://www.youtube.com/watch?v=fvfPGcug8Sc"
     },
     {
+      "id": "sPcP_LwAfZg",
+      "title": "옛날 아이폰 카메라 감성 느좋..",
+      "view_count": 411578,
+      "duration": 34,
+      "upload_date": "20260818",
+      "category": "23",
+      "channel": "아아한잔",
+      "source_channel": "아아한잔",
+      "url": "https://www.youtube.com/watch?v=sPcP_LwAfZg"
+    },
+    {
+      "id": "UvUaC6WEhik",
+      "title": "집안공기가 탁한이유ㄷㄷ",
+      "view_count": 399607,
+      "duration": 16,
+      "upload_date": "20260824",
+      "category": "22",
+      "channel": "잘난지",
+      "source_channel": "잘난지",
+      "url": "https://www.youtube.com/watch?v=UvUaC6WEhik"
+    },
+    {
       "id": "W3NRues16K4",
       "title": "부품 하나에 1억 데스크탑 세팅",
-      "view_count": 348372,
+      "view_count": 357911,
       "duration": 13,
       "upload_date": "20260821",
       "category": "26",
@@ -242,7 +242,7 @@
     {
       "id": "t0DKInsaFt8",
       "title": "Rokid AI 글래스 정발 언박싱 해봤습니다. 신세계를 만날수 있을까요?",
-      "view_count": 282630,
+      "view_count": 307014,
       "duration": 46,
       "upload_date": "20260816",
       "category": "26",
@@ -251,53 +251,9 @@
       "url": "https://www.youtube.com/watch?v=t0DKInsaFt8"
     },
     {
-      "id": "m3cUePZCRXM",
-      "title": "윤활제가 아니라고?\" 우리가 모르는 WD-40의 진짜 정체와 사용법",
-      "view_count": 265840,
-      "duration": 31,
-      "upload_date": "20260817",
-      "category": "28",
-      "channel": "야가다",
-      "source_channel": "야가다",
-      "url": "https://www.youtube.com/watch?v=m3cUePZCRXM"
-    },
-    {
-      "id": "dBI7yDw-Jv4",
-      "title": "절대 SSD 스티커 떼지 마라. 30만 원 증발했다.  #SSD #SSD복구 #데이터복구",
-      "view_count": 265184,
-      "duration": 79,
-      "upload_date": "20260820",
-      "category": "28",
-      "channel": "복구천재 꼬마신발",
-      "source_channel": "복구천재 꼬마신발",
-      "url": "https://www.youtube.com/watch?v=dBI7yDw-Jv4"
-    },
-    {
-      "id": "NDtlLX8nFrA",
-      "title": "뭔가 특이해진다는 갤럭시 카메라 디자인",
-      "view_count": 256544,
-      "duration": 24,
-      "upload_date": "20260823",
-      "category": "20",
-      "channel": "짧주",
-      "source_channel": "짧주",
-      "url": "https://www.youtube.com/watch?v=NDtlLX8nFrA"
-    },
-    {
-      "id": "eMRXnBYZuxU",
-      "title": "모르면 손해인 건전지 확인법!",
-      "view_count": 255749,
-      "duration": 10,
-      "upload_date": "20260817",
-      "category": "22",
-      "channel": "숏플래시",
-      "source_channel": "숏플래시",
-      "url": "https://www.youtube.com/watch?v=eMRXnBYZuxU"
-    },
-    {
       "id": "QR93S-S4vac",
       "title": "버려진 갤럭시 폰 복구하기",
-      "view_count": 246331,
+      "view_count": 301203,
       "duration": 55,
       "upload_date": "20260821",
       "category": "24",
@@ -306,9 +262,42 @@
       "url": "https://www.youtube.com/watch?v=QR93S-S4vac"
     },
     {
+      "id": "NDtlLX8nFrA",
+      "title": "뭔가 특이해진다는 갤럭시 카메라 디자인",
+      "view_count": 297479,
+      "duration": 24,
+      "upload_date": "20260823",
+      "category": "20",
+      "channel": "짧주",
+      "source_channel": "짧주",
+      "url": "https://www.youtube.com/watch?v=NDtlLX8nFrA"
+    },
+    {
+      "id": "dBI7yDw-Jv4",
+      "title": "절대 SSD 스티커 떼지 마라. 30만 원 증발했다.  #SSD #SSD복구 #데이터복구",
+      "view_count": 278091,
+      "duration": 79,
+      "upload_date": "20260820",
+      "category": "28",
+      "channel": "복구천재 꼬마신발",
+      "source_channel": "복구천재 꼬마신발",
+      "url": "https://www.youtube.com/watch?v=dBI7yDw-Jv4"
+    },
+    {
+      "id": "m3cUePZCRXM",
+      "title": "윤활제가 아니라고?\" 우리가 모르는 WD-40의 진짜 정체와 사용법",
+      "view_count": 269713,
+      "duration": 31,
+      "upload_date": "20260817",
+      "category": "28",
+      "channel": "야가다",
+      "source_channel": "야가다",
+      "url": "https://www.youtube.com/watch?v=m3cUePZCRXM"
+    },
+    {
       "id": "z3P7QxIirxg",
       "title": "전 세계가 놀랐다는 Galaxy Fold 신기능",
-      "view_count": 237864,
+      "view_count": 240455,
       "duration": 28,
       "upload_date": "20260819",
       "category": "22",
@@ -317,97 +306,9 @@
       "url": "https://www.youtube.com/watch?v=z3P7QxIirxg"
     },
     {
-      "id": "UvUaC6WEhik",
-      "title": "집안공기가 탁한이유ㄷㄷ",
-      "view_count": 237701,
-      "duration": 16,
-      "upload_date": "20260824",
-      "category": "22",
-      "channel": "잘난지",
-      "source_channel": "잘난지",
-      "url": "https://www.youtube.com/watch?v=UvUaC6WEhik"
-    },
-    {
-      "id": "Gluw_3TsGzc",
-      "title": "숨겨진 스마트폰의 정체",
-      "view_count": 207935,
-      "duration": 16,
-      "upload_date": "20260817",
-      "category": "22",
-      "channel": "일분탐",
-      "source_channel": "일분탐",
-      "url": "https://www.youtube.com/watch?v=Gluw_3TsGzc"
-    },
-    {
-      "id": "z9oPCrG8ehM",
-      "title": "스마트워치 특",
-      "view_count": 207806,
-      "duration": 38,
-      "upload_date": "20260821",
-      "category": "24",
-      "channel": "자체공감",
-      "source_channel": "자체공감",
-      "url": "https://www.youtube.com/watch?v=z9oPCrG8ehM"
-    },
-    {
-      "id": "IdmySRhwHP8",
-      "title": "보호필름 붙이는데 방해하면 벌어지는 일 📱",
-      "view_count": 200165,
-      "duration": 21,
-      "upload_date": "20260818",
-      "category": "22",
-      "channel": "י",
-      "source_channel": "י",
-      "url": "https://www.youtube.com/watch?v=IdmySRhwHP8"
-    },
-    {
-      "id": "QY-9kUSY7Ok",
-      "title": "비보 X폴드 삼성디스플레이 패널·카메라 센서 채택. 폴더블 디스플레이 공급 구조",
-      "view_count": 196465,
-      "duration": 77,
-      "upload_date": "20260812",
-      "category": "27",
-      "channel": "그 시절 이야기",
-      "source_channel": "그 시절 이야기",
-      "url": "https://www.youtube.com/watch?v=QY-9kUSY7Ok"
-    },
-    {
-      "id": "HjJgiUITWHk",
-      "title": "잔머리 굴리다 안방까지 내줬네? 아이폰 천국 일본에서 품절 터뜨린 삼성 갤럭시Z폴드8 #삼성전자 #팀쿡 #애플 #갤럭시Z폴드8 #일본",
-      "view_count": 193250,
-      "duration": 70,
-      "upload_date": "20260821",
-      "category": "25",
-      "channel": "정치봉투",
-      "source_channel": "정치봉투",
-      "url": "https://www.youtube.com/watch?v=HjJgiUITWHk"
-    },
-    {
-      "id": "4LyER_Wcmys",
-      "title": "5년 된 컴퓨터 3080을 5080으로 업글하려는데 찬성 vs반대?",
-      "view_count": 192168,
-      "duration": 68,
-      "upload_date": "20260815",
-      "category": "26",
-      "channel": "허수아비(scarecrow)",
-      "source_channel": "허수아비(scarecrow)",
-      "url": "https://www.youtube.com/watch?v=4LyER_Wcmys"
-    },
-    {
-      "id": "Rthf9o0W-EE",
-      "title": "컴퓨터 고수도 모르는 숨겨진 기능ㄷㄷ",
-      "view_count": 191081,
-      "duration": 35,
-      "upload_date": "20260818",
-      "category": "26",
-      "channel": "짤컷",
-      "source_channel": "짤컷",
-      "url": "https://www.youtube.com/watch?v=Rthf9o0W-EE"
-    },
-    {
       "id": "1vR3h-3O4hg",
       "title": "그래픽 카드 출시 때 반응",
-      "view_count": 120495,
+      "view_count": 229011,
       "duration": 27,
       "upload_date": "20260824",
       "category": "20",
@@ -416,31 +317,75 @@
       "url": "https://www.youtube.com/watch?v=1vR3h-3O4hg"
     },
     {
-      "id": "NyNOuDthfZg",
-      "title": "갤럭시 Z폴드8 미친 디테일",
-      "view_count": 109146,
-      "duration": 14,
-      "upload_date": "20260820",
-      "category": "28",
-      "channel": "디에디트 THE EDIT",
-      "source_channel": "디에디트 THE EDIT",
-      "url": "https://www.youtube.com/watch?v=NyNOuDthfZg"
+      "id": "z9oPCrG8ehM",
+      "title": "스마트워치 특",
+      "view_count": 224717,
+      "duration": 38,
+      "upload_date": "20260821",
+      "category": "24",
+      "channel": "자체공감",
+      "source_channel": "자체공감",
+      "url": "https://www.youtube.com/watch?v=z9oPCrG8ehM"
     },
     {
-      "id": "YQ0R6IQzVm4",
-      "title": "윈도우가 기본으로 켜놓은 충격적인 설정들",
-      "view_count": 106976,
-      "duration": 38,
-      "upload_date": "20260820",
-      "category": "26",
-      "channel": "팁타임",
-      "source_channel": "팁타임",
-      "url": "https://www.youtube.com/watch?v=YQ0R6IQzVm4"
+      "id": "lnI804I-AtU",
+      "title": "GS25 예약해야하는 이유",
+      "view_count": 224643,
+      "duration": 22,
+      "upload_date": "20260825",
+      "category": "19",
+      "channel": "과식이",
+      "source_channel": "과식이",
+      "url": "https://www.youtube.com/watch?v=lnI804I-AtU"
+    },
+    {
+      "id": "HjJgiUITWHk",
+      "title": "잔머리 굴리다 안방까지 내줬네? 아이폰 천국 일본에서 품절 터뜨린 삼성 갤럭시Z폴드8 #삼성전자 #팀쿡 #애플 #갤럭시Z폴드8 #일본",
+      "view_count": 211477,
+      "duration": 70,
+      "upload_date": "20260821",
+      "category": "25",
+      "channel": "정치봉투",
+      "source_channel": "정치봉투",
+      "url": "https://www.youtube.com/watch?v=HjJgiUITWHk"
+    },
+    {
+      "id": "Gluw_3TsGzc",
+      "title": "숨겨진 스마트폰의 정체",
+      "view_count": 211237,
+      "duration": 16,
+      "upload_date": "20260817",
+      "category": "22",
+      "channel": "일분탐",
+      "source_channel": "일분탐",
+      "url": "https://www.youtube.com/watch?v=Gluw_3TsGzc"
+    },
+    {
+      "id": "IdmySRhwHP8",
+      "title": "보호필름 붙이는데 방해하면 벌어지는 일 📱",
+      "view_count": 210246,
+      "duration": 21,
+      "upload_date": "20260818",
+      "category": "22",
+      "channel": "י",
+      "source_channel": "י",
+      "url": "https://www.youtube.com/watch?v=IdmySRhwHP8"
+    },
+    {
+      "id": "AWDU_bTOMig",
+      "title": "요즘 난리난 투명 액정 카메라? 찍러보니 사진이 ㄷㄷ",
+      "view_count": 187141,
+      "duration": 75,
+      "upload_date": "20260825",
+      "category": "24",
+      "channel": "리뷰야놀자",
+      "source_channel": "리뷰야놀자",
+      "url": "https://www.youtube.com/watch?v=AWDU_bTOMig"
     },
     {
       "id": "Xp6SmdRBVrs",
       "title": "현재 난리났다는 핸드폰 비밀번호 근황",
-      "view_count": 106352,
+      "view_count": 180238,
       "duration": 61,
       "upload_date": "20260824",
       "category": "23",
@@ -451,7 +396,7 @@
     {
       "id": "SsayZ_DxJZs",
       "title": "3D 프린팅 인클로저 케이블 정리 완벽 해결 💡",
-      "view_count": 102077,
+      "view_count": 112557,
       "duration": 36,
       "upload_date": "20260821",
       "category": "10",
@@ -460,20 +405,20 @@
       "url": "https://www.youtube.com/watch?v=SsayZ_DxJZs"
     },
     {
-      "id": "AhCSlY-jiyM",
-      "title": "아수스 VS 에이수스.. 고장 난 ASUS ROG 제피러스 G15 GA502IU 노트북!",
-      "view_count": 98303,
-      "duration": 75,
-      "upload_date": "20260823",
+      "id": "NyNOuDthfZg",
+      "title": "갤럭시 Z폴드8 미친 디테일",
+      "view_count": 112362,
+      "duration": 14,
+      "upload_date": "20260820",
       "category": "28",
-      "channel": "낮에",
-      "source_channel": "낮에",
-      "url": "https://www.youtube.com/watch?v=AhCSlY-jiyM"
+      "channel": "디에디트 THE EDIT",
+      "source_channel": "디에디트 THE EDIT",
+      "url": "https://www.youtube.com/watch?v=NyNOuDthfZg"
     },
     {
       "id": "VFAbb_VS59Q",
       "title": "📡 거리 걱정 없이 어디서든 바로 연결합니다.",
-      "view_count": 73824,
+      "view_count": 111455,
       "duration": 20,
       "upload_date": "20260823",
       "category": "26",
@@ -482,9 +427,31 @@
       "url": "https://www.youtube.com/watch?v=VFAbb_VS59Q"
     },
     {
+      "id": "AhCSlY-jiyM",
+      "title": "아수스 VS 에이수스.. 고장 난 ASUS ROG 제피러스 G15 GA502IU 노트북!",
+      "view_count": 108474,
+      "duration": 75,
+      "upload_date": "20260823",
+      "category": "28",
+      "channel": "낮에",
+      "source_channel": "낮에",
+      "url": "https://www.youtube.com/watch?v=AhCSlY-jiyM"
+    },
+    {
+      "id": "YQ0R6IQzVm4",
+      "title": "윈도우가 기본으로 켜놓은 충격적인 설정들",
+      "view_count": 107916,
+      "duration": 38,
+      "upload_date": "20260820",
+      "category": "26",
+      "channel": "팁타임",
+      "source_channel": "팁타임",
+      "url": "https://www.youtube.com/watch?v=YQ0R6IQzVm4"
+    },
+    {
       "id": "EIMq2oDpz8M",
       "title": "안전을 위한 벤츠의 돌아버리는 설계",
-      "view_count": 72899,
+      "view_count": 73416,
       "duration": 21,
       "upload_date": "20260821",
       "category": "24",
@@ -493,15 +460,37 @@
       "url": "https://www.youtube.com/watch?v=EIMq2oDpz8M"
     },
     {
-      "id": "h7qTBHUXdoA",
-      "title": "폴드8 최고의 꿀조합 케이스를 찾아✨ 과연 1등은?",
-      "view_count": 35754,
-      "duration": 45,
-      "upload_date": "20260823",
+      "id": "5smGyALKys8",
+      "title": "갤럭시 폴드 신기능 '쇼츠 3도류'",
+      "view_count": 63138,
+      "duration": 41,
+      "upload_date": "20260824",
+      "category": "23",
+      "channel": "군림보",
+      "source_channel": "군림보",
+      "url": "https://www.youtube.com/watch?v=5smGyALKys8"
+    },
+    {
+      "id": "JTq-zrYO8Xk",
+      "title": "알고 나면 평생 써먹는 숨겨진 기능ㄷㄷ",
+      "view_count": 60796,
+      "duration": 41,
+      "upload_date": "20260825",
       "category": "26",
-      "channel": "라이프라이프",
-      "source_channel": "라이프라이프",
-      "url": "https://www.youtube.com/watch?v=h7qTBHUXdoA"
+      "channel": "짤컷",
+      "source_channel": "짤컷",
+      "url": "https://www.youtube.com/watch?v=JTq-zrYO8Xk"
+    },
+    {
+      "id": "-WeVZPKSvnU",
+      "title": "컴퓨터 뚜껑을 열고 쓰면 먼지가 더 적게 쌓이나요",
+      "view_count": 38515,
+      "duration": 41,
+      "upload_date": "20260825",
+      "category": "26",
+      "channel": "허수아비(scarecrow)",
+      "source_channel": "허수아비(scarecrow)",
+      "url": "https://www.youtube.com/watch?v=-WeVZPKSvnU"
     }
   ]
 }
