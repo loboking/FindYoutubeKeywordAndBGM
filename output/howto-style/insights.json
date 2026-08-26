@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 생기는, 변화, 직접, #김연아, #연예계이슈",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, 생기는, 직접, #김연아, #연예계이슈",
   "top_videos_summary": [
     {
-      "views": 10164099,
+      "views": 68448037,
       "title": "❤️❤️",
       "upload_year": "2026",
       "channel": "Abdallah Mubarak ",
       "duration": 16
     },
     {
-      "views": 5732792,
+      "views": 13145999,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 5237889,
-      "title": "This puppy is a natural at soothing babies!",
-      "upload_year": "2026",
-      "channel": "giang buitien",
-      "duration": 13
-    },
-    {
-      "views": 3027287,
+      "views": 6989209,
       "title": "엄마가 직접 잘라준 버터플라이컷의 충격적인 결과",
       "upload_year": "2026",
       "channel": "디데이쇼츠",
       "duration": 38
     },
     {
-      "views": 2680321,
+      "views": 6080988,
       "title": "절대 실수하면 안 되는 사이클 스태프 1인칭 시점",
       "upload_year": "2026",
       "channel": "블랙캠",
       "duration": 22
+    },
+    {
+      "views": 5220533,
+      "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
+      "upload_year": "2026",
+      "channel": "또왔어",
+      "duration": 24
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.16,
+    "top1_share": 0.42,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
+    "이유",
     "생기는",
-    "변화",
     "직접",
     "#김연아",
     "#연예계이슈",
-    "김연아",
-    "#연예인",
-    "재벌",
-    "생긴",
-    "요리",
-    "이유",
+    "소리를",
+    "그림",
+    "만에",
     "원조",
+    "놀란",
+    "만든",
     "매일",
     "양치하듯",
     "스트레칭하면",
     "1년",
     "놀라운",
-    "This",
-    "puppy"
+    "변화",
+    "엄마가",
+    "잘라준"
   ],
   "channel_distribution": [
     {
@@ -79,10 +79,6 @@
       "count": 1
     },
     {
-      "channel": "giang buitien",
-      "count": 1
-    },
-    {
       "channel": "디데이쇼츠",
       "count": 1
     },
@@ -91,15 +87,11 @@
       "count": 1
     },
     {
-      "channel": "알고포스",
+      "channel": "또왔어",
       "count": 1
     },
     {
       "channel": "K-스타 해설소",
-      "count": 1
-    },
-    {
-      "channel": "또왔어",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "랭킹끝판왕",
+      "count": 1
+    },
+    {
+      "channel": "그림그릴시간",
+      "count": 1
+    },
+    {
+      "channel": "레시피 읽어주는 여자",
       "count": 1
     }
   ],
