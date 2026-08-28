@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 갤럭시, 이유, 카메라, 아이폰, 삼성전자, 쓰는",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 이유, 갤럭시, 폴드8, 아이폰, 쓰는, 갤럭시가",
   "top_videos_summary": [
     {
-      "views": 71801828,
+      "views": 76536025,
       "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
       "upload_year": "2026",
       "channel": "Lasa Technology ",
       "duration": 11
     },
     {
-      "views": 10967339,
+      "views": 11125469,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
-      "channel": "키보드왕",
+      "channel": "책상 위 빌런",
       "duration": 18
     },
     {
-      "views": 4884795,
+      "views": 5383437,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 1942530,
-      "title": "\"몇 수를 내다 본 거지?\" 애플 때문에 삼성이 폴더블폰을 통째로 갈아엎은 게 신의 한수가 된 진짜 이유",
+      "views": 1892381,
+      "title": "갤럭시가 아이폰을 못이기는이유",
       "upload_year": "2026",
-      "channel": "지금들어봐",
-      "duration": 125
+      "channel": "웃긴협회",
+      "duration": 14
     },
     {
-      "views": 1755618,
+      "views": 1798845,
       "title": "내 폰에 이거 당장 막으세요ㄷㄷ(늦으면 나만 털립니다)",
       "upload_year": "2026",
       "channel": "1분미만",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": true,
-    "top1_share": 0.61,
-    "avg_views_excluding_top1": 1021615,
-    "note": "1위가 전체 조회수의 61% 차지 — 평균 왜곡."
+    "top1_share": 0.63,
+    "avg_views_excluding_top1": 1041135,
+    "note": "1위가 전체 조회수의 63% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
-    "갤럭시",
     "이유",
-    "카메라",
-    "아이폰",
-    "삼성전자",
-    "쓰는",
-    "애플",
-    "진짜",
-    "방법",
-    "Z폴드8",
+    "갤럭시",
     "폴드8",
+    "아이폰",
+    "쓰는",
+    "갤럭시가",
     "요즘",
     "난리난",
+    "카메라",
     "삼성",
     "숨겨진",
     "핸드폰",
-    "없이",
     "#pcgaming",
     "#benchmark",
-    "#rtx5050"
+    "#rtx5050",
+    "#gtx1080ti",
+    "“PC",
+    "Parts",
+    "have",
+    "arrived"
   ],
   "channel_distribution": [
     {
@@ -75,7 +75,7 @@
       "count": 1
     },
     {
-      "channel": "키보드왕",
+      "channel": "책상 위 빌런",
       "count": 1
     },
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "지금들어봐",
+      "channel": "웃긴협회",
       "count": 1
     },
     {
@@ -91,11 +91,11 @@
       "count": 1
     },
     {
-      "channel": "김블루",
+      "channel": "국밥먹던도령",
       "count": 1
     },
     {
-      "channel": "국밥먹던도령",
+      "channel": "과식이",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "웃긴협회",
+      "channel": "김블루",
       "count": 1
     }
   ],
