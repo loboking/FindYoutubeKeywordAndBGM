@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, 생기는, 직접, #김연아, #연예계이슈",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 변화, 엄마가, 그림",
   "top_videos_summary": [
     {
-      "views": 68448037,
+      "views": 109984534,
       "title": "❤️❤️",
       "upload_year": "2026",
       "channel": "Abdallah Mubarak ",
       "duration": 16
     },
     {
-      "views": 13145999,
+      "views": 14177112,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 6989209,
+      "views": 12673980,
+      "title": "This Labrador Vanished Underwater and Charged Out With a Boulder",
+      "upload_year": "2026",
+      "channel": "Impaker",
+      "duration": 16
+    },
+    {
+      "views": 10978398,
+      "title": "The Perfect Jump in China 🔥😲 #jumping #jumpstyle #stunt",
+      "upload_year": "2026",
+      "channel": "Raj fact बाज ",
+      "duration": 11
+    },
+    {
+      "views": 7398692,
       "title": "엄마가 직접 잘라준 버터플라이컷의 충격적인 결과",
       "upload_year": "2026",
       "channel": "디데이쇼츠",
       "duration": 38
-    },
-    {
-      "views": 6080988,
-      "title": "절대 실수하면 안 되는 사이클 스태프 1인칭 시점",
-      "upload_year": "2026",
-      "channel": "블랙캠",
-      "duration": 22
-    },
-    {
-      "views": 5220533,
-      "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
-      "upload_year": "2026",
-      "channel": "또왔어",
-      "duration": 24
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.42,
+    "top1_share": 0.48,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "이유",
+    "#shorts",
     "생기는",
-    "직접",
-    "#김연아",
-    "#연예계이슈",
-    "소리를",
+    "변화",
+    "엄마가",
     "그림",
-    "만에",
+    "소리를",
+    "#연예계이슈",
+    "#연예인",
+    "통째로",
     "원조",
     "놀란",
-    "만든",
     "매일",
     "양치하듯",
     "스트레칭하면",
     "1년",
     "놀라운",
-    "변화",
-    "엄마가",
-    "잘라준"
+    "This",
+    "Labrador",
+    "Vanished"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,15 @@
       "count": 1
     },
     {
-      "channel": "디데이쇼츠",
+      "channel": "Impaker",
       "count": 1
     },
     {
-      "channel": "블랙캠",
+      "channel": "Raj fact बाज ",
+      "count": 1
+    },
+    {
+      "channel": "디데이쇼츠",
       "count": 1
     },
     {
@@ -91,15 +95,7 @@
       "count": 1
     },
     {
-      "channel": "K-스타 해설소",
-      "count": 1
-    },
-    {
-      "channel": "오늘의스타",
-      "count": 1
-    },
-    {
-      "channel": "랭킹끝판왕",
+      "channel": "블랙캠",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "레시피 읽어주는 여자",
+      "channel": "랭킹끝판왕",
+      "count": 1
+    },
+    {
+      "channel": "오늘의스타",
       "count": 1
     }
   ],
