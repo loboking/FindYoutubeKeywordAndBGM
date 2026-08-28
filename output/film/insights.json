@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #참교육, 당한, #shorts, 몰카, #반전드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 남자, 당한, #shorts, #마블",
   "top_videos_summary": [
     {
-      "views": 7961952,
+      "views": 8232288,
       "title": "생각치 못한 선물을 받았을때 반응ㅋㅋ",
       "upload_year": "2026",
       "channel": "롤더쿠",
       "duration": 19
     },
     {
-      "views": 7511839,
+      "views": 7915133,
       "title": "직업정신 투철한 미슐랭 레스토랑 쉐프 #박정민 #임성재",
       "upload_year": "2026",
       "channel": "상승기류",
       "duration": 61
     },
     {
-      "views": 7177453,
-      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
-      "upload_year": "2026",
-      "channel": "무비펭",
-      "duration": 22
-    },
-    {
-      "views": 6290170,
+      "views": 7783199,
       "title": "99점 받고도 뺨 맞은 이유",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 46
     },
     {
-      "views": 5733513,
+      "views": 7486025,
+      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
+      "upload_year": "2026",
+      "channel": "무비펭",
+      "duration": 22
+    },
+    {
+      "views": 6628223,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#참교육",
+    "#예능",
+    "남자",
     "당한",
     "#shorts",
-    "몰카",
-    "#반전드라마",
-    "#시니어드라마",
-    "하는",
-    "남자",
+    "#마블",
+    "가장",
     "#신병4",
     "#ENA",
     "역대급",
+    "#참교육",
+    "#반전드라마",
+    "#시니어드라마",
+    "만든",
     "영화",
-    "순간",
     "진짜",
     "#폭싹속았수다",
-    "#예능",
-    "생기는",
-    "#사이다",
-    "무슨"
+    "무슨",
+    "생각치",
+    "못한"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "무비펭",
+      "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "무비펭",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "어바웃마블",
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "도파민솔트",
+      "count": 1
+    },
+    {
+      "channel": "난드",
       "count": 1
     },
     {
       "channel": "AI이약",
-      "count": 1
-    },
-    {
-      "channel": "김과장",
       "count": 1
     }
   ],
