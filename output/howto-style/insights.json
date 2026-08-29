@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, 이유, 생기는, 변화, 엄마가, #연예계이슈",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, 생기는, 변화, 엄마가, #연예계이슈, #연예인",
   "top_videos_summary": [
     {
-      "views": 133666213,
+      "views": 152404137,
       "title": "❤️❤️",
       "upload_year": "2026",
       "channel": "Abdallah Mubarak ",
       "duration": 16
     },
     {
-      "views": 15982558,
+      "views": 18637101,
       "title": "This Labrador Vanished Underwater and Charged Out With a Boulder",
       "upload_year": "2026",
       "channel": "Impaker",
       "duration": 16
     },
     {
-      "views": 14944074,
+      "views": 15425345,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 7849429,
+      "views": 8216550,
       "title": "엄마가 직접 잘라준 버터플라이컷의 충격적인 결과",
       "upload_year": "2026",
       "channel": "디데이쇼츠",
       "duration": 38
     },
     {
-      "views": 7051706,
+      "views": 7252342,
       "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
       "upload_year": "2026",
       "channel": "또왔어",
@@ -43,22 +43,22 @@
   ],
   "outlier_adjusted": {
     "has_outlier": true,
-    "top1_share": 0.53,
-    "avg_views_excluding_top1": 2562011,
-    "note": "1위가 전체 조회수의 53% 차지 — 평균 왜곡."
+    "top1_share": 0.55,
+    "avg_views_excluding_top1": 2683253,
+    "note": "1위가 전체 조회수의 55% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
     "#shorts",
-    "이유",
     "생기는",
     "변화",
     "엄마가",
     "#연예계이슈",
     "#연예인",
     "놀란",
-    "원조",
-    "만든",
+    "이유",
     "가족",
+    "드레스",
+    "부모님",
     "This",
     "Labrador",
     "Vanished",
@@ -91,10 +91,6 @@
       "count": 1
     },
     {
-      "channel": "블랙캠",
-      "count": 1
-    },
-    {
       "channel": "그림그릴시간",
       "count": 1
     },
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
+      "channel": "대박s쇼츠",
+      "count": 1
+    },
+    {
       "channel": "오늘의스타",
       "count": 1
     },
     {
-      "channel": "대박s쇼츠",
+      "channel": "JASON MEDIA",
       "count": 1
     }
   ],
