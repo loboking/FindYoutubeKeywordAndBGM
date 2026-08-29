@@ -3,77 +3,73 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #예능, 남자, 경악한, 당한, #shorts",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 너무, 방송, #shorts, 영화",
   "top_videos_summary": [
     {
-      "views": 10635566,
-      "title": "프로미스나인 몸무게 실체에 경악한 스태프",
-      "upload_year": "2026",
-      "channel": "우리 바보 아니야",
-      "duration": 14
-    },
-    {
-      "views": 7783199,
+      "views": 8661426,
       "title": "99점 받고도 뺨 맞은 이유",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 46
     },
     {
-      "views": 7485510,
+      "views": 7657304,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 6626340,
+      "views": 7123538,
+      "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
+      "upload_year": "2026",
+      "channel": "KBS 한국방송",
+      "duration": 43
+    },
+    {
+      "views": 7084186,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
       "duration": 23
     },
     {
-      "views": 6100351,
-      "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
+      "views": 6115748,
+      "title": "알 수 없는 이세계 화장실 ㅋㅋ",
       "upload_year": "2026",
-      "channel": "KBS 한국방송",
-      "duration": 43
+      "channel": "JPOP 제트",
+      "duration": 14
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "#예능",
-    "남자",
-    "경악한",
-    "당한",
-    "#shorts",
+    "너무",
     "방송",
-    "역대급",
+    "#shorts",
+    "영화",
+    "생기는",
     "#참교육",
     "#반전드라마",
     "#시니어드라마",
-    "영화",
-    "진짜",
     "#폭싹속았수다",
+    "남자",
+    "진짜",
     "무슨",
-    "프로미스나인",
-    "몸무게",
-    "실체에",
-    "스태프",
-    "99점"
+    "99점",
+    "받고도",
+    "맞은",
+    "아역배우에게",
+    "애드립으로",
+    "참교육"
   ],
   "channel_distribution": [
-    {
-      "channel": "우리 바보 아니야",
-      "count": 1
-    },
     {
       "channel": "케슛슛",
       "count": 1
@@ -83,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "1분예능모음zip",
+      "channel": "KBS 한국방송",
       "count": 1
     },
     {
-      "channel": "KBS 한국방송",
+      "channel": "1분예능모음zip",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
+      "channel": "오늘의스타",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
       "channel": "난드",
       "count": 1
     },
     {
-      "channel": "AI이약",
-      "count": 1
-    },
-    {
-      "channel": "리센느입니다",
+      "channel": "예뻐",
       "count": 1
     }
   ],
