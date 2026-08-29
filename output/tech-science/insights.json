@@ -3,71 +3,71 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 이유, 갤럭시, 폴드8, 아이폰, 쓰는, 갤럭시가",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 이유, 아이폰, 폴드8, 숨겨진, 쓰는, 갤럭시가",
   "top_videos_summary": [
     {
-      "views": 76536025,
+      "views": 77708379,
       "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
       "upload_year": "2026",
       "channel": "Lasa Technology ",
       "duration": 11
     },
     {
-      "views": 11125469,
+      "views": 11317170,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "책상 위 빌런",
       "duration": 18
     },
     {
-      "views": 5383437,
+      "views": 5682680,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 1892381,
+      "views": 2528486,
       "title": "갤럭시가 아이폰을 못이기는이유",
       "upload_year": "2026",
       "channel": "웃긴협회",
       "duration": 14
     },
     {
-      "views": 1798845,
-      "title": "내 폰에 이거 당장 막으세요ㄷㄷ(늦으면 나만 털립니다)",
+      "views": 1963523,
+      "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
-      "channel": "1분미만",
-      "duration": 35
+      "channel": "과식이",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
     "has_outlier": true,
-    "top1_share": 0.63,
-    "avg_views_excluding_top1": 1041135,
-    "note": "1위가 전체 조회수의 63% 차지 — 평균 왜곡."
+    "top1_share": 0.62,
+    "avg_views_excluding_top1": 1062544,
+    "note": "1위가 전체 조회수의 62% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
     "이유",
-    "갤럭시",
-    "폴드8",
     "아이폰",
+    "폴드8",
+    "숨겨진",
     "쓰는",
     "갤럭시가",
-    "요즘",
-    "난리난",
     "카메라",
+    "모르는",
     "삼성",
-    "숨겨진",
-    "핸드폰",
+    "갤럭시",
+    "출시",
+    "비밀번호",
+    "정체",
+    "컴퓨터",
+    "기술",
     "#pcgaming",
     "#benchmark",
     "#rtx5050",
     "#gtx1080ti",
-    "“PC",
-    "Parts",
-    "have",
-    "arrived"
+    "“PC"
   ],
   "channel_distribution": [
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "1분미만",
+      "channel": "과식이",
       "count": 1
     },
     {
@@ -95,11 +95,7 @@
       "count": 1
     },
     {
-      "channel": "과식이",
-      "count": 1
-    },
-    {
-      "channel": "봉희픽",
+      "channel": "해외여행이슈",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "김블루",
+      "count": 1
+    },
+    {
+      "channel": "리뷰야놀자",
       "count": 1
     }
   ],
