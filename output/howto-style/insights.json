@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 변화, 엄마가, 그림",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, 이유, 생기는, 변화, 엄마가, #연예계이슈",
   "top_videos_summary": [
     {
-      "views": 109984534,
+      "views": 133666213,
       "title": "❤️❤️",
       "upload_year": "2026",
       "channel": "Abdallah Mubarak ",
       "duration": 16
     },
     {
-      "views": 14177112,
-      "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
-      "upload_year": "2026",
-      "channel": "하루10초",
-      "duration": 22
-    },
-    {
-      "views": 12673980,
+      "views": 15982558,
       "title": "This Labrador Vanished Underwater and Charged Out With a Boulder",
       "upload_year": "2026",
       "channel": "Impaker",
       "duration": 16
     },
     {
-      "views": 10978398,
-      "title": "The Perfect Jump in China 🔥😲 #jumping #jumpstyle #stunt",
+      "views": 14944074,
+      "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
-      "channel": "Raj fact बाज ",
-      "duration": 11
+      "channel": "하루10초",
+      "duration": 22
     },
     {
-      "views": 7398692,
+      "views": 7849429,
       "title": "엄마가 직접 잘라준 버터플라이컷의 충격적인 결과",
       "upload_year": "2026",
       "channel": "디데이쇼츠",
       "duration": 38
+    },
+    {
+      "views": 7051706,
+      "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
+      "upload_year": "2026",
+      "channel": "또왔어",
+      "duration": 24
     }
   ],
   "outlier_adjusted": {
-    "has_outlier": false,
-    "top1_share": 0.48,
-    "avg_views_excluding_top1": null,
-    "note": ""
+    "has_outlier": true,
+    "top1_share": 0.53,
+    "avg_views_excluding_top1": 2562011,
+    "note": "1위가 전체 조회수의 53% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
-    "이유",
     "#shorts",
+    "이유",
     "생기는",
     "변화",
     "엄마가",
-    "그림",
-    "소리를",
     "#연예계이슈",
     "#연예인",
-    "통째로",
-    "원조",
     "놀란",
-    "매일",
-    "양치하듯",
-    "스트레칭하면",
-    "1년",
-    "놀라운",
+    "원조",
+    "만든",
+    "가족",
     "This",
     "Labrador",
-    "Vanished"
+    "Vanished",
+    "Underwater",
+    "and",
+    "Charged",
+    "Out",
+    "With",
+    "Boulder"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,11 @@
       "count": 1
     },
     {
-      "channel": "하루10초",
-      "count": 1
-    },
-    {
       "channel": "Impaker",
       "count": 1
     },
     {
-      "channel": "Raj fact बाज ",
+      "channel": "하루10초",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "오늘의스타",
+      "count": 1
+    },
+    {
+      "channel": "대박s쇼츠",
       "count": 1
     }
   ],
