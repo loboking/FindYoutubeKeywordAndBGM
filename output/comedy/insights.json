@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #반전드라마, 당한, #shorts, 역대급",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, KBS, 방송, #shorts, 역대급",
   "top_videos_summary": [
     {
-      "views": 13103798,
+      "views": 13424691,
       "title": "클락션 한번 더 눌렀으면 쪽팔렸을뻔",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 20
     },
     {
-      "views": 8734312,
+      "views": 9349997,
       "title": "지디 왤케 연기 잘 함?ㅋㅋㅋ #빅뱅 #지드래곤 #GD #광고주 #광고",
       "upload_year": "2026",
       "channel": "도파민부자",
       "duration": 24
     },
     {
-      "views": 8661426,
+      "views": 9140455,
       "title": "99점 받고도 뺨 맞은 이유",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 46
     },
     {
-      "views": 7657304,
+      "views": 7861489,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 7127652,
+      "views": 7675099,
       "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "#예능",
-    "#반전드라마",
-    "당한",
+    "KBS",
+    "방송",
     "#shorts",
     "역대급",
     "#참교육",
+    "#반전드라마",
     "#시니어드라마",
     "남자",
     "#스케치코미디",
-    "#숏드라마",
     "#재미",
+    "놀리는",
     "#신병",
-    "클락션",
-    "한번",
-    "눌렀으면",
-    "쪽팔렸을뻔",
-    "#빅뱅",
-    "#지드래곤",
-    "#GD"
+    "#군대",
+    "#부사관",
+    "#장삐쭈",
+    "#이정현",
+    "#남태우",
+    "#이충구"
   ],
   "channel_distribution": [
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "숏스피드",
-      "count": 1
-    },
-    {
-      "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
       "channel": "도파민솔트",
       "count": 1
     },
     {
+      "channel": "예뻐",
+      "count": 1
+    },
+    {
       "channel": "난드",
+      "count": 1
+    },
+    {
+      "channel": "AI이약",
       "count": 1
     }
   ],
