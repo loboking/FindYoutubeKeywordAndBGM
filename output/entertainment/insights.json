@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 너무, 방송, #shorts, 영화",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 진짜, #연예계이슈, 생기는, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 8661426,
-      "title": "99점 받고도 뺨 맞은 이유",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 46
-    },
-    {
-      "views": 7657304,
+      "views": 7861489,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 7123538,
+      "views": 7673493,
       "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 43
     },
     {
-      "views": 7084186,
+      "views": 7281978,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
       "duration": 23
     },
     {
-      "views": 6115748,
-      "title": "알 수 없는 이세계 화장실 ㅋㅋ",
+      "views": 5749939,
+      "title": "혼자 고상한척 다 하더니 조폭이랑 놀아난 스타 TOP7 #연예계이슈 #연예인 #이슈 #랭킹",
       "upload_year": "2026",
-      "channel": "JPOP 제트",
-      "duration": 14
+      "channel": "오늘의스타",
+      "duration": 162
+    },
+    {
+      "views": 5578130,
+      "title": "영화관에서 한순간에 인싸 되는법ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "도파민솔트",
+      "duration": 26
     }
   ],
   "outlier_adjusted": {
@@ -49,31 +49,27 @@
   },
   "trend_keywords": [
     "이유",
-    "#예능",
-    "너무",
-    "방송",
     "#shorts",
-    "영화",
-    "생기는",
-    "#참교육",
-    "#반전드라마",
-    "#시니어드라마",
-    "#폭싹속았수다",
-    "남자",
     "진짜",
-    "무슨",
-    "99점",
-    "받고도",
-    "맞은",
+    "#연예계이슈",
+    "생기는",
+    "#스케치코미디",
+    "#예능",
+    "#마블",
+    "놀리는",
+    "#신병",
+    "#군대",
+    "#부사관",
+    "#장삐쭈",
+    "#이정현",
+    "#남태우",
+    "#이충구",
+    "#전승훈",
+    "정체",
     "아역배우에게",
-    "애드립으로",
-    "참교육"
+    "애드립으로"
   ],
   "channel_distribution": [
-    {
-      "channel": "케슛슛",
-      "count": 1
-    },
     {
       "channel": "무비펭",
       "count": 1
@@ -87,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "JPOP 제트",
+      "channel": "오늘의스타",
       "count": 1
     },
     {
@@ -95,11 +91,7 @@
       "count": 1
     },
     {
-      "channel": "오늘의스타",
-      "count": 1
-    },
-    {
-      "channel": "눈물한가득",
+      "channel": "예뻐",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "예뻐",
+      "channel": "드짱",
+      "count": 1
+    },
+    {
+      "channel": "숏라마",
+      "count": 1
+    },
+    {
+      "channel": "누리뉘리",
       "count": 1
     }
   ],
