@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 진짜, #연예계이슈, 생기는, #스케치코미디",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 너무, #shorts, #연예계이슈, #랭킹, #숏드라마",
   "top_videos_summary": [
     {
-      "views": 7861489,
-      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
-      "upload_year": "2026",
-      "channel": "무비펭",
-      "duration": 22
-    },
-    {
-      "views": 7673493,
+      "views": 8270053,
       "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 43
     },
     {
-      "views": 7281978,
+      "views": 8080367,
+      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
+      "upload_year": "2026",
+      "channel": "무비펭",
+      "duration": 22
+    },
+    {
+      "views": 7398370,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
       "duration": 23
     },
     {
-      "views": 5749939,
+      "views": 6356020,
       "title": "혼자 고상한척 다 하더니 조폭이랑 놀아난 스타 TOP7 #연예계이슈 #연예인 #이슈 #랭킹",
       "upload_year": "2026",
       "channel": "오늘의스타",
       "duration": 162
     },
     {
-      "views": 5578130,
-      "title": "영화관에서 한순간에 인싸 되는법ㅋㅋㅋ",
+      "views": 6288198,
+      "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
-      "channel": "도파민솔트",
-      "duration": 26
+      "channel": "아이돌탐정",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
@@ -49,14 +49,11 @@
   },
   "trend_keywords": [
     "이유",
+    "너무",
     "#shorts",
-    "진짜",
     "#연예계이슈",
-    "생기는",
-    "#스케치코미디",
-    "#예능",
-    "#마블",
-    "놀리는",
+    "#랭킹",
+    "#숏드라마",
     "#신병",
     "#군대",
     "#부사관",
@@ -65,17 +62,20 @@
     "#남태우",
     "#이충구",
     "#전승훈",
+    "생기는",
+    "진짜",
     "정체",
-    "아역배우에게",
-    "애드립으로"
+    "축의금",
+    "뜻밖의",
+    "할머니를"
   ],
   "channel_distribution": [
     {
-      "channel": "무비펭",
+      "channel": "KBS 한국방송",
       "count": 1
     },
     {
-      "channel": "KBS 한국방송",
+      "channel": "무비펭",
       "count": 1
     },
     {
@@ -87,15 +87,7 @@
       "count": 1
     },
     {
-      "channel": "도파민솔트",
-      "count": 1
-    },
-    {
-      "channel": "예뻐",
-      "count": 1
-    },
-    {
-      "channel": "난드",
+      "channel": "아이돌탐정",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "숏라마",
+      "channel": "난드",
       "count": 1
     },
     {
       "channel": "누리뉘리",
+      "count": 1
+    },
+    {
+      "channel": "숏라마",
+      "count": 1
+    },
+    {
+      "channel": "미녀 천명 모으기",
       "count": 1
     }
   ],
