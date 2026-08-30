@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 아이폰, 쓰는, 이유, 폴드8, 컴퓨터, 갤럭시",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 갤럭시, 아이폰, 쓰는, 이유, 컴퓨터, 삼성",
   "top_videos_summary": [
     {
-      "views": 11502944,
+      "views": 11749934,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "책상 위 빌런",
       "duration": 18
     },
     {
-      "views": 5936816,
+      "views": 6117833,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 2758576,
+      "views": 2953506,
       "title": "갤럭시가 아이폰을 못이기는이유",
       "upload_year": "2026",
       "channel": "웃긴협회",
       "duration": 14
     },
     {
-      "views": 2261867,
+      "views": 2586805,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 2224893,
+      "views": 2422192,
       "title": "북한에서 실제로 사용된 핸드폰을 발견했습니다.",
       "upload_year": "2026",
       "channel": "해외여행이슈",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.22,
+    "top1_share": 0.23,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "갤럭시",
     "아이폰",
     "쓰는",
     "이유",
-    "폴드8",
     "컴퓨터",
-    "갤럭시",
-    "케이스",
-    "갤럭시가",
-    "모르는",
-    "숨겨진",
     "삼성",
+    "출시",
+    "갤럭시가",
+    "카메라",
+    "숨겨진",
+    "꿀기능",
     "비밀번호",
     "근황",
-    "출시",
-    "기술",
-    "#컴퓨터",
-    "#컴퓨터팁",
-    "삼성전자",
-    "사무직이",
-    "매일"
+    "애플",
+    "케이스",
+    "어디서든",
+    "폴드8",
+    "디자인",
+    "정체",
+    "드디어"
   ],
   "channel_distribution": [
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "제로크림",
-      "count": 1
-    },
-    {
-      "channel": "기어로그 l 공구, 툴에 진심인 채널",
-      "count": 1
-    },
-    {
       "channel": "김블루",
       "count": 1
     },
     {
       "channel": "리뷰야놀자",
+      "count": 1
+    },
+    {
+      "channel": "타임슬립 코리아",
+      "count": 1
+    },
+    {
+      "channel": "1분미만",
       "count": 1
     }
   ],
