@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 영화, #예능, #shorts, 생기는, 역대급",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 영화, 생기는, 빈손으로, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 9140794,
-      "title": "99점 받고도 뺨 맞은 이유",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 46
-    },
-    {
-      "views": 7861489,
+      "views": 8080458,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 7282334,
+      "views": 7398370,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
       "duration": 23
     },
     {
-      "views": 5793410,
+      "views": 6427207,
       "title": "좀비 영화 중 가장 슬프다는 영화",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 142
     },
     {
-      "views": 5578130,
+      "views": 6099767,
+      "title": "장동민이 애드립 치면 생기는 일",
+      "upload_year": "2026",
+      "channel": "예뻐",
+      "duration": 60
+    },
+    {
+      "views": 5976471,
       "title": "영화관에서 한순간에 인싸 되는법ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "도파민솔트",
@@ -49,31 +49,27 @@
   },
   "trend_keywords": [
     "이유",
-    "영화",
-    "#예능",
     "#shorts",
+    "영화",
     "생기는",
-    "역대급",
-    "#폭싹속았수다",
     "빈손으로",
-    "#참교육",
-    "#반전드라마",
-    "#시니어드라마",
-    "남자",
     "#스케치코미디",
-    "#재미",
-    "진짜",
-    "미친",
-    "#마블",
-    "장면",
+    "#숏드라마",
     "#신병",
-    "#군대"
+    "#군대",
+    "#부사관",
+    "#장삐쭈",
+    "#이정현",
+    "#남태우",
+    "#이충구",
+    "#전승훈",
+    "장면",
+    "#마블",
+    "#사이다",
+    "#반전드라마",
+    "할머니를"
   ],
   "channel_distribution": [
-    {
-      "channel": "케슛슛",
-      "count": 1
-    },
     {
       "channel": "무비펭",
       "count": 1
@@ -87,15 +83,11 @@
       "count": 1
     },
     {
-      "channel": "도파민솔트",
-      "count": 1
-    },
-    {
       "channel": "예뻐",
       "count": 1
     },
     {
-      "channel": "난드",
+      "channel": "도파민솔트",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
+      "channel": "난드",
+      "count": 1
+    },
+    {
+      "channel": "누리뉘리",
+      "count": 1
+    },
+    {
       "channel": "순간숏",
       "count": 1
     },
     {
-      "channel": "AI이약",
+      "channel": "숏라마",
       "count": 1
     }
   ],
