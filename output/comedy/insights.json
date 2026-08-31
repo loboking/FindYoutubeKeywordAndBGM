@@ -3,57 +3,53 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #shorts, 역대급, #스케치코미디, #재미",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #신병, #군대, #부사관, #장삐쭈",
   "top_videos_summary": [
     {
-      "views": 13956937,
-      "title": "클락션 한번 더 눌렀으면 쪽팔렸을뻔",
-      "upload_year": "2026",
-      "channel": "이영상",
-      "duration": 20
-    },
-    {
-      "views": 9783138,
+      "views": 10019387,
       "title": "지디 왤케 연기 잘 함?ㅋㅋㅋ #빅뱅 #지드래곤 #GD #광고주 #광고",
       "upload_year": "2026",
       "channel": "도파민부자",
       "duration": 24
     },
     {
-      "views": 8270053,
+      "views": 8641392,
       "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 43
     },
     {
-      "views": 8080367,
+      "views": 8312879,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 7398370,
+      "views": 7501206,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
       "duration": 23
+    },
+    {
+      "views": 5936794,
+      "title": "역대급 폭염에 오침 사수를 위한 처절한 사투, #신병4, #ENA",
+      "upload_year": "2026",
+      "channel": "난드",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#예능",
-    "#shorts",
-    "역대급",
-    "#스케치코미디",
-    "#재미",
+    "생기는",
     "#신병",
     "#군대",
     "#부사관",
@@ -62,18 +58,18 @@
     "#남태우",
     "#이충구",
     "#전승훈",
-    "#유머",
+    "대신",
     "놀리는",
+    "유재석",
+    "만나면",
+    "이효리",
     "#반전드라마",
-    "클락션",
-    "한번",
-    "눌렀으면"
+    "#빅뱅",
+    "#지드래곤",
+    "#GD",
+    "#광고주"
   ],
   "channel_distribution": [
-    {
-      "channel": "이영상",
-      "count": 1
-    },
     {
       "channel": "도파민부자",
       "count": 1
@@ -95,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "숏라마",
+      "channel": "해외쇼쇼",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "숏라마",
       "count": 1
     },
     {
-      "channel": "꽃다발",
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
       "count": 1
     }
   ],
