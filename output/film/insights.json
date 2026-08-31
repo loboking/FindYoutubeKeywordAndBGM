@@ -3,58 +3,57 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 영화, 생기는, 빈손으로, #스케치코미디",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 영화, #shorts, 생기는, 위한, 빈손으로",
   "top_videos_summary": [
     {
-      "views": 8080458,
+      "views": 8312879,
       "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 22
     },
     {
-      "views": 7398370,
+      "views": 7501206,
       "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "1분예능모음zip",
       "duration": 23
     },
     {
-      "views": 6427207,
+      "views": 6899398,
       "title": "좀비 영화 중 가장 슬프다는 영화",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 142
     },
     {
-      "views": 6099767,
+      "views": 6733138,
       "title": "장동민이 애드립 치면 생기는 일",
       "upload_year": "2026",
       "channel": "예뻐",
       "duration": 60
     },
     {
-      "views": 5976471,
-      "title": "영화관에서 한순간에 인싸 되는법ㅋㅋㅋ",
+      "views": 6485815,
+      "title": "죽기 전에도 기억날 추억을 선물한 금명이 #폭싹속았수다",
       "upload_year": "2026",
-      "channel": "도파민솔트",
-      "duration": 26
+      "channel": "드짱",
+      "duration": 110
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
     "영화",
+    "#shorts",
     "생기는",
+    "위한",
     "빈손으로",
-    "#스케치코미디",
-    "#숏드라마",
     "#신병",
     "#군대",
     "#부사관",
@@ -63,11 +62,12 @@
     "#남태우",
     "#이충구",
     "#전승훈",
+    "#숏드라마",
     "장면",
-    "#마블",
-    "#사이다",
+    "모르는",
     "#반전드라마",
-    "할머니를"
+    "할머니를",
+    "아들이"
   ],
   "channel_distribution": [
     {
@@ -87,15 +87,7 @@
       "count": 1
     },
     {
-      "channel": "도파민솔트",
-      "count": 1
-    },
-    {
       "channel": "드짱",
-      "count": 1
-    },
-    {
-      "channel": "난드",
       "count": 1
     },
     {
@@ -103,7 +95,15 @@
       "count": 1
     },
     {
+      "channel": "난드",
+      "count": 1
+    },
+    {
       "channel": "순간숏",
+      "count": 1
+    },
+    {
+      "channel": "미녀 천명 모으기",
       "count": 1
     },
     {
