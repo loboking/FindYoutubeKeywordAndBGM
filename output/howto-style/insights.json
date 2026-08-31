@@ -3,55 +3,60 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, 장인, This, Labrador",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, 근황, #아기, #baby",
   "top_videos_summary": [
     {
-      "views": 167016520,
-      "title": "❤️❤️",
-      "upload_year": "2026",
-      "channel": "Abdallah Mubarak ",
-      "duration": 16
-    },
-    {
-      "views": 21511561,
+      "views": 24143692,
       "title": "This Labrador Vanished Underwater and Charged Out With a Boulder",
       "upload_year": "2026",
       "channel": "Impaker",
       "duration": 16
     },
     {
-      "views": 16016164,
+      "views": 16711569,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 7539040,
+      "views": 7781904,
       "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
       "upload_year": "2026",
       "channel": "또왔어",
       "duration": 24
     },
     {
-      "views": 5660375,
+      "views": 5872619,
       "title": "많이 봤던 그림 실제로 가능할까? #그림",
       "upload_year": "2026",
       "channel": "그림그릴시간",
       "duration": 20
+    },
+    {
+      "views": 4755526,
+      "title": "30초 만에 끝나버린 포켓몬 카드 거래",
+      "upload_year": "2026",
+      "channel": "대박s쇼츠",
+      "duration": 24
     }
   ],
   "outlier_adjusted": {
-    "has_outlier": true,
-    "top1_share": 0.57,
-    "avg_views_excluding_top1": 2686844,
-    "note": "1위가 전체 조회수의 57% 차지 — 평균 왜곡."
+    "has_outlier": false,
+    "top1_share": 0.18,
+    "avg_views_excluding_top1": null,
+    "note": ""
   },
   "trend_keywords": [
     "생기는",
     "놀란",
     "이유",
+    "근황",
+    "#아기",
+    "#baby",
     "장인",
+    "만든",
+    "먹는",
     "This",
     "Labrador",
     "Vanished",
@@ -62,18 +67,9 @@
     "With",
     "Boulder",
     "매일",
-    "양치하듯",
-    "스트레칭하면",
-    "1년",
-    "놀라운",
-    "변화",
-    "#김연아"
+    "양치하듯"
   ],
   "channel_distribution": [
-    {
-      "channel": "Abdallah Mubarak ",
-      "count": 1
-    },
     {
       "channel": "Impaker",
       "count": 1
@@ -91,15 +87,7 @@
       "count": 1
     },
     {
-      "channel": "랭킹끝판왕",
-      "count": 1
-    },
-    {
       "channel": "대박s쇼츠",
-      "count": 1
-    },
-    {
-      "channel": "오늘의스타",
       "count": 1
     },
     {
@@ -108,6 +96,18 @@
     },
     {
       "channel": "JASON MEDIA",
+      "count": 1
+    },
+    {
+      "channel": "달려서 세계속으로",
+      "count": 1
+    },
+    {
+      "channel": "공간 탐닉 Space Tamnik",
+      "count": 1
+    },
+    {
+      "channel": "별난극장",
       "count": 1
     }
   ],
