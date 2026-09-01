@@ -3,47 +3,47 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, 근황, #아기, #baby",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, #아기, #baby, 만든",
   "top_videos_summary": [
     {
-      "views": 24143692,
-      "title": "This Labrador Vanished Underwater and Charged Out With a Boulder",
-      "upload_year": "2026",
-      "channel": "Impaker",
-      "duration": 16
-    },
-    {
-      "views": 16711569,
+      "views": 17408310,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 7781904,
+      "views": 8969693,
+      "title": "당구 영상 역대급 마쎄 샷! #당구#조명우#조화백#3쿠션#billiards#월드컵#당구장#예술구",
+      "upload_year": "2026",
+      "channel": "조명우나이스",
+      "duration": 18
+    },
+    {
+      "views": 8240736,
       "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
       "upload_year": "2026",
       "channel": "또왔어",
       "duration": 24
     },
     {
-      "views": 5872619,
+      "views": 5912516,
       "title": "많이 봤던 그림 실제로 가능할까? #그림",
       "upload_year": "2026",
       "channel": "그림그릴시간",
       "duration": 20
     },
     {
-      "views": 4755526,
-      "title": "30초 만에 끝나버린 포켓몬 카드 거래",
+      "views": 5171065,
+      "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
       "upload_year": "2026",
-      "channel": "대박s쇼츠",
-      "duration": 24
+      "channel": "쑈옷",
+      "duration": 58
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.18,
+    "top1_share": 0.15,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,31 +51,31 @@
     "생기는",
     "놀란",
     "이유",
-    "근황",
     "#아기",
     "#baby",
-    "장인",
     "만든",
     "먹는",
-    "This",
-    "Labrador",
-    "Vanished",
-    "Underwater",
-    "and",
-    "Charged",
-    "Out",
-    "With",
-    "Boulder",
     "매일",
-    "양치하듯"
+    "양치하듯",
+    "스트레칭하면",
+    "1년",
+    "놀라운",
+    "변화",
+    "#당구",
+    "#조명우",
+    "#조화백",
+    "#3쿠션",
+    "#billiards",
+    "#월드컵",
+    "#당구장"
   ],
   "channel_distribution": [
     {
-      "channel": "Impaker",
+      "channel": "하루10초",
       "count": 1
     },
     {
-      "channel": "하루10초",
+      "channel": "조명우나이스",
       "count": 1
     },
     {
@@ -87,19 +87,11 @@
       "count": 1
     },
     {
-      "channel": "대박s쇼츠",
-      "count": 1
-    },
-    {
       "channel": "쑈옷",
       "count": 1
     },
     {
-      "channel": "JASON MEDIA",
-      "count": 1
-    },
-    {
-      "channel": "달려서 세계속으로",
+      "channel": "대박s쇼츠",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
+      "channel": "JASON MEDIA",
+      "count": 1
+    },
+    {
       "channel": "별난극장",
+      "count": 1
+    },
+    {
+      "channel": "쩌비",
       "count": 1
     }
   ],
