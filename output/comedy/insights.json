@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #신병, #군대, #부사관, #장삐쭈",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #스케치코미디, #신병, #군대, #부사관",
   "top_videos_summary": [
     {
-      "views": 10019387,
+      "views": 10211763,
       "title": "지디 왤케 연기 잘 함?ㅋㅋㅋ #빅뱅 #지드래곤 #GD #광고주 #광고",
       "upload_year": "2026",
       "channel": "도파민부자",
       "duration": 24
     },
     {
-      "views": 8641392,
+      "views": 8788317,
       "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
       "upload_year": "2026",
       "channel": "KBS 한국방송",
       "duration": 43
     },
     {
-      "views": 8312879,
-      "title": "아역배우에게 애드립으로 참교육 당한 28년차 배우",
+      "views": 6549601,
+      "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
-      "channel": "무비펭",
+      "channel": "해외쇼쇼",
+      "duration": 51
+    },
+    {
+      "views": 6206732,
+      "title": "GD성대모사를 따라하는GD feat.리센느 거제야호",
+      "upload_year": "2026",
+      "channel": "예능한입",
       "duration": 22
     },
     {
-      "views": 7501206,
-      "title": "개그콘서트에서 나왔던 웃음소리의 정체ㅋㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "1분예능모음zip",
-      "duration": 23
-    },
-    {
-      "views": 5936794,
+      "views": 6147436,
       "title": "역대급 폭염에 오침 사수를 위한 처절한 사투, #신병4, #ENA",
       "upload_year": "2026",
       "channel": "난드",
@@ -50,6 +50,7 @@
   "trend_keywords": [
     "이유",
     "생기는",
+    "#스케치코미디",
     "#신병",
     "#군대",
     "#부사관",
@@ -59,15 +60,14 @@
     "#이충구",
     "#전승훈",
     "대신",
-    "놀리는",
-    "유재석",
-    "만나면",
+    "좋은",
     "이효리",
+    "만나면",
     "#반전드라마",
+    "무시한",
+    "진짜",
     "#빅뱅",
-    "#지드래곤",
-    "#GD",
-    "#광고주"
+    "#지드래곤"
   ],
   "channel_distribution": [
     {
@@ -79,18 +79,6 @@
       "count": 1
     },
     {
-      "channel": "무비펭",
-      "count": 1
-    },
-    {
-      "channel": "1분예능모음zip",
-      "count": 1
-    },
-    {
-      "channel": "난드",
-      "count": 1
-    },
-    {
       "channel": "해외쇼쇼",
       "count": 1
     },
@@ -99,7 +87,11 @@
       "count": 1
     },
     {
-      "channel": "숏라마",
+      "channel": "난드",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
+      "channel": "숏라마",
+      "count": 1
+    },
+    {
+      "channel": "예뻐",
+      "count": 1
+    },
+    {
+      "channel": "빡빡이횽",
       "count": 1
     }
   ],
