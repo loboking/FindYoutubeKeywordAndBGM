@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 갤럭시, 컴퓨터, 아이폰, 쓰는, 이유, 삼성",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 갤럭시, 쓰는, 이유, 요즘, 컴퓨터, 삼성",
   "top_videos_summary": [
     {
-      "views": 12638096,
+      "views": 14487512,
       "title": "Cost in Units of RTX 5090",
       "upload_year": "2026",
       "channel": "HD Guy",
       "duration": 26
     },
     {
-      "views": 12061394,
+      "views": 12592766,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "책상 위 빌런",
       "duration": 18
     },
     {
-      "views": 6189881,
+      "views": 6268981,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 2995699,
+      "views": 3020919,
       "title": "갤럭시가 아이폰을 못이기는이유",
       "upload_year": "2026",
       "channel": "웃긴협회",
       "duration": 14
     },
     {
-      "views": 2836510,
+      "views": 2934283,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
@@ -43,27 +43,27 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.19,
+    "top1_share": 0.21,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "갤럭시",
-    "컴퓨터",
-    "아이폰",
     "쓰는",
     "이유",
-    "삼성",
-    "출시",
-    "폴드8",
     "요즘",
+    "컴퓨터",
+    "삼성",
+    "아이폰",
+    "폴드8",
+    "난리난",
     "카메라",
     "비밀번호",
     "근황",
-    "애플",
+    "결과",
     "케이스",
-    "정체",
-    "드디어",
+    "진짜",
+    "휴대폰",
     "Cost",
     "in",
     "Units",
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "김블루",
-      "count": 1
-    },
-    {
       "channel": "리뷰야놀자",
       "count": 1
     },
     {
-      "channel": "타임슬립 코리아",
+      "channel": "김블루",
+      "count": 1
+    },
+    {
+      "channel": "JASON MEDIA",
       "count": 1
     }
   ],
