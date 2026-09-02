@@ -3,54 +3,54 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #스케치코미디, #신병, #군대, #부사관",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #신병4, #신병, #군대, #부사관",
   "top_videos_summary": [
     {
-      "views": 10211763,
-      "title": "지디 왤케 연기 잘 함?ㅋㅋㅋ #빅뱅 #지드래곤 #GD #광고주 #광고",
-      "upload_year": "2026",
-      "channel": "도파민부자",
-      "duration": 24
-    },
-    {
-      "views": 8788317,
-      "title": "아내가 너무 예뻐서 고민이에요 #말자쇼 | KBS 260824 방송",
-      "upload_year": "2026",
-      "channel": "KBS 한국방송",
-      "duration": 43
-    },
-    {
-      "views": 6549601,
+      "views": 7411246,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 6206732,
+      "views": 7086352,
       "title": "GD성대모사를 따라하는GD feat.리센느 거제야호",
       "upload_year": "2026",
       "channel": "예능한입",
       "duration": 22
     },
     {
-      "views": 6147436,
+      "views": 6216787,
       "title": "역대급 폭염에 오침 사수를 위한 처절한 사투, #신병4, #ENA",
       "upload_year": "2026",
       "channel": "난드",
       "duration": 60
+    },
+    {
+      "views": 6122410,
+      "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 177
+    },
+    {
+      "views": 5803668,
+      "title": "말년 병장 최일구의 뼈를 때리는 조언 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "upload_year": "2026",
+      "channel": "다시볼티비",
+      "duration": 54
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "생기는",
-    "#스케치코미디",
+    "#신병4",
     "#신병",
     "#군대",
     "#부사관",
@@ -59,25 +59,17 @@
     "#남태우",
     "#이충구",
     "#전승훈",
-    "대신",
-    "좋은",
     "이효리",
+    "좋은",
+    "#스케치코미디",
     "만나면",
     "#반전드라마",
+    "신입이",
     "무시한",
     "진짜",
-    "#빅뱅",
-    "#지드래곤"
+    "홍수"
   ],
   "channel_distribution": [
-    {
-      "channel": "도파민부자",
-      "count": 1
-    },
-    {
-      "channel": "KBS 한국방송",
-      "count": 1
-    },
     {
       "channel": "해외쇼쇼",
       "count": 1
@@ -99,15 +91,23 @@
       "count": 1
     },
     {
-      "channel": "숏라마",
-      "count": 1
-    },
-    {
       "channel": "예뻐",
       "count": 1
     },
     {
       "channel": "빡빡이횽",
+      "count": 1
+    },
+    {
+      "channel": "좋좋",
+      "count": 1
+    },
+    {
+      "channel": "웃참실패",
+      "count": 1
+    },
+    {
+      "channel": "사이드라마",
       "count": 1
     }
   ],
