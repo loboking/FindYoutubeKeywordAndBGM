@@ -6,35 +6,35 @@
   "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 갤럭시, 쓰는, 이유, 요즘, 컴퓨터, 삼성",
   "top_videos_summary": [
     {
-      "views": 14487512,
+      "views": 16314493,
       "title": "Cost in Units of RTX 5090",
       "upload_year": "2026",
       "channel": "HD Guy",
       "duration": 26
     },
     {
-      "views": 12592766,
+      "views": 13126042,
       "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
       "upload_year": "2026",
       "channel": "책상 위 빌런",
       "duration": 18
     },
     {
-      "views": 6268981,
+      "views": 6396816,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 3020919,
-      "title": "갤럭시가 아이폰을 못이기는이유",
+      "views": 5324516,
+      "title": "Humanoid Robot Unboxing 🤖",
       "upload_year": "2026",
-      "channel": "웃긴협회",
-      "duration": 14
+      "channel": "İncelemedeyim",
+      "duration": 32
     },
     {
-      "views": 2934283,
+      "views": 3128290,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.21,
+    "top1_share": 0.2,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -55,14 +55,14 @@
     "컴퓨터",
     "삼성",
     "아이폰",
-    "폴드8",
+    "진짜",
     "난리난",
     "카메라",
     "비밀번호",
     "근황",
+    "폴드8",
     "결과",
     "케이스",
-    "진짜",
     "휴대폰",
     "Cost",
     "in",
@@ -83,11 +83,15 @@
       "count": 1
     },
     {
-      "channel": "웃긴협회",
+      "channel": "İncelemedeyim",
       "count": 1
     },
     {
       "channel": "과식이",
+      "count": 1
+    },
+    {
+      "channel": "웃긴협회",
       "count": 1
     },
     {
@@ -104,10 +108,6 @@
     },
     {
       "channel": "김블루",
-      "count": 1
-    },
-    {
-      "channel": "JASON MEDIA",
       "count": 1
     }
   ],
