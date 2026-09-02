@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, #아기, #baby, 만든",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, #아기, #baby, 아기",
   "top_videos_summary": [
     {
-      "views": 17408310,
+      "views": 47866729,
+      "title": "The Most Wholesome Moment Youll See Today Golden Statue vs Toddler​#CuteBaby​#BabyLife​#ToddlerLife​",
+      "upload_year": "2026",
+      "channel": "xain 86",
+      "duration": 16
+    },
+    {
+      "views": 18197301,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 8969693,
+      "views": 9292872,
       "title": "당구 영상 역대급 마쎄 샷! #당구#조명우#조화백#3쿠션#billiards#월드컵#당구장#예술구",
       "upload_year": "2026",
       "channel": "조명우나이스",
       "duration": 18
     },
     {
-      "views": 8240736,
+      "views": 8434440,
       "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
       "upload_year": "2026",
       "channel": "또왔어",
       "duration": 24
     },
     {
-      "views": 5912516,
-      "title": "많이 봤던 그림 실제로 가능할까? #그림",
-      "upload_year": "2026",
-      "channel": "그림그릴시간",
-      "duration": 20
-    },
-    {
-      "views": 5171065,
+      "views": 5728356,
       "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "쑈옷",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.15,
+    "top1_share": 0.29,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -53,23 +53,27 @@
     "이유",
     "#아기",
     "#baby",
+    "아기",
     "만든",
-    "먹는",
-    "매일",
-    "양치하듯",
-    "스트레칭하면",
-    "1년",
-    "놀라운",
-    "변화",
-    "#당구",
-    "#조명우",
-    "#조화백",
-    "#3쿠션",
-    "#billiards",
-    "#월드컵",
-    "#당구장"
+    "난리난",
+    "동글",
+    "#CuteBaby",
+    "#BabyLife",
+    "#ToddlerLife",
+    "The",
+    "Most",
+    "Wholesome",
+    "Moment",
+    "Youll",
+    "See",
+    "Today",
+    "Golden"
   ],
   "channel_distribution": [
+    {
+      "channel": "xain 86",
+      "count": 1
+    },
     {
       "channel": "하루10초",
       "count": 1
@@ -80,10 +84,6 @@
     },
     {
       "channel": "또왔어",
-      "count": 1
-    },
-    {
-      "channel": "그림그릴시간",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
+      "channel": "Thuc Am",
+      "count": 1
+    },
+    {
       "channel": "JASON MEDIA",
       "count": 1
     },
     {
       "channel": "별난극장",
-      "count": 1
-    },
-    {
-      "channel": "쩌비",
       "count": 1
     }
   ],
