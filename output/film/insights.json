@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 영화, 생기는, 위한, 빈손으로, #신병",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 영화, 진짜, 가장, 생기는, #신병4",
   "top_videos_summary": [
     {
-      "views": 7308951,
+      "views": 7519538,
       "title": "좀비 영화 중 가장 슬프다는 영화",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 142
     },
     {
-      "views": 7246372,
+      "views": 7516184,
       "title": "장동민이 애드립 치면 생기는 일",
       "upload_year": "2026",
       "channel": "예뻐",
       "duration": 60
     },
     {
-      "views": 6846139,
+      "views": 7039200,
       "title": "죽기 전에도 기억날 추억을 선물한 금명이 #폭싹속았수다",
       "upload_year": "2026",
       "channel": "드짱",
       "duration": 110
     },
     {
-      "views": 6147512,
-      "title": "역대급 폭염에 오침 사수를 위한 처절한 사투, #신병4, #ENA",
-      "upload_year": "2026",
-      "channel": "난드",
-      "duration": 60
-    },
-    {
-      "views": 6131633,
+      "views": 6275591,
       "title": "토르의 망치 5초 버티기 ⚡🔨",
       "upload_year": "2026",
       "channel": "누리뉘리",
       "duration": 23
+    },
+    {
+      "views": 6216787,
+      "title": "역대급 폭염에 오침 사수를 위한 처절한 사투, #신병4, #ENA",
+      "upload_year": "2026",
+      "channel": "난드",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.04,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "영화",
+    "진짜",
+    "가장",
     "생기는",
+    "#신병4",
     "위한",
     "빈손으로",
-    "#신병",
-    "#군대",
-    "#부사관",
-    "#장삐쭈",
-    "#이정현",
-    "#남태우",
-    "#이충구",
-    "#전승훈",
     "장면",
-    "진짜",
-    "#마블",
+    "#슬기로운의사생활시즌2",
+    "#조정석",
+    "#전미도",
+    "#정경호",
     "모르는",
-    "누가",
-    "축의금",
-    "엄마의"
+    "#마블",
+    "엄마의",
+    "#반전드라마",
+    "할머니를",
+    "#스케치코미디",
+    "무시한"
   ],
   "channel_distribution": [
     {
@@ -83,15 +83,11 @@
       "count": 1
     },
     {
-      "channel": "난드",
-      "count": 1
-    },
-    {
       "channel": "누리뉘리",
       "count": 1
     },
     {
-      "channel": "순간숏",
+      "channel": "난드",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
-      "count": 1
-    },
-    {
-      "channel": "숏라마",
+      "channel": "순간숏",
       "count": 1
     },
     {
       "channel": "리즈시절 천개 모으기",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "드라마노티스",
       "count": 1
     }
   ],
