@@ -3,91 +3,79 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 영화, 진짜, 가장, 생기는, #신병4",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 진짜, 모두가, #스케치코미디, 장면, 빈손으로",
   "top_videos_summary": [
     {
-      "views": 7519538,
-      "title": "좀비 영화 중 가장 슬프다는 영화",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 142
-    },
-    {
-      "views": 7516184,
+      "views": 7760702,
       "title": "장동민이 애드립 치면 생기는 일",
       "upload_year": "2026",
       "channel": "예뻐",
       "duration": 60
     },
     {
-      "views": 7039200,
+      "views": 7203541,
       "title": "죽기 전에도 기억날 추억을 선물한 금명이 #폭싹속았수다",
       "upload_year": "2026",
       "channel": "드짱",
       "duration": 110
     },
     {
-      "views": 6275591,
-      "title": "토르의 망치 5초 버티기 ⚡🔨",
+      "views": 6502351,
+      "title": "고윤정 젤리 플러팅 직관한 심자윤 ㅋㅋㅋ",
       "upload_year": "2026",
-      "channel": "누리뉘리",
-      "duration": 23
+      "channel": "미녀 천명 모으기",
+      "duration": 11
     },
     {
-      "views": 6216787,
-      "title": "역대급 폭염에 오침 사수를 위한 처절한 사투, #신병4, #ENA",
+      "views": 6378483,
+      "title": "영화 한 장면 같다는 차쥐뿔 마지막화 #한소희",
       "upload_year": "2026",
-      "channel": "난드",
-      "duration": 60
+      "channel": "리즈시절 천개 모으기",
+      "duration": 28
+    },
+    {
+      "views": 6145917,
+      "title": "빈손으로 왔다가 빈손으로 떠나는 인생",
+      "upload_year": "2026",
+      "channel": "순간숏",
+      "duration": 56
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.04,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "영화",
     "진짜",
-    "가장",
-    "생기는",
-    "#신병4",
-    "위한",
-    "빈손으로",
+    "모두가",
+    "#스케치코미디",
     "장면",
+    "빈손으로",
     "#슬기로운의사생활시즌2",
     "#조정석",
     "#전미도",
-    "#정경호",
-    "모르는",
     "#마블",
     "엄마의",
-    "#반전드라마",
-    "할머니를",
-    "#스케치코미디",
-    "무시한"
+    "#shorts",
+    "성공한",
+    "장동민이",
+    "애드립",
+    "치면",
+    "생기는",
+    "#폭싹속았수다",
+    "죽기",
+    "전에도"
   ],
   "channel_distribution": [
-    {
-      "channel": "눈물한가득",
-      "count": 1
-    },
     {
       "channel": "예뻐",
       "count": 1
     },
     {
       "channel": "드짱",
-      "count": 1
-    },
-    {
-      "channel": "누리뉘리",
-      "count": 1
-    },
-    {
-      "channel": "난드",
       "count": 1
     },
     {
@@ -95,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "순간숏",
+      "channel": "리즈시절 천개 모으기",
       "count": 1
     },
     {
-      "channel": "리즈시절 천개 모으기",
+      "channel": "순간숏",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "대유잼 연구소",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
       "channel": "드라마노티스",
+      "count": 1
+    },
+    {
+      "channel": "빡빡이횽",
       "count": 1
     }
   ],
