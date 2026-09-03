@@ -3,75 +3,79 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 생기는, 놀란, 이유, #아기, #baby, 아기",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 생기는, 만든, 이유, 이거, 선우용여, 난리난",
   "top_videos_summary": [
     {
-      "views": 47866729,
-      "title": "The Most Wholesome Moment Youll See Today Golden Statue vs Toddler​#CuteBaby​#BabyLife​#ToddlerLife​",
+      "views": 26506149,
+      "title": "#jeepwrangler #offroad #carlover",
       "upload_year": "2026",
-      "channel": "xain 86",
+      "channel": "Ly Na ",
+      "duration": 24
+    },
+    {
+      "views": 22161770,
+      "title": "A Little Girl Meets a Bronze Statue! 😍 #Cute",
+      "upload_year": "2026",
+      "channel": "StatueZone",
       "duration": 16
     },
     {
-      "views": 18197301,
+      "views": 18758775,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 9292872,
-      "title": "당구 영상 역대급 마쎄 샷! #당구#조명우#조화백#3쿠션#billiards#월드컵#당구장#예술구",
+      "views": 11476707,
+      "title": "아빠를 뭉클하게 만든 아들의 한마디",
       "upload_year": "2026",
-      "channel": "조명우나이스",
-      "duration": 18
+      "channel": "강디오",
+      "duration": 31
     },
     {
-      "views": 8434440,
+      "views": 8508649,
       "title": "김연아를누군가가지켜보고있다#김연아#피겨스케이팅",
       "upload_year": "2026",
       "channel": "또왔어",
       "duration": 24
-    },
-    {
-      "views": 5728356,
-      "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "쑈옷",
-      "duration": 58
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.29,
+    "top1_share": 0.16,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "생기는",
-    "놀란",
-    "이유",
-    "#아기",
-    "#baby",
-    "아기",
     "만든",
+    "이유",
+    "이거",
+    "선우용여",
     "난리난",
     "동글",
-    "#CuteBaby",
-    "#BabyLife",
-    "#ToddlerLife",
-    "The",
-    "Most",
-    "Wholesome",
-    "Moment",
-    "Youll",
-    "See",
-    "Today",
-    "Golden"
+    "라면",
+    "#jeepwrangler",
+    "#offroad",
+    "#carlover",
+    "#Cute",
+    "Little",
+    "Girl",
+    "Meets",
+    "Bronze",
+    "Statue",
+    "매일",
+    "양치하듯",
+    "스트레칭하면"
   ],
   "channel_distribution": [
     {
-      "channel": "xain 86",
+      "channel": "Ly Na ",
+      "count": 1
+    },
+    {
+      "channel": "StatueZone",
       "count": 1
     },
     {
@@ -79,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "조명우나이스",
+      "channel": "강디오",
       "count": 1
     },
     {
@@ -88,14 +92,6 @@
     },
     {
       "channel": "쑈옷",
-      "count": 1
-    },
-    {
-      "channel": "대박s쇼츠",
-      "count": 1
-    },
-    {
-      "channel": "공간 탐닉 Space Tamnik",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "JASON MEDIA",
+      "channel": "대박s쇼츠",
       "count": 1
     },
     {
       "channel": "별난극장",
+      "count": 1
+    },
+    {
+      "channel": "쩌비",
       "count": 1
     }
   ],
