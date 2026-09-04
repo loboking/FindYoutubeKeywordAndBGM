@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 진짜, 이유, 생기는, #조정석, 이효리, 인간",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, 진짜, 멘붕, #조정석",
   "top_videos_summary": [
     {
-      "views": 10341345,
+      "views": 10867816,
       "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 22
     },
     {
-      "views": 7970081,
+      "views": 8786407,
       "title": "예상보다 너무 잘 춰서 놀란 뜻밖의 BAD 챌린지",
       "upload_year": "2026",
       "channel": "제노 플래쉬",
       "duration": 19
     },
     {
-      "views": 7203483,
-      "title": "죽기 전에도 기억날 추억을 선물한 금명이 #폭싹속았수다",
+      "views": 8706331,
+      "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
-      "channel": "드짱",
-      "duration": 110
+      "channel": "해외쇼쇼",
+      "duration": 51
     },
     {
-      "views": 6745425,
-      "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
+      "views": 7385800,
+      "title": "진짜 마법사보고 진심 멘붕 온 박지원",
       "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 177
+      "channel": "오늘도프미나",
+      "duration": 56
     },
     {
-      "views": 6502351,
+      "views": 6697962,
       "title": "고윤정 젤리 플러팅 직관한 심자윤 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "미녀 천명 모으기",
@@ -48,17 +48,17 @@
     "note": ""
   },
   "trend_keywords": [
-    "진짜",
     "이유",
     "생기는",
+    "#shorts",
+    "진짜",
+    "멘붕",
     "#조정석",
     "이효리",
     "인간",
-    "엄마의",
     "#예능",
-    "#shorts",
     "엄마",
-    "#스케치코미디",
+    "모두가",
     "무대",
     "도중",
     "카메라맨과",
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "드짱",
-      "count": 1
-    },
-    {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "미녀 천명 모으기",
+      "channel": "해외쇼쇼",
       "count": 1
     },
     {
@@ -95,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
-      "count": 1
-    },
-    {
-      "channel": "예뻐",
+      "channel": "미녀 천명 모으기",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
       "channel": "혹이슈",
+      "count": 1
+    },
+    {
+      "channel": "또캐치",
+      "count": 1
+    },
+    {
+      "channel": "예뻐",
       "count": 1
     }
   ],
