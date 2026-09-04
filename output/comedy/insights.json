@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #스케치코미디, 진짜, 이효리, 좋은",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, #신병, 애드립, 생기는, 신입이",
   "top_videos_summary": [
     {
-      "views": 7647737,
-      "title": "GD성대모사를 따라하는GD feat.리센느 거제야호",
+      "views": 8706332,
+      "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
-      "channel": "예능한입",
-      "duration": 22
+      "channel": "해외쇼쇼",
+      "duration": 51
     },
     {
-      "views": 6745670,
+      "views": 7378935,
       "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 177
     },
     {
-      "views": 6099610,
-      "title": "말년 병장 최일구의 뼈를 때리는 조언 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "views": 6999819,
+      "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
       "upload_year": "2026",
-      "channel": "다시볼티비",
-      "duration": 54
+      "channel": "부부의 세계",
+      "duration": 41
     },
     {
-      "views": 5703597,
-      "title": "신동엽이 애드립 날리면 생기는 일",
-      "upload_year": "2026",
-      "channel": "예뻐",
-      "duration": 58
-    },
-    {
-      "views": 5559072,
+      "views": 6489814,
       "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
       "upload_year": "2026",
       "channel": "좋좋",
       "duration": 59
+    },
+    {
+      "views": 6346312,
+      "title": "말년 병장 최일구의 뼈를 때리는 조언 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "upload_year": "2026",
+      "channel": "다시볼티비",
+      "duration": 54
     }
   ],
   "outlier_adjusted": {
@@ -49,33 +49,41 @@
   },
   "trend_keywords": [
     "이유",
-    "생기는",
     "#스케치코미디",
-    "진짜",
-    "이효리",
-    "좋은",
+    "#신병",
+    "애드립",
+    "생기는",
     "신입이",
-    "광기",
-    "찐으로",
-    "#반전드라마",
-    "무시한",
-    "시어머니",
-    "GD성대모사를",
-    "따라하는GD",
-    "feat",
-    "리센느",
-    "거제야호",
+    "이효리",
+    "유재석",
+    "아빠",
+    "만든",
+    "좋은",
+    "놀란",
+    "진짜",
+    "홍수",
+    "막아주는",
+    "모래",
+    "주머니",
     "세상에",
     "베푼",
     "친절은"
   ],
   "channel_distribution": [
     {
-      "channel": "예능한입",
+      "channel": "해외쇼쇼",
       "count": 1
     },
     {
       "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "부부의 세계",
+      "count": 1
+    },
+    {
+      "channel": "좋좋",
       "count": 1
     },
     {
@@ -87,15 +95,11 @@
       "count": 1
     },
     {
-      "channel": "좋좋",
-      "count": 1
-    },
-    {
       "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "부부의 세계",
+      "channel": "숏라마",
       "count": 1
     },
     {
@@ -103,11 +107,7 @@
       "count": 1
     },
     {
-      "channel": "웃참실패",
-      "count": 1
-    },
-    {
-      "channel": "편집자가 참지못함",
+      "channel": "MOO MIX 무믹스",
       "count": 1
     }
   ],
