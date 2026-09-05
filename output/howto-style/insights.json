@@ -3,83 +3,75 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 외국인, 생기는, 만든, 이거, 먹는, 선우용여",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 이유, 미국, 외국인, 생기는, 이거, 서서",
   "top_videos_summary": [
     {
-      "views": 24735332,
-      "title": "A Little Girl Meets a Bronze Statue! 😍 #Cute",
-      "upload_year": "2026",
-      "channel": "StatueZone",
-      "duration": 16
-    },
-    {
-      "views": 19130052,
+      "views": 19571461,
       "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
       "upload_year": "2026",
       "channel": "하루10초",
       "duration": 22
     },
     {
-      "views": 11894847,
-      "title": "아빠를 뭉클하게 만든 아들의 한마디",
-      "upload_year": "2026",
-      "channel": "강디오",
-      "duration": 31
-    },
-    {
-      "views": 7233105,
+      "views": 8007649,
       "title": "happiness is so simple#Hangzhousongcheng #Songchengqianguqing",
       "upload_year": "2026",
       "channel": "Thuc Am",
       "duration": 20
     },
     {
-      "views": 6422503,
+      "views": 6920694,
       "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "쑈옷",
       "duration": 58
+    },
+    {
+      "views": 5314656,
+      "title": "30초 만에 끝나버린 포켓몬 카드 거래",
+      "upload_year": "2026",
+      "channel": "대박s쇼츠",
+      "duration": 24
+    },
+    {
+      "views": 4546001,
+      "title": "레고로 만든 해리포터 괴물책의 특별한 기능",
+      "upload_year": "2026",
+      "channel": "먹구리",
+      "duration": 28
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.17,
+    "top1_share": 0.18,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "이유",
+    "미국",
     "외국인",
     "생기는",
-    "만든",
     "이거",
+    "서서",
     "먹는",
-    "선우용여",
     "난리난",
+    "그림",
     "동글",
-    "#Cute",
-    "Little",
-    "Girl",
-    "Meets",
-    "Bronze",
-    "Statue",
+    "방법",
+    "자전거",
+    "진돗개가",
     "매일",
     "양치하듯",
     "스트레칭하면",
     "1년",
     "놀라운",
-    "변화"
+    "변화",
+    "#Hangzhousongcheng"
   ],
   "channel_distribution": [
     {
-      "channel": "StatueZone",
-      "count": 1
-    },
-    {
       "channel": "하루10초",
-      "count": 1
-    },
-    {
-      "channel": "강디오",
       "count": 1
     },
     {
@@ -95,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "쫑알부부",
+      "channel": "먹구리",
       "count": 1
     },
     {
-      "channel": "쩌비",
+      "channel": "리뷰하는 회사원",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "리뷰하는 회사원",
+      "channel": "K-스타 해설소",
+      "count": 1
+    },
+    {
+      "channel": "정앤수",
+      "count": 1
+    },
+    {
+      "channel": "푸담 fudam",
       "count": 1
     }
   ],
