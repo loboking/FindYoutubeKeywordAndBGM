@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, 진짜, 멘붕, #조정석",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 놀란, 진짜, 멘붕, #조정석, 인간",
   "top_videos_summary": [
     {
-      "views": 10867816,
+      "views": 11360325,
       "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 22
     },
     {
-      "views": 8786407,
+      "views": 9918407,
       "title": "예상보다 너무 잘 춰서 놀란 뜻밖의 BAD 챌린지",
       "upload_year": "2026",
       "channel": "제노 플래쉬",
       "duration": 19
     },
     {
-      "views": 8706331,
+      "views": 9240999,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 7385800,
+      "views": 8261382,
       "title": "진짜 마법사보고 진심 멘붕 온 박지원",
       "upload_year": "2026",
       "channel": "오늘도프미나",
       "duration": 56
     },
     {
-      "views": 6697962,
-      "title": "고윤정 젤리 플러팅 직관한 심자윤 ㅋㅋㅋ",
+      "views": 7336282,
+      "title": "노블리스 오블리주를 식당에서 실천하는 익준 #조정석 #김대명 #신현빈",
       "upload_year": "2026",
-      "channel": "미녀 천명 모으기",
-      "duration": 11
+      "channel": "또캐치",
+      "duration": 51
     }
   ],
   "outlier_adjusted": {
@@ -49,16 +49,14 @@
   },
   "trend_keywords": [
     "이유",
-    "생기는",
-    "#shorts",
+    "놀란",
     "진짜",
     "멘붕",
     "#조정석",
-    "이효리",
     "인간",
-    "#예능",
-    "엄마",
-    "모두가",
+    "날리는",
+    "오열한",
+    "사람은",
     "무대",
     "도중",
     "카메라맨과",
@@ -67,7 +65,9 @@
     "'장원영'이",
     "행동",
     "예상보다",
-    "너무"
+    "너무",
+    "춰서",
+    "뜻밖의"
   ],
   "channel_distribution": [
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "미녀 천명 모으기",
+      "channel": "또캐치",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
-      "count": 1
-    },
-    {
       "channel": "혹이슈",
       "count": 1
     },
     {
-      "channel": "또캐치",
+      "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "예뻐",
+      "channel": "프피의 삶 INFP's Daily",
+      "count": 1
+    },
+    {
+      "channel": "랭킹zip",
       "count": 1
     }
   ],
