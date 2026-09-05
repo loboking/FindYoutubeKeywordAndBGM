@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, #신병, 애드립, 생기는, 신입이",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #신병, 다시, 들어, 신입이, 이유, #군대",
   "top_videos_summary": [
     {
-      "views": 8706332,
+      "views": 9241610,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 7378935,
-      "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 177
-    },
-    {
-      "views": 6999819,
+      "views": 8791264,
       "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
       "upload_year": "2026",
       "channel": "부부의 세계",
       "duration": 41
     },
     {
-      "views": 6489814,
+      "views": 7810453,
+      "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 177
+    },
+    {
+      "views": 7167061,
       "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
       "upload_year": "2026",
       "channel": "좋좋",
       "duration": 59
     },
     {
-      "views": 6346312,
-      "title": "말년 병장 최일구의 뼈를 때리는 조언 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "views": 6648325,
+      "title": "같이 들어 온 신입이 같은 신입이 아니라는 이유",
       "upload_year": "2026",
-      "channel": "다시볼티비",
-      "duration": 54
+      "channel": "숏라마",
+      "duration": 79
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "#스케치코미디",
     "#신병",
-    "애드립",
-    "생기는",
+    "다시",
+    "들어",
     "신입이",
+    "이유",
+    "#군대",
     "이효리",
     "유재석",
-    "아빠",
     "만든",
-    "좋은",
+    "#쇼츠",
     "놀란",
-    "진짜",
+    "뜻밖의",
+    "#스케치코미디",
+    "#웃긴영상",
+    "#신병3",
+    "#시니어드라마",
+    "역대급",
     "홍수",
     "막아주는",
-    "모래",
-    "주머니",
-    "세상에",
-    "베푼",
-    "친절은"
+    "모래"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
+      "channel": "부부의 세계",
       "count": 1
     },
     {
-      "channel": "부부의 세계",
+      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -87,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
+      "channel": "숏라마",
       "count": 1
     },
     {
-      "channel": "예뻐",
+      "channel": "다시볼티비",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "숏라마",
-      "count": 1
-    },
-    {
-      "channel": "빡빡이횽",
-      "count": 1
-    },
-    {
       "channel": "MOO MIX 무믹스",
+      "count": 1
+    },
+    {
+      "channel": "예능부장",
+      "count": 1
+    },
+    {
+      "channel": "예능전설",
       "count": 1
     }
   ],
