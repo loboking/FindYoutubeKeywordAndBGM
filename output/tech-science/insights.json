@@ -3,77 +3,73 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 갤럭시, 아이폰, 쓰는, 이유, 요즘, 컴퓨터",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 갤럭시, 컴퓨터, 아이폰, 이유, 요즘, 근황",
   "top_videos_summary": [
     {
-      "views": 14158788,
-      "title": "삼성전자 사무직이 매일 쓰는 숫자패드로 다양한 MS워드 신공 #컴퓨터 #컴퓨터팁",
-      "upload_year": "2026",
-      "channel": "책상 위 빌런",
-      "duration": 18
-    },
-    {
-      "views": 9243875,
+      "views": 10417984,
       "title": "Humanoid Robot Unboxing 🤖",
       "upload_year": "2026",
       "channel": "İncelemedeyim",
       "duration": 32
     },
     {
-      "views": 6775245,
+      "views": 6870666,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 3517805,
+      "views": 3609420,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 3209316,
+      "views": 3288965,
       "title": "갤럭시가 아이폰을 못이기는이유",
       "upload_year": "2026",
       "channel": "웃긴협회",
       "duration": 14
+    },
+    {
+      "views": 2830833,
+      "title": "북한에서 실제로 사용된 핸드폰을 발견했습니다.",
+      "upload_year": "2026",
+      "channel": "해외여행이슈",
+      "duration": 58
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.2,
+    "top1_share": 0.18,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "갤럭시",
+    "컴퓨터",
     "아이폰",
-    "쓰는",
     "이유",
     "요즘",
-    "컴퓨터",
     "근황",
+    "쓰는",
+    "폴드8",
     "진짜",
     "난리난",
+    "액정",
     "카메라",
-    "방법",
     "비밀번호",
     "절대",
     "삼성",
-    "폴드8",
     "비밀",
+    "기능",
     "결과",
     "휴대폰",
-    "#컴퓨터",
-    "#컴퓨터팁"
+    "Humanoid"
   ],
   "channel_distribution": [
-    {
-      "channel": "책상 위 빌런",
-      "count": 1
-    },
     {
       "channel": "İncelemedeyim",
       "count": 1
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "국밥먹던도령",
-      "count": 1
-    },
-    {
       "channel": "JASON MEDIA",
       "count": 1
     },
     {
       "channel": "콩만이",
+      "count": 1
+    },
+    {
+      "channel": "김블루",
+      "count": 1
+    },
+    {
+      "channel": "원정상",
       "count": 1
     }
   ],
