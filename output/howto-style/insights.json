@@ -3,79 +3,75 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 이유, 미국, 외국인, 생기는, 이거, 서서",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 반응, 이유, 서서, 먹는, 없다, 미국",
   "top_videos_summary": [
     {
-      "views": 19571461,
-      "title": "매일 양치하듯 스트레칭하면 1년 뒤 생기는 놀라운 변화 🧘‍♀️✨",
+      "views": 32977656,
+      "title": "She Can’t Believe the Statue Is Alive! 😱 #Cute",
       "upload_year": "2026",
-      "channel": "하루10초",
-      "duration": 22
+      "channel": "StatueZone 2.0",
+      "duration": 16
     },
     {
-      "views": 8007649,
-      "title": "happiness is so simple#Hangzhousongcheng #Songchengqianguqing",
-      "upload_year": "2026",
-      "channel": "Thuc Am",
-      "duration": 20
-    },
-    {
-      "views": 6920694,
+      "views": 7115477,
       "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "쑈옷",
       "duration": 58
     },
     {
-      "views": 5314656,
+      "views": 5405526,
       "title": "30초 만에 끝나버린 포켓몬 카드 거래",
       "upload_year": "2026",
       "channel": "대박s쇼츠",
       "duration": 24
     },
     {
-      "views": 4546001,
+      "views": 5158719,
       "title": "레고로 만든 해리포터 괴물책의 특별한 기능",
       "upload_year": "2026",
       "channel": "먹구리",
       "duration": 28
+    },
+    {
+      "views": 4036638,
+      "title": "일본에서 온 밥도둑",
+      "upload_year": "2026",
+      "channel": "리뷰하는 회사원",
+      "duration": 48
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.18,
+    "top1_share": 0.29,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "반응",
     "이유",
-    "미국",
-    "외국인",
-    "생기는",
-    "이거",
     "서서",
     "먹는",
-    "난리난",
-    "그림",
-    "동글",
+    "없다",
+    "미국",
     "방법",
-    "자전거",
-    "진돗개가",
-    "매일",
-    "양치하듯",
-    "스트레칭하면",
-    "1년",
-    "놀라운",
-    "변화",
-    "#Hangzhousongcheng"
+    "외국인",
+    "만드는",
+    "없다는",
+    "#Cute",
+    "She",
+    "Can’t",
+    "Believe",
+    "the",
+    "Statue",
+    "Is",
+    "Alive",
+    "구독자",
+    "1명"
   ],
   "channel_distribution": [
     {
-      "channel": "하루10초",
-      "count": 1
-    },
-    {
-      "channel": "Thuc Am",
+      "channel": "StatueZone 2.0",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "별난극장",
-      "count": 1
-    },
-    {
       "channel": "K-스타 해설소",
       "count": 1
     },
     {
-      "channel": "정앤수",
+      "channel": "별난극장",
+      "count": 1
+    },
+    {
+      "channel": "엔조이커플enjoycouple",
       "count": 1
     },
     {
       "channel": "푸담 fudam",
+      "count": 1
+    },
+    {
+      "channel": "드라마shorts",
       "count": 1
     }
   ],
