@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #신병, 다시, 들어, 신입이, 이유, #군대",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #신병, 유재석, #스케치코미디, 다시, 들어",
   "top_videos_summary": [
     {
-      "views": 9241610,
-      "title": "홍수 막아주는 모래 주머니?!",
-      "upload_year": "2026",
-      "channel": "해외쇼쇼",
-      "duration": 51
-    },
-    {
-      "views": 8791264,
+      "views": 10048485,
       "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
       "upload_year": "2026",
       "channel": "부부의 세계",
       "duration": 41
     },
     {
-      "views": 7810453,
+      "views": 9718188,
+      "title": "홍수 막아주는 모래 주머니?!",
+      "upload_year": "2026",
+      "channel": "해외쇼쇼",
+      "duration": 51
+    },
+    {
+      "views": 7888558,
       "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 177
     },
     {
-      "views": 7167061,
-      "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
-      "upload_year": "2026",
-      "channel": "좋좋",
-      "duration": 59
-    },
-    {
-      "views": 6648325,
+      "views": 7592597,
       "title": "같이 들어 온 신입이 같은 신입이 아니라는 이유",
       "upload_year": "2026",
       "channel": "숏라마",
       "duration": 79
+    },
+    {
+      "views": 7571559,
+      "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
+      "upload_year": "2026",
+      "channel": "좋좋",
+      "duration": 59
     }
   ],
   "outlier_adjusted": {
@@ -48,34 +48,34 @@
     "note": ""
   },
   "trend_keywords": [
+    "이유",
     "#신병",
+    "유재석",
+    "#스케치코미디",
     "다시",
     "들어",
     "신입이",
-    "이유",
     "#군대",
     "이효리",
-    "유재석",
+    "생기는",
     "만든",
-    "#쇼츠",
-    "놀란",
-    "뜻밖의",
-    "#스케치코미디",
+    "좋은",
     "#웃긴영상",
+    "#예능",
     "#신병3",
     "#시니어드라마",
+    "질문에",
+    "이수근이",
     "역대급",
-    "홍수",
-    "막아주는",
-    "모래"
+    "#장윤정"
   ],
   "channel_distribution": [
     {
-      "channel": "해외쇼쇼",
+      "channel": "부부의 세계",
       "count": 1
     },
     {
-      "channel": "부부의 세계",
+      "channel": "해외쇼쇼",
       "count": 1
     },
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "좋좋",
+      "channel": "숏라마",
       "count": 1
     },
     {
-      "channel": "숏라마",
+      "channel": "좋좋",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
       "channel": "MOO MIX 무믹스",
       "count": 1
     },
     {
-      "channel": "예능부장",
+      "channel": "봐방봐방",
       "count": 1
     },
     {
-      "channel": "예능전설",
+      "channel": "뭅토리",
+      "count": 1
+    },
+    {
+      "channel": "예능부장",
       "count": 1
     }
   ],
