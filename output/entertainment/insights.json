@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 놀란, 진짜, 멘붕, #조정석, 인간",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 놀란, 멘붕, 누가, #조정석, 사람은",
   "top_videos_summary": [
     {
-      "views": 11360325,
+      "views": 11438313,
       "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 22
     },
     {
-      "views": 9918407,
+      "views": 10390367,
       "title": "예상보다 너무 잘 춰서 놀란 뜻밖의 BAD 챌린지",
       "upload_year": "2026",
       "channel": "제노 플래쉬",
       "duration": 19
     },
     {
-      "views": 9240999,
+      "views": 9717055,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 8261382,
+      "views": 9022090,
       "title": "진짜 마법사보고 진심 멘붕 온 박지원",
       "upload_year": "2026",
       "channel": "오늘도프미나",
       "duration": 56
     },
     {
-      "views": 7336282,
-      "title": "노블리스 오블리주를 식당에서 실천하는 익준 #조정석 #김대명 #신현빈",
+      "views": 8267774,
+      "title": "인간 vs 차단봉 과연 누가 이길까?",
       "upload_year": "2026",
-      "channel": "또캐치",
-      "duration": 51
+      "channel": "프피의 삶 INFP's Daily",
+      "duration": 25
     }
   ],
   "outlier_adjusted": {
@@ -50,13 +50,11 @@
   "trend_keywords": [
     "이유",
     "놀란",
-    "진짜",
     "멘붕",
+    "누가",
     "#조정석",
-    "인간",
-    "날리는",
-    "오열한",
     "사람은",
+    "#shorts",
     "무대",
     "도중",
     "카메라맨과",
@@ -67,7 +65,9 @@
     "예상보다",
     "너무",
     "춰서",
-    "뜻밖의"
+    "뜻밖의",
+    "BAD",
+    "챌린지"
   ],
   "channel_distribution": [
     {
@@ -87,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "프피의 삶 INFP's Daily",
+      "count": 1
+    },
+    {
       "channel": "또캐치",
       "count": 1
     },
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": "혹이슈",
+      "channel": "MOO MIX 무믹스",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "봐방봐방",
       "count": 1
     },
     {
-      "channel": "프피의 삶 INFP's Daily",
-      "count": 1
-    },
-    {
-      "channel": "랭킹zip",
+      "channel": "눈물한가득",
       "count": 1
     }
   ],
