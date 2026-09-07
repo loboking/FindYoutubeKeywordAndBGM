@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 놀란, 멘붕, 누가, #조정석, 사람은",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 놀란, 멘붕, 누가, 생기는, 강형욱",
   "top_videos_summary": [
     {
-      "views": 11438313,
+      "views": 11510417,
       "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 22
     },
     {
-      "views": 10390367,
+      "views": 10597631,
       "title": "예상보다 너무 잘 춰서 놀란 뜻밖의 BAD 챌린지",
       "upload_year": "2026",
       "channel": "제노 플래쉬",
       "duration": 19
     },
     {
-      "views": 9717055,
+      "views": 9856829,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 9022090,
+      "views": 9377164,
       "title": "진짜 마법사보고 진심 멘붕 온 박지원",
       "upload_year": "2026",
       "channel": "오늘도프미나",
       "duration": 56
     },
     {
-      "views": 8267774,
+      "views": 9268716,
       "title": "인간 vs 차단봉 과연 누가 이길까?",
       "upload_year": "2026",
       "channel": "프피의 삶 INFP's Daily",
@@ -52,8 +52,8 @@
     "놀란",
     "멘붕",
     "누가",
-    "#조정석",
-    "사람은",
+    "생기는",
+    "강형욱",
     "#shorts",
     "무대",
     "도중",
@@ -91,15 +91,7 @@
       "count": 1
     },
     {
-      "channel": "또캐치",
-      "count": 1
-    },
-    {
       "channel": "좋좋",
-      "count": 1
-    },
-    {
-      "channel": "MOO MIX 무믹스",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
       "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "톡쏘능",
       "count": 1
     }
   ],
