@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 유재석, #스케치코미디, 최후, 좋은, #신병",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 유재석, #시니어드라마, 생기는, #조정석, #신병",
   "top_videos_summary": [
     {
-      "views": 6819265,
-      "title": "고윤정 젤리 플러팅 직관한 심자윤 ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "미녀 천명 모으기",
-      "duration": 11
-    },
-    {
-      "views": 5659406,
-      "title": "순수 체급으로 깽판치는 이효리 유재석 콤비",
-      "upload_year": "2026",
-      "channel": "MOO MIX 무믹스",
-      "duration": 53
-    },
-    {
-      "views": 5393164,
+      "views": 6379205,
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
       "upload_year": "2026",
       "channel": "봐방봐방",
       "duration": 57
     },
     {
-      "views": 5125221,
+      "views": 6284754,
+      "title": "씨름부 회식의 실체",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 59
+    },
+    {
+      "views": 5769993,
+      "title": "순수 체급으로 깽판치는 이효리 유재석 콤비",
+      "upload_year": "2026",
+      "channel": "MOO MIX 무믹스",
+      "duration": 53
+    },
+    {
+      "views": 5657295,
       "title": "모두가 무시했지만 혼자서 75명을 구한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 154
     },
     {
-      "views": 5111033,
-      "title": "40넘어 칼국수 먹다 5세처럼 싸운 이유? #슬의생",
+      "views": 5442844,
+      "title": "싸이코패스가 현직 깡패를 만나면",
       "upload_year": "2026",
-      "channel": "컷모아",
-      "duration": 48
+      "channel": "뭅토리",
+      "duration": 107
     }
   ],
   "outlier_adjusted": {
@@ -50,52 +50,28 @@
   "trend_keywords": [
     "이유",
     "유재석",
-    "#스케치코미디",
-    "최후",
-    "좋은",
-    "#신병",
-    "과거",
     "#시니어드라마",
-    "고윤정",
-    "젤리",
-    "플러팅",
-    "직관한",
-    "심자윤",
-    "순수",
-    "체급으로",
-    "깽판치는",
-    "이효리",
-    "콤비",
+    "생기는",
+    "#조정석",
+    "#신병",
+    "최후",
+    "들어간",
+    "과거",
+    "#반전드라마",
+    "#shorts",
+    "#스케치코미디",
+    "역대급",
+    "때문에",
+    "#숏드라마",
+    "알바",
     "개그",
-    "소품을"
+    "소품을",
+    "찐으로",
+    "바꾸면"
   ],
   "channel_distribution": [
     {
-      "channel": "미녀 천명 모으기",
-      "count": 1
-    },
-    {
-      "channel": "MOO MIX 무믹스",
-      "count": 1
-    },
-    {
       "channel": "봐방봐방",
-      "count": 1
-    },
-    {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "컷모아",
-      "count": 1
-    },
-    {
-      "channel": "뭅토리",
-      "count": 1
-    },
-    {
-      "channel": "예능부장",
       "count": 1
     },
     {
@@ -103,11 +79,35 @@
       "count": 1
     },
     {
-      "channel": "영상한모금",
+      "channel": "MOO MIX 무믹스",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "뭅토리",
+      "count": 1
+    },
+    {
+      "channel": "컷모아",
+      "count": 1
+    },
+    {
+      "channel": "수박스",
       "count": 1
     },
     {
       "channel": "야르시대",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "명화관",
       "count": 1
     }
   ],
