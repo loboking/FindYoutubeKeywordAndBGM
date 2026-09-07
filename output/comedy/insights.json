@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #신병, 유재석, #스케치코미디, 다시, 들어",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #스케치코미디, #신병, 유재석, #시니어드라마, 알바, 다시",
   "top_videos_summary": [
     {
-      "views": 10048485,
+      "views": 10669544,
       "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
       "upload_year": "2026",
       "channel": "부부의 세계",
       "duration": 41
     },
     {
-      "views": 9718188,
+      "views": 9856859,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 7888558,
+      "views": 8148691,
       "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 177
     },
     {
-      "views": 7592597,
+      "views": 8013551,
       "title": "같이 들어 온 신입이 같은 신입이 아니라는 이유",
       "upload_year": "2026",
       "channel": "숏라마",
       "duration": 79
     },
     {
-      "views": 7571559,
+      "views": 7781060,
       "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
       "upload_year": "2026",
       "channel": "좋좋",
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
+    "#스케치코미디",
     "#신병",
     "유재석",
-    "#스케치코미디",
+    "#시니어드라마",
+    "알바",
     "다시",
     "들어",
     "신입이",
+    "이유",
+    "받고",
+    "지예은",
     "#군대",
-    "이효리",
     "생기는",
-    "만든",
-    "좋은",
-    "#웃긴영상",
-    "#예능",
     "#신병3",
-    "#시니어드라마",
     "질문에",
     "이수근이",
+    "#반전드라마",
+    "#예능",
     "역대급",
-    "#장윤정"
+    "때문에"
   ],
   "channel_distribution": [
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "MOO MIX 무믹스",
-      "count": 1
-    },
-    {
       "channel": "봐방봐방",
       "count": 1
     },
     {
-      "channel": "뭅토리",
+      "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "예능부장",
+      "channel": "MOO MIX 무믹스",
+      "count": 1
+    },
+    {
+      "channel": "수박스",
       "count": 1
     }
   ],
