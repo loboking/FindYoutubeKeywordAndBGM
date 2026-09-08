@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 놀란, 멘붕, 누가, 생기는, 강형욱",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #반전드라마, 진짜, 멘붕, 강형욱",
   "top_videos_summary": [
     {
-      "views": 11510417,
+      "views": 11627615,
       "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 22
     },
     {
-      "views": 10597631,
+      "views": 10647055,
       "title": "예상보다 너무 잘 춰서 놀란 뜻밖의 BAD 챌린지",
       "upload_year": "2026",
       "channel": "제노 플래쉬",
       "duration": 19
     },
     {
-      "views": 9856829,
+      "views": 10044584,
+      "title": "인간 vs 차단봉 과연 누가 이길까?",
+      "upload_year": "2026",
+      "channel": "프피의 삶 INFP's Daily",
+      "duration": 25
+    },
+    {
+      "views": 10029482,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 9377164,
+      "views": 9532315,
       "title": "진짜 마법사보고 진심 멘붕 온 박지원",
       "upload_year": "2026",
       "channel": "오늘도프미나",
       "duration": 56
-    },
-    {
-      "views": 9268716,
-      "title": "인간 vs 차단봉 과연 누가 이길까?",
-      "upload_year": "2026",
-      "channel": "프피의 삶 INFP's Daily",
-      "duration": 25
     }
   ],
   "outlier_adjusted": {
@@ -49,12 +49,16 @@
   },
   "trend_keywords": [
     "이유",
-    "놀란",
-    "멘붕",
-    "누가",
     "생기는",
+    "#반전드라마",
+    "진짜",
+    "멘붕",
     "강형욱",
-    "#shorts",
+    "때문에",
+    "#유연석",
+    "#조정석",
+    "30년",
+    "#시니어드라마",
     "무대",
     "도중",
     "카메라맨과",
@@ -63,11 +67,7 @@
     "'장원영'이",
     "행동",
     "예상보다",
-    "너무",
-    "춰서",
-    "뜻밖의",
-    "BAD",
-    "챌린지"
+    "너무"
   ],
   "channel_distribution": [
     {
@@ -79,15 +79,15 @@
       "count": 1
     },
     {
+      "channel": "프피의 삶 INFP's Daily",
+      "count": 1
+    },
+    {
       "channel": "해외쇼쇼",
       "count": 1
     },
     {
       "channel": "오늘도프미나",
-      "count": 1
-    },
-    {
-      "channel": "프피의 삶 INFP's Daily",
       "count": 1
     },
     {
@@ -99,7 +99,7 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "톡쏘능",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "톡쏘능",
+      "channel": "와 여러분",
       "count": 1
     }
   ],
