@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #스케치코미디, #신병, 유재석, #시니어드라마, 알바, 다시",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, #신병, 유재석, #스케치코미디, #반전드라마",
   "top_videos_summary": [
     {
-      "views": 10669544,
+      "views": 11100624,
       "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
       "upload_year": "2026",
       "channel": "부부의 세계",
       "duration": 41
     },
     {
-      "views": 9856859,
+      "views": 10029482,
       "title": "홍수 막아주는 모래 주머니?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 51
     },
     {
-      "views": 8148691,
+      "views": 8637630,
       "title": "세상에 베푼 친절은 언젠가 다시 되돌아온다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 177
     },
     {
-      "views": 8013551,
+      "views": 8455761,
       "title": "같이 들어 온 신입이 같은 신입이 아니라는 이유",
       "upload_year": "2026",
       "channel": "숏라마",
       "duration": 79
     },
     {
-      "views": 7781060,
+      "views": 7949235,
       "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
       "upload_year": "2026",
       "channel": "좋좋",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#스케치코미디",
+    "생기는",
+    "이유",
     "#신병",
     "유재석",
-    "#시니어드라마",
-    "알바",
-    "다시",
+    "#스케치코미디",
+    "#반전드라마",
     "들어",
     "신입이",
-    "이유",
     "받고",
     "지예은",
     "#군대",
-    "생기는",
     "#신병3",
-    "질문에",
     "이수근이",
-    "#반전드라마",
-    "#예능",
-    "역대급",
-    "때문에"
+    "대답",
+    "#유재석",
+    "때문에",
+    "알바",
+    "30년",
+    "#시니어드라마",
+    "못한"
   ],
   "channel_distribution": [
     {
@@ -91,15 +91,15 @@
       "count": 1
     },
     {
-      "channel": "다시볼티비",
-      "count": 1
-    },
-    {
       "channel": "봐방봐방",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "뭅토리",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "수박스",
+      "channel": "옥상평상",
       "count": 1
     }
   ],
