@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 유재석, #시니어드라마, 생기는, #조정석, #신병",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #스케치코미디, #반전드라마, #신병, 최후",
   "top_videos_summary": [
     {
-      "views": 6379205,
+      "views": 7319080,
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
       "upload_year": "2026",
       "channel": "봐방봐방",
       "duration": 57
     },
     {
-      "views": 6284754,
-      "title": "씨름부 회식의 실체",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 59
-    },
-    {
-      "views": 5769993,
-      "title": "순수 체급으로 깽판치는 이효리 유재석 콤비",
-      "upload_year": "2026",
-      "channel": "MOO MIX 무믹스",
-      "duration": 53
-    },
-    {
-      "views": 5657295,
+      "views": 6272252,
       "title": "모두가 무시했지만 혼자서 75명을 구한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 154
     },
     {
-      "views": 5442844,
+      "views": 6042817,
       "title": "싸이코패스가 현직 깡패를 만나면",
       "upload_year": "2026",
       "channel": "뭅토리",
       "duration": 107
+    },
+    {
+      "views": 5155042,
+      "title": "친절 베푸는 걸 아끼면 안 되는 이유",
+      "upload_year": "2026",
+      "channel": "명화관",
+      "duration": 112
+    },
+    {
+      "views": 4967568,
+      "title": "지금은 불가능한 코빅 수위 수준.",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 74
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "유재석",
-    "#시니어드라마",
     "생기는",
-    "#조정석",
+    "#스케치코미디",
+    "#반전드라마",
     "#신병",
     "최후",
     "들어간",
+    "#신병4",
     "과거",
-    "#반전드라마",
     "#shorts",
-    "#스케치코미디",
-    "역대급",
     "때문에",
     "#숏드라마",
     "알바",
+    "30년",
+    "#시니어드라마",
     "개그",
     "소품을",
     "찐으로",
-    "바꾸면"
+    "바꾸면",
+    "모두가"
   ],
   "channel_distribution": [
     {
@@ -75,14 +75,6 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "MOO MIX 무믹스",
-      "count": 1
-    },
-    {
       "channel": "눈물한가득",
       "count": 1
     },
@@ -91,15 +83,7 @@
       "count": 1
     },
     {
-      "channel": "컷모아",
-      "count": 1
-    },
-    {
-      "channel": "수박스",
-      "count": 1
-    },
-    {
-      "channel": "야르시대",
+      "channel": "명화관",
       "count": 1
     },
     {
@@ -107,7 +91,23 @@
       "count": 1
     },
     {
-      "channel": "명화관",
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "야르시대",
+      "count": 1
+    },
+    {
+      "channel": "다시볼티비",
+      "count": 1
+    },
+    {
+      "channel": "엔터박스",
+      "count": 1
+    },
+    {
+      "channel": "B하인드S토리",
       "count": 1
     }
   ],
