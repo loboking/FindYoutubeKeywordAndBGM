@@ -3,77 +3,73 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 반응, 이유, 서서, 먹는, 없다, 미국",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 서서, 없다, 미국, 만드는, 방법",
   "top_videos_summary": [
     {
-      "views": 34816735,
-      "title": "She Can’t Believe the Statue Is Alive! 😱 #Cute",
-      "upload_year": "2026",
-      "channel": "StatueZone 2.0",
-      "duration": 16
-    },
-    {
-      "views": 7230593,
+      "views": 7338694,
       "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "쑈옷",
       "duration": 58
     },
     {
-      "views": 5341590,
+      "views": 5558373,
       "title": "레고로 만든 해리포터 괴물책의 특별한 기능",
       "upload_year": "2026",
       "channel": "먹구리",
       "duration": 28
     },
     {
-      "views": 4197358,
+      "views": 4285584,
       "title": "일본에서 온 밥도둑",
       "upload_year": "2026",
       "channel": "리뷰하는 회사원",
       "duration": 48
     },
     {
-      "views": 4117256,
+      "views": 4236268,
       "title": "“내가 없으면 극도로 불안해한다” 태진아 결국 행사까지 줄인 이유#태진아 #옥경이 #트로트대부 #치매간병 #부부사랑 #눈물사연 #트로트 #shorts",
       "upload_year": "2026",
       "channel": "K-스타 해설소",
       "duration": 65
+    },
+    {
+      "views": 3917709,
+      "title": "눈치 빠른 꼬맹이 #아기 #baby #엔조이커플 #enjoycouple #강단남매",
+      "upload_year": "2026",
+      "channel": "엔조이커플enjoycouple",
+      "duration": 24
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.29,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "반응",
-    "이유",
+    "#shorts",
     "서서",
-    "먹는",
     "없다",
     "미국",
     "만드는",
     "방법",
+    "반응",
     "매듭법",
-    "#Cute",
-    "She",
-    "Can’t",
-    "Believe",
-    "the",
-    "Statue",
-    "Is",
-    "Alive",
+    "생기는",
+    "먹던",
+    "아빠",
+    "고추전",
+    "과일",
     "구독자",
     "1명",
-    "레고"
+    "레고",
+    "1개",
+    "방에",
+    "붙임",
+    "레고로"
   ],
   "channel_distribution": [
-    {
-      "channel": "StatueZone 2.0",
-      "count": 1
-    },
     {
       "channel": "쑈옷",
       "count": 1
@@ -88,10 +84,6 @@
     },
     {
       "channel": "K-스타 해설소",
-      "count": 1
-    },
-    {
-      "channel": "별난극장",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "드라마shorts",
+      "channel": "햅독 HAPDOG",
       "count": 1
     },
     {
       "channel": "아아한잔",
+      "count": 1
+    },
+    {
+      "channel": "봐쓩",
+      "count": 1
+    },
+    {
+      "channel": "순풍 선우용여",
       "count": 1
     }
   ],
