@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 갤럭시, 컴퓨터, 폴드8, 이유, 요즘, 아이폰",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 갤럭시, 이유, 컴퓨터, 폴드8, 요즘, 아이폰",
   "top_videos_summary": [
     {
-      "views": 11052414,
+      "views": 11194580,
       "title": "Humanoid Robot Unboxing 🤖",
       "upload_year": "2026",
       "channel": "İncelemedeyim",
       "duration": 32
     },
     {
-      "views": 6899136,
+      "views": 6917584,
       "title": "모기를 얼마나 싫어하는 감도 안오네",
       "upload_year": "2026",
       "channel": "이거진짜예요?",
       "duration": 15
     },
     {
-      "views": 3667411,
+      "views": 3719003,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 3326078,
+      "views": 3354053,
       "title": "갤럭시가 아이폰을 못이기는이유",
       "upload_year": "2026",
       "channel": "웃긴협회",
       "duration": 14
     },
     {
-      "views": 2848436,
+      "views": 2855921,
       "title": "북한에서 실제로 사용된 핸드폰을 발견했습니다.",
       "upload_year": "2026",
       "channel": "해외여행이슈",
@@ -43,15 +43,15 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.19,
+    "top1_share": 0.18,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "갤럭시",
+    "이유",
     "컴퓨터",
     "폴드8",
-    "이유",
     "요즘",
     "아이폰",
     "근황",
@@ -60,14 +60,14 @@
     "액정",
     "카메라",
     "비밀번호",
+    "뭔가",
     "절대",
-    "삼성",
     "기능",
+    "삼성",
+    "눌림",
     "쓰는",
     "비밀",
-    "결과",
-    "눌림",
-    "진짜"
+    "결과"
   ],
   "channel_distribution": [
     {
@@ -95,11 +95,11 @@
       "count": 1
     },
     {
-      "channel": "JASON MEDIA",
+      "channel": "콩만이",
       "count": 1
     },
     {
-      "channel": "콩만이",
+      "channel": "JASON MEDIA",
       "count": 1
     },
     {
