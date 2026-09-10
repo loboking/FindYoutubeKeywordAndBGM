@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 진짜, 강형욱, 때문에, #shorts",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 진짜, 생기는, #shorts, 때문에, 방법",
   "top_videos_summary": [
     {
-      "views": 11672908,
+      "views": 11692560,
       "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
       "upload_year": "2026",
       "channel": "아이돌탐정",
       "duration": 22
     },
     {
-      "views": 10541526,
+      "views": 10944338,
       "title": "인간 vs 차단봉 과연 누가 이길까?",
       "upload_year": "2026",
       "channel": "프피의 삶 INFP's Daily",
       "duration": 25
     },
     {
-      "views": 9591469,
-      "title": "진짜 마법사보고 진심 멘붕 온 박지원",
-      "upload_year": "2026",
-      "channel": "오늘도프미나",
-      "duration": 56
-    },
-    {
-      "views": 8194716,
+      "views": 10010118,
       "title": "몽골에서 말 타던 수현이 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
       "upload_year": "2026",
       "channel": "와 여러분",
       "duration": 29
     },
     {
-      "views": 7830481,
+      "views": 9643946,
+      "title": "진짜 마법사보고 진심 멘붕 온 박지원",
+      "upload_year": "2026",
+      "channel": "오늘도프미나",
+      "duration": 56
+    },
+    {
+      "views": 8153439,
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
       "upload_year": "2026",
       "channel": "봐방봐방",
@@ -49,14 +49,15 @@
   },
   "trend_keywords": [
     "이유",
-    "생기는",
     "진짜",
-    "강형욱",
-    "때문에",
+    "생기는",
     "#shorts",
-    "#조정석",
-    "#신병4",
+    "때문에",
     "방법",
+    "#신병4",
+    "#조정석",
+    "개빡친",
+    "최후",
     "무대",
     "도중",
     "카메라맨과",
@@ -66,8 +67,7 @@
     "행동",
     "인간",
     "vs",
-    "차단봉",
-    "과연"
+    "차단봉"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "오늘도프미나",
+      "channel": "와 여러분",
       "count": 1
     },
     {
-      "channel": "와 여러분",
+      "channel": "오늘도프미나",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "미소주쥐 | 재미 감동 한가득",
       "count": 1
     },
     {
-      "channel": "미소주쥐 | 재미 감동 한가득",
+      "channel": "케슛슛",
       "count": 1
     }
   ],
