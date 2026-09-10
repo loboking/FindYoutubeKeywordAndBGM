@@ -3,99 +3,79 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 갤럭시, 폴드8, 이유, 요즘, 아이폰, 컴퓨터",
+  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 아이폰, 듀오, 이유, 갤럭시, 애플, 컴퓨터",
   "top_videos_summary": [
     {
-      "views": 11290997,
-      "title": "Humanoid Robot Unboxing 🤖",
-      "upload_year": "2026",
-      "channel": "İncelemedeyim",
-      "duration": 32
-    },
-    {
-      "views": 6930610,
-      "title": "모기를 얼마나 싫어하는 감도 안오네",
-      "upload_year": "2026",
-      "channel": "이거진짜예요?",
-      "duration": 15
-    },
-    {
-      "views": 3769621,
+      "views": 3807529,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 3385100,
-      "title": "갤럭시가 아이폰을 못이기는이유",
+      "views": 2638920,
+      "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
-      "channel": "웃긴협회",
-      "duration": 14
+      "channel": "숏플래시",
+      "duration": 13
     },
     {
-      "views": 2095924,
-      "title": "요즘 난리난 투명 액정 카메라? 찍어보니 사진이 ㄷㄷ",
+      "views": 1988690,
+      "title": "동생 컴퓨터 비밀번호 자릿수 ㄷㄷ",
       "upload_year": "2026",
-      "channel": "리뷰야놀자",
-      "duration": 75
+      "channel": "JASON MEDIA",
+      "duration": 27
+    },
+    {
+      "views": 1863577,
+      "title": "마우스를 샀는데 뭔가 이상하다",
+      "upload_year": "2026",
+      "channel": "원정상",
+      "duration": 13
+    },
+    {
+      "views": 1692979,
+      "title": "요즘 폰 사자마자 국룰ㄷㄷ(이건 절대 하지마세요)",
+      "upload_year": "2026",
+      "channel": "1분미만",
+      "duration": 43
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.2,
+    "top1_share": 0.12,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "갤럭시",
-    "폴드8",
-    "이유",
-    "요즘",
     "아이폰",
+    "듀오",
+    "이유",
+    "갤럭시",
+    "애플",
     "컴퓨터",
-    "근황",
-    "눌림",
-    "이슈",
-    "난리난",
-    "액정",
-    "카메라",
+    "요즘",
+    "#shorts",
     "기능",
-    "비밀번호",
-    "뭔가",
-    "삼성",
-    "비밀",
-    "모서리",
-    "발생",
-    "결과"
+    "이건",
+    "폴드8",
+    "실물",
+    "쓰는",
+    "'아이폰",
+    "듀오'",
+    "GS25",
+    "예약해야하는",
+    "유저끼리",
+    "모이면",
+    "무조건"
   ],
   "channel_distribution": [
-    {
-      "channel": "İncelemedeyim",
-      "count": 1
-    },
-    {
-      "channel": "이거진짜예요?",
-      "count": 1
-    },
     {
       "channel": "과식이",
       "count": 1
     },
     {
-      "channel": "웃긴협회",
-      "count": 1
-    },
-    {
-      "channel": "리뷰야놀자",
-      "count": 1
-    },
-    {
       "channel": "숏플래시",
-      "count": 1
-    },
-    {
-      "channel": "콩만이",
       "count": 1
     },
     {
@@ -108,6 +88,26 @@
     },
     {
       "channel": "1분미만",
+      "count": 1
+    },
+    {
+      "channel": "평양냉면",
+      "count": 1
+    },
+    {
+      "channel": "짧주",
+      "count": 1
+    },
+    {
+      "channel": "가전주부",
+      "count": 1
+    },
+    {
+      "channel": "ITSub잇섭",
+      "count": 1
+    },
+    {
+      "channel": "꽉TV",
       "count": 1
     }
   ],
