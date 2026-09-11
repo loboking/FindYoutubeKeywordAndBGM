@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, #신병4, #시니어드라마, #반전드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #신병4, #shorts, 때문에, 진짜",
   "top_videos_summary": [
     {
-      "views": 8153439,
+      "views": 8307485,
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
       "upload_year": "2026",
       "channel": "봐방봐방",
       "duration": 57
     },
     {
-      "views": 7046452,
-      "title": "모두가 무시했지만 혼자서 75명을 구한 남자",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 154
-    },
-    {
-      "views": 6369575,
-      "title": "친절 베푸는 걸 아끼면 안 되는 이유",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 112
-    },
-    {
-      "views": 5966812,
+      "views": 7992703,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 5782387,
+      "views": 7142594,
+      "title": "모두가 무시했지만 혼자서 75명을 구한 남자",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 154
+    },
+    {
+      "views": 6742981,
+      "title": "친절 베푸는 걸 아끼면 안 되는 이유",
+      "upload_year": "2026",
+      "channel": "명화관",
+      "duration": 112
+    },
+    {
+      "views": 5880510,
       "title": "지금은 불가능한 코빅 수위 수준.",
       "upload_year": "2026",
       "channel": "옥상평상",
@@ -43,35 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "생기는",
-    "#shorts",
     "#신병4",
-    "#시니어드라마",
-    "#반전드라마",
-    "#마블",
-    "#폭싹속았수다",
+    "#shorts",
+    "때문에",
     "진짜",
     "#스케치코미디",
-    "#감동",
-    "30년",
-    "#숏드라마",
     "최후",
+    "가장",
     "개그",
     "소품을",
     "찐으로",
     "바꾸면",
+    "죽빵의",
+    "달인",
+    "김병만",
     "모두가",
-    "무시했지만"
+    "무시했지만",
+    "혼자서",
+    "75명을"
   ],
   "channel_distribution": [
     {
       "channel": "봐방봐방",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "예능내컷",
+      "channel": "B하인드S토리",
       "count": 1
     }
   ],
