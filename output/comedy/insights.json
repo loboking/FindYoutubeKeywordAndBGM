@@ -3,67 +3,67 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #신병, #shorts, 대답, #반전드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #스케치코미디, #반전드라마, 신입이, 방법",
   "top_videos_summary": [
     {
-      "views": 11643948,
+      "views": 11812443,
       "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
       "upload_year": "2026",
       "channel": "부부의 세계",
       "duration": 41
     },
     {
-      "views": 10264280,
-      "title": "홍수 막아주는 모래 주머니?!",
-      "upload_year": "2026",
-      "channel": "해외쇼쇼",
-      "duration": 51
-    },
-    {
-      "views": 8543346,
+      "views": 8588357,
       "title": "같이 들어 온 신입이 같은 신입이 아니라는 이유",
       "upload_year": "2026",
       "channel": "숏라마",
       "duration": 79
     },
     {
-      "views": 8264540,
-      "title": "인생 첫 샤넬 백 선물 받고 휘청이는 지예은",
-      "upload_year": "2026",
-      "channel": "좋좋",
-      "duration": 59
-    },
-    {
-      "views": 8153439,
+      "views": 8307485,
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
       "upload_year": "2026",
       "channel": "봐방봐방",
       "duration": 57
+    },
+    {
+      "views": 7992177,
+      "title": "죽빵의 달인 김병만",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 42
+    },
+    {
+      "views": 5879900,
+      "title": "지금은 불가능한 코빅 수위 수준.",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 74
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "생기는",
-    "#신병",
-    "#shorts",
-    "대답",
+    "#스케치코미디",
     "#반전드라마",
     "신입이",
-    "지예은",
-    "#신병3",
-    "#스케치코미디",
+    "방법",
+    "#shorts",
     "때문에",
+    "#신병",
     "#군대",
     "#시니어드라마",
     "30년",
-    "못한",
+    "무조건",
     "가장",
+    "#예능",
+    "#유머",
     "#장윤정",
     "#강남",
     "와이프",
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "해외쇼쇼",
-      "count": 1
-    },
-    {
       "channel": "숏라마",
-      "count": 1
-    },
-    {
-      "channel": "좋좋",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
+      "channel": "무비대장",
+      "count": 1
+    },
+    {
       "channel": "연옌쇼츠",
       "count": 1
     },
     {
-      "channel": "뚝딱클립",
+      "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "짤막씨네",
       "count": 1
     }
   ],
