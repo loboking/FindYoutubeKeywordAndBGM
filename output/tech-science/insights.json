@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 아이폰, 듀오, 이유, 갤럭시, 애플, 컴퓨터",
+  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 아이폰, 듀오, 이유, 애플, 요즘, #shorts",
   "top_videos_summary": [
     {
-      "views": 3807529,
+      "views": 3843165,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 2638920,
+      "views": 2854858,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
     },
     {
-      "views": 1988690,
+      "views": 2064711,
+      "title": "현재 아이폰 듀오가 해외에서 욕먹는 이유",
+      "upload_year": "2026",
+      "channel": "짧주",
+      "duration": 27
+    },
+    {
+      "views": 1996092,
       "title": "동생 컴퓨터 비밀번호 자릿수 ㄷㄷ",
       "upload_year": "2026",
       "channel": "JASON MEDIA",
       "duration": 27
     },
     {
-      "views": 1863577,
+      "views": 1945234,
       "title": "마우스를 샀는데 뭔가 이상하다",
       "upload_year": "2026",
       "channel": "원정상",
       "duration": 13
-    },
-    {
-      "views": 1692979,
-      "title": "요즘 폰 사자마자 국룰ㄷㄷ(이건 절대 하지마세요)",
-      "upload_year": "2026",
-      "channel": "1분미만",
-      "duration": 43
     }
   ],
   "outlier_adjusted": {
@@ -51,18 +51,18 @@
     "아이폰",
     "듀오",
     "이유",
-    "갤럭시",
     "애플",
-    "컴퓨터",
     "요즘",
     "#shorts",
+    "갤럭시",
+    "근황",
     "기능",
+    "해외에서",
+    "컴퓨터",
     "이건",
-    "폴드8",
-    "실물",
-    "쓰는",
-    "'아이폰",
-    "듀오'",
+    "삼성",
+    "#Shorts",
+    "반응",
     "GS25",
     "예약해야하는",
     "유저끼리",
@@ -79,6 +79,10 @@
       "count": 1
     },
     {
+      "channel": "짧주",
+      "count": 1
+    },
+    {
       "channel": "JASON MEDIA",
       "count": 1
     },
@@ -91,11 +95,7 @@
       "count": 1
     },
     {
-      "channel": "평양냉면",
-      "count": 1
-    },
-    {
-      "channel": "짧주",
+      "channel": "보겸TV",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "ITSub잇섭",
+      "channel": "꽉TV",
       "count": 1
     },
     {
-      "channel": "꽉TV",
+      "channel": "리뷰띠",
       "count": 1
     }
   ],
