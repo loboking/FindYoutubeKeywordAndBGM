@@ -3,37 +3,15 @@
   "slug": "entertainment",
   "source": "mostpopular_category",
   "category_id": "24",
-  "shorts_found": 50,
+  "shorts_found": 49,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
   "videos": [
     {
-      "id": "eDnz_zxhh1w",
-      "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
-      "view_count": 11692560,
-      "duration": 22,
-      "upload_date": "20260829",
-      "category": "24",
-      "channel": "아이돌탐정",
-      "source_channel": "아이돌탐정",
-      "url": "https://www.youtube.com/watch?v=eDnz_zxhh1w"
-    },
-    {
-      "id": "qbAVN0jNi5I",
-      "title": "인간 vs 차단봉 과연 누가 이길까?",
-      "view_count": 10944338,
-      "duration": 25,
-      "upload_date": "20260903",
-      "category": "1",
-      "channel": "프피의 삶 INFP's Daily",
-      "source_channel": "프피의 삶 INFP's Daily",
-      "url": "https://www.youtube.com/watch?v=qbAVN0jNi5I"
-    },
-    {
       "id": "56m-TlxhkF4",
       "title": "몽골에서 말 타던 수현이 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
-      "view_count": 10010118,
+      "view_count": 11266851,
       "duration": 29,
       "upload_date": "20260906",
       "category": "10",
@@ -42,20 +20,20 @@
       "url": "https://www.youtube.com/watch?v=56m-TlxhkF4"
     },
     {
-      "id": "t3xQXbcVqXg",
-      "title": "진짜 마법사보고 진심 멘붕 온 박지원",
-      "view_count": 9643946,
-      "duration": 56,
-      "upload_date": "20260831",
-      "category": "22",
-      "channel": "오늘도프미나",
-      "source_channel": "오늘도프미나",
-      "url": "https://www.youtube.com/watch?v=t3xQXbcVqXg"
+      "id": "qbAVN0jNi5I",
+      "title": "인간 vs 차단봉 과연 누가 이길까?",
+      "view_count": 11107378,
+      "duration": 25,
+      "upload_date": "20260903",
+      "category": "1",
+      "channel": "프피의 삶 INFP's Daily",
+      "source_channel": "프피의 삶 INFP's Daily",
+      "url": "https://www.youtube.com/watch?v=qbAVN0jNi5I"
     },
     {
       "id": "ZcoNQE9eV0s",
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
-      "view_count": 8153439,
+      "view_count": 8307485,
       "duration": 57,
       "upload_date": "20260902",
       "category": "22",
@@ -64,53 +42,9 @@
       "url": "https://www.youtube.com/watch?v=ZcoNQE9eV0s"
     },
     {
-      "id": "Qz_s7ie43FQ",
-      "title": "시바 추격하는 강형욱 #개와늑대의시간2 #개늑시2",
-      "view_count": 7565120,
-      "duration": 47,
-      "upload_date": "20260903",
-      "category": "24",
-      "channel": "톡쏘능",
-      "source_channel": "톡쏘능",
-      "url": "https://www.youtube.com/watch?v=Qz_s7ie43FQ"
-    },
-    {
-      "id": "mor-SiTCvBA",
-      "title": "모두가 무시했지만 혼자서 75명을 구한 남자",
-      "view_count": 7046452,
-      "duration": 154,
-      "upload_date": "20260903",
-      "category": "1",
-      "channel": "눈물한가득",
-      "source_channel": "눈물한가득",
-      "url": "https://www.youtube.com/watch?v=mor-SiTCvBA"
-    },
-    {
-      "id": "YshiGtEwZgo",
-      "title": "최산 친누나 때문에 오열한 이유",
-      "view_count": 6170000,
-      "duration": 25,
-      "upload_date": "20260903",
-      "category": "22",
-      "channel": "배꼽도둑",
-      "source_channel": "배꼽도둑",
-      "url": "https://www.youtube.com/watch?v=YshiGtEwZgo"
-    },
-    {
-      "id": "123Z9CkspC4",
-      "title": "끝까지 보면 결국 한 명만 보게 됨 #효리수 #효연 #윤아 #수영 #소녀시대 #retroromance",
-      "view_count": 6090300,
-      "duration": 18,
-      "upload_date": "20260903",
-      "category": "24",
-      "channel": "미소주쥐 | 재미 감동 한가득",
-      "source_channel": "미소주쥐 | 재미 감동 한가득",
-      "url": "https://www.youtube.com/watch?v=123Z9CkspC4"
-    },
-    {
       "id": "OTpCu8pnKgs",
       "title": "죽빵의 달인 김병만",
-      "view_count": 5966812,
+      "view_count": 7989516,
       "duration": 42,
       "upload_date": "20260908",
       "category": "22",
@@ -119,9 +53,31 @@
       "url": "https://www.youtube.com/watch?v=OTpCu8pnKgs"
     },
     {
+      "id": "Qz_s7ie43FQ",
+      "title": "시바 추격하는 강형욱 #개와늑대의시간2 #개늑시2",
+      "view_count": 7831372,
+      "duration": 47,
+      "upload_date": "20260903",
+      "category": "24",
+      "channel": "톡쏘능",
+      "source_channel": "톡쏘능",
+      "url": "https://www.youtube.com/watch?v=Qz_s7ie43FQ"
+    },
+    {
+      "id": "123Z9CkspC4",
+      "title": "끝까지 보면 결국 한 명만 보게 됨 #효리수 #효연 #윤아 #수영 #소녀시대 #retroromance",
+      "view_count": 6369790,
+      "duration": 18,
+      "upload_date": "20260903",
+      "category": "24",
+      "channel": "미소주쥐 | 재미 감동 한가득",
+      "source_channel": "미소주쥐 | 재미 감동 한가득",
+      "url": "https://www.youtube.com/watch?v=123Z9CkspC4"
+    },
+    {
       "id": "-LjX2cWKB8Y",
       "title": "유일하게 조정석을 뇌정지 오게 만든 아이유 애드립",
-      "view_count": 5323375,
+      "view_count": 5430877,
       "duration": 26,
       "upload_date": "20260903",
       "category": "22",
@@ -130,20 +86,9 @@
       "url": "https://www.youtube.com/watch?v=-LjX2cWKB8Y"
     },
     {
-      "id": "DFYu-a2xg5U",
-      "title": "대화 금지인데 더 시끄러움 #유리 #김규원 #김연경",
-      "view_count": 4707551,
-      "duration": 51,
-      "upload_date": "20260904",
-      "category": "24",
-      "channel": "짧은예능",
-      "source_channel": "짧은예능",
-      "url": "https://www.youtube.com/watch?v=DFYu-a2xg5U"
-    },
-    {
       "id": "_cg0irXWxLQ",
       "title": "로켓이 유독 토르만 믿는 이유 #마블",
-      "view_count": 4545451,
+      "view_count": 5049638,
       "duration": 23,
       "upload_date": "20260906",
       "category": "22",
@@ -152,20 +97,20 @@
       "url": "https://www.youtube.com/watch?v=_cg0irXWxLQ"
     },
     {
-      "id": "KsmV26zHcA4",
-      "title": "예비신랑 신부 놀리기 바쁜 멤버들ㅋㅋㅋ",
-      "view_count": 4367312,
-      "duration": 37,
-      "upload_date": "20260905",
-      "category": "24",
-      "channel": "코믹박스",
-      "source_channel": "코믹박스",
-      "url": "https://www.youtube.com/watch?v=KsmV26zHcA4"
+      "id": "AGcTt-1D0IM",
+      "title": "실화였다는 대대장의 참교육 방법",
+      "view_count": 4764197,
+      "duration": 46,
+      "upload_date": "20260908",
+      "category": "22",
+      "channel": "무비대장",
+      "source_channel": "무비대장",
+      "url": "https://www.youtube.com/watch?v=AGcTt-1D0IM"
     },
     {
       "id": "bkVpptz7NmU",
       "title": "혼자 춤추는 이영지에 당황한 카리나",
-      "view_count": 4166222,
+      "view_count": 4667599,
       "duration": 16,
       "upload_date": "20260905",
       "category": "24",
@@ -174,20 +119,20 @@
       "url": "https://www.youtube.com/watch?v=bkVpptz7NmU"
     },
     {
-      "id": "FKjkxAUNQjM",
-      "title": "구독자 380만 숏박스의 위엄",
-      "view_count": 4153733,
-      "duration": 59,
-      "upload_date": "20260903",
-      "category": "22",
-      "channel": "연옌쇼츠",
-      "source_channel": "연옌쇼츠",
-      "url": "https://www.youtube.com/watch?v=FKjkxAUNQjM"
+      "id": "KsmV26zHcA4",
+      "title": "예비신랑 신부 놀리기 바쁜 멤버들ㅋㅋㅋ",
+      "view_count": 4630918,
+      "duration": 37,
+      "upload_date": "20260905",
+      "category": "24",
+      "channel": "코믹박스",
+      "source_channel": "코믹박스",
+      "url": "https://www.youtube.com/watch?v=KsmV26zHcA4"
     },
     {
       "id": "5MJ9Jqkf-P4",
       "title": "god박준형 승무원 출신 아내 최초공개 #god #박준형 #와썹맨 #쭈니형 #와이프",
-      "view_count": 4108956,
+      "view_count": 4582505,
       "duration": 22,
       "upload_date": "20260904",
       "category": "22",
@@ -198,7 +143,7 @@
     {
       "id": "rlcxD0asCTM",
       "title": "초등학생들의 서전트 점프?",
-      "view_count": 3703163,
+      "view_count": 4509617,
       "duration": 52,
       "upload_date": "20260907",
       "category": "27",
@@ -207,42 +152,9 @@
       "url": "https://www.youtube.com/watch?v=rlcxD0asCTM"
     },
     {
-      "id": "AGcTt-1D0IM",
-      "title": "실화였다는 대대장의 참교육 방법",
-      "view_count": 3632401,
-      "duration": 46,
-      "upload_date": "20260908",
-      "category": "22",
-      "channel": "무비대장",
-      "source_channel": "무비대장",
-      "url": "https://www.youtube.com/watch?v=AGcTt-1D0IM"
-    },
-    {
-      "id": "x6HiKu0pNzA",
-      "title": "아무도 예상 못한 BAD 챌린지의 깜짝 손님",
-      "view_count": 3313691,
-      "duration": 18,
-      "upload_date": "20260905",
-      "category": "24",
-      "channel": "제노 플래쉬",
-      "source_channel": "제노 플래쉬",
-      "url": "https://www.youtube.com/watch?v=x6HiKu0pNzA"
-    },
-    {
-      "id": "nlPxXDeW4dM",
-      "title": "장동민이 더 지니어스 제작진 참교육한 썰ㅋㅋ #shorts #아는형님",
-      "view_count": 3292369,
-      "duration": 52,
-      "upload_date": "20260905",
-      "category": "22",
-      "channel": "예능내컷",
-      "source_channel": "예능내컷",
-      "url": "https://www.youtube.com/watch?v=nlPxXDeW4dM"
-    },
-    {
       "id": "JlTFn0i4L9U",
       "title": "윤계상이 연기하며 벽을 처음 느낀 순간",
-      "view_count": 3287846,
+      "view_count": 4301384,
       "duration": 27,
       "upload_date": "20260907",
       "category": "22",
@@ -253,7 +165,7 @@
     {
       "id": "qYJatLPDiA8",
       "title": "돈이 너무 많으면 생기는 일ㅋㅋ #shorts",
-      "view_count": 3258197,
+      "view_count": 4136136,
       "duration": 58,
       "upload_date": "20260908",
       "category": "24",
@@ -262,20 +174,9 @@
       "url": "https://www.youtube.com/watch?v=qYJatLPDiA8"
     },
     {
-      "id": "tal4iqXO59s",
-      "title": "이 사람 대체 어디 출신이야?ㅋㅋㅋ | 개그콘서트 Gagconcert | KBS 260906 방송",
-      "view_count": 3233748,
-      "duration": 40,
-      "upload_date": "20260907",
-      "category": "24",
-      "channel": " 개그콘서트",
-      "source_channel": " 개그콘서트",
-      "url": "https://www.youtube.com/watch?v=tal4iqXO59s"
-    },
-    {
       "id": "-_hysENhOZw",
       "title": "중대장은 아무나 하는게 아니구나 #신병4",
-      "view_count": 3177823,
+      "view_count": 3840279,
       "duration": 25,
       "upload_date": "20260906",
       "category": "22",
@@ -286,7 +187,7 @@
     {
       "id": "nv4KWB8Ft-k",
       "title": "휴가자 때문에 군무서는 말년들?",
-      "view_count": 2969568,
+      "view_count": 3716367,
       "duration": 44,
       "upload_date": "20260907",
       "category": "22",
@@ -295,9 +196,53 @@
       "url": "https://www.youtube.com/watch?v=nv4KWB8Ft-k"
     },
     {
+      "id": "tal4iqXO59s",
+      "title": "이 사람 대체 어디 출신이야?ㅋㅋㅋ | 개그콘서트 Gagconcert | KBS 260906 방송",
+      "view_count": 3713383,
+      "duration": 40,
+      "upload_date": "20260907",
+      "category": "24",
+      "channel": " 개그콘서트",
+      "source_channel": " 개그콘서트",
+      "url": "https://www.youtube.com/watch?v=tal4iqXO59s"
+    },
+    {
+      "id": "nlPxXDeW4dM",
+      "title": "장동민이 더 지니어스 제작진 참교육한 썰ㅋㅋ #shorts #아는형님",
+      "view_count": 3594158,
+      "duration": 52,
+      "upload_date": "20260905",
+      "category": "22",
+      "channel": "예능내컷",
+      "source_channel": "예능내컷",
+      "url": "https://www.youtube.com/watch?v=nlPxXDeW4dM"
+    },
+    {
+      "id": "XqZijFyTqg0",
+      "title": "녹화 도중에 찐텐으로 개빡친 이효리;;  | #연애전쟁 #shorts #연애",
+      "view_count": 3533899,
+      "duration": 59,
+      "upload_date": "20260908",
+      "category": "24",
+      "channel": "딴짓 | 드라마·예능 쇼츠",
+      "source_channel": "딴짓 | 드라마·예능 쇼츠",
+      "url": "https://www.youtube.com/watch?v=XqZijFyTqg0"
+    },
+    {
+      "id": "x6HiKu0pNzA",
+      "title": "아무도 예상 못한 BAD 챌린지의 깜짝 손님",
+      "view_count": 3518338,
+      "duration": 18,
+      "upload_date": "20260905",
+      "category": "24",
+      "channel": "제노 플래쉬",
+      "source_channel": "제노 플래쉬",
+      "url": "https://www.youtube.com/watch?v=x6HiKu0pNzA"
+    },
+    {
       "id": "BqX1TWIeEIw",
       "title": "간호사가 환자로 입원하면 생기는 일",
-      "view_count": 2916118,
+      "view_count": 3367530,
       "duration": 49,
       "upload_date": "20260905",
       "category": "22",
@@ -308,7 +253,7 @@
     {
       "id": "cuUTJe4Oplc",
       "title": "감성 폭발한 장홍도의 급발진 #슬기로운의사생활 #조정석 #배현성",
-      "view_count": 2874079,
+      "view_count": 3159063,
       "duration": 37,
       "upload_date": "20260907",
       "category": "1",
@@ -317,31 +262,9 @@
       "url": "https://www.youtube.com/watch?v=cuUTJe4Oplc"
     },
     {
-      "id": "OHlGkTwLBjA",
-      "title": "김준완 긁기 박사학위 딴 사람 #슬기로운의사생활시즌2 #조정석 #정경호 #유연석 #김대명 #전미도",
-      "view_count": 2845730,
-      "duration": 50,
-      "upload_date": "20260907",
-      "category": "24",
-      "channel": "수박스",
-      "source_channel": "수박스",
-      "url": "https://www.youtube.com/watch?v=OHlGkTwLBjA"
-    },
-    {
-      "id": "XqZijFyTqg0",
-      "title": "녹화 도중에 찐텐으로 개빡친 이효리;;  | #연애전쟁 #shorts #연애",
-      "view_count": 2799510,
-      "duration": 59,
-      "upload_date": "20260908",
-      "category": "24",
-      "channel": "딴짓 | 드라마·예능 쇼츠",
-      "source_channel": "딴짓 | 드라마·예능 쇼츠",
-      "url": "https://www.youtube.com/watch?v=XqZijFyTqg0"
-    },
-    {
       "id": "znrHx-m3So8",
       "title": "오직 남동생만 할 수 있는 위로 #폭싹속았수다",
-      "view_count": 2750295,
+      "view_count": 3073306,
       "duration": 135,
       "upload_date": "20260907",
       "category": "1",
@@ -350,86 +273,9 @@
       "url": "https://www.youtube.com/watch?v=znrHx-m3So8"
     },
     {
-      "id": "oiK8V3wVIzU",
-      "title": "저출산 때려잡는 SNL 솔로세 #snl코리아",
-      "view_count": 2632742,
-      "duration": 54,
-      "upload_date": "20260905",
-      "category": "22",
-      "channel": "야그쟁이",
-      "source_channel": "야그쟁이",
-      "url": "https://www.youtube.com/watch?v=oiK8V3wVIzU"
-    },
-    {
-      "id": "drJkUgSru6Y",
-      "title": "진짜 개그맨으로 각성해버린 유영우 ㄷㄷ",
-      "view_count": 2569599,
-      "duration": 51,
-      "upload_date": "20260906",
-      "category": "24",
-      "channel": "숏트랙",
-      "source_channel": "숏트랙",
-      "url": "https://www.youtube.com/watch?v=drJkUgSru6Y"
-    },
-    {
-      "id": "GMO1caSv1Gw",
-      "title": "신병 행보관의 눈물겨운 과거 20년 #오용 #신병4 #박재수",
-      "view_count": 2514880,
-      "duration": 51,
-      "upload_date": "20260907",
-      "category": "1",
-      "channel": "이게뭔일이래",
-      "source_channel": "이게뭔일이래",
-      "url": "https://www.youtube.com/watch?v=GMO1caSv1Gw"
-    },
-    {
-      "id": "Qda57yjhAWs",
-      "title": "조개구이 먹다가 대박난 MZ 직원 #스케치코미디",
-      "view_count": 2417924,
-      "duration": 120,
-      "upload_date": "20260907",
-      "category": "24",
-      "channel": "폭룡숏",
-      "source_channel": "폭룡숏",
-      "url": "https://www.youtube.com/watch?v=Qda57yjhAWs"
-    },
-    {
-      "id": "kZd8tAkez4g",
-      "title": "김성령이 빵터진 백현진 개그",
-      "view_count": 2381476,
-      "duration": 51,
-      "upload_date": "20260907",
-      "category": "22",
-      "channel": "푸하하핳하",
-      "source_channel": "푸하하핳하",
-      "url": "https://www.youtube.com/watch?v=kZd8tAkez4g"
-    },
-    {
-      "id": "uD7AeUTeAYs",
-      "title": "신입 주식 브로커가 감사팀을 찍어 누르는 방법",
-      "view_count": 2259626,
-      "duration": 73,
-      "upload_date": "20260907",
-      "category": "1",
-      "channel": "영콕드콕",
-      "source_channel": "영콕드콕",
-      "url": "https://www.youtube.com/watch?v=uD7AeUTeAYs"
-    },
-    {
-      "id": "GhS10KmCRPk",
-      "title": "T 감독의 농구영화",
-      "view_count": 2210371,
-      "duration": 92,
-      "upload_date": "20260908",
-      "category": "24",
-      "channel": "먹기전에",
-      "source_channel": "먹기전에",
-      "url": "https://www.youtube.com/watch?v=GhS10KmCRPk"
-    },
-    {
       "id": "KxOWtLEyCdc",
       "title": "아버지 얘기는 진짜 선넘었다ㅠ",
-      "view_count": 2124086,
+      "view_count": 3069554,
       "duration": 66,
       "upload_date": "20260909",
       "category": "1",
@@ -438,9 +284,86 @@
       "url": "https://www.youtube.com/watch?v=KxOWtLEyCdc"
     },
     {
+      "id": "OHlGkTwLBjA",
+      "title": "김준완 긁기 박사학위 딴 사람 #슬기로운의사생활시즌2 #조정석 #정경호 #유연석 #김대명 #전미도",
+      "view_count": 3003102,
+      "duration": 50,
+      "upload_date": "20260907",
+      "category": "24",
+      "channel": "수박스",
+      "source_channel": "수박스",
+      "url": "https://www.youtube.com/watch?v=OHlGkTwLBjA"
+    },
+    {
+      "id": "GMO1caSv1Gw",
+      "title": "신병 행보관의 눈물겨운 과거 20년 #오용 #신병4 #박재수",
+      "view_count": 2911120,
+      "duration": 51,
+      "upload_date": "20260907",
+      "category": "1",
+      "channel": "이게뭔일이래",
+      "source_channel": "이게뭔일이래",
+      "url": "https://www.youtube.com/watch?v=GMO1caSv1Gw"
+    },
+    {
+      "id": "oiK8V3wVIzU",
+      "title": "저출산 때려잡는 SNL 솔로세 #snl코리아",
+      "view_count": 2804880,
+      "duration": 54,
+      "upload_date": "20260905",
+      "category": "22",
+      "channel": "야그쟁이",
+      "source_channel": "야그쟁이",
+      "url": "https://www.youtube.com/watch?v=oiK8V3wVIzU"
+    },
+    {
+      "id": "kZd8tAkez4g",
+      "title": "김성령이 빵터진 백현진 개그",
+      "view_count": 2748441,
+      "duration": 51,
+      "upload_date": "20260907",
+      "category": "22",
+      "channel": "푸하하핳하",
+      "source_channel": "푸하하핳하",
+      "url": "https://www.youtube.com/watch?v=kZd8tAkez4g"
+    },
+    {
+      "id": "Qda57yjhAWs",
+      "title": "조개구이 먹다가 대박난 MZ 직원 #스케치코미디",
+      "view_count": 2689716,
+      "duration": 120,
+      "upload_date": "20260907",
+      "category": "24",
+      "channel": "폭룡숏",
+      "source_channel": "폭룡숏",
+      "url": "https://www.youtube.com/watch?v=Qda57yjhAWs"
+    },
+    {
+      "id": "drJkUgSru6Y",
+      "title": "진짜 개그맨으로 각성해버린 유영우 ㄷㄷ",
+      "view_count": 2674230,
+      "duration": 51,
+      "upload_date": "20260906",
+      "category": "24",
+      "channel": "숏트랙",
+      "source_channel": "숏트랙",
+      "url": "https://www.youtube.com/watch?v=drJkUgSru6Y"
+    },
+    {
+      "id": "Z7Mvj-O_auU",
+      "title": "변요한까지 돌아있을 줄은 몰랐지 #소녀시대 #변요한 #티파니",
+      "view_count": 2647746,
+      "duration": 33,
+      "upload_date": "20260909",
+      "category": "24",
+      "channel": "짧은예능",
+      "source_channel": "짧은예능",
+      "url": "https://www.youtube.com/watch?v=Z7Mvj-O_auU"
+    },
+    {
       "id": "kUq_vOtxHbA",
       "title": "최현우한테 모든 힘을 빼앗긴 김동현 ㅋㅋㅋ",
-      "view_count": 2080915,
+      "view_count": 2620382,
       "duration": 26,
       "upload_date": "20260906",
       "category": "24",
@@ -449,9 +372,20 @@
       "url": "https://www.youtube.com/watch?v=kUq_vOtxHbA"
     },
     {
+      "id": "GhS10KmCRPk",
+      "title": "T 감독의 농구영화",
+      "view_count": 2587412,
+      "duration": 92,
+      "upload_date": "20260908",
+      "category": "24",
+      "channel": "먹기전에",
+      "source_channel": "먹기전에",
+      "url": "https://www.youtube.com/watch?v=GhS10KmCRPk"
+    },
+    {
       "id": "Eo6LS-GW0Gc",
       "title": "똑똑한데 재수없는 직장상사 #강하늘 #배유람",
-      "view_count": 2080847,
+      "view_count": 2577468,
       "duration": 60,
       "upload_date": "20260907",
       "category": "22",
@@ -460,42 +394,9 @@
       "url": "https://www.youtube.com/watch?v=Eo6LS-GW0Gc"
     },
     {
-      "id": "J46hGs8Oi0s",
-      "title": "군대 가본사람만 안다는 2사단 VS 7사단",
-      "view_count": 2038801,
-      "duration": 92,
-      "upload_date": "20260907",
-      "category": "22",
-      "channel": "쪼오매",
-      "source_channel": "쪼오매",
-      "url": "https://www.youtube.com/watch?v=J46hGs8Oi0s"
-    },
-    {
-      "id": "0JJ5QEnTFW4",
-      "title": "자신의 제자를 못 알아본 할아버지… 30년 뒤 제자는 그의 앞에 있었습니다 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마 #감동",
-      "view_count": 1815427,
-      "duration": 119,
-      "upload_date": "20260906",
-      "category": "1",
-      "channel": "훈작가의 숏드라마",
-      "source_channel": "훈작가의 숏드라마",
-      "url": "https://www.youtube.com/watch?v=0JJ5QEnTFW4"
-    },
-    {
-      "id": "MTDcchxlWfA",
-      "title": "곤경에 처한 아주머니를 도운 선행의 기적 #숏드라마 #선행 #숏킹",
-      "view_count": 1701967,
-      "duration": 141,
-      "upload_date": "20260908",
-      "category": "24",
-      "channel": "꿀템추추",
-      "source_channel": "꿀템추추",
-      "url": "https://www.youtube.com/watch?v=MTDcchxlWfA"
-    },
-    {
       "id": "n7_AI6jNieQ",
       "title": "조선인 계집이라고 무시한 야쿠자 조직의 최후 | #메이드인코리아_시즌2 #메이드인코리아 #메이드인코리아2 #디즈니플러스 #현빈 #원지안",
-      "view_count": 1617918,
+      "view_count": 2420069,
       "duration": 55,
       "upload_date": "20260909",
       "category": "24",
@@ -506,7 +407,7 @@
     {
       "id": "sVu1WQejRoA",
       "title": "편 가르는 고참라인에 개빡친 행보관님 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
-      "view_count": 1409615,
+      "view_count": 2009339,
       "duration": 45,
       "upload_date": "20260909",
       "category": "22",
@@ -515,31 +416,42 @@
       "url": "https://www.youtube.com/watch?v=sVu1WQejRoA"
     },
     {
-      "id": "Dz7ykcpe0S4",
-      "title": "뒤끝이 긴 캡틴",
-      "view_count": 1348831,
-      "duration": 59,
-      "upload_date": "20260909",
-      "category": "1",
-      "channel": "영화미슐랭",
-      "source_channel": "영화미슐랭",
-      "url": "https://www.youtube.com/watch?v=Dz7ykcpe0S4"
+      "id": "Lso377ViINE",
+      "title": "우영이 급하게 촬영 중단시킨 이유",
+      "view_count": 1823722,
+      "duration": 15,
+      "upload_date": "20260910",
+      "category": "22",
+      "channel": "배꼽도둑",
+      "source_channel": "배꼽도둑",
+      "url": "https://www.youtube.com/watch?v=Lso377ViINE"
     },
     {
-      "id": "4hRXSzC9xBw",
-      "title": "[세븐틴] 의도치 않게 커플룩을 입게 된 민규 이야기 #세븐틴 #seventeen",
-      "view_count": 1300607,
-      "duration": 22,
+      "id": "NQ-0VTcUxeE",
+      "title": "소개팅 주선했다가 대참사 낼 뻔한 이채영",
+      "view_count": 1773025,
+      "duration": 37,
+      "upload_date": "20260909",
+      "category": "24",
+      "channel": "나 잘한다해짜나",
+      "source_channel": "나 잘한다해짜나",
+      "url": "https://www.youtube.com/watch?v=NQ-0VTcUxeE"
+    },
+    {
+      "id": "MTDcchxlWfA",
+      "title": "곤경에 처한 아주머니를 도운 선행의 기적 #숏드라마 #선행 #숏킹",
+      "view_count": 1765137,
+      "duration": 141,
       "upload_date": "20260908",
       "category": "24",
-      "channel": "쫑순아 여기 밥하나 추가🍚",
-      "source_channel": "쫑순아 여기 밥하나 추가🍚",
-      "url": "https://www.youtube.com/watch?v=4hRXSzC9xBw"
+      "channel": "꿀템추추",
+      "source_channel": "꿀템추추",
+      "url": "https://www.youtube.com/watch?v=MTDcchxlWfA"
     },
     {
       "id": "5ji6n2cYKyA",
       "title": "검사 박성웅을 잘못 건든 조폭 회장님의 최후",
-      "view_count": 1245464,
+      "view_count": 1759282,
       "duration": 80,
       "upload_date": "20260908",
       "category": "27",
@@ -548,15 +460,92 @@
       "url": "https://www.youtube.com/watch?v=5ji6n2cYKyA"
     },
     {
+      "id": "Dz7ykcpe0S4",
+      "title": "뒤끝이 긴 캡틴",
+      "view_count": 1747817,
+      "duration": 59,
+      "upload_date": "20260909",
+      "category": "1",
+      "channel": "영화미슐랭",
+      "source_channel": "영화미슐랭",
+      "url": "https://www.youtube.com/watch?v=Dz7ykcpe0S4"
+    },
+    {
+      "id": "mhOoJu6oKSs",
+      "title": "친구가 준 바지 입고 무조건 여행하기",
+      "view_count": 1705541,
+      "duration": 59,
+      "upload_date": "20260909",
+      "category": "24",
+      "channel": "요즘PD",
+      "source_channel": "요즘PD",
+      "url": "https://www.youtube.com/watch?v=mhOoJu6oKSs"
+    },
+    {
       "id": "vm0sALhPvvs",
       "title": "투바투x에이티즈 남자들의 자존심을 건 다리 길이 싸움",
-      "view_count": 1165186,
+      "view_count": 1640805,
       "duration": 31,
       "upload_date": "20260909",
       "category": "22",
       "channel": "최강정",
       "source_channel": "최강정",
       "url": "https://www.youtube.com/watch?v=vm0sALhPvvs"
+    },
+    {
+      "id": "0OIANZMvr-E",
+      "title": "무섭도록 아는 맛ㅋㅋ",
+      "view_count": 1608484,
+      "duration": 20,
+      "upload_date": "20260909",
+      "category": "26",
+      "channel": "맛고리즘",
+      "source_channel": "맛고리즘",
+      "url": "https://www.youtube.com/watch?v=0OIANZMvr-E"
+    },
+    {
+      "id": "4hRXSzC9xBw",
+      "title": "[세븐틴] 의도치 않게 커플룩을 입게 된 민규 이야기 #세븐틴 #seventeen",
+      "view_count": 1575599,
+      "duration": 22,
+      "upload_date": "20260908",
+      "category": "24",
+      "channel": "쫑순아 여기 밥하나 추가🍚",
+      "source_channel": "쫑순아 여기 밥하나 추가🍚",
+      "url": "https://www.youtube.com/watch?v=4hRXSzC9xBw"
+    },
+    {
+      "id": "Uix7GIa4Qdw",
+      "title": "원본이 젤 웃긴 레전드 장면",
+      "view_count": 1546640,
+      "duration": 17,
+      "upload_date": "20260909",
+      "category": "22",
+      "channel": "일분만",
+      "source_channel": "일분만",
+      "url": "https://www.youtube.com/watch?v=Uix7GIa4Qdw"
+    },
+    {
+      "id": "YkDQJ9HzgSQ",
+      "title": "두 레전드의 만남에 팬들이 놀란 다른이유",
+      "view_count": 1432230,
+      "duration": 37,
+      "upload_date": "20260909",
+      "category": "22",
+      "channel": "콘텐쇼츠",
+      "source_channel": "콘텐쇼츠",
+      "url": "https://www.youtube.com/watch?v=YkDQJ9HzgSQ"
+    },
+    {
+      "id": "-uvtt1WoLMM",
+      "title": "박민석 보고 웃참실패한 오대환ㅋㅋ",
+      "view_count": 1393214,
+      "duration": 15,
+      "upload_date": "20260909",
+      "category": "24",
+      "channel": "좋은울림",
+      "source_channel": "좋은울림",
+      "url": "https://www.youtube.com/watch?v=-uvtt1WoLMM"
     }
   ]
 }

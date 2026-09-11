@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 진짜, 생기는, #shorts, 때문에, 방법",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, #소녀시대, #신병4, 개빡친",
   "top_videos_summary": [
     {
-      "views": 11692560,
-      "title": "무대 도중 카메라맨과 눈이 마주친 '장원영'이 한 행동",
-      "upload_year": "2026",
-      "channel": "아이돌탐정",
-      "duration": 22
-    },
-    {
-      "views": 10944338,
-      "title": "인간 vs 차단봉 과연 누가 이길까?",
-      "upload_year": "2026",
-      "channel": "프피의 삶 INFP's Daily",
-      "duration": 25
-    },
-    {
-      "views": 10010118,
+      "views": 11266851,
       "title": "몽골에서 말 타던 수현이 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
       "upload_year": "2026",
       "channel": "와 여러분",
       "duration": 29
     },
     {
-      "views": 9643946,
-      "title": "진짜 마법사보고 진심 멘붕 온 박지원",
+      "views": 11107378,
+      "title": "인간 vs 차단봉 과연 누가 이길까?",
       "upload_year": "2026",
-      "channel": "오늘도프미나",
-      "duration": 56
+      "channel": "프피의 삶 INFP's Daily",
+      "duration": 25
     },
     {
-      "views": 8153439,
+      "views": 8307485,
       "title": "개그 소품을 찐으로 바꾸면 생기는 일",
       "upload_year": "2026",
       "channel": "봐방봐방",
       "duration": 57
+    },
+    {
+      "views": 7989516,
+      "title": "죽빵의 달인 김병만",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 42
+    },
+    {
+      "views": 7831372,
+      "title": "시바 추격하는 강형욱 #개와늑대의시간2 #개늑시2",
+      "upload_year": "2026",
+      "channel": "톡쏘능",
+      "duration": 47
     }
   ],
   "outlier_adjusted": {
@@ -49,29 +49,29 @@
   },
   "trend_keywords": [
     "이유",
-    "진짜",
     "생기는",
     "#shorts",
-    "때문에",
-    "방법",
+    "#소녀시대",
     "#신병4",
-    "#조정석",
     "개빡친",
+    "#조정석",
+    "진짜",
     "최후",
-    "무대",
-    "도중",
-    "카메라맨과",
-    "눈이",
-    "마주친",
-    "'장원영'이",
-    "행동",
+    "#악뮤",
+    "#악동뮤지션",
+    "몽골에서",
+    "타던",
+    "수현이",
+    "한국승마에",
+    "충격받은",
     "인간",
     "vs",
-    "차단봉"
+    "차단봉",
+    "과연"
   ],
   "channel_distribution": [
     {
-      "channel": "아이돌탐정",
+      "channel": "와 여러분",
       "count": 1
     },
     {
@@ -79,15 +79,11 @@
       "count": 1
     },
     {
-      "channel": "와 여러분",
-      "count": 1
-    },
-    {
-      "channel": "오늘도프미나",
-      "count": 1
-    },
-    {
       "channel": "봐방봐방",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "배꼽도둑",
-      "count": 1
-    },
-    {
       "channel": "미소주쥐 | 재미 감동 한가득",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "엔터박스",
+      "count": 1
+    },
+    {
+      "channel": "어바웃마블",
+      "count": 1
+    },
+    {
+      "channel": "무비대장",
+      "count": 1
+    },
+    {
+      "channel": "아이픽",
       "count": 1
     }
   ],
