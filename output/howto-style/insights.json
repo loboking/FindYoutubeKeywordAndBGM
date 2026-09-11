@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, vs, 방법, This, 만든, 꼬맹이",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, vs, This, 만든, 꼬맹이, 초간단",
   "top_videos_summary": [
     {
-      "views": 31062227,
+      "views": 36589652,
       "title": "From Muddy Mess to Clean Yard — This Dry Creek Bed Did the Trick! 🌧️🌿 #DIY",
       "upload_year": "2026",
       "channel": "HackFusion",
       "duration": 42
     },
     {
-      "views": 29415299,
+      "views": 30587745,
       "title": "This Little Girl Meets a Living Statue! 😍 #Cute",
       "upload_year": "2026",
       "channel": "StatueZone 2.0",
       "duration": 16
     },
     {
-      "views": 15034680,
+      "views": 22369902,
       "title": "POV: I Thought I Could Do It Too… 😂#funny #comedy #shorts #viral",
       "upload_year": "2026",
       "channel": "Jenny Cuttezz",
       "duration": 27
     },
     {
-      "views": 7635063,
-      "title": "구독자 수 1명 당 레고 1개 방에 붙임 ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "쑈옷",
-      "duration": 58
-    },
-    {
-      "views": 5813691,
+      "views": 5867000,
       "title": "레고로 만든 해리포터 괴물책의 특별한 기능",
       "upload_year": "2026",
       "channel": "먹구리",
       "duration": 28
+    },
+    {
+      "views": 5058775,
+      "title": "눈치 빠른 꼬맹이 #아기 #baby #엔조이커플 #enjoycouple #강단남매",
+      "upload_year": "2026",
+      "channel": "엔조이커플enjoycouple",
+      "duration": 24
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.21,
+    "top1_share": 0.23,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
     "vs",
-    "방법",
     "This",
     "만든",
     "꼬맹이",
-    "없다",
     "초간단",
-    "만드는",
     "매듭법",
-    "대결",
-    "생기는",
-    "먹던",
+    "만드는",
+    "방법",
     "고추전",
     "레시피",
     "라떼",
     "과일",
     "#DIY",
     "From",
-    "Muddy"
+    "Muddy",
+    "Mess",
+    "to",
+    "Clean",
+    "Yard"
   ],
   "channel_distribution": [
     {
@@ -80,10 +80,6 @@
     },
     {
       "channel": "Jenny Cuttezz",
-      "count": 1
-    },
-    {
-      "channel": "쑈옷",
       "count": 1
     },
     {
@@ -104,6 +100,10 @@
     },
     {
       "channel": "햅독 HAPDOG",
+      "count": 1
+    },
+    {
+      "channel": "쪼꼬미필름",
       "count": 1
     },
     {
