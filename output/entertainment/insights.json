@@ -3,59 +3,60 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, #소녀시대, #신병4, 개빡친",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, #스케치코미디, 참교육, 생기는, #신병4",
   "top_videos_summary": [
     {
-      "views": 11266851,
+      "views": 12140030,
       "title": "몽골에서 말 타던 수현이 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
       "upload_year": "2026",
       "channel": "와 여러분",
       "duration": 29
     },
     {
-      "views": 11107378,
+      "views": 11218290,
       "title": "인간 vs 차단봉 과연 누가 이길까?",
       "upload_year": "2026",
       "channel": "프피의 삶 INFP's Daily",
       "duration": 25
     },
     {
-      "views": 8307485,
-      "title": "개그 소품을 찐으로 바꾸면 생기는 일",
-      "upload_year": "2026",
-      "channel": "봐방봐방",
-      "duration": 57
-    },
-    {
-      "views": 7989516,
+      "views": 9664472,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 7831372,
+      "views": 8160340,
       "title": "시바 추격하는 강형욱 #개와늑대의시간2 #개늑시2",
       "upload_year": "2026",
       "channel": "톡쏘능",
       "duration": 47
+    },
+    {
+      "views": 5834501,
+      "title": "실화였다는 대대장의 참교육 방법",
+      "upload_year": "2026",
+      "channel": "무비대장",
+      "duration": 46
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "생기는",
     "#shorts",
-    "#소녀시대",
+    "#스케치코미디",
+    "참교육",
+    "생기는",
     "#신병4",
     "개빡친",
     "#조정석",
-    "진짜",
+    "급발진",
     "최후",
     "#악뮤",
     "#악동뮤지션",
@@ -66,8 +67,7 @@
     "충격받은",
     "인간",
     "vs",
-    "차단봉",
-    "과연"
+    "차단봉"
   ],
   "channel_distribution": [
     {
@@ -79,10 +79,6 @@
       "count": 1
     },
     {
-      "channel": "봐방봐방",
-      "count": 1
-    },
-    {
       "channel": "케슛슛",
       "count": 1
     },
@@ -91,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "미소주쥐 | 재미 감동 한가득",
-      "count": 1
-    },
-    {
-      "channel": "엔터박스",
+      "channel": "무비대장",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "무비대장",
+      "channel": "이선생의 영상일기",
       "count": 1
     },
     {
       "channel": "아이픽",
+      "count": 1
+    },
+    {
+      "channel": "코믹박스",
+      "count": 1
+    },
+    {
+      "channel": "예능한스푼",
       "count": 1
     }
   ],
