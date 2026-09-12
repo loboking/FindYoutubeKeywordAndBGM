@@ -3,71 +3,71 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 아이폰, 듀오, 이유, 애플, 요즘, #shorts",
+  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 아이폰, 듀오, 애플, 이유, 갤럭시, 삼성",
   "top_videos_summary": [
     {
-      "views": 3843165,
+      "views": 3910801,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 2854858,
+      "views": 3062203,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
     },
     {
-      "views": 2064711,
+      "views": 2378183,
       "title": "현재 아이폰 듀오가 해외에서 욕먹는 이유",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 27
     },
     {
-      "views": 1996092,
-      "title": "동생 컴퓨터 비밀번호 자릿수 ㄷㄷ",
-      "upload_year": "2026",
-      "channel": "JASON MEDIA",
-      "duration": 27
-    },
-    {
-      "views": 1945234,
+      "views": 2018643,
       "title": "마우스를 샀는데 뭔가 이상하다",
       "upload_year": "2026",
       "channel": "원정상",
       "duration": 13
+    },
+    {
+      "views": 1849754,
+      "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "평양냉면",
+      "duration": 20
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.12,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "아이폰",
     "듀오",
-    "이유",
     "애플",
+    "이유",
+    "갤럭시",
+    "삼성",
+    "근황",
     "요즘",
     "#shorts",
-    "갤럭시",
-    "근황",
     "기능",
     "해외에서",
-    "컴퓨터",
     "이건",
-    "삼성",
     "#Shorts",
-    "반응",
+    "100만원",
     "GS25",
     "예약해야하는",
     "유저끼리",
     "모이면",
-    "무조건"
+    "무조건",
+    "해봐야"
   ],
   "channel_distribution": [
     {
@@ -83,15 +83,23 @@
       "count": 1
     },
     {
-      "channel": "JASON MEDIA",
-      "count": 1
-    },
-    {
       "channel": "원정상",
       "count": 1
     },
     {
+      "channel": "평양냉면",
+      "count": 1
+    },
+    {
+      "channel": "이영상",
+      "count": 1
+    },
+    {
       "channel": "1분미만",
+      "count": 1
+    },
+    {
+      "channel": "허수아비(scarecrow)",
       "count": 1
     },
     {
@@ -100,14 +108,6 @@
     },
     {
       "channel": "가전주부",
-      "count": 1
-    },
-    {
-      "channel": "꽉TV",
-      "count": 1
-    },
-    {
-      "channel": "리뷰띠",
       "count": 1
     }
   ],
