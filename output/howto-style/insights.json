@@ -3,95 +3,83 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, vs, This, 만든, 꼬맹이, 초간단",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 매듭법, 만드는, 초간단, 방법, 강아지",
   "top_videos_summary": [
     {
-      "views": 36589652,
+      "views": 40004181,
+      "title": "Baby Meets a Golden Living Statue! 😲❤️ #Cute",
+      "upload_year": "2026",
+      "channel": "StatueZone 3.0",
+      "duration": 16
+    },
+    {
+      "views": 36706567,
       "title": "From Muddy Mess to Clean Yard — This Dry Creek Bed Did the Trick! 🌧️🌿 #DIY",
       "upload_year": "2026",
       "channel": "HackFusion",
       "duration": 42
     },
     {
-      "views": 30587745,
-      "title": "This Little Girl Meets a Living Statue! 😍 #Cute",
-      "upload_year": "2026",
-      "channel": "StatueZone 2.0",
-      "duration": 16
-    },
-    {
-      "views": 22369902,
+      "views": 31203935,
       "title": "POV: I Thought I Could Do It Too… 😂#funny #comedy #shorts #viral",
       "upload_year": "2026",
       "channel": "Jenny Cuttezz",
       "duration": 27
     },
     {
-      "views": 5867000,
-      "title": "레고로 만든 해리포터 괴물책의 특별한 기능",
+      "views": 4734653,
+      "title": "아들아 오랜만에 시소 함 타자 ㅋㅋ",
       "upload_year": "2026",
-      "channel": "먹구리",
-      "duration": 28
+      "channel": "별헤는쏭",
+      "duration": 19
     },
     {
-      "views": 5058775,
-      "title": "눈치 빠른 꼬맹이 #아기 #baby #엔조이커플 #enjoycouple #강단남매",
+      "views": 4499436,
+      "title": "“내가 없으면 극도로 불안해한다” 태진아 결국 행사까지 줄인 이유#태진아 #옥경이 #트로트대부 #치매간병 #부부사랑 #눈물사연 #트로트 #shorts",
       "upload_year": "2026",
-      "channel": "엔조이커플enjoycouple",
-      "duration": 24
+      "channel": "K-스타 해설소",
+      "duration": 65
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.23,
+    "top1_share": 0.24,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "vs",
-    "This",
-    "만든",
-    "꼬맹이",
-    "초간단",
     "매듭법",
     "만드는",
+    "초간단",
     "방법",
-    "고추전",
+    "강아지",
     "레시피",
+    "고추전",
     "라떼",
     "과일",
+    "음식",
+    "#Cute",
+    "Baby",
+    "Meets",
+    "Golden",
+    "Living",
+    "Statue",
     "#DIY",
     "From",
-    "Muddy",
-    "Mess",
-    "to",
-    "Clean",
-    "Yard"
+    "Muddy"
   ],
   "channel_distribution": [
+    {
+      "channel": "StatueZone 3.0",
+      "count": 1
+    },
     {
       "channel": "HackFusion",
       "count": 1
     },
     {
-      "channel": "StatueZone 2.0",
-      "count": 1
-    },
-    {
       "channel": "Jenny Cuttezz",
-      "count": 1
-    },
-    {
-      "channel": "먹구리",
-      "count": 1
-    },
-    {
-      "channel": "엔조이커플enjoycouple",
-      "count": 1
-    },
-    {
-      "channel": "K-스타 해설소",
       "count": 1
     },
     {
@@ -99,7 +87,19 @@
       "count": 1
     },
     {
-      "channel": "햅독 HAPDOG",
+      "channel": "K-스타 해설소",
+      "count": 1
+    },
+    {
+      "channel": "감꿀테리",
+      "count": 1
+    },
+    {
+      "channel": "짤딜러",
+      "count": 1
+    },
+    {
+      "channel": "생활의반전",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "생활의반전",
+      "channel": "지구별",
       "count": 1
     }
   ],
