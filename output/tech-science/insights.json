@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 아이폰, 듀오, 애플, 이유, 갤럭시, 삼성",
+  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 아이폰, 듀오, 애플, 이유, 삼성, 근황",
   "top_videos_summary": [
     {
-      "views": 3910801,
+      "views": 3970794,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 3062203,
+      "views": 3331899,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
     },
     {
-      "views": 2378183,
+      "views": 2769576,
+      "title": "아빠들은 왜 핸드폰을 안바꿀까",
+      "upload_year": "2026",
+      "channel": "이영상",
+      "duration": 10
+    },
+    {
+      "views": 2544316,
       "title": "현재 아이폰 듀오가 해외에서 욕먹는 이유",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 27
     },
     {
-      "views": 2018643,
-      "title": "마우스를 샀는데 뭔가 이상하다",
-      "upload_year": "2026",
-      "channel": "원정상",
-      "duration": 13
-    },
-    {
-      "views": 1849754,
+      "views": 2543329,
       "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "평양냉면",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -52,22 +52,22 @@
     "듀오",
     "애플",
     "이유",
-    "갤럭시",
     "삼성",
     "근황",
     "요즘",
     "#shorts",
-    "기능",
+    "갤럭시",
+    "폴드8",
     "해외에서",
     "이건",
+    "#애플",
     "#Shorts",
-    "100만원",
+    "총정리",
     "GS25",
     "예약해야하는",
     "유저끼리",
     "모이면",
-    "무조건",
-    "해봐야"
+    "무조건"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "이영상",
       "count": 1
     },
     {
-      "channel": "원정상",
+      "channel": "짧주",
       "count": 1
     },
     {
@@ -91,7 +91,15 @@
       "count": 1
     },
     {
-      "channel": "이영상",
+      "channel": "허수아비(scarecrow)",
+      "count": 1
+    },
+    {
+      "channel": "원정상",
+      "count": 1
+    },
+    {
+      "channel": "테드TV",
       "count": 1
     },
     {
@@ -99,15 +107,7 @@
       "count": 1
     },
     {
-      "channel": "허수아비(scarecrow)",
-      "count": 1
-    },
-    {
       "channel": "보겸TV",
-      "count": 1
-    },
-    {
-      "channel": "가전주부",
       "count": 1
     }
   ],
