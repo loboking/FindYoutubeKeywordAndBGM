@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 애드립, #shorts, #스케치코미디, #신병4",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, #스케치코미디, 애드립, #신병4",
   "top_videos_summary": [
     {
-      "views": 9664472,
+      "views": 11089826,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 8531163,
-      "title": "개그 소품을 찐으로 바꾸면 생기는 일",
-      "upload_year": "2026",
-      "channel": "봐방봐방",
-      "duration": 57
-    },
-    {
-      "views": 6953095,
+      "views": 7054101,
       "title": "친절 베푸는 걸 아끼면 안 되는 이유",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 112
     },
     {
-      "views": 5533884,
-      "title": "유일하게 조정석을 뇌정지 오게 만든 아이유 애드립",
-      "upload_year": "2026",
-      "channel": "엔터박스",
-      "duration": 26
-    },
-    {
-      "views": 5482064,
+      "views": 5754672,
       "title": "로켓이 유독 토르만 믿는 이유 #마블",
       "upload_year": "2026",
       "channel": "어바웃마블",
       "duration": 23
+    },
+    {
+      "views": 5520181,
+      "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 30
+    },
+    {
+      "views": 5260584,
+      "title": "이게 무슨난리 ? 사인 받으려 줄선 외신들 베니스에서 벌어진 일",
+      "upload_year": "2026",
+      "channel": "K-인사이드",
+      "duration": 49
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "생기는",
-    "애드립",
     "#shorts",
+    "생기는",
     "#스케치코미디",
+    "애드립",
     "#신병4",
-    "진짜",
+    "#조정석",
     "급발진",
+    "순간",
     "최후",
-    "무조건",
-    "가장",
-    "#유머",
+    "레전드",
+    "참교육",
+    "하는",
     "죽빵의",
     "달인",
     "김병만",
-    "개그",
-    "소품을",
-    "찐으로",
-    "바꾸면",
-    "친절"
+    "친절",
+    "베푸는",
+    "아끼면",
+    "되는"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "봐방봐방",
-      "count": 1
-    },
-    {
       "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "엔터박스",
       "count": 1
     },
     {
@@ -91,11 +83,15 @@
       "count": 1
     },
     {
+      "channel": "B하인드S토리",
+      "count": 1
+    },
+    {
       "channel": "K-인사이드",
       "count": 1
     },
     {
-      "channel": "도파민부자",
+      "channel": "드라파기",
       "count": 1
     },
     {
@@ -103,7 +99,11 @@
       "count": 1
     },
     {
-      "channel": "드라파기",
+      "channel": "마음 한 조각",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
