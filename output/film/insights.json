@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, #스케치코미디, 애드립, #신병4",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, #스케치코미디, 애드립, 순간, #폭싹속았수다",
   "top_videos_summary": [
     {
-      "views": 11089826,
+      "views": 11851139,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 7054101,
+      "views": 7100321,
       "title": "친절 베푸는 걸 아끼면 안 되는 이유",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 112
     },
     {
-      "views": 5754672,
-      "title": "로켓이 유독 토르만 믿는 이유 #마블",
-      "upload_year": "2026",
-      "channel": "어바웃마블",
-      "duration": 23
-    },
-    {
-      "views": 5520181,
+      "views": 7076907,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 5260584,
-      "title": "이게 무슨난리 ? 사인 받으려 줄선 외신들 베니스에서 벌어진 일",
+      "views": 5846190,
+      "title": "로켓이 유독 토르만 믿는 이유 #마블",
       "upload_year": "2026",
-      "channel": "K-인사이드",
-      "duration": 49
+      "channel": "어바웃마블",
+      "duration": 23
+    },
+    {
+      "views": 5817518,
+      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
+      "upload_year": "2026",
+      "channel": "예능내컷",
+      "duration": 31
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "#shorts",
-    "생기는",
     "#스케치코미디",
     "애드립",
-    "#신병4",
-    "#조정석",
-    "급발진",
     "순간",
+    "#폭싹속았수다",
     "최후",
-    "레전드",
     "참교육",
+    "생기는",
+    "오는",
     "하는",
+    "너무",
     "죽빵의",
     "달인",
     "김병만",
     "친절",
     "베푸는",
     "아끼면",
-    "되는"
+    "되는",
+    "마동석에게"
   ],
   "channel_distribution": [
     {
@@ -79,15 +79,15 @@
       "count": 1
     },
     {
-      "channel": "어바웃마블",
-      "count": 1
-    },
-    {
       "channel": "B하인드S토리",
       "count": 1
     },
     {
-      "channel": "K-인사이드",
+      "channel": "어바웃마블",
+      "count": 1
+    },
+    {
+      "channel": "예능내컷",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "린박스",
+      "channel": "웃기넹",
       "count": 1
     }
   ],
