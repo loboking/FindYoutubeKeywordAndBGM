@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, 참교육, 애드립, 일ㅋㅋ",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 참교육, 너무, 몽골에서",
   "top_videos_summary": [
     {
-      "views": 12638632,
+      "views": 12808481,
       "title": "몽골에서 말 타던 수현이 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
       "upload_year": "2026",
       "channel": "와 여러분",
       "duration": 29
     },
     {
-      "views": 11390499,
-      "title": "인간 vs 차단봉 과연 누가 이길까?",
-      "upload_year": "2026",
-      "channel": "프피의 삶 INFP's Daily",
-      "duration": 25
-    },
-    {
-      "views": 11089826,
+      "views": 11851139,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 6487514,
+      "views": 11649261,
+      "title": "인간 vs 차단봉 과연 누가 이길까?",
+      "upload_year": "2026",
+      "channel": "프피의 삶 INFP's Daily",
+      "duration": 25
+    },
+    {
+      "views": 7075812,
+      "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 30
+    },
+    {
+      "views": 6981608,
       "title": "실화였다는 대대장의 참교육 방법",
       "upload_year": "2026",
       "channel": "무비대장",
       "duration": 46
-    },
-    {
-      "views": 6003278,
-      "title": "초등학생들의 서전트 점프?",
-      "upload_year": "2026",
-      "channel": "이선생의 영상일기",
-      "duration": 52
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "이유",
-    "생기는",
     "#shorts",
+    "생기는",
     "참교육",
+    "너무",
+    "몽골에서",
     "애드립",
+    "진짜",
     "일ㅋㅋ",
-    "#스케치코미디",
+    "보고",
     "보이는",
     "순간",
-    "최후",
     "#유머",
-    "보고",
     "#악뮤",
     "#악동뮤지션",
-    "몽골에서",
     "타던",
     "수현이",
     "한국승마에",
     "충격받은",
-    "인간"
+    "죽빵의"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,15 @@
       "count": 1
     },
     {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
       "channel": "프피의 삶 INFP's Daily",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -95,11 +99,7 @@
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
-      "channel": "예능한스푼",
+      "channel": "예능내컷",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "짤막씨네",
+      "channel": "예능한스푼",
       "count": 1
     }
   ],
