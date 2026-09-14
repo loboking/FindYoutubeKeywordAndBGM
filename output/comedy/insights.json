@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, 참교육, #shorts, #스케치코미디, 스윙스",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, #shorts, 생기는, 참교육, #유머",
   "top_videos_summary": [
     {
-      "views": 12172249,
-      "title": "와이프 재력에 벽을 느낀 남편들의 생존 방식 #장윤정 #강남",
-      "upload_year": "2026",
-      "channel": "부부의 세계",
-      "duration": 41
-    },
-    {
-      "views": 11089826,
+      "views": 11851139,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 8828031,
-      "title": "개그 소품을 찐으로 바꾸면 생기는 일",
-      "upload_year": "2026",
-      "channel": "봐방봐방",
-      "duration": 57
-    },
-    {
-      "views": 6487514,
+      "views": 6981608,
       "title": "실화였다는 대대장의 참교육 방법",
       "upload_year": "2026",
       "channel": "무비대장",
       "duration": 46
     },
     {
-      "views": 5432800,
+      "views": 5817518,
+      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
+      "upload_year": "2026",
+      "channel": "예능내컷",
+      "duration": 31
+    },
+    {
+      "views": 5715937,
       "title": "돈이 너무 많으면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 58
+    },
+    {
+      "views": 5278525,
+      "title": "중대장은 아무나 하는게 아니구나 #신병4",
+      "upload_year": "2026",
+      "channel": "짤막씨네",
+      "duration": 25
     }
   ],
   "outlier_adjusted": {
@@ -49,41 +49,37 @@
   },
   "trend_keywords": [
     "이유",
+    "#스케치코미디",
+    "#shorts",
     "생기는",
     "참교육",
-    "#shorts",
-    "#스케치코미디",
-    "스윙스",
-    "#신병4",
-    "순간",
     "#유머",
+    "#아는형님",
+    "너무",
+    "#신병4",
+    "여자",
+    "순간",
+    "유재석",
     "최후",
-    "가장",
-    "#장윤정",
-    "#강남",
-    "와이프",
-    "재력에",
-    "벽을",
-    "느낀",
-    "남편들의",
-    "생존",
-    "방식"
+    "#코미디",
+    "#웃긴영상",
+    "되는",
+    "죽빵의",
+    "달인",
+    "김병만",
+    "실화였다는"
   ],
   "channel_distribution": [
-    {
-      "channel": "부부의 세계",
-      "count": 1
-    },
     {
       "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "봐방봐방",
+      "channel": "무비대장",
       "count": 1
     },
     {
-      "channel": "무비대장",
+      "channel": "예능내컷",
       "count": 1
     },
     {
@@ -95,10 +91,6 @@
       "count": 1
     },
     {
-      "channel": "폭룡숏",
-      "count": 1
-    },
-    {
       "channel": "마음 한 조각",
       "count": 1
     },
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
+      "channel": "웃기넹",
+      "count": 1
+    },
+    {
       "channel": "린박스",
+      "count": 1
+    },
+    {
+      "channel": "요즘PD",
       "count": 1
     }
   ],
