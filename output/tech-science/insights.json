@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 아이폰, 듀오, 애플, 이유, 삼성, 근황",
+  "formula": "카테고리 인기 shorts(n=38)에서 두드러진 소재/키워드: 아이폰, 듀오, 이유, 삼성, 애플, 갤럭시",
   "top_videos_summary": [
     {
-      "views": 3970794,
+      "views": 4079192,
       "title": "GS25 예약해야하는 이유",
       "upload_year": "2026",
       "channel": "과식이",
       "duration": 22
     },
     {
-      "views": 3331899,
-      "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
-      "upload_year": "2026",
-      "channel": "숏플래시",
-      "duration": 13
-    },
-    {
-      "views": 2769576,
+      "views": 3464665,
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 10
     },
     {
-      "views": 2544316,
-      "title": "현재 아이폰 듀오가 해외에서 욕먹는 이유",
+      "views": 3446055,
+      "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 27
+      "channel": "숏플래시",
+      "duration": 13
     },
     {
-      "views": 2543329,
+      "views": 3049361,
+      "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
+      "upload_year": "2026",
+      "channel": "허수아비(scarecrow)",
+      "duration": 65
+    },
+    {
+      "views": 2989726,
       "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "평양냉면",
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "아이폰",
     "듀오",
-    "애플",
     "이유",
     "삼성",
-    "근황",
-    "요즘",
-    "#shorts",
+    "애플",
     "갤럭시",
+    "근황",
     "폴드8",
+    "기능",
     "해외에서",
-    "이건",
-    "#애플",
+    "#shorts",
     "#Shorts",
     "총정리",
     "GS25",
     "예약해야하는",
+    "아빠들은",
+    "핸드폰을",
+    "안바꿀까",
     "유저끼리",
-    "모이면",
-    "무조건"
+    "모이면"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,11 @@
       "count": 1
     },
     {
-      "channel": "숏플래시",
-      "count": 1
-    },
-    {
       "channel": "이영상",
       "count": 1
     },
     {
-      "channel": "짧주",
-      "count": 1
-    },
-    {
-      "channel": "평양냉면",
+      "channel": "숏플래시",
       "count": 1
     },
     {
@@ -95,7 +87,11 @@
       "count": 1
     },
     {
-      "channel": "원정상",
+      "channel": "평양냉면",
+      "count": 1
+    },
+    {
+      "channel": "짧주",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "1분미만",
+      "channel": "원정상",
       "count": 1
     },
     {
       "channel": "보겸TV",
+      "count": 1
+    },
+    {
+      "channel": "가전주부",
       "count": 1
     }
   ],
