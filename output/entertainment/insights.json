@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 참교육, 몽골에서, #아는형님",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 몽골에서, #아는형님, 이수근이",
   "top_videos_summary": [
     {
-      "views": 12857223,
-      "title": "몽골에서 말 타던 수현이 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
-      "upload_year": "2026",
-      "channel": "와 여러분",
-      "duration": 29
-    },
-    {
-      "views": 12597697,
+      "views": 13236862,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 11865283,
-      "title": "인간 vs 차단봉 과연 누가 이길까?",
+      "views": 12904989,
+      "title": "몽골에서 말 타던 수현 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
       "upload_year": "2026",
-      "channel": "프피의 삶 INFP's Daily",
-      "duration": 25
+      "channel": "와 여러분",
+      "duration": 29
     },
     {
-      "views": 8102792,
+      "views": 8884002,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 7213007,
-      "title": "실화였다는 대대장의 참교육 방법",
+      "views": 7562271,
+      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
-      "channel": "무비대장",
-      "duration": 46
+      "channel": "예능내컷",
+      "duration": 31
+    },
+    {
+      "views": 6985375,
+      "title": "핫걸 의상 입은 원이를 보고 시선 회피하는 미나미 ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "연예소식뉴스",
+      "duration": 14
     }
   ],
   "outlier_adjusted": {
@@ -51,35 +51,31 @@
     "이유",
     "#shorts",
     "생기는",
-    "참교육",
     "몽골에서",
     "#아는형님",
-    "보고",
-    "아버지",
+    "이수근이",
     "진짜",
     "너무",
     "일ㅋㅋ",
+    "#스케치코미디",
     "보이는",
     "순간",
-    "리센느",
-    "최후",
+    "참교육",
+    "갑자기",
+    "원피스",
+    "죽빵의",
+    "달인",
+    "김병만",
     "#악뮤",
-    "#악동뮤지션",
-    "타던",
-    "수현이",
-    "한국승마에"
+    "#악동뮤지션"
   ],
   "channel_distribution": [
-    {
-      "channel": "와 여러분",
-      "count": 1
-    },
     {
       "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "프피의 삶 INFP's Daily",
+      "channel": "와 여러분",
       "count": 1
     },
     {
@@ -87,15 +83,7 @@
       "count": 1
     },
     {
-      "channel": "무비대장",
-      "count": 1
-    },
-    {
       "channel": "예능내컷",
-      "count": 1
-    },
-    {
-      "channel": "이선생의 영상일기",
       "count": 1
     },
     {
@@ -104,6 +92,18 @@
     },
     {
       "channel": "드라파기",
+      "count": 1
+    },
+    {
+      "channel": "트렌드룸 Trend Room",
+      "count": 1
+    },
+    {
+      "channel": "요즘PD",
+      "count": 1
+    },
+    {
+      "channel": "배꼽도둑",
       "count": 1
     },
     {
