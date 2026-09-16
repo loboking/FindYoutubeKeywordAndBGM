@@ -3,66 +3,66 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #스케치코미디, 참교육, 생기는, #유머",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 참교육, #스케치코미디, #아는형님, 이수근이",
   "top_videos_summary": [
     {
-      "views": 12597697,
+      "views": 13238556,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 7213007,
-      "title": "실화였다는 대대장의 참교육 방법",
-      "upload_year": "2026",
-      "channel": "무비대장",
-      "duration": 46
-    },
-    {
-      "views": 6952223,
+      "views": 7562271,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 5870447,
+      "views": 7258602,
+      "title": "실화였다는 대대장의 참교육 방법",
+      "upload_year": "2026",
+      "channel": "무비대장",
+      "duration": 46
+    },
+    {
+      "views": 6150514,
+      "title": "친구가 준 바지 입고 무조건 여행하기",
+      "upload_year": "2026",
+      "channel": "요즘PD",
+      "duration": 59
+    },
+    {
+      "views": 5948009,
       "title": "돈이 너무 많으면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 58
-    },
-    {
-      "views": 5333761,
-      "title": "중대장은 아무나 하는게 아니구나 #신병4",
-      "upload_year": "2026",
-      "channel": "짤막씨네",
-      "duration": 25
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "#shorts",
-    "#스케치코미디",
     "참교육",
-    "생기는",
-    "#유머",
-    "최후",
-    "#코미디",
+    "#스케치코미디",
     "#아는형님",
     "이수근이",
+    "방법",
     "너무",
-    "여자",
+    "생기는",
     "순간",
-    "애드립",
-    "#웃긴영상",
+    "다른",
+    "#코미디",
+    "KBS",
+    "방송",
+    "최후",
     "내쫓은",
     "#시니어드라마",
     "죽빵의",
@@ -75,11 +75,15 @@
       "count": 1
     },
     {
+      "channel": "예능내컷",
+      "count": 1
+    },
+    {
       "channel": "무비대장",
       "count": 1
     },
     {
-      "channel": "예능내컷",
+      "channel": "요즘PD",
       "count": 1
     },
     {
@@ -87,15 +91,7 @@
       "count": 1
     },
     {
-      "channel": "짤막씨네",
-      "count": 1
-    },
-    {
       "channel": "웃기넹",
-      "count": 1
-    },
-    {
-      "channel": "요즘PD",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "B하인드S토리",
+      "count": 1
+    },
+    {
+      "channel": "아이돌캐치",
       "count": 1
     }
   ],
