@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #스케치코미디, 참교육, 애드립, 이수근이",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 참교육, 이수근이, #스케치코미디, 순간",
   "top_videos_summary": [
     {
-      "views": 13238556,
+      "views": 15872214,
+      "title": "저승사자 vs 천사 (14편)",
+      "upload_year": "2026",
+      "channel": "저승이와 친구들",
+      "duration": 30
+    },
+    {
+      "views": 14171273,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 8885500,
+      "views": 9275742,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 7562271,
+      "views": 7966773,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 6350158,
-      "title": "아버지 얘기는 진짜 선넘었다ㅠ",
-      "upload_year": "2026",
-      "channel": "드라파기",
-      "duration": 66
-    },
-    {
-      "views": 6150514,
+      "views": 6433793,
       "title": "친구가 준 바지 입고 무조건 여행하기",
       "upload_year": "2026",
       "channel": "요즘PD",
@@ -50,19 +50,19 @@
   "trend_keywords": [
     "이유",
     "#shorts",
-    "#스케치코미디",
     "참교육",
-    "애드립",
     "이수근이",
-    "아버지",
+    "#스케치코미디",
     "순간",
     "#메이드인코리아2",
-    "끝까지",
     "원피스",
-    "#영화",
+    "다시",
     "#코미디",
-    "최후",
-    "내쫓은",
+    "당하는",
+    "저승사자",
+    "vs",
+    "천사",
+    "14편",
     "죽빵의",
     "달인",
     "김병만",
@@ -70,6 +70,10 @@
     "배운"
   ],
   "channel_distribution": [
+    {
+      "channel": "저승이와 친구들",
+      "count": 1
+    },
     {
       "channel": "케슛슛",
       "count": 1
@@ -83,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "드라파기",
+      "channel": "요즘PD",
       "count": 1
     },
     {
-      "channel": "요즘PD",
+      "channel": "드라파기",
       "count": 1
     },
     {
@@ -99,15 +103,11 @@
       "count": 1
     },
     {
-      "channel": "원씨네",
-      "count": 1
-    },
-    {
       "channel": "SBS Entertainment",
       "count": 1
     },
     {
-      "channel": "좋은울림",
+      "channel": "원씨네",
       "count": 1
     }
   ],
