@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 참교육, #스케치코미디, #아는형님, 이수근이",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 참교육, #스케치코미디, KBS, 방송",
   "top_videos_summary": [
     {
-      "views": 13238556,
+      "views": 14169141,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 7562271,
+      "views": 7966687,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 7258602,
+      "views": 7272620,
       "title": "실화였다는 대대장의 참교육 방법",
       "upload_year": "2026",
       "channel": "무비대장",
       "duration": 46
     },
     {
-      "views": 6150514,
+      "views": 6433793,
       "title": "친구가 준 바지 입고 무조건 여행하기",
       "upload_year": "2026",
       "channel": "요즘PD",
       "duration": 59
     },
     {
-      "views": 5948009,
+      "views": 6062655,
       "title": "돈이 너무 많으면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
@@ -52,22 +52,22 @@
     "#shorts",
     "참교육",
     "#스케치코미디",
+    "KBS",
+    "방송",
     "#아는형님",
     "이수근이",
     "방법",
     "너무",
     "생기는",
     "순간",
-    "다른",
     "#코미디",
-    "KBS",
-    "방송",
-    "최후",
-    "내쫓은",
     "#시니어드라마",
     "죽빵의",
     "달인",
-    "김병만"
+    "김병만",
+    "지켜본",
+    "김희철의",
+    "친구와"
   ],
   "channel_distribution": [
     {
@@ -95,7 +95,7 @@
       "count": 1
     },
     {
-      "channel": "마음 한 조각",
+      "channel": "아이돌캐치",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
+      "channel": "해외쇼쇼",
       "count": 1
     },
     {
-      "channel": "아이돌캐치",
+      "channel": "원씨네",
       "count": 1
     }
   ],
