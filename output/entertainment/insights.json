@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 생기는, 몽골에서, #아는형님, 이수근이",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 몽골에서, #shorts, #아는형님, 이수근이, 진짜",
   "top_videos_summary": [
     {
-      "views": 13236862,
+      "views": 14169141,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 12904989,
+      "views": 13048845,
       "title": "몽골에서 말 타던 수현 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
       "upload_year": "2026",
       "channel": "와 여러분",
       "duration": 29
     },
     {
-      "views": 8884002,
+      "views": 9275329,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 7562271,
+      "views": 8192540,
+      "title": "몽골에서 엄청난 승마실력을 보여주는 천재 이찬혁ㄷㄷ",
+      "upload_year": "2026",
+      "channel": "트렌드룸 Trend Room",
+      "duration": 18
+    },
+    {
+      "views": 7966687,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
-    },
-    {
-      "views": 6985375,
-      "title": "핫걸 의상 입은 원이를 보고 시선 회피하는 미나미 ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "연예소식뉴스",
-      "duration": 14
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
-    "생기는",
     "몽골에서",
+    "#shorts",
     "#아는형님",
     "이수근이",
     "진짜",
     "너무",
-    "일ㅋㅋ",
-    "#스케치코미디",
-    "보이는",
+    "생기는",
     "순간",
-    "참교육",
-    "갑자기",
-    "원피스",
+    "TOP5",
+    "#채수빈",
     "죽빵의",
     "달인",
     "김병만",
     "#악뮤",
-    "#악동뮤지션"
+    "#악동뮤지션",
+    "타던",
+    "수현",
+    "한국승마에",
+    "충격받은"
   ],
   "channel_distribution": [
     {
@@ -83,6 +83,10 @@
       "count": 1
     },
     {
+      "channel": "트렌드룸 Trend Room",
+      "count": 1
+    },
+    {
       "channel": "예능내컷",
       "count": 1
     },
@@ -91,11 +95,7 @@
       "count": 1
     },
     {
-      "channel": "드라파기",
-      "count": 1
-    },
-    {
-      "channel": "트렌드룸 Trend Room",
+      "channel": "배꼽도둑",
       "count": 1
     },
     {
@@ -103,7 +103,7 @@
       "count": 1
     },
     {
-      "channel": "배꼽도둑",
+      "channel": "드라파기",
       "count": 1
     },
     {
