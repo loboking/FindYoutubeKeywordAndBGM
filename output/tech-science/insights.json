@@ -6,39 +6,39 @@
   "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: 아이폰, 듀오, 삼성, 근황, 갤럭시, 이유",
   "top_videos_summary": [
     {
-      "views": 4504405,
+      "views": 4751986,
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 10
     },
     {
-      "views": 3644394,
+      "views": 3721478,
       "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
       "upload_year": "2026",
       "channel": "허수아비(scarecrow)",
       "duration": 65
     },
     {
-      "views": 3501465,
+      "views": 3575440,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
     },
     {
-      "views": 3433856,
+      "views": 3508098,
       "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 20
     },
     {
-      "views": 2667947,
-      "title": "현재 아이폰 듀오가 해외에서 욕먹는 이유",
+      "views": 2883725,
+      "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 27
+      "channel": "김블루",
+      "duration": 42
     }
   ],
   "outlier_adjusted": {
@@ -57,7 +57,7 @@
     "애플",
     "기능",
     "해외에서",
-    "컴퓨터",
+    "요즘",
     "#shorts",
     "#Shorts",
     "TV",
@@ -87,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "김블루",
+      "count": 1
+    },
+    {
       "channel": "짧주",
       "count": 1
     },
@@ -99,15 +103,11 @@
       "count": 1
     },
     {
-      "channel": "1분미만",
-      "count": 1
-    },
-    {
       "channel": "짤한줌",
       "count": 1
     },
     {
-      "channel": "김블루",
+      "channel": "1분미만",
       "count": 1
     }
   ],
