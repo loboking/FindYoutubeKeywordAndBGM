@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 몽골에서, #shorts, #아는형님, 이수근이, 진짜",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 되는, #아는형님, 이수근이, 진짜, TOP5",
   "top_videos_summary": [
     {
-      "views": 14169141,
+      "views": 18464979,
+      "title": "저승사자 vs 천사 (14편)",
+      "upload_year": "2026",
+      "channel": "저승이와 친구들",
+      "duration": 30
+    },
+    {
+      "views": 14839887,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 13048845,
-      "title": "몽골에서 말 타던 수현 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
+      "views": 10339858,
+      "title": "절대 따라하면 안 되는 고모의 장기자랑",
       "upload_year": "2026",
-      "channel": "와 여러분",
-      "duration": 29
+      "channel": "폭스컷",
+      "duration": 64
     },
     {
-      "views": 9275329,
+      "views": 9568895,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 8192540,
+      "views": 9458052,
       "title": "몽골에서 엄청난 승마실력을 보여주는 천재 이찬혁ㄷㄷ",
       "upload_year": "2026",
       "channel": "트렌드룸 Trend Room",
       "duration": 18
-    },
-    {
-      "views": 7966687,
-      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "예능내컷",
-      "duration": 31
     }
   ],
   "outlier_adjusted": {
@@ -49,33 +49,37 @@
   },
   "trend_keywords": [
     "이유",
-    "몽골에서",
-    "#shorts",
+    "되는",
     "#아는형님",
     "이수근이",
     "진짜",
-    "너무",
-    "생기는",
-    "순간",
     "TOP5",
     "#채수빈",
+    "최후",
+    "다시",
+    "저승사자",
+    "vs",
+    "천사",
+    "14편",
     "죽빵의",
     "달인",
     "김병만",
-    "#악뮤",
-    "#악동뮤지션",
-    "타던",
-    "수현",
-    "한국승마에",
-    "충격받은"
+    "절대",
+    "따라하면",
+    "고모의",
+    "장기자랑"
   ],
   "channel_distribution": [
+    {
+      "channel": "저승이와 친구들",
+      "count": 1
+    },
     {
       "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "와 여러분",
+      "channel": "폭스컷",
       "count": 1
     },
     {
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": "배꼽도둑",
-      "count": 1
-    },
-    {
       "channel": "요즘PD",
       "count": 1
     },
     {
-      "channel": "드라파기",
+      "channel": "배꼽도둑",
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "드라파기",
       "count": 1
     }
   ],

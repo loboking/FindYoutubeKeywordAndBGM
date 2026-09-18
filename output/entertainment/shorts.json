@@ -3,15 +3,26 @@
   "slug": "entertainment",
   "source": "mostpopular_category",
   "category_id": "24",
-  "shorts_found": 49,
+  "shorts_found": 50,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
   "videos": [
     {
+      "id": "AbM8faxDQLk",
+      "title": "저승사자 vs 천사 (14편)",
+      "view_count": 18464979,
+      "duration": 30,
+      "upload_date": "20260916",
+      "category": "24",
+      "channel": "저승이와 친구들",
+      "source_channel": "저승이와 친구들",
+      "url": "https://www.youtube.com/watch?v=AbM8faxDQLk"
+    },
+    {
       "id": "OTpCu8pnKgs",
       "title": "죽빵의 달인 김병만",
-      "view_count": 14169141,
+      "view_count": 14839887,
       "duration": 42,
       "upload_date": "20260908",
       "category": "22",
@@ -20,20 +31,20 @@
       "url": "https://www.youtube.com/watch?v=OTpCu8pnKgs"
     },
     {
-      "id": "56m-TlxhkF4",
-      "title": "몽골에서 말 타던 수현 한국승마에 충격받은 이유 #악뮤 #악동뮤지션",
-      "view_count": 13048845,
-      "duration": 29,
-      "upload_date": "20260906",
-      "category": "10",
-      "channel": "와 여러분",
-      "source_channel": "와 여러분",
-      "url": "https://www.youtube.com/watch?v=56m-TlxhkF4"
+      "id": "8beXPTxOppQ",
+      "title": "절대 따라하면 안 되는 고모의 장기자랑",
+      "view_count": 10339858,
+      "duration": 64,
+      "upload_date": "20260910",
+      "category": "1",
+      "channel": "폭스컷",
+      "source_channel": "폭스컷",
+      "url": "https://www.youtube.com/watch?v=8beXPTxOppQ"
     },
     {
       "id": "k2XHw7PGEjw",
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
-      "view_count": 9275329,
+      "view_count": 9568895,
       "duration": 30,
       "upload_date": "20260911",
       "category": "22",
@@ -44,7 +55,7 @@
     {
       "id": "D93_ohEtl3c",
       "title": "몽골에서 엄청난 승마실력을 보여주는 천재 이찬혁ㄷㄷ",
-      "view_count": 8192540,
+      "view_count": 9458052,
       "duration": 18,
       "upload_date": "20260914",
       "category": "10",
@@ -55,7 +66,7 @@
     {
       "id": "C1yp4rrTr0g",
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
-      "view_count": 7966687,
+      "view_count": 8106946,
       "duration": 31,
       "upload_date": "20260910",
       "category": "22",
@@ -66,7 +77,7 @@
     {
       "id": "bhBZjQnWBZQ",
       "title": "핫걸 의상 입은 원이를 보고 시선 회피하는 미나미 ㅋㅋ",
-      "view_count": 7172838,
+      "view_count": 7342923,
       "duration": 14,
       "upload_date": "20260912",
       "category": "22",
@@ -75,20 +86,9 @@
       "url": "https://www.youtube.com/watch?v=bhBZjQnWBZQ"
     },
     {
-      "id": "Lso377ViINE",
-      "title": "우영이 급하게 촬영 중단시킨 이유",
-      "view_count": 6436320,
-      "duration": 15,
-      "upload_date": "20260910",
-      "category": "22",
-      "channel": "배꼽도둑",
-      "source_channel": "배꼽도둑",
-      "url": "https://www.youtube.com/watch?v=Lso377ViINE"
-    },
-    {
       "id": "mhOoJu6oKSs",
       "title": "친구가 준 바지 입고 무조건 여행하기",
-      "view_count": 6433733,
+      "view_count": 6666557,
       "duration": 59,
       "upload_date": "20260909",
       "category": "24",
@@ -97,9 +97,20 @@
       "url": "https://www.youtube.com/watch?v=mhOoJu6oKSs"
     },
     {
+      "id": "Lso377ViINE",
+      "title": "우영이 급하게 촬영 중단시킨 이유",
+      "view_count": 6634744,
+      "duration": 15,
+      "upload_date": "20260910",
+      "category": "22",
+      "channel": "배꼽도둑",
+      "source_channel": "배꼽도둑",
+      "url": "https://www.youtube.com/watch?v=Lso377ViINE"
+    },
+    {
       "id": "KxOWtLEyCdc",
       "title": "아버지 얘기는 진짜 선넘었다ㅠ",
-      "view_count": 6408168,
+      "view_count": 6478646,
       "duration": 66,
       "upload_date": "20260909",
       "category": "1",
@@ -108,20 +119,20 @@
       "url": "https://www.youtube.com/watch?v=KxOWtLEyCdc"
     },
     {
-      "id": "qYJatLPDiA8",
-      "title": "돈이 너무 많으면 생기는 일ㅋㅋ #shorts",
-      "view_count": 6062655,
-      "duration": 58,
-      "upload_date": "20260908",
-      "category": "24",
-      "channel": "예능한스푼",
-      "source_channel": "예능한스푼",
-      "url": "https://www.youtube.com/watch?v=qYJatLPDiA8"
+      "id": "OB_mRq8dyP8",
+      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
+      "view_count": 6173093,
+      "duration": 38,
+      "upload_date": "20260914",
+      "category": "22",
+      "channel": "알면좋아",
+      "source_channel": "알면좋아",
+      "url": "https://www.youtube.com/watch?v=OB_mRq8dyP8"
     },
     {
       "id": "QpikcHIblsI",
       "title": "남자들는 공감된다는 내 여자 예뻐 보이는 순간 #스케치코미디",
-      "view_count": 5856317,
+      "view_count": 5926247,
       "duration": 34,
       "upload_date": "20260910",
       "category": "10",
@@ -130,31 +141,9 @@
       "url": "https://www.youtube.com/watch?v=QpikcHIblsI"
     },
     {
-      "id": "W75id3_iW-U",
-      "title": "아기들에게 기 빨리는 오해원",
-      "view_count": 4801993,
-      "duration": 55,
-      "upload_date": "20260910",
-      "category": "24",
-      "channel": "사랑해원",
-      "source_channel": "사랑해원",
-      "url": "https://www.youtube.com/watch?v=W75id3_iW-U"
-    },
-    {
-      "id": "yrvbuo9rrmI",
-      "title": "아이돌이 연예인 병 없으면 생기는 일 TOP5",
-      "view_count": 4760580,
-      "duration": 53,
-      "upload_date": "20260912",
-      "category": "22",
-      "channel": "인물쇼츠팅",
-      "source_channel": "인물쇼츠팅",
-      "url": "https://www.youtube.com/watch?v=yrvbuo9rrmI"
-    },
-    {
       "id": "-I5Fu1ILdg8",
       "title": "최산 때려야 하는데 못 때리는 양세찬·하하",
-      "view_count": 4724826,
+      "view_count": 5389023,
       "duration": 38,
       "upload_date": "20260913",
       "category": "24",
@@ -163,9 +152,31 @@
       "url": "https://www.youtube.com/watch?v=-I5Fu1ILdg8"
     },
     {
+      "id": "yrvbuo9rrmI",
+      "title": "아이돌이 연예인 병 없으면 생기는 일 TOP5",
+      "view_count": 5088041,
+      "duration": 53,
+      "upload_date": "20260912",
+      "category": "22",
+      "channel": "인물쇼츠팅",
+      "source_channel": "인물쇼츠팅",
+      "url": "https://www.youtube.com/watch?v=yrvbuo9rrmI"
+    },
+    {
+      "id": "W75id3_iW-U",
+      "title": "아기들에게 기 빨리는 오해원",
+      "view_count": 4908558,
+      "duration": 55,
+      "upload_date": "20260910",
+      "category": "24",
+      "channel": "사랑해원",
+      "source_channel": "사랑해원",
+      "url": "https://www.youtube.com/watch?v=W75id3_iW-U"
+    },
+    {
       "id": "bglprPNu9EQ",
       "title": "대체 매력이 뭔데~! #비서진 #MyGrumpySecretary #sbsenter",
-      "view_count": 3937618,
+      "view_count": 4208687,
       "duration": 65,
       "upload_date": "20260912",
       "category": "24",
@@ -174,42 +185,9 @@
       "url": "https://www.youtube.com/watch?v=bglprPNu9EQ"
     },
     {
-      "id": "bnNcEw4auBw",
-      "title": "급발진 김성오의 극대노 참교육",
-      "view_count": 3725986,
-      "duration": 42,
-      "upload_date": "20260911",
-      "category": "24",
-      "channel": "원씨네",
-      "source_channel": "원씨네",
-      "url": "https://www.youtube.com/watch?v=bnNcEw4auBw"
-    },
-    {
-      "id": "9wKq-eF_NnY",
-      "title": "뒤로 달리기를 역재생 한다면?ㅋㅋㅋ",
-      "view_count": 3694656,
-      "duration": 18,
-      "upload_date": "20260912",
-      "category": "22",
-      "channel": "아이뽀 i4",
-      "source_channel": "아이뽀 i4",
-      "url": "https://www.youtube.com/watch?v=9wKq-eF_NnY"
-    },
-    {
-      "id": "LN4RFTxBeu4",
-      "title": "너무 사랑해서 뭐든 따라하는 남편#폭싹속았수다",
-      "view_count": 3648213,
-      "duration": 44,
-      "upload_date": "20260913",
-      "category": "22",
-      "channel": "낭만애플",
-      "source_channel": "낭만애플",
-      "url": "https://www.youtube.com/watch?v=LN4RFTxBeu4"
-    },
-    {
       "id": "NQGHKKOC8VE",
       "title": "상위 1%만 되는 채수빈의 놀라운 개인기ㄷㄷ #채수빈 #아는형님",
-      "view_count": 3636939,
+      "view_count": 4122617,
       "duration": 49,
       "upload_date": "20260911",
       "category": "24",
@@ -218,97 +196,20 @@
       "url": "https://www.youtube.com/watch?v=NQGHKKOC8VE"
     },
     {
-      "id": "DI2pFgAcxiM",
-      "title": "리센느 실물보면 나오는 찐반응ㅋㅋ",
-      "view_count": 3015766,
-      "duration": 11,
-      "upload_date": "20260914",
-      "category": "24",
-      "channel": "입덕랭킹필름",
-      "source_channel": "입덕랭킹필름",
-      "url": "https://www.youtube.com/watch?v=DI2pFgAcxiM"
-    },
-    {
-      "id": "h5kBOSMgqLU",
-      "title": "리센느랑 꾸대표가 살이 찔 수밖에 없었던 진짜 이유ㅋㅋㅋㅋ",
-      "view_count": 2974690,
-      "duration": 24,
+      "id": "LN4RFTxBeu4",
+      "title": "너무 사랑해서 뭐든 따라하는 남편#폭싹속았수다",
+      "view_count": 4079072,
+      "duration": 44,
       "upload_date": "20260913",
-      "category": "23",
-      "channel": "해외유머갤러리",
-      "source_channel": "해외유머갤러리",
-      "url": "https://www.youtube.com/watch?v=h5kBOSMgqLU"
-    },
-    {
-      "id": "Ag-ocFcuD3U",
-      "title": "이수근이 1박2일 하면서 가장 놀랐던 장면 ㅋㅋㅋ",
-      "view_count": 2873343,
-      "duration": 39,
-      "upload_date": "20260914",
-      "category": "10",
-      "channel": "방금뭐였지?",
-      "source_channel": "방금뭐였지?",
-      "url": "https://www.youtube.com/watch?v=Ag-ocFcuD3U"
-    },
-    {
-      "id": "LEOeDpSPmNc",
-      "title": "후임 기강 잡으려다 PTSD 오는 최고참 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
-      "view_count": 2839042,
-      "duration": 52,
-      "upload_date": "20260914",
       "category": "22",
-      "channel": "다시볼티비",
-      "source_channel": "다시볼티비",
-      "url": "https://www.youtube.com/watch?v=LEOeDpSPmNc"
-    },
-    {
-      "id": "DGKQpGUNYpE",
-      "title": "대기실을 안방처럼 쓰는 6세대 신인 효리수",
-      "view_count": 2733259,
-      "duration": 98,
-      "upload_date": "20260916",
-      "category": "10",
-      "channel": "소녀시대연구소",
-      "source_channel": "소녀시대연구소",
-      "url": "https://www.youtube.com/watch?v=DGKQpGUNYpE"
-    },
-    {
-      "id": "2p1e9fAGnPI",
-      "title": "화장실만 갔을 뿐인데 관심사원 된 이유",
-      "view_count": 2712223,
-      "duration": 48,
-      "upload_date": "20260914",
-      "category": "1",
-      "channel": "짤시네마",
-      "source_channel": "짤시네마",
-      "url": "https://www.youtube.com/watch?v=2p1e9fAGnPI"
-    },
-    {
-      "id": "VCYKwf83s5k",
-      "title": "익준이가 장난기 빼고 진지해지는 순간 #슬기로운생활 #슬의생 #조정석 #전미도",
-      "view_count": 2686332,
-      "duration": 80,
-      "upload_date": "20260911",
-      "category": "27",
-      "channel": "또캐치",
-      "source_channel": "또캐치",
-      "url": "https://www.youtube.com/watch?v=VCYKwf83s5k"
-    },
-    {
-      "id": "fALGnHRH0gE",
-      "title": "찐 가족같은 3생 #신병4 8회 #쇼츠 #ENA",
-      "view_count": 2595485,
-      "duration": 25,
-      "upload_date": "20260915",
-      "category": "1",
-      "channel": "ENA DRAMA",
-      "source_channel": "ENA DRAMA",
-      "url": "https://www.youtube.com/watch?v=fALGnHRH0gE"
+      "channel": "낭만애플",
+      "source_channel": "낭만애플",
+      "url": "https://www.youtube.com/watch?v=LN4RFTxBeu4"
     },
     {
       "id": "bVMNJUVQeSQ",
       "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
-      "view_count": 2559523,
+      "view_count": 3866315,
       "duration": 30,
       "upload_date": "20260915",
       "category": "22",
@@ -317,20 +218,108 @@
       "url": "https://www.youtube.com/watch?v=bVMNJUVQeSQ"
     },
     {
-      "id": "v1g1M063xAk",
-      "title": "장첸의 드립",
-      "view_count": 2401786,
-      "duration": 54,
-      "upload_date": "20260912",
+      "id": "DI2pFgAcxiM",
+      "title": "리센느 실물보면 나오는 찐반응ㅋㅋ",
+      "view_count": 3815144,
+      "duration": 11,
+      "upload_date": "20260914",
       "category": "24",
-      "channel": "예능상회",
-      "source_channel": "예능상회",
-      "url": "https://www.youtube.com/watch?v=v1g1M063xAk"
+      "channel": "입덕랭킹필름",
+      "source_channel": "입덕랭킹필름",
+      "url": "https://www.youtube.com/watch?v=DI2pFgAcxiM"
+    },
+    {
+      "id": "bnNcEw4auBw",
+      "title": "급발진 김성오의 극대노 참교육",
+      "view_count": 3755332,
+      "duration": 42,
+      "upload_date": "20260911",
+      "category": "24",
+      "channel": "원씨네",
+      "source_channel": "원씨네",
+      "url": "https://www.youtube.com/watch?v=bnNcEw4auBw"
+    },
+    {
+      "id": "qeL9ZX5rF7A",
+      "title": "버릇없는 일본군 참교육한 한국 여우 #이동욱 #김범 #김소연 #구미호뎐1938 #드라마",
+      "view_count": 3296461,
+      "duration": 41,
+      "upload_date": "20260913",
+      "category": "1",
+      "channel": "다시그림",
+      "source_channel": "다시그림",
+      "url": "https://www.youtube.com/watch?v=qeL9ZX5rF7A"
+    },
+    {
+      "id": "Ag-ocFcuD3U",
+      "title": "이수근이 1박2일 하면서 가장 놀랐던 장면 ㅋㅋㅋ",
+      "view_count": 3238629,
+      "duration": 39,
+      "upload_date": "20260914",
+      "category": "10",
+      "channel": "방금뭐였지?",
+      "source_channel": "방금뭐였지?",
+      "url": "https://www.youtube.com/watch?v=Ag-ocFcuD3U"
+    },
+    {
+      "id": "DGKQpGUNYpE",
+      "title": "대기실을 안방처럼 쓰는 6세대 신인 효리수",
+      "view_count": 3189083,
+      "duration": 98,
+      "upload_date": "20260916",
+      "category": "10",
+      "channel": "소녀시대연구소",
+      "source_channel": "소녀시대연구소",
+      "url": "https://www.youtube.com/watch?v=DGKQpGUNYpE"
+    },
+    {
+      "id": "h5kBOSMgqLU",
+      "title": "리센느랑 꾸대표가 살이 찔 수밖에 없었던 진짜 이유ㅋㅋㅋㅋ",
+      "view_count": 3159914,
+      "duration": 24,
+      "upload_date": "20260913",
+      "category": "23",
+      "channel": "해외유머갤러리",
+      "source_channel": "해외유머갤러리",
+      "url": "https://www.youtube.com/watch?v=h5kBOSMgqLU"
+    },
+    {
+      "id": "o71QDagbu4o",
+      "title": "0.1초만에 웃음기 싹 빼는 이준영",
+      "view_count": 3061148,
+      "duration": 12,
+      "upload_date": "20260916",
+      "category": "24",
+      "channel": "비하인드 아카이빙",
+      "source_channel": "비하인드 아카이빙",
+      "url": "https://www.youtube.com/watch?v=o71QDagbu4o"
+    },
+    {
+      "id": "2p1e9fAGnPI",
+      "title": "화장실만 갔을 뿐인데 관심사원 된 이유",
+      "view_count": 2979195,
+      "duration": 48,
+      "upload_date": "20260914",
+      "category": "1",
+      "channel": "짤시네마",
+      "source_channel": "짤시네마",
+      "url": "https://www.youtube.com/watch?v=2p1e9fAGnPI"
+    },
+    {
+      "id": "Gt4ZZbA0EAE",
+      "title": "1분 만에 상대를 바보로 만드는 방법",
+      "view_count": 2978250,
+      "duration": 94,
+      "upload_date": "20260915",
+      "category": "24",
+      "channel": "명화관",
+      "source_channel": "명화관",
+      "url": "https://www.youtube.com/watch?v=Gt4ZZbA0EAE"
     },
     {
       "id": "Nsh9cUIrKJE",
       "title": "갑자기 춤이 기억 안 났던 원이",
-      "view_count": 2388111,
+      "view_count": 2969410,
       "duration": 30,
       "upload_date": "20260913",
       "category": "22",
@@ -341,7 +330,7 @@
     {
       "id": "80oNUlNDUow",
       "title": "(혈압주의) 입양한 아이를 끝까지 책임진다는 것",
-      "view_count": 2308916,
+      "view_count": 2826035,
       "duration": 161,
       "upload_date": "20260915",
       "category": "1",
@@ -350,9 +339,20 @@
       "url": "https://www.youtube.com/watch?v=80oNUlNDUow"
     },
     {
+      "id": "fALGnHRH0gE",
+      "title": "찐 가족같은 3생 #신병4 8회 #쇼츠 #ENA",
+      "view_count": 2734074,
+      "duration": 25,
+      "upload_date": "20260915",
+      "category": "1",
+      "channel": "ENA DRAMA",
+      "source_channel": "ENA DRAMA",
+      "url": "https://www.youtube.com/watch?v=fALGnHRH0gE"
+    },
+    {
       "id": "88Lgjl9ubdQ",
       "title": "꼬라지 하고는~ 경매 압살해버린 한예슬",
-      "view_count": 2276522,
+      "view_count": 2642683,
       "duration": 41,
       "upload_date": "20260913",
       "category": "22",
@@ -361,20 +361,20 @@
       "url": "https://www.youtube.com/watch?v=88Lgjl9ubdQ"
     },
     {
-      "id": "Z_tuB6Cv9JM",
-      "title": "질문 잘 받아치는 류혜영 #류혜영",
-      "view_count": 2237038,
-      "duration": 21,
-      "upload_date": "20260914",
-      "category": "22",
-      "channel": "짧은 즐거움",
-      "source_channel": "짧은 즐거움",
-      "url": "https://www.youtube.com/watch?v=Z_tuB6Cv9JM"
+      "id": "W1WMJEgxCfY",
+      "title": "효연 루머",
+      "view_count": 2640905,
+      "duration": 34,
+      "upload_date": "20260916",
+      "category": "24",
+      "channel": "침착맨",
+      "source_channel": "침착맨",
+      "url": "https://www.youtube.com/watch?v=W1WMJEgxCfY"
     },
     {
       "id": "z56h7-o919o",
       "title": "명탐정 코난 더빙 차이",
-      "view_count": 2199983,
+      "view_count": 2623347,
       "duration": 19,
       "upload_date": "20260915",
       "category": "22",
@@ -383,42 +383,9 @@
       "url": "https://www.youtube.com/watch?v=z56h7-o919o"
     },
     {
-      "id": "Pv1labqY4X4",
-      "title": "바가지 요금 정상화 시키는 대대장",
-      "view_count": 2186838,
-      "duration": 47,
-      "upload_date": "20260914",
-      "category": "22",
-      "channel": "무비대장",
-      "source_channel": "무비대장",
-      "url": "https://www.youtube.com/watch?v=Pv1labqY4X4"
-    },
-    {
-      "id": "Gt4ZZbA0EAE",
-      "title": "1분 만에 상대를 바보로 만드는 방법",
-      "view_count": 2175451,
-      "duration": 94,
-      "upload_date": "20260915",
-      "category": "24",
-      "channel": "명화관",
-      "source_channel": "명화관",
-      "url": "https://www.youtube.com/watch?v=Gt4ZZbA0EAE"
-    },
-    {
-      "id": "o71QDagbu4o",
-      "title": "0.1초만에 웃음기 싹 빼는 이준영",
-      "view_count": 2147453,
-      "duration": 12,
-      "upload_date": "20260916",
-      "category": "24",
-      "channel": "비하인드 아카이빙",
-      "source_channel": "비하인드 아카이빙",
-      "url": "https://www.youtube.com/watch?v=o71QDagbu4o"
-    },
-    {
       "id": "eA_kakCGwms",
       "title": "폭행과 폭행몬고 | 코미디빅리그",
-      "view_count": 2120135,
+      "view_count": 2594139,
       "duration": 60,
       "upload_date": "20260915",
       "category": "24",
@@ -429,7 +396,7 @@
     {
       "id": "IRmljKkYuKk",
       "title": "경차 사러왔다가 그랜저 뽑는 이유 #snl코리아",
-      "view_count": 2081749,
+      "view_count": 2519485,
       "duration": 120,
       "upload_date": "20260915",
       "category": "22",
@@ -438,31 +405,31 @@
       "url": "https://www.youtube.com/watch?v=IRmljKkYuKk"
     },
     {
-      "id": "W1WMJEgxCfY",
-      "title": "효연 루머",
-      "view_count": 2063473,
-      "duration": 34,
-      "upload_date": "20260916",
-      "category": "24",
-      "channel": "침착맨",
-      "source_channel": "침착맨",
-      "url": "https://www.youtube.com/watch?v=W1WMJEgxCfY"
+      "id": "Z_tuB6Cv9JM",
+      "title": "질문 잘 받아치는 류혜영 #류혜영",
+      "view_count": 2431238,
+      "duration": 21,
+      "upload_date": "20260914",
+      "category": "22",
+      "channel": "짧은 즐거움",
+      "source_channel": "짧은 즐거움",
+      "url": "https://www.youtube.com/watch?v=Z_tuB6Cv9JM"
     },
     {
-      "id": "f_CG1NxX5Io",
-      "title": "유행어 만든 서성경 얘 눈이 돌아 있어 | 개그콘서트 Gagconcert | KBS 260913 방송",
-      "view_count": 1757175,
-      "duration": 64,
-      "upload_date": "20260914",
+      "id": "_ZwSAHWXiDY",
+      "title": "육퇴한 전직 야쿠쟈 할아버지의 최후",
+      "view_count": 2166964,
+      "duration": 39,
+      "upload_date": "20260915",
       "category": "24",
-      "channel": " 개그콘서트",
-      "source_channel": " 개그콘서트",
-      "url": "https://www.youtube.com/watch?v=f_CG1NxX5Io"
+      "channel": "블루꼬꼬",
+      "source_channel": "블루꼬꼬",
+      "url": "https://www.youtube.com/watch?v=_ZwSAHWXiDY"
     },
     {
       "id": "7P6SR2p6ln0",
       "title": "미국에서 난리난 건강에 매우 좋다는 자세🤯",
-      "view_count": 1744481,
+      "view_count": 2157777,
       "duration": 29,
       "upload_date": "20260916",
       "category": "23",
@@ -471,31 +438,9 @@
       "url": "https://www.youtube.com/watch?v=7P6SR2p6ln0"
     },
     {
-      "id": "Nq8Zf30tO6Q",
-      "title": "전남친 라면만 맛이 다른 이유",
-      "view_count": 1719309,
-      "duration": 60,
-      "upload_date": "20260914",
-      "category": "1",
-      "channel": "무드뷰",
-      "source_channel": "무드뷰",
-      "url": "https://www.youtube.com/watch?v=Nq8Zf30tO6Q"
-    },
-    {
-      "id": "q5KmhPcCgBo",
-      "title": "아주 뻔뻔해",
-      "view_count": 1681430,
-      "duration": 37,
-      "upload_date": "20260914",
-      "category": "10",
-      "channel": "ILLIT",
-      "source_channel": "ILLIT",
-      "url": "https://www.youtube.com/watch?v=q5KmhPcCgBo"
-    },
-    {
       "id": "ZVXYIk_oT0A",
       "title": "박보검도 인간미있네 ㅋㅋㅋㅋㅋ #박보검 #김유정 #진영 #곽동연 #채수빈 🫶KBS2TV 수요일 저녁 8:30 구르미 다시 그린 달빛🫶",
-      "view_count": 1479416,
+      "view_count": 2152126,
       "duration": 17,
       "upload_date": "20260916",
       "category": "24",
@@ -504,31 +449,31 @@
       "url": "https://www.youtube.com/watch?v=ZVXYIk_oT0A"
     },
     {
-      "id": "G5FM1Aj3pFc",
-      "title": "개웃기는 워터슬라이드 모먼트 랭킹 TOP5 #랭킹#유머#웃긴영상",
-      "view_count": 1407239,
-      "duration": 25,
-      "upload_date": "20260916",
-      "category": "23",
-      "channel": "레스기",
-      "source_channel": "레스기",
-      "url": "https://www.youtube.com/watch?v=G5FM1Aj3pFc"
+      "id": "q5KmhPcCgBo",
+      "title": "아주 뻔뻔해",
+      "view_count": 1927980,
+      "duration": 37,
+      "upload_date": "20260914",
+      "category": "10",
+      "channel": "ILLIT",
+      "source_channel": "ILLIT",
+      "url": "https://www.youtube.com/watch?v=q5KmhPcCgBo"
     },
     {
-      "id": "R5ZMiTdHumQ",
-      "title": "식당 종업원을 막대한 사장의 최후",
-      "view_count": 1366020,
-      "duration": 24,
-      "upload_date": "20260914",
-      "category": "22",
-      "channel": "유머 좋아",
-      "source_channel": "유머 좋아",
-      "url": "https://www.youtube.com/watch?v=R5ZMiTdHumQ"
+      "id": "HYUNRMHqVY4",
+      "title": "의자 하나로 게임 장르가 달라지는 프로미스나인",
+      "view_count": 1853120,
+      "duration": 29,
+      "upload_date": "20260917",
+      "category": "24",
+      "channel": "우리 바보 아니야",
+      "source_channel": "우리 바보 아니야",
+      "url": "https://www.youtube.com/watch?v=HYUNRMHqVY4"
     },
     {
       "id": "D48_LgJqP5A",
       "title": "베스티는 지금 뭐하고 있을까?",
-      "view_count": 955293,
+      "view_count": 1760960,
       "duration": 26,
       "upload_date": "20260916",
       "category": "22",
@@ -537,15 +482,81 @@
       "url": "https://www.youtube.com/watch?v=D48_LgJqP5A"
     },
     {
-      "id": "L84L0i6pGZk",
-      "title": "신입생들한테 무시당한 3학년 통ㅋㅋ",
-      "view_count": 913887,
-      "duration": 46,
+      "id": "R5ZMiTdHumQ",
+      "title": "식당 종업원을 막대한 사장의 최후",
+      "view_count": 1706491,
+      "duration": 24,
+      "upload_date": "20260914",
+      "category": "22",
+      "channel": "유머 좋아",
+      "source_channel": "유머 좋아",
+      "url": "https://www.youtube.com/watch?v=R5ZMiTdHumQ"
+    },
+    {
+      "id": "G5FM1Aj3pFc",
+      "title": "개웃기는 워터슬라이드 모먼트 랭킹 TOP5 #랭킹#유머#웃긴영상",
+      "view_count": 1673513,
+      "duration": 25,
       "upload_date": "20260916",
-      "category": "1",
-      "channel": "몰입한방",
-      "source_channel": "몰입한방",
-      "url": "https://www.youtube.com/watch?v=L84L0i6pGZk"
+      "category": "23",
+      "channel": "레스기",
+      "source_channel": "레스기",
+      "url": "https://www.youtube.com/watch?v=G5FM1Aj3pFc"
+    },
+    {
+      "id": "3_DUB6XHBx8",
+      "title": "남자들의 화해 방식 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "view_count": 1620643,
+      "duration": 51,
+      "upload_date": "20260917",
+      "category": "22",
+      "channel": "다시볼티비",
+      "source_channel": "다시볼티비",
+      "url": "https://www.youtube.com/watch?v=3_DUB6XHBx8"
+    },
+    {
+      "id": "2NMPW8jNJxE",
+      "title": "15년만에 다시 추는 휴닝남매 굿바이베이비 ㅋㅋ",
+      "view_count": 1580668,
+      "duration": 35,
+      "upload_date": "20260916",
+      "category": "22",
+      "channel": "최강정",
+      "source_channel": "최강정",
+      "url": "https://www.youtube.com/watch?v=2NMPW8jNJxE"
+    },
+    {
+      "id": "XB_ZPrhgsKQ",
+      "title": "타 부대 간부에게는 경례 안 한다는 해병대",
+      "view_count": 1525196,
+      "duration": 44,
+      "upload_date": "20260917",
+      "category": "22",
+      "channel": "무비대장",
+      "source_channel": "무비대장",
+      "url": "https://www.youtube.com/watch?v=XB_ZPrhgsKQ"
+    },
+    {
+      "id": "1JgClwJuSj4",
+      "title": "아무도 몰랐던 아빠의 숨겨진 춤 실력",
+      "view_count": 1500634,
+      "duration": 25,
+      "upload_date": "20260915",
+      "category": "22",
+      "channel": "밍글무브",
+      "source_channel": "밍글무브",
+      "url": "https://www.youtube.com/watch?v=1JgClwJuSj4"
+    },
+    {
+      "id": "0Xf3k7_rVSI",
+      "title": "역대급 유명인 닮은꼴 필터 모먼트 2 랭킹 TOP6",
+      "view_count": 1311455,
+      "duration": 31,
+      "upload_date": "20260917",
+      "category": "22",
+      "channel": "킹딱",
+      "source_channel": "킹딱",
+      "url": "https://www.youtube.com/watch?v=0Xf3k7_rVSI"
     }
   ]
 }
