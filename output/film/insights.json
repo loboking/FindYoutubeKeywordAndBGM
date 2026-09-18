@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 참교육, 이수근이, #스케치코미디, 순간",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 이수근이, #스케치코미디, 순간, 참교육, 장면",
   "top_videos_summary": [
     {
-      "views": 15872214,
+      "views": 18467511,
       "title": "저승사자 vs 천사 (14편)",
       "upload_year": "2026",
       "channel": "저승이와 친구들",
       "duration": 30
     },
     {
-      "views": 14171273,
+      "views": 14839887,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 9275742,
+      "views": 9569060,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 7966773,
+      "views": 8107693,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 6433793,
+      "views": 6666731,
       "title": "친구가 준 바지 입고 무조건 여행하기",
       "upload_year": "2026",
       "channel": "요즘PD",
@@ -43,22 +43,22 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
-    "참교육",
     "이수근이",
     "#스케치코미디",
     "순간",
-    "#메이드인코리아2",
-    "원피스",
-    "다시",
-    "#코미디",
+    "참교육",
+    "장면",
     "당하는",
+    "#시니어드라마",
+    "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마",
     "저승사자",
     "vs",
     "천사",
@@ -95,11 +95,11 @@
       "count": 1
     },
     {
-      "channel": "웃기넹",
+      "channel": "알면좋아",
       "count": 1
     },
     {
-      "channel": "리뷰보고가",
+      "channel": "웃기넹",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "원씨네",
+      "channel": "낭만애플",
       "count": 1
     }
   ],
