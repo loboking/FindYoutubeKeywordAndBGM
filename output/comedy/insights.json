@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 참교육, #스케치코미디, KBS, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, KBS, 방송, #아는형님, 이수근이",
   "top_videos_summary": [
     {
-      "views": 14169141,
+      "views": 14839887,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 7966687,
+      "views": 8106946,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 7272620,
-      "title": "실화였다는 대대장의 참교육 방법",
-      "upload_year": "2026",
-      "channel": "무비대장",
-      "duration": 46
-    },
-    {
-      "views": 6433793,
+      "views": 6666557,
       "title": "친구가 준 바지 입고 무조건 여행하기",
       "upload_year": "2026",
       "channel": "요즘PD",
       "duration": 59
     },
     {
-      "views": 6062655,
+      "views": 6192775,
       "title": "돈이 너무 많으면 생기는 일ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "예능한스푼",
       "duration": 58
+    },
+    {
+      "views": 6173093,
+      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "알면좋아",
+      "duration": 38
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "#shorts",
-    "참교육",
-    "#스케치코미디",
     "KBS",
     "방송",
     "#아는형님",
     "이수근이",
-    "방법",
     "너무",
-    "생기는",
+    "#스케치코미디",
     "순간",
-    "#코미디",
+    "#예능",
+    "#유머",
+    "되는",
     "#시니어드라마",
+    "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마",
     "죽빵의",
     "달인",
     "김병만",
-    "지켜본",
-    "김희철의",
-    "친구와"
+    "지켜본"
   ],
   "channel_distribution": [
     {
@@ -79,15 +79,15 @@
       "count": 1
     },
     {
-      "channel": "무비대장",
-      "count": 1
-    },
-    {
       "channel": "요즘PD",
       "count": 1
     },
     {
       "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "알면좋아",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "드라마보는 남자",
-      "count": 1
-    },
-    {
       "channel": "해외쇼쇼",
       "count": 1
     },
     {
-      "channel": "원씨네",
+      "channel": "드라마보는 남자",
+      "count": 1
+    },
+    {
+      "channel": "예능존",
       "count": 1
     }
   ],
