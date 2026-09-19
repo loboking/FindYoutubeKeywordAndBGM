@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: 아이폰, 듀오, 근황, 갤럭시, 삼성, 이유",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 아이폰, TV, 듀오, 근황, 이유, 삼성",
   "top_videos_summary": [
     {
-      "views": 4888492,
+      "views": 5051144,
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 10
     },
     {
-      "views": 3818219,
+      "views": 3879321,
       "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
       "upload_year": "2026",
       "channel": "허수아비(scarecrow)",
       "duration": 65
     },
     {
-      "views": 3628462,
+      "views": 3737225,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
     },
     {
-      "views": 3543850,
+      "views": 3572332,
       "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 20
     },
     {
-      "views": 3383049,
+      "views": 3454966,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "아이폰",
+    "TV",
     "듀오",
     "근황",
-    "갤럭시",
-    "삼성",
     "이유",
+    "삼성",
     "애플",
+    "갤럭시",
     "기능",
     "해외에서",
     "실물",
     "#Shorts",
-    "TV",
+    "Your",
     "언박싱",
+    "직접",
     "아빠들은",
     "핸드폰을",
     "안바꿀까",
     "이것때문에",
-    "컴퓨터가게는",
-    "망하게",
-    "생겼습니다"
+    "컴퓨터가게는"
   ],
   "channel_distribution": [
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "짤한줌",
+      "channel": "어쩌다 주부",
       "count": 1
     },
     {
-      "channel": "어쩌다 주부",
+      "channel": "가전주부",
       "count": 1
     }
   ],
