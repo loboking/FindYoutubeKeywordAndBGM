@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 이수근이, #스케치코미디, 순간, 참교육, 장면",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 이수근이, #스케치코미디, 없는, 저승사자, vs",
   "top_videos_summary": [
     {
-      "views": 18467511,
+      "views": 19206111,
       "title": "저승사자 vs 천사 (14편)",
       "upload_year": "2026",
       "channel": "저승이와 친구들",
       "duration": 30
     },
     {
-      "views": 14839887,
+      "views": 15361159,
       "title": "죽빵의 달인 김병만",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 42
     },
     {
-      "views": 9569060,
+      "views": 9718911,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 8107693,
+      "views": 8212225,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 6666731,
-      "title": "친구가 준 바지 입고 무조건 여행하기",
+      "views": 8109877,
+      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
-      "channel": "요즘PD",
-      "duration": 59
+      "channel": "알면좋아",
+      "duration": 38
     }
   ],
   "outlier_adjusted": {
@@ -51,14 +51,7 @@
     "이유",
     "이수근이",
     "#스케치코미디",
-    "순간",
-    "참교육",
-    "장면",
-    "당하는",
-    "#시니어드라마",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
+    "없는",
     "저승사자",
     "vs",
     "천사",
@@ -67,7 +60,14 @@
     "달인",
     "김병만",
     "마동석에게",
-    "배운"
+    "배운",
+    "애드립",
+    "바로",
+    "써먹는",
+    "오대환",
+    "#shorts",
+    "#아는형님",
+    "지켜본"
   ],
   "channel_distribution": [
     {
@@ -87,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "알면좋아",
+      "count": 1
+    },
+    {
       "channel": "요즘PD",
       "count": 1
     },
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": "알면좋아",
-      "count": 1
-    },
-    {
       "channel": "웃기넹",
       "count": 1
     },
     {
-      "channel": "SBS Entertainment",
+      "channel": "씬스틸폼",
       "count": 1
     },
     {
-      "channel": "낭만애플",
+      "channel": "SBS Entertainment",
       "count": 1
     }
   ],
