@@ -3,60 +3,59 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 삼겹살, 이유, in, #레시피, #baby, VS",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 비법, in, #레시피, #shorts, LA갈비, 요즘",
   "top_videos_summary": [
     {
-      "views": 5027606,
+      "views": 5447537,
       "title": "This knot will be useful in everyday life!",
       "upload_year": "2026",
       "channel": "NatanKnot ",
       "duration": 31
     },
     {
-      "views": 3779759,
+      "views": 4317008,
       "title": "趁没人偷偷给姨姨们跳一个#人类幼崽#爱跳舞的小姑娘 #萌娃跳舞",
       "upload_year": "2026",
       "channel": "Luqman Tshibangu",
       "duration": 30
     },
     {
-      "views": 3266889,
+      "views": 3438285,
       "title": "최근 외국에서 난리났다고 칵테일 유튜버 혼자 발칵 뒤집어진 1년 전 할리스 카페음료",
       "upload_year": "2026",
       "channel": "어쿠스틱 드링크",
       "duration": 30
     },
     {
-      "views": 2987412,
-      "title": "딱 2가지, 초간단 명절 전, 편하고 맛있게#명절전#추석전#팽이버섯전#동그랑땡#전#깻잎전",
-      "upload_year": "2026",
-      "channel": "30년 집밥, 배여사",
-      "duration": 156
-    },
-    {
-      "views": 2675854,
+      "views": 3049124,
       "title": "지갑을 잃어버린 외국인 관광객에게 무슨 일이?! Helping tourist who lost their wallet in korea #travel #seoul",
       "upload_year": "2026",
       "channel": "헬프윤",
       "duration": 161
+    },
+    {
+      "views": 2487866,
+      "title": "너무 수치스러운 의문의 가리개...",
+      "upload_year": "2026",
+      "channel": "고라니율 Golaniyule",
+      "duration": 52
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "삼겹살",
-    "이유",
+    "비법",
     "in",
     "#레시피",
-    "#baby",
-    "VS",
     "#shorts",
-    "짜장면",
     "LA갈비",
+    "요즘",
+    "짜장면",
+    "그림을",
     "만두",
     "This",
     "knot",
@@ -67,7 +66,8 @@
     "life",
     "최근",
     "외국에서",
-    "난리났다고"
+    "난리났다고",
+    "칵테일"
   ],
   "channel_distribution": [
     {
@@ -80,10 +80,6 @@
     },
     {
       "channel": "어쿠스틱 드링크",
-      "count": 1
-    },
-    {
-      "channel": "30년 집밥, 배여사",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "\b고기남자",
+      "count": 1
+    },
+    {
+      "channel": "쇼츠츄러스",
       "count": 1
     }
   ],
