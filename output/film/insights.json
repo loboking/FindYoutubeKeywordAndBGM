@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 이수근이, #스케치코미디, 없는, 저승사자, vs",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 찐으로, 이수근이, #스케치코미디, #드라마, #폭싹속았수다",
   "top_videos_summary": [
     {
-      "views": 19206111,
+      "views": 20268644,
       "title": "저승사자 vs 천사 (14편)",
       "upload_year": "2026",
       "channel": "저승이와 친구들",
       "duration": 30
     },
     {
-      "views": 15361159,
-      "title": "죽빵의 달인 김병만",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 42
-    },
-    {
-      "views": 9718911,
+      "views": 9834224,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 8212225,
+      "views": 9521820,
+      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "알면좋아",
+      "duration": 38
+    },
+    {
+      "views": 8401114,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 8109877,
-      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
+      "views": 6565968,
+      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
-      "channel": "알면좋아",
-      "duration": 38
+      "channel": "씬스틸폼",
+      "duration": 30
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.12,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
+    "찐으로",
     "이수근이",
     "#스케치코미디",
+    "#드라마",
+    "#폭싹속았수다",
+    "영화",
     "없는",
+    "방법",
     "저승사자",
     "vs",
     "천사",
     "14편",
-    "죽빵의",
-    "달인",
-    "김병만",
     "마동석에게",
     "배운",
     "애드립",
     "바로",
     "써먹는",
     "오대환",
-    "#shorts",
-    "#아는형님",
-    "지켜본"
+    "지락실에서"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
       "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
-      "channel": "예능내컷",
       "count": 1
     },
     {
@@ -91,15 +83,7 @@
       "count": 1
     },
     {
-      "channel": "요즘PD",
-      "count": 1
-    },
-    {
-      "channel": "드라파기",
-      "count": 1
-    },
-    {
-      "channel": "웃기넹",
+      "channel": "예능내컷",
       "count": 1
     },
     {
@@ -107,7 +91,23 @@
       "count": 1
     },
     {
-      "channel": "SBS Entertainment",
+      "channel": "웃기넹",
+      "count": 1
+    },
+    {
+      "channel": "다시그림",
+      "count": 1
+    },
+    {
+      "channel": "낭만애플",
+      "count": 1
+    },
+    {
+      "channel": "비하인드 아카이빙",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
       "count": 1
     }
   ],
