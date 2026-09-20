@@ -3,75 +3,75 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #아는형님, 이수근이, #스케치코미디, 최산",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 한국인, #shorts, 이수근이, 최산, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 15361159,
-      "title": "죽빵의 달인 김병만",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 42
-    },
-    {
-      "views": 8212225,
-      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "예능내컷",
-      "duration": 31
-    },
-    {
-      "views": 8109877,
+      "views": 9521820,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 7015027,
+      "views": 8401114,
+      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
+      "upload_year": "2026",
+      "channel": "예능내컷",
+      "duration": 31
+    },
+    {
+      "views": 7355091,
       "title": "친구가 준 바지 입고 무조건 여행하기",
       "upload_year": "2026",
       "channel": "요즘PD",
       "duration": 59
     },
     {
-      "views": 5988892,
-      "title": "남자들는 공감된다는 내 여자 예뻐 보이는 순간 #스케치코미디",
+      "views": 6664415,
+      "title": "최산 때려야 하는데 못 때리는 양세찬·하하",
       "upload_year": "2026",
-      "channel": "웃기넹",
-      "duration": 34
+      "channel": "아이돌캐치",
+      "duration": 38
+    },
+    {
+      "views": 6565968,
+      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
+      "upload_year": "2026",
+      "channel": "씬스틸폼",
+      "duration": 30
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
+    "한국인",
     "#shorts",
-    "#아는형님",
     "이수근이",
-    "#스케치코미디",
     "최산",
-    "되는",
-    "KBS",
+    "#스케치코미디",
+    "만드는",
+    "방법",
+    "하는",
+    "요즘",
     "방송",
-    "죽빵의",
-    "달인",
-    "김병만",
+    "지락실에서",
+    "찐으로",
+    "열받은",
+    "이영지",
+    "#아는형님",
     "지켜본",
     "김희철의",
     "친구와",
-    "여자친구",
-    "사이ㅋㅋ",
-    "지락실에서",
-    "찐으로",
-    "열받은"
+    "여자친구"
   ],
   "channel_distribution": [
     {
-      "channel": "케슛슛",
+      "channel": "알면좋아",
       "count": 1
     },
     {
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "알면좋아",
-      "count": 1
-    },
-    {
       "channel": "요즘PD",
-      "count": 1
-    },
-    {
-      "channel": "웃기넹",
       "count": 1
     },
     {
@@ -99,6 +91,10 @@
       "count": 1
     },
     {
+      "channel": "웃기넹",
+      "count": 1
+    },
+    {
       "channel": "해외쇼쇼",
       "count": 1
     },
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "예능존",
+      "channel": "명화관",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
       "count": 1
     }
   ],
