@@ -3,66 +3,66 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 아이폰, 듀오, 근황, TV, 삼성, 이유",
+  "formula": "카테고리 인기 shorts(n=41)에서 두드러진 소재/키워드: 아이폰, TV, 듀오, 근황, 갤럭시, 직접",
   "top_videos_summary": [
     {
-      "views": 5169758,
+      "views": 5187428,
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 10
     },
     {
-      "views": 3931068,
+      "views": 3960851,
       "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
       "upload_year": "2026",
       "channel": "허수아비(scarecrow)",
       "duration": 65
     },
     {
-      "views": 3789675,
+      "views": 3801855,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
     },
     {
-      "views": 3584518,
-      "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "평양냉면",
-      "duration": 20
-    },
-    {
-      "views": 3447505,
+      "views": 3639269,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 42
+    },
+    {
+      "views": 3588640,
+      "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "평양냉면",
+      "duration": 20
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "아이폰",
+    "TV",
     "듀오",
     "근황",
-    "TV",
+    "갤럭시",
+    "직접",
+    "언박싱",
+    "기능",
     "삼성",
+    "실물",
     "이유",
     "애플",
-    "갤럭시",
-    "언박싱",
-    "직접",
-    "기능",
-    "해외에서",
-    "실물",
-    "#Shorts",
     "아이폰듀오",
+    "18",
+    "프로",
     "아빠들은",
     "핸드폰을",
     "안바꿀까",
@@ -83,15 +83,11 @@
       "count": 1
     },
     {
-      "channel": "평양냉면",
-      "count": 1
-    },
-    {
       "channel": "김블루",
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "평양냉면",
       "count": 1
     },
     {
@@ -99,11 +95,15 @@
       "count": 1
     },
     {
-      "channel": "원정상",
+      "channel": "어쩌다 주부",
       "count": 1
     },
     {
-      "channel": "어쩌다 주부",
+      "channel": "Mark 2",
+      "count": 1
+    },
+    {
+      "channel": "리뷰한수",
       "count": 1
     },
     {
