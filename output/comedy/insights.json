@@ -3,62 +3,61 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 한국인, #shorts, 이수근이, 최산, #스케치코미디",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 하는, 방송, 한국인, 이수근이",
   "top_videos_summary": [
     {
-      "views": 9521820,
+      "views": 10061820,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 8401114,
+      "views": 8656767,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 7355091,
-      "title": "친구가 준 바지 입고 무조건 여행하기",
+      "views": 7082914,
+      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
-      "channel": "요즘PD",
-      "duration": 59
+      "channel": "씬스틸폼",
+      "duration": 30
     },
     {
-      "views": 6664415,
+      "views": 6856913,
       "title": "최산 때려야 하는데 못 때리는 양세찬·하하",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 38
     },
     {
-      "views": 6565968,
-      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
+      "views": 6022898,
+      "title": "땅콩잼 안짜도 된다고?!",
       "upload_year": "2026",
-      "channel": "씬스틸폼",
-      "duration": 30
+      "channel": "해외쇼쇼",
+      "duration": 56
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "한국인",
     "#shorts",
+    "하는",
+    "방송",
+    "한국인",
     "이수근이",
-    "최산",
-    "#스케치코미디",
     "만드는",
     "방법",
-    "하는",
     "요즘",
-    "방송",
+    "고깃집",
     "지락실에서",
     "찐으로",
     "열받은",
@@ -67,7 +66,8 @@
     "지켜본",
     "김희철의",
     "친구와",
-    "여자친구"
+    "여자친구",
+    "사이ㅋㅋ"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "요즘PD",
+      "channel": "씬스틸폼",
       "count": 1
     },
     {
@@ -87,19 +87,15 @@
       "count": 1
     },
     {
-      "channel": "씬스틸폼",
-      "count": 1
-    },
-    {
-      "channel": "웃기넹",
-      "count": 1
-    },
-    {
       "channel": "해외쇼쇼",
       "count": 1
     },
     {
-      "channel": "낭만애플",
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "펀펀한 이야기",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "낭만애플",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
       "count": 1
     }
   ],
