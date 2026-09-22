@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 비법, 레시피, LA갈비, #shorts, 요즘, 짜장면",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 비법, 레시피, LA갈비, 요즘, 짜장면, #꿀팁",
   "top_videos_summary": [
     {
-      "views": 4776243,
+      "views": 5333364,
       "title": "趁没人偷偷给姨姨们跳一个#人类幼崽#爱跳舞的小姑娘 #萌娃跳舞",
       "upload_year": "2026",
       "channel": "Luqman Tshibangu",
       "duration": 30
     },
     {
-      "views": 4257051,
+      "views": 5262372,
       "title": "These stunts were performed by professionals.Please do not attempt to imitate them. Stunt ✅ #action",
       "upload_year": "2026",
       "channel": "Shodiyorbek Otavaliyev",
       "duration": 25
     },
     {
-      "views": 3553057,
-      "title": "최근 외국에서 난리났다고 칵테일 유튜버 혼자 발칵 뒤집어진 1년 전 할리스 카페음료",
-      "upload_year": "2026",
-      "channel": "어쿠스틱 드링크",
-      "duration": 30
-    },
-    {
-      "views": 3512052,
+      "views": 3851803,
       "title": "지갑을 잃어버린 외국인 관광객에게 무슨 일이?! Helping tourist who lost their wallet in korea #travel #seoul",
       "upload_year": "2026",
       "channel": "헬프윤",
       "duration": 161
     },
     {
-      "views": 2756991,
+      "views": 3665950,
+      "title": "최근 외국에서 난리났다고 칵테일 유튜버 혼자 발칵 뒤집어진 1년 전 할리스 카페음료",
+      "upload_year": "2026",
+      "channel": "어쿠스틱 드링크",
+      "duration": 30
+    },
+    {
+      "views": 2905512,
       "title": "2박 3일 지나도 잡채가 불지를 않습니다!",
       "upload_year": "2026",
       "channel": "요리고수",
@@ -51,13 +51,11 @@
     "비법",
     "레시피",
     "LA갈비",
-    "#shorts",
     "요즘",
     "짜장면",
-    "손님",
-    "그림을",
-    "만두",
+    "#꿀팁",
     "방법",
+    "만두",
     "없는",
     "#action",
     "These",
@@ -67,7 +65,9 @@
     "by",
     "professionals",
     "Please",
-    "do"
+    "do",
+    "not",
+    "attempt"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "어쿠스틱 드링크",
+      "channel": "헬프윤",
       "count": 1
     },
     {
-      "channel": "헬프윤",
+      "channel": "어쿠스틱 드링크",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "보겸TV",
-      "count": 1
-    },
-    {
-      "channel": "눈물한컷",
-      "count": 1
-    },
-    {
       "channel": "첫째아들",
       "count": 1
     },
     {
-      "channel": "숏플레이",
+      "channel": "보겸TV",
+      "count": 1
+    },
+    {
+      "channel": "할수있다!다이어트",
+      "count": 1
+    },
+    {
+      "channel": "눈물한컷",
       "count": 1
     }
   ],
