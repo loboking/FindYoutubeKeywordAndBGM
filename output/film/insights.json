@@ -3,77 +3,73 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, 찐으로, 이수근이, 영화, #드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #폭싹속았수다, 찐으로, #shorts, 이수근이, 영화",
   "top_videos_summary": [
     {
-      "views": 21078838,
-      "title": "저승사자 vs 천사 (14편)",
-      "upload_year": "2026",
-      "channel": "저승이와 친구들",
-      "duration": 30
-    },
-    {
-      "views": 10061820,
+      "views": 10354816,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 10014771,
+      "views": 10309040,
       "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 30
     },
     {
-      "views": 8656767,
+      "views": 8837280,
       "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
       "upload_year": "2026",
       "channel": "예능내컷",
       "duration": 31
     },
     {
-      "views": 7082914,
+      "views": 7191657,
       "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 30
+    },
+    {
+      "views": 6778450,
+      "title": "쏠 수 있어! | 코미디빅리그",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 66
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.12,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#스케치코미디",
+    "#폭싹속았수다",
     "찐으로",
+    "#shorts",
     "이수근이",
     "영화",
+    "#박보검",
     "#드라마",
-    "#폭싹속았수다",
-    "방법",
+    "만드는",
     "없는",
-    "#예능",
-    "저승사자",
-    "vs",
-    "천사",
-    "14편",
-    "지락실에서",
-    "열받은",
-    "이영지",
-    "마동석에게",
-    "배운",
-    "애드립"
+    "#신병",
+    "#군대",
+    "#부사관",
+    "#장삐쭈",
+    "#이정현",
+    "#남태우",
+    "#이충구",
+    "#전승훈",
+    "방송",
+    "#스케치코미디"
   ],
   "channel_distribution": [
-    {
-      "channel": "저승이와 친구들",
-      "count": 1
-    },
     {
       "channel": "알면좋아",
       "count": 1
@@ -95,15 +91,19 @@
       "count": 1
     },
     {
-      "channel": "비하인드 아카이빙",
-      "count": 1
-    },
-    {
       "channel": "명화관",
       "count": 1
     },
     {
-      "channel": "다시그림",
+      "channel": "무비픽스",
+      "count": 1
+    },
+    {
+      "channel": "비하인드 아카이빙",
+      "count": 1
+    },
+    {
+      "channel": "누나‘s Pick (누나스픽)",
       "count": 1
     },
     {
