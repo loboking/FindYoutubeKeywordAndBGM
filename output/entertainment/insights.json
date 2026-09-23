@@ -3,47 +3,47 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 찐으로, 이영지, #박보검, 한국인, 하는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 찐으로, 이영지, #박보검, 한국인, 만드는",
   "top_videos_summary": [
     {
-      "views": 11660447,
+      "views": 12001030,
       "title": "몽골에서 엄청난 승마실력을 보여주는 천재 이찬혁ㄷㄷ",
       "upload_year": "2026",
       "channel": "트렌드룸 Trend Room",
       "duration": 18
     },
     {
-      "views": 10354238,
+      "views": 10909432,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 10309040,
-      "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
+      "views": 7432427,
+      "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
       "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 30
+      "channel": "명화관",
+      "duration": 142
     },
     {
-      "views": 7191502,
+      "views": 7215989,
       "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 30
     },
     {
-      "views": 7061237,
-      "title": "최산 때려야 하는데 못 때리는 양세찬·하하",
+      "views": 7067796,
+      "title": "서로 다리 맞물려 자는게 너무 웃김 ㅋㅋㅋㅋㅋㅋㅋ",
       "upload_year": "2026",
-      "channel": "아이돌캐치",
-      "duration": 38
+      "channel": "미녀 천명 모으기",
+      "duration": 12
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -53,21 +53,21 @@
     "이영지",
     "#박보검",
     "한국인",
+    "만드는",
+    "해병대",
     "하는",
-    "웃긴",
-    "랭킹",
+    "일본",
     "방송",
-    "몽골에서",
-    "엄청난",
-    "승마실력을",
-    "보여주는",
-    "천재",
-    "이찬혁ㄷㄷ",
-    "지락실에서",
-    "열받은",
-    "마동석에게",
-    "배운",
-    "애드립"
+    "#신병",
+    "#군대",
+    "#부사관",
+    "#장삐쭈",
+    "#이정현",
+    "#남태우",
+    "#이충구",
+    "#전승훈",
+    "#폭싹속았수다",
+    "혈액형"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
+      "channel": "명화관",
       "count": 1
     },
     {
@@ -87,27 +87,27 @@
       "count": 1
     },
     {
-      "channel": "아이돌캐치",
-      "count": 1
-    },
-    {
       "channel": "미녀 천명 모으기",
       "count": 1
     },
     {
-      "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "무비픽스",
-      "count": 1
-    },
-    {
       "channel": "비하인드 아카이빙",
+      "count": 1
+    },
+    {
+      "channel": "누나‘s Pick (누나스픽)",
+      "count": 1
+    },
+    {
+      "channel": "펀펀한 이야기",
+      "count": 1
+    },
+    {
+      "channel": "뇌피셜보이",
+      "count": 1
+    },
+    {
+      "channel": "디구다",
       "count": 1
     }
   ],
