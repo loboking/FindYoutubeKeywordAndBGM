@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 하는, #shorts, 이수근이, 만드는, 방법",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 하는, 만드는, 방법, 없는, 방송",
   "top_videos_summary": [
     {
-      "views": 10354816,
+      "views": 10909922,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 8837280,
-      "title": "이수근이 지켜본 김희철의 친구와 여자친구 사이ㅋㅋ #shorts #아는형님",
-      "upload_year": "2026",
-      "channel": "예능내컷",
-      "duration": 31
-    },
-    {
-      "views": 7191657,
-      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
-      "upload_year": "2026",
-      "channel": "씬스틸폼",
-      "duration": 30
-    },
-    {
-      "views": 7061237,
+      "views": 7283509,
       "title": "최산 때려야 하는데 못 때리는 양세찬·하하",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 38
     },
     {
-      "views": 6777052,
-      "title": "쏠 수 있어! | 코미디빅리그",
+      "views": 7216036,
+      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 66
+      "channel": "씬스틸폼",
+      "duration": 30
+    },
+    {
+      "views": 6358855,
+      "title": "땅콩잼 안짜도 된다고?!",
+      "upload_year": "2026",
+      "channel": "해외쇼쇼",
+      "duration": 56
+    },
+    {
+      "views": 5391957,
+      "title": "1분 만에 상대를 바보로 만드는 방법",
+      "upload_year": "2026",
+      "channel": "명화관",
+      "duration": 94
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "하는",
-    "#shorts",
-    "이수근이",
     "만드는",
     "방법",
     "없는",
     "방송",
     "찾아간",
-    "#스케치코미디",
     "혈액형",
+    "#스케치코미디",
     "지락실에서",
     "찐으로",
     "열받은",
     "이영지",
-    "#아는형님",
-    "지켜본",
-    "김희철의",
-    "친구와",
-    "여자친구"
+    "최산",
+    "때려야",
+    "하는데",
+    "때리는",
+    "양세찬·하하",
+    "#영화",
+    "#비하인드"
   ],
   "channel_distribution": [
     {
@@ -75,7 +75,7 @@
       "count": 1
     },
     {
-      "channel": "예능내컷",
+      "channel": "아이돌캐치",
       "count": 1
     },
     {
@@ -83,19 +83,7 @@
       "count": 1
     },
     {
-      "channel": "아이돌캐치",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
-      "count": 1
-    },
-    {
       "channel": "해외쇼쇼",
-      "count": 1
-    },
-    {
-      "channel": "펀펀한 이야기",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
-      "channel": "낭만애플",
+      "channel": "펀펀한 이야기",
       "count": 1
     },
     {
       "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "야그쟁이",
       "count": 1
     }
   ],
