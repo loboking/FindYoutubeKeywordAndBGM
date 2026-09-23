@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 비법, 레시피, LA갈비, 요즘, 짜장면, #꿀팁",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 레시피, LA갈비, 비법, #꿀팁, 만두, 방법",
   "top_videos_summary": [
     {
-      "views": 5333364,
-      "title": "趁没人偷偷给姨姨们跳一个#人类幼崽#爱跳舞的小姑娘 #萌娃跳舞",
-      "upload_year": "2026",
-      "channel": "Luqman Tshibangu",
-      "duration": 30
-    },
-    {
-      "views": 5262372,
+      "views": 6274034,
       "title": "These stunts were performed by professionals.Please do not attempt to imitate them. Stunt ✅ #action",
       "upload_year": "2026",
       "channel": "Shodiyorbek Otavaliyev",
       "duration": 25
     },
     {
-      "views": 3851803,
+      "views": 5542921,
+      "title": "趁没人偷偷给姨姨们跳一个#人类幼崽#爱跳舞的小姑娘 #萌娃跳舞",
+      "upload_year": "2026",
+      "channel": "Luqman Tshibangu",
+      "duration": 30
+    },
+    {
+      "views": 4185542,
       "title": "지갑을 잃어버린 외국인 관광객에게 무슨 일이?! Helping tourist who lost their wallet in korea #travel #seoul",
       "upload_year": "2026",
       "channel": "헬프윤",
       "duration": 161
     },
     {
-      "views": 3665950,
+      "views": 3732517,
       "title": "최근 외국에서 난리났다고 칵테일 유튜버 혼자 발칵 뒤집어진 1년 전 할리스 카페음료",
       "upload_year": "2026",
       "channel": "어쿠스틱 드링크",
       "duration": 30
     },
     {
-      "views": 2905512,
+      "views": 2990761,
       "title": "2박 3일 지나도 잡채가 불지를 않습니다!",
       "upload_year": "2026",
       "channel": "요리고수",
@@ -43,20 +43,19 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "비법",
     "레시피",
     "LA갈비",
-    "요즘",
-    "짜장면",
+    "비법",
     "#꿀팁",
-    "방법",
     "만두",
+    "방법",
     "없는",
+    "먹는",
     "#action",
     "These",
     "stunts",
@@ -67,15 +66,16 @@
     "Please",
     "do",
     "not",
-    "attempt"
+    "attempt",
+    "to"
   ],
   "channel_distribution": [
     {
-      "channel": "Luqman Tshibangu",
+      "channel": "Shodiyorbek Otavaliyev",
       "count": 1
     },
     {
-      "channel": "Shodiyorbek Otavaliyev",
+      "channel": "Luqman Tshibangu",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "할수있다!다이어트",
+      "channel": "패션탐정냥",
       "count": 1
     },
     {
-      "channel": "눈물한컷",
+      "channel": "숏플레이",
       "count": 1
     }
   ],
