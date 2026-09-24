@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 찐으로, 이영지, #박보검, 한국인, 만드는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 찐으로, 이영지, 한국인, #박보검, 방송",
   "top_videos_summary": [
     {
-      "views": 12001030,
+      "views": 12291882,
       "title": "몽골에서 엄청난 승마실력을 보여주는 천재 이찬혁ㄷㄷ",
       "upload_year": "2026",
       "channel": "트렌드룸 Trend Room",
       "duration": 18
     },
     {
-      "views": 10909432,
+      "views": 11599268,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 7432427,
+      "views": 8230987,
       "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 142
     },
     {
-      "views": 7215989,
-      "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
-      "upload_year": "2026",
-      "channel": "씬스틸폼",
-      "duration": 30
-    },
-    {
-      "views": 7067796,
+      "views": 7197600,
       "title": "서로 다리 맞물려 자는게 너무 웃김 ㅋㅋㅋㅋㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "미녀 천명 모으기",
       "duration": 12
+    },
+    {
+      "views": 6341305,
+      "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 76
     }
   ],
   "outlier_adjusted": {
@@ -51,13 +51,14 @@
     "이유",
     "찐으로",
     "이영지",
-    "#박보검",
     "한국인",
-    "만드는",
-    "해병대",
+    "#박보검",
+    "방송",
     "하는",
     "일본",
-    "방송",
+    "#폭싹속았수다",
+    "혈액형",
+    "남자",
     "#신병",
     "#군대",
     "#부사관",
@@ -66,8 +67,7 @@
     "#남태우",
     "#이충구",
     "#전승훈",
-    "#폭싹속았수다",
-    "혈액형"
+    "몽골에서"
   ],
   "channel_distribution": [
     {
@@ -83,23 +83,11 @@
       "count": 1
     },
     {
-      "channel": "씬스틸폼",
-      "count": 1
-    },
-    {
       "channel": "미녀 천명 모으기",
       "count": 1
     },
     {
-      "channel": "비하인드 아카이빙",
-      "count": 1
-    },
-    {
-      "channel": "누나‘s Pick (누나스픽)",
-      "count": 1
-    },
-    {
-      "channel": "펀펀한 이야기",
+      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "뜨비",
+      "count": 1
+    },
+    {
+      "channel": "누나‘s Pick (누나스픽)",
+      "count": 1
+    },
+    {
       "channel": "디구다",
+      "count": 1
+    },
+    {
+      "channel": "아이돌캐치",
       "count": 1
     }
   ],
