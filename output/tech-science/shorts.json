@@ -3,26 +3,15 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 41,
+  "shorts_found": 40,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
   "videos": [
     {
-      "id": "9fixK3UKgbE",
-      "title": "아빠들은 왜 핸드폰을 안바꿀까",
-      "view_count": 5245736,
-      "duration": 10,
-      "upload_date": "20260911",
-      "category": "22",
-      "channel": "이영상",
-      "source_channel": "이영상",
-      "url": "https://www.youtube.com/watch?v=9fixK3UKgbE"
-    },
-    {
       "id": "-0RUWzWl9u0",
       "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget #shorts #gadgets",
-      "view_count": 4614782,
+      "view_count": 6104847,
       "duration": 36,
       "upload_date": "20260918",
       "category": "22",
@@ -31,9 +20,20 @@
       "url": "https://www.youtube.com/watch?v=-0RUWzWl9u0"
     },
     {
+      "id": "9fixK3UKgbE",
+      "title": "아빠들은 왜 핸드폰을 안바꿀까",
+      "view_count": 5384773,
+      "duration": 10,
+      "upload_date": "20260911",
+      "category": "22",
+      "channel": "이영상",
+      "source_channel": "이영상",
+      "url": "https://www.youtube.com/watch?v=9fixK3UKgbE"
+    },
+    {
       "id": "wILP3X_6QSQ",
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
-      "view_count": 4058321,
+      "view_count": 4184113,
       "duration": 42,
       "upload_date": "20260915",
       "category": "20",
@@ -44,7 +44,7 @@
     {
       "id": "6jVQIyJ6AMI",
       "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
-      "view_count": 4041647,
+      "view_count": 4074980,
       "duration": 65,
       "upload_date": "20260909",
       "category": "26",
@@ -55,7 +55,7 @@
     {
       "id": "wcXbRZ7sJCA",
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
-      "view_count": 3853441,
+      "view_count": 3916461,
       "duration": 13,
       "upload_date": "20260906",
       "category": "22",
@@ -64,20 +64,9 @@
       "url": "https://www.youtube.com/watch?v=wcXbRZ7sJCA"
     },
     {
-      "id": "3AQGwJc42W4",
-      "title": "아이폰 듀오 출시를 '축하하는' 삼성 근황?ㅋㅋㅋ",
-      "view_count": 3592988,
-      "duration": 20,
-      "upload_date": "20260911",
-      "category": "23",
-      "channel": "평양냉면",
-      "source_channel": "평양냉면",
-      "url": "https://www.youtube.com/watch?v=3AQGwJc42W4"
-    },
-    {
       "id": "6dNrzOgk6b8",
       "title": "아이폰 듀오 이해 안 되는 점",
-      "view_count": 2680309,
+      "view_count": 2708131,
       "duration": 47,
       "upload_date": "20260910",
       "category": "24",
@@ -88,7 +77,7 @@
     {
       "id": "Bxmahlwi_Dg",
       "title": "말 걸어도 되는지 색으로 알려주는 사무실 상태표시 LED",
-      "view_count": 2478559,
+      "view_count": 2603951,
       "duration": 10,
       "upload_date": "20260911",
       "category": "24",
@@ -99,7 +88,7 @@
     {
       "id": "SXEwpAvEFZg",
       "title": "핸드폰 액정에 '아이언맨'을 입혔더니 생긴 일",
-      "view_count": 1991192,
+      "view_count": 2131152,
       "duration": 25,
       "upload_date": "20260917",
       "category": "27",
@@ -110,7 +99,7 @@
     {
       "id": "kjGk0uzZIpk",
       "title": "테슬라 FSD 자율주행 중 위급상황이 생기면",
-      "view_count": 1558142,
+      "view_count": 1588450,
       "duration": 39,
       "upload_date": "20260915",
       "category": "2",
@@ -121,7 +110,7 @@
     {
       "id": "Tvn9DkfJ04U",
       "title": "북한의 최신 스마트폰 근황",
-      "view_count": 1294962,
+      "view_count": 1322926,
       "duration": 63,
       "upload_date": "20260915",
       "category": "24",
@@ -132,7 +121,7 @@
     {
       "id": "YAuJp8h_o2c",
       "title": "아내의 컴퓨터 자리",
-      "view_count": 1170722,
+      "view_count": 1185225,
       "duration": 112,
       "upload_date": "20260914",
       "category": "22",
@@ -143,7 +132,7 @@
     {
       "id": "VLqO-NMUgYo",
       "title": "TV 스탠드 설치",
-      "view_count": 1111775,
+      "view_count": 1123234,
       "duration": 179,
       "upload_date": "20260909",
       "category": "26",
@@ -154,7 +143,7 @@
     {
       "id": "mMWQaYZqyJE",
       "title": "영하 190도에서 돌린 5090 그래픽카드",
-      "view_count": 1056938,
+      "view_count": 1063744,
       "duration": 29,
       "upload_date": "20260913",
       "category": "20",
@@ -165,7 +154,7 @@
     {
       "id": "D_FAfds0Fyo",
       "title": "대박..갤럭시만 10년써도 몰랐던 숨겨진 꿀기능들",
-      "view_count": 813938,
+      "view_count": 883325,
       "duration": 38,
       "upload_date": "20260921",
       "category": "26",
@@ -176,7 +165,7 @@
     {
       "id": "WoKmf0zcIRU",
       "title": "당신의 모니터가 깜빡 거리는 충격적인 원인 ㄷㄷ",
-      "view_count": 737160,
+      "view_count": 761426,
       "duration": 63,
       "upload_date": "20260911",
       "category": "26",
@@ -187,7 +176,7 @@
     {
       "id": "A3MN-CIA14c",
       "title": "윤활유 대신 바르는 윤활 잼",
-      "view_count": 721103,
+      "view_count": 745157,
       "duration": 26,
       "upload_date": "20260912",
       "category": "26",
@@ -198,7 +187,7 @@
     {
       "id": "IQ8d0l7XuJg",
       "title": "비싼 앰프를 써야하는 이유",
-      "view_count": 694938,
+      "view_count": 744223,
       "duration": 33,
       "upload_date": "20260917",
       "category": "22",
@@ -207,20 +196,9 @@
       "url": "https://www.youtube.com/watch?v=IQ8d0l7XuJg"
     },
     {
-      "id": "iZ1NbTo63sc",
-      "title": "🔥 Turn Your Old TV Into a Smart TV 🤯📺 | This Trick Actually Works!",
-      "view_count": 557652,
-      "duration": 71,
-      "upload_date": "20260830",
-      "category": "22",
-      "channel": "SmartTech Zone",
-      "source_channel": "SmartTech Zone",
-      "url": "https://www.youtube.com/watch?v=iZ1NbTo63sc"
-    },
-    {
       "id": "MZQJfTHqgyw",
       "title": "갤럭시 캡처할 때 제발 버튼 두 개 누르지 마세요(뒤판 톡톡 치면 끝)",
-      "view_count": 550060,
+      "view_count": 589255,
       "duration": 34,
       "upload_date": "20260918",
       "category": "26",
@@ -229,9 +207,31 @@
       "url": "https://www.youtube.com/watch?v=MZQJfTHqgyw"
     },
     {
+      "id": "73XI5b669Uw",
+      "title": "한손 키보드를 직접 만든 대학생.jpg",
+      "view_count": 581256,
+      "duration": 34,
+      "upload_date": "20260919",
+      "category": "23",
+      "channel": "펀숏",
+      "source_channel": "펀숏",
+      "url": "https://www.youtube.com/watch?v=73XI5b669Uw"
+    },
+    {
+      "id": "iZ1NbTo63sc",
+      "title": "🔥 Turn Your Old TV Into a Smart TV 🤯📺 | This Trick Actually Works!",
+      "view_count": 578665,
+      "duration": 71,
+      "upload_date": "20260830",
+      "category": "22",
+      "channel": "SmartTech Zone",
+      "source_channel": "SmartTech Zone",
+      "url": "https://www.youtube.com/watch?v=iZ1NbTo63sc"
+    },
+    {
       "id": "61oZJsgYBTs",
       "title": "폰이 꺼져도 전화 받는 방법",
-      "view_count": 504236,
+      "view_count": 515602,
       "duration": 26,
       "upload_date": "20260914",
       "category": "22",
@@ -242,7 +242,7 @@
     {
       "id": "z2EIOtrRlnk",
       "title": "[398] 물속을 직접 훑는 4K 수중 드론",
-      "view_count": 439302,
+      "view_count": 455157,
       "duration": 11,
       "upload_date": "20260917",
       "category": "26",
@@ -251,31 +251,9 @@
       "url": "https://www.youtube.com/watch?v=z2EIOtrRlnk"
     },
     {
-      "id": "73XI5b669Uw",
-      "title": "한손 키보드를 직접 만든 대학생.jpg",
-      "view_count": 426647,
-      "duration": 34,
-      "upload_date": "20260919",
-      "category": "23",
-      "channel": "펀숏",
-      "source_channel": "펀숏",
-      "url": "https://www.youtube.com/watch?v=73XI5b669Uw"
-    },
-    {
-      "id": "ZNZevTlx1-A",
-      "title": "예술과 기술을 겸비한 하이엔드 접이식 TV",
-      "view_count": 387162,
-      "duration": 11,
-      "upload_date": "20260913",
-      "category": "22",
-      "channel": "투명한지식",
-      "source_channel": "투명한지식",
-      "url": "https://www.youtube.com/watch?v=ZNZevTlx1-A"
-    },
-    {
       "id": "vrT05Chu8Vw",
       "title": "핸드폰의 배터리가 방전되는 체감 직접 보여주겠다는데!",
-      "view_count": 381452,
+      "view_count": 398157,
       "duration": 26,
       "upload_date": "20260914",
       "category": "26",
@@ -284,20 +262,20 @@
       "url": "https://www.youtube.com/watch?v=vrT05Chu8Vw"
     },
     {
-      "id": "mBdNkog4OxY",
-      "title": "현재 아이폰에 생겼다는 이상한 문제점",
-      "view_count": 361762,
-      "duration": 37,
-      "upload_date": "20260920",
-      "category": "20",
-      "channel": "짧주",
-      "source_channel": "짧주",
-      "url": "https://www.youtube.com/watch?v=mBdNkog4OxY"
+      "id": "ZNZevTlx1-A",
+      "title": "예술과 기술을 겸비한 하이엔드 접이식 TV",
+      "view_count": 396242,
+      "duration": 11,
+      "upload_date": "20260913",
+      "category": "22",
+      "channel": "투명한지식",
+      "source_channel": "투명한지식",
+      "url": "https://www.youtube.com/watch?v=ZNZevTlx1-A"
     },
     {
       "id": "rRShzX4u1WE",
       "title": "아이폰듀오 vs 갤럭시폴드 초딩딸한테 고르라고 했더니 ㅋㅋ (반전있음)",
-      "view_count": 316657,
+      "view_count": 367833,
       "duration": 39,
       "upload_date": "20260920",
       "category": "24",
@@ -306,20 +284,31 @@
       "url": "https://www.youtube.com/watch?v=rRShzX4u1WE"
     },
     {
-      "id": "yXEsJx1IPwg",
-      "title": "인형에게 생명을 불어넣는 짝퉁 갤럭시 워치의 숨은 기능 #갤럭시워치 #짝퉁갤럭시워치 #스마트워치",
-      "view_count": 267896,
-      "duration": 88,
-      "upload_date": "20260914",
-      "category": "28",
-      "channel": "복구천재 꼬마신발",
-      "source_channel": "복구천재 꼬마신발",
-      "url": "https://www.youtube.com/watch?v=yXEsJx1IPwg"
+      "id": "mBdNkog4OxY",
+      "title": "현재 아이폰에 생겼다는 이상한 문제점",
+      "view_count": 367367,
+      "duration": 37,
+      "upload_date": "20260920",
+      "category": "20",
+      "channel": "짧주",
+      "source_channel": "짧주",
+      "url": "https://www.youtube.com/watch?v=mBdNkog4OxY"
+    },
+    {
+      "id": "b6UJobeI-zs",
+      "title": "자석을 '조심해야 한다는' 아이폰 18 PRO 근황?ㄷㄷ..",
+      "view_count": 336168,
+      "duration": 30,
+      "upload_date": "20260924",
+      "category": "23",
+      "channel": "평양냉면",
+      "source_channel": "평양냉면",
+      "url": "https://www.youtube.com/watch?v=b6UJobeI-zs"
     },
     {
       "id": "0VTr-sc7ktc",
       "title": "해외여행 갈 때 휴대폰에 이거 하나 달아두세요 #핸드폰스트랩 #도난방지스트랩 #휴대폰스트랩 #소매치기방지 #해외여행필수템 #여행용품 #핸드폰액세서리 #홈시그널",
-      "view_count": 258149,
+      "view_count": 328256,
       "duration": 22,
       "upload_date": "20260921",
       "category": "22",
@@ -328,31 +317,9 @@
       "url": "https://www.youtube.com/watch?v=0VTr-sc7ktc"
     },
     {
-      "id": "BvuIIMke1BU",
-      "title": "각자 다른 노선을 걷는 플스와 엑스박스",
-      "view_count": 215023,
-      "duration": 65,
-      "upload_date": "20260915",
-      "category": "20",
-      "channel": "배드마우스 게임",
-      "source_channel": "배드마우스 게임",
-      "url": "https://www.youtube.com/watch?v=BvuIIMke1BU"
-    },
-    {
-      "id": "GIH4aI_xSz4",
-      "title": "40대가 아이폰 쓰는 이유",
-      "view_count": 214835,
-      "duration": 25,
-      "upload_date": "20260916",
-      "category": "22",
-      "channel": "뇌전구",
-      "source_channel": "뇌전구",
-      "url": "https://www.youtube.com/watch?v=GIH4aI_xSz4"
-    },
-    {
       "id": "1fTfTYdwWdA",
       "title": "키보드, 모니터 각각 성능 1황과 가성비 1황 제품은 무엇일까?",
-      "view_count": 210706,
+      "view_count": 271718,
       "duration": 41,
       "upload_date": "20260922",
       "category": "20",
@@ -363,7 +330,7 @@
     {
       "id": "c1BKrjnZ73o",
       "title": "휴대용 PC 게임기 어서오고.. 고장 난 MSI CLAW A1M U5 UMPC!",
-      "view_count": 201436,
+      "view_count": 245042,
       "duration": 85,
       "upload_date": "20260922",
       "category": "28",
@@ -372,20 +339,20 @@
       "url": "https://www.youtube.com/watch?v=c1BKrjnZ73o"
     },
     {
-      "id": "tfh_DdN6dPA",
-      "title": "실물 미쳤다,, 아이폰 18 프로 글레이셔 언박싱",
-      "view_count": 199207,
-      "duration": 37,
-      "upload_date": "20260917",
+      "id": "j9svcZgw5ow",
+      "title": "컴퓨터에 액체를 부어도 멀쩡한 이유 😳💻",
+      "view_count": 193910,
+      "duration": 20,
+      "upload_date": "20260921",
       "category": "22",
-      "channel": "오너스 OWNOS",
-      "source_channel": "오너스 OWNOS",
-      "url": "https://www.youtube.com/watch?v=tfh_DdN6dPA"
+      "channel": "누리뉘리",
+      "source_channel": "누리뉘리",
+      "url": "https://www.youtube.com/watch?v=j9svcZgw5ow"
     },
     {
       "id": "ehKdo7ZsGe8",
       "title": "0원으로 산 아이폰 18프로 언박싱..?!",
-      "view_count": 183751,
+      "view_count": 192981,
       "duration": 31,
       "upload_date": "20260919",
       "category": "26",
@@ -396,7 +363,7 @@
     {
       "id": "zjPWslz53Yk",
       "title": "맥북유저 꿀템 1위",
-      "view_count": 170889,
+      "view_count": 181255,
       "duration": 44,
       "upload_date": "20260920",
       "category": "26",
@@ -405,9 +372,20 @@
       "url": "https://www.youtube.com/watch?v=zjPWslz53Yk"
     },
     {
+      "id": "yh_lFqEFDUo",
+      "title": "전원 꺼진 분실폰을 찾아버린 꿀기능",
+      "view_count": 149843,
+      "duration": 30,
+      "upload_date": "20260923",
+      "category": "22",
+      "channel": "짤한줌",
+      "source_channel": "짤한줌",
+      "url": "https://www.youtube.com/watch?v=yh_lFqEFDUo"
+    },
+    {
       "id": "m3T69yFoF7E",
       "title": "아이폰 18 프로 글레이셔￼￼￼ 언박싱 하트마이크 ASMR",
-      "view_count": 121783,
+      "view_count": 135803,
       "duration": 61,
       "upload_date": "20260921",
       "category": "24",
@@ -416,9 +394,20 @@
       "url": "https://www.youtube.com/watch?v=m3T69yFoF7E"
     },
     {
+      "id": "MvOFgR7Pt80",
+      "title": "무적의 옛날 핸드폰",
+      "view_count": 98489,
+      "duration": 21,
+      "upload_date": "20260923",
+      "category": "22",
+      "channel": "너는 꽃이야",
+      "source_channel": "너는 꽃이야",
+      "url": "https://www.youtube.com/watch?v=MvOFgR7Pt80"
+    },
+    {
       "id": "AIYMITSJYtc",
       "title": "이 회사의 로봇손만 쓰는 이유ㄷㄷ",
-      "view_count": 92245,
+      "view_count": 97287,
       "duration": 19,
       "upload_date": "20260922",
       "category": "22",
@@ -429,7 +418,7 @@
     {
       "id": "q2aTMu2QZSU",
       "title": "실수로 회사 네트워크를 꺼버렸다는 IT 관리자",
-      "view_count": 80800,
+      "view_count": 88762,
       "duration": 37,
       "upload_date": "20260922",
       "category": "24",
@@ -438,26 +427,26 @@
       "url": "https://www.youtube.com/watch?v=q2aTMu2QZSU"
     },
     {
-      "id": "jjSkwf-XMng",
-      "title": "핸드폰 배터리 없을 때 대처법",
-      "view_count": 70799,
-      "duration": 33,
-      "upload_date": "20260922",
-      "category": "20",
-      "channel": "겜브링 GGAM BRING",
-      "source_channel": "겜브링 GGAM BRING",
-      "url": "https://www.youtube.com/watch?v=jjSkwf-XMng"
-    },
-    {
-      "id": "yh_lFqEFDUo",
-      "title": "전원 꺼진 분실폰을 찾아버린 꿀기능",
-      "view_count": 64997,
-      "duration": 30,
+      "id": "ssv9tkAFRE8",
+      "title": "세상에서 가장 빠른 키보드 타건",
+      "view_count": 60100,
+      "duration": 37,
       "upload_date": "20260923",
       "category": "22",
-      "channel": "짤한줌",
-      "source_channel": "짤한줌",
-      "url": "https://www.youtube.com/watch?v=yh_lFqEFDUo"
+      "channel": "쇼츠츄러스",
+      "source_channel": "쇼츠츄러스",
+      "url": "https://www.youtube.com/watch?v=ssv9tkAFRE8"
+    },
+    {
+      "id": "5bP9Ahj_HbM",
+      "title": "북한 스마트폰의 심각한 기능",
+      "view_count": 53655,
+      "duration": 26,
+      "upload_date": "20260924",
+      "category": "22",
+      "channel": "두쫀쿠 중독자",
+      "source_channel": "두쫀쿠 중독자",
+      "url": "https://www.youtube.com/watch?v=5bP9Ahj_HbM"
     }
   ]
 }

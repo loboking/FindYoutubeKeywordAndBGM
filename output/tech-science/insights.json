@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=41)에서 두드러진 소재/키워드: 아이폰, TV, 직접, 언박싱, 컴퓨터, 기능",
+  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 아이폰, TV, 직접, 컴퓨터, 기능, 핸드폰",
   "top_videos_summary": [
     {
-      "views": 5245736,
-      "title": "아빠들은 왜 핸드폰을 안바꿀까",
-      "upload_year": "2026",
-      "channel": "이영상",
-      "duration": 10
-    },
-    {
-      "views": 4614782,
+      "views": 6104847,
       "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget #shorts #gadgets",
       "upload_year": "2026",
       "channel": "Mark 2",
       "duration": 36
     },
     {
-      "views": 4058321,
+      "views": 5384773,
+      "title": "아빠들은 왜 핸드폰을 안바꿀까",
+      "upload_year": "2026",
+      "channel": "이영상",
+      "duration": 10
+    },
+    {
+      "views": 4184113,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 42
     },
     {
-      "views": 4041647,
+      "views": 4074980,
       "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
       "upload_year": "2026",
       "channel": "허수아비(scarecrow)",
       "duration": 65
     },
     {
-      "views": 3853441,
+      "views": 3916461,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.13,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,31 +51,31 @@
     "아이폰",
     "TV",
     "직접",
-    "언박싱",
     "컴퓨터",
     "기능",
-    "듀오",
-    "근황",
     "핸드폰",
+    "근황",
     "이유",
-    "갤럭시",
-    "쓰는",
     "18",
-    "프로",
-    "아빠들은",
-    "핸드폰을",
-    "안바꿀까",
+    "키보드",
+    "언박싱",
     "#shorts",
     "#gadgets",
-    "Introducing"
+    "Introducing",
+    "the",
+    "VitaWear",
+    "SmartBand",
+    "next",
+    "generation",
+    "wearablegadget"
   ],
   "channel_distribution": [
     {
-      "channel": "이영상",
+      "channel": "Mark 2",
       "count": 1
     },
     {
-      "channel": "Mark 2",
+      "channel": "이영상",
       "count": 1
     },
     {
@@ -88,10 +88,6 @@
     },
     {
       "channel": "숏플래시",
-      "count": 1
-    },
-    {
-      "channel": "평양냉면",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "슬라쇼츠TV",
+      "count": 1
+    },
+    {
+      "channel": "뚝딱 상식 뚝배기",
       "count": 1
     }
   ],
