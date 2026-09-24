@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 하는, 만드는, 방법, 없는, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 남자, 방송, 하는, #shorts, 혈액형",
   "top_videos_summary": [
     {
-      "views": 10909922,
+      "views": 11599268,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 7283509,
+      "views": 7748726,
       "title": "최산 때려야 하는데 못 때리는 양세찬·하하",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 38
     },
     {
-      "views": 7216036,
+      "views": 7260074,
       "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 30
     },
     {
-      "views": 6358855,
+      "views": 6555075,
       "title": "땅콩잼 안짜도 된다고?!",
       "upload_year": "2026",
       "channel": "해외쇼쇼",
       "duration": 56
     },
     {
-      "views": 5391957,
-      "title": "1분 만에 상대를 바보로 만드는 방법",
+      "views": 6341305,
+      "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
       "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 94
+      "channel": "옥상평상",
+      "duration": 76
     }
   ],
   "outlier_adjusted": {
@@ -49,14 +49,13 @@
   },
   "trend_keywords": [
     "이유",
-    "하는",
-    "만드는",
-    "방법",
-    "없는",
+    "남자",
     "방송",
-    "찾아간",
+    "하는",
+    "#shorts",
     "혈액형",
     "#스케치코미디",
+    "진짜",
     "지락실에서",
     "찐으로",
     "열받은",
@@ -67,7 +66,8 @@
     "때리는",
     "양세찬·하하",
     "#영화",
-    "#비하인드"
+    "#비하인드",
+    "저속노화의"
   ],
   "channel_distribution": [
     {
@@ -87,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
       "channel": "명화관",
       "count": 1
     },
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "랭킹웅",
       "count": 1
     },
     {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "야그쟁이",
+      "channel": "방금뭐였지?",
       "count": 1
     }
   ],
