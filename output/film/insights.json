@@ -3,59 +3,63 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 찐으로, #드라마, #박보검, 만드는, 방법",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 남자, 찐으로, #박보검, 방송, 참교육",
   "top_videos_summary": [
     {
-      "views": 10909922,
+      "views": 11599684,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 10566376,
-      "title": "마동석에게 배운 애드립 바로 써먹는 오대환",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 30
-    },
-    {
-      "views": 7434382,
+      "views": 8230987,
       "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 142
     },
     {
-      "views": 7216036,
+      "views": 7260124,
       "title": "저속노화의 신 김광규 ㄷㄷ #영화 #비하인드",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 30
     },
     {
-      "views": 6320087,
-      "title": "0.1초만에 웃음기 싹 빼는 이준영",
+      "views": 6786301,
+      "title": "미안함은 늘 사랑보다 늦게 도착합니다",
       "upload_year": "2026",
-      "channel": "비하인드 아카이빙",
-      "duration": 12
+      "channel": "무비픽스",
+      "duration": 58
+    },
+    {
+      "views": 6342012,
+      "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 76
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
+    "남자",
     "찐으로",
-    "#드라마",
     "#박보검",
-    "만드는",
-    "방법",
-    "없는",
     "방송",
+    "참교육",
+    "#폭싹속았수다",
+    "#shorts",
+    "#드라마",
+    "맛다시",
+    "좋은",
+    "혈액형",
     "#신병",
     "#군대",
     "#부사관",
@@ -63,19 +67,11 @@
     "#이정현",
     "#남태우",
     "#이충구",
-    "#전승훈",
-    "찾아간",
-    "해병대",
-    "#폭싹속았수다",
-    "#이준영"
+    "#전승훈"
   ],
   "channel_distribution": [
     {
       "channel": "알면좋아",
-      "count": 1
-    },
-    {
-      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -87,15 +83,15 @@
       "count": 1
     },
     {
-      "channel": "비하인드 아카이빙",
-      "count": 1
-    },
-    {
       "channel": "무비픽스",
       "count": 1
     },
     {
-      "channel": "다시그림",
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "뜨비",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "랭킹웅",
       "count": 1
     }
   ],
