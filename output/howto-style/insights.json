@@ -3,79 +3,79 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 레시피, LA갈비, #shorts, 이유, 절대, 비법",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: LA갈비, 이유, 레시피, 진짜, 안되는, 절대",
   "top_videos_summary": [
     {
-      "views": 7828975,
-      "title": "These stunts were performed by professionals.Please do not attempt to imitate them. Stunt ✅ #action",
-      "upload_year": "2026",
-      "channel": "Shodiyorbek Otavaliyev",
-      "duration": 25
-    },
-    {
-      "views": 4289215,
+      "views": 4387043,
       "title": "지갑을 잃어버린 외국인 관광객에게 무슨 일이?! Helping tourist who lost their wallet in korea #travel #seoul",
       "upload_year": "2026",
       "channel": "헬프윤",
       "duration": 161
     },
     {
-      "views": 3120283,
+      "views": 4086330,
+      "title": "Is this the future?  24k Gold Cyber Bike Becomes Lit Vanity Suitcase 😱",
+      "upload_year": "2026",
+      "channel": "wahaha",
+      "duration": 75
+    },
+    {
+      "views": 3271129,
       "title": "LA갈비 양념 황금비율! [1: 3: 0.5]",
       "upload_year": "2026",
       "channel": "첫째아들",
       "duration": 89
     },
     {
-      "views": 3093148,
-      "title": "2박 3일 지나도 잡채가 불지를 않습니다!",
-      "upload_year": "2026",
-      "channel": "요리고수",
-      "duration": 109
-    },
-    {
-      "views": 3064729,
+      "views": 3144757,
       "title": "아웃백 뽕 뽑는 법",
       "upload_year": "2026",
       "channel": "\b고기남자",
       "duration": 78
+    },
+    {
+      "views": 2658966,
+      "title": "990원짜리 이케아 브런치의 재료원가는 얼마일까?",
+      "upload_year": "2026",
+      "channel": "제로비",
+      "duration": 179
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "레시피",
     "LA갈비",
-    "#shorts",
     "이유",
-    "절대",
-    "비법",
+    "레시피",
     "진짜",
     "안되는",
+    "절대",
     "만에",
-    "#action",
-    "These",
-    "stunts",
-    "were",
-    "performed",
-    "by",
-    "professionals",
-    "Please",
-    "do",
-    "not",
-    "attempt"
+    "#shorts",
+    "명절",
+    "자전거",
+    "#travel",
+    "#seoul",
+    "지갑을",
+    "잃어버린",
+    "외국인",
+    "관광객에게",
+    "무슨",
+    "일이",
+    "Helping",
+    "tourist"
   ],
   "channel_distribution": [
     {
-      "channel": "Shodiyorbek Otavaliyev",
+      "channel": "헬프윤",
       "count": 1
     },
     {
-      "channel": "헬프윤",
+      "channel": "wahaha",
       "count": 1
     },
     {
@@ -83,19 +83,7 @@
       "count": 1
     },
     {
-      "channel": "요리고수",
-      "count": 1
-    },
-    {
       "channel": "\b고기남자",
-      "count": 1
-    },
-    {
-      "channel": "패션탐정냥",
-      "count": 1
-    },
-    {
-      "channel": "보겸TV",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
-      "channel": "숏플레이",
+      "channel": "크릉",
       "count": 1
     },
     {
       "channel": "공간 탐닉 Space Tamnik",
+      "count": 1
+    },
+    {
+      "channel": "지구별",
+      "count": 1
+    },
+    {
+      "channel": "한컷동물극장",
+      "count": 1
+    },
+    {
+      "channel": "푸기 FUGI",
       "count": 1
     }
   ],
