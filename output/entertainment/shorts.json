@@ -3,26 +3,15 @@
   "slug": "entertainment",
   "source": "mostpopular_category",
   "category_id": "24",
-  "shorts_found": 50,
+  "shorts_found": 49,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
   "videos": [
     {
-      "id": "D93_ohEtl3c",
-      "title": "몽골에서 엄청난 승마실력을 보여주는 천재 이찬혁ㄷㄷ",
-      "view_count": 12497415,
-      "duration": 18,
-      "upload_date": "20260914",
-      "category": "10",
-      "channel": "트렌드룸 Trend Room",
-      "source_channel": "트렌드룸 Trend Room",
-      "url": "https://www.youtube.com/watch?v=D93_ohEtl3c"
-    },
-    {
       "id": "OB_mRq8dyP8",
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
-      "view_count": 12287799,
+      "view_count": 13030085,
       "duration": 38,
       "upload_date": "20260914",
       "category": "22",
@@ -33,7 +22,7 @@
     {
       "id": "wV3WNEZXHUQ",
       "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
-      "view_count": 8757956,
+      "view_count": 9274935,
       "duration": 142,
       "upload_date": "20260918",
       "category": "24",
@@ -44,7 +33,7 @@
     {
       "id": "zFTY65nYXnE",
       "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
-      "view_count": 7595256,
+      "view_count": 8647818,
       "duration": 76,
       "upload_date": "20260920",
       "category": "24",
@@ -55,7 +44,7 @@
     {
       "id": "7SxoAGly52s",
       "title": "서로 다리 맞물려 자는게 너무 웃김 ㅋㅋㅋㅋㅋㅋㅋ",
-      "view_count": 7334194,
+      "view_count": 7380484,
       "duration": 12,
       "upload_date": "20260919",
       "category": "22",
@@ -64,31 +53,9 @@
       "url": "https://www.youtube.com/watch?v=7SxoAGly52s"
     },
     {
-      "id": "1E0BhwpWl8w",
-      "title": "천만명을 웃겨버린 한국인 커플",
-      "view_count": 6972112,
-      "duration": 25,
-      "upload_date": "20260918",
-      "category": "22",
-      "channel": "뇌피셜보이",
-      "source_channel": "뇌피셜보이",
-      "url": "https://www.youtube.com/watch?v=1E0BhwpWl8w"
-    },
-    {
-      "id": "AlsZe06kTE0",
-      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
-      "view_count": 6905131,
-      "duration": 76,
-      "upload_date": "20260919",
-      "category": "24",
-      "channel": "뜨비",
-      "source_channel": "뜨비",
-      "url": "https://www.youtube.com/watch?v=AlsZe06kTE0"
-    },
-    {
       "id": "teFjBf4T7Ls",
       "title": "다들 애먹던 스위치에 김연경이 나선 이유",
-      "view_count": 6471467,
+      "view_count": 7362228,
       "duration": 46,
       "upload_date": "20260922",
       "category": "24",
@@ -97,9 +64,42 @@
       "url": "https://www.youtube.com/watch?v=teFjBf4T7Ls"
     },
     {
+      "id": "AlsZe06kTE0",
+      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
+      "view_count": 7320428,
+      "duration": 76,
+      "upload_date": "20260919",
+      "category": "24",
+      "channel": "뜨비",
+      "source_channel": "뜨비",
+      "url": "https://www.youtube.com/watch?v=AlsZe06kTE0"
+    },
+    {
+      "id": "1E0BhwpWl8w",
+      "title": "천만명을 웃겨버린 한국인 커플",
+      "view_count": 7284906,
+      "duration": 25,
+      "upload_date": "20260918",
+      "category": "22",
+      "channel": "뇌피셜보이",
+      "source_channel": "뇌피셜보이",
+      "url": "https://www.youtube.com/watch?v=1E0BhwpWl8w"
+    },
+    {
+      "id": "ikGQ9E-u6mc",
+      "title": "내 담배는 멘솔",
+      "view_count": 5690847,
+      "duration": 76,
+      "upload_date": "20260922",
+      "category": "22",
+      "channel": "케슛슛",
+      "source_channel": "케슛슛",
+      "url": "https://www.youtube.com/watch?v=ikGQ9E-u6mc"
+    },
+    {
       "id": "m8Kcg12KtRo",
       "title": "경찰 아내랑 범죄자의 통화?! | 개그콘서트 Gagconcert | KBS 260920 방송",
-      "view_count": 5120549,
+      "view_count": 5650863,
       "duration": 38,
       "upload_date": "20260921",
       "category": "24",
@@ -110,7 +110,7 @@
     {
       "id": "6btxyt4raIg",
       "title": "다시봐도 웃긴 태세전환 방송 랭킹 TOP 2",
-      "view_count": 4941842,
+      "view_count": 5530832,
       "duration": 40,
       "upload_date": "20260920",
       "category": "20",
@@ -119,64 +119,9 @@
       "url": "https://www.youtube.com/watch?v=6btxyt4raIg"
     },
     {
-      "id": "ikGQ9E-u6mc",
-      "title": "내 담배는 멘솔",
-      "view_count": 4644911,
-      "duration": 76,
-      "upload_date": "20260922",
-      "category": "22",
-      "channel": "케슛슛",
-      "source_channel": "케슛슛",
-      "url": "https://www.youtube.com/watch?v=ikGQ9E-u6mc"
-    },
-    {
-      "id": "SpcB7lsDibM",
-      "title": "‘오타쿠 제대로 저격한’ 예나의 캐치캐치 디렉팅들",
-      "view_count": 4374585,
-      "duration": 27,
-      "upload_date": "20260921",
-      "category": "24",
-      "channel": "패션탐정냥",
-      "source_channel": "패션탐정냥",
-      "url": "https://www.youtube.com/watch?v=SpcB7lsDibM"
-    },
-    {
-      "id": "mYmlDw-vdx4",
-      "title": "인생을 가르치는 한예슬의 참교육 ㅋㅋ",
-      "view_count": 3885276,
-      "duration": 24,
-      "upload_date": "20260919",
-      "category": "22",
-      "channel": "고전명작",
-      "source_channel": "고전명작",
-      "url": "https://www.youtube.com/watch?v=mYmlDw-vdx4"
-    },
-    {
-      "id": "ReIR0gdKxF0",
-      "title": "미나미가 질색하는 호칭 #리센느",
-      "view_count": 3720391,
-      "duration": 29,
-      "upload_date": "20260919",
-      "category": "24",
-      "channel": "리센느상사",
-      "source_channel": "리센느상사",
-      "url": "https://www.youtube.com/watch?v=ReIR0gdKxF0"
-    },
-    {
-      "id": "qYfU1gYHuU4",
-      "title": "해병대 기강잡는 이중구상사 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
-      "view_count": 3599305,
-      "duration": 56,
-      "upload_date": "20260922",
-      "category": "22",
-      "channel": "에나 클립",
-      "source_channel": "에나 클립",
-      "url": "https://www.youtube.com/watch?v=qYfU1gYHuU4"
-    },
-    {
       "id": "VfhK2Sw84W8",
       "title": "그렇게 됐습니다",
-      "view_count": 3379283,
+      "view_count": 4642814,
       "duration": 68,
       "upload_date": "20260921",
       "category": "24",
@@ -185,20 +130,75 @@
       "url": "https://www.youtube.com/watch?v=VfhK2Sw84W8"
     },
     {
-      "id": "2GFdf2HXn-E",
-      "title": "감히 누굴 의심해😤#포핸즈",
-      "view_count": 3332042,
-      "duration": 60,
-      "upload_date": "20260920",
+      "id": "SpcB7lsDibM",
+      "title": "‘오타쿠 제대로 저격한’ 예나의 캐치캐치 디렉팅들",
+      "view_count": 4626139,
+      "duration": 27,
+      "upload_date": "20260921",
       "category": "24",
-      "channel": "디글 :Diggle",
-      "source_channel": "디글 :Diggle",
-      "url": "https://www.youtube.com/watch?v=2GFdf2HXn-E"
+      "channel": "패션탐정냥",
+      "source_channel": "패션탐정냥",
+      "url": "https://www.youtube.com/watch?v=SpcB7lsDibM"
+    },
+    {
+      "id": "A14fAfJB9dg",
+      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
+      "view_count": 4155471,
+      "duration": 178,
+      "upload_date": "20260923",
+      "category": "1",
+      "channel": "눈물한가득",
+      "source_channel": "눈물한가득",
+      "url": "https://www.youtube.com/watch?v=A14fAfJB9dg"
+    },
+    {
+      "id": "qYfU1gYHuU4",
+      "title": "해병대 기강잡는 이중구상사 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "view_count": 4119436,
+      "duration": 56,
+      "upload_date": "20260922",
+      "category": "22",
+      "channel": "에나 클립",
+      "source_channel": "에나 클립",
+      "url": "https://www.youtube.com/watch?v=qYfU1gYHuU4"
+    },
+    {
+      "id": "JY_NilVWH7s",
+      "title": "성대모사 하나로 경찰이 된 남자",
+      "view_count": 4033713,
+      "duration": 73,
+      "upload_date": "20260920",
+      "category": "22",
+      "channel": "냐옹관",
+      "source_channel": "냐옹관",
+      "url": "https://www.youtube.com/watch?v=JY_NilVWH7s"
+    },
+    {
+      "id": "Ifhs1gPYO24",
+      "title": "아이유 때문에 귀여워 죽는 남자 배우들",
+      "view_count": 3962930,
+      "duration": 11,
+      "upload_date": "20260922",
+      "category": "22",
+      "channel": "조슈아매거진",
+      "source_channel": "조슈아매거진",
+      "url": "https://www.youtube.com/watch?v=Ifhs1gPYO24"
+    },
+    {
+      "id": "C0v2-XZcZys",
+      "title": "자존심을 건 카이스트 vs 서울대 기 싸움 (feat. 이창섭) @ootbstudio",
+      "view_count": 3841083,
+      "duration": 27,
+      "upload_date": "20260922",
+      "category": "10",
+      "channel": "예능쥬아",
+      "source_channel": "예능쥬아",
+      "url": "https://www.youtube.com/watch?v=C0v2-XZcZys"
     },
     {
       "id": "yKcMv-80cIg",
       "title": "애순이 은명에게 화내고 마음이 아파진 이유 #넷플릭스 #폭싹속았수다 #아이유 #박보검 #문소리 #박해준 #강유석 #최대훈 #장혜진 #이준영 #김선호",
-      "view_count": 3241842,
+      "view_count": 3695829,
       "duration": 59,
       "upload_date": "20260921",
       "category": "24",
@@ -209,7 +209,7 @@
     {
       "id": "jYUG7Ij4O3s",
       "title": "중대장이 변하자 병사들 찐 반응 #신병2",
-      "view_count": 3130766,
+      "view_count": 3358286,
       "duration": 48,
       "upload_date": "20260921",
       "category": "22",
@@ -218,108 +218,9 @@
       "url": "https://www.youtube.com/watch?v=jYUG7Ij4O3s"
     },
     {
-      "id": "C0v2-XZcZys",
-      "title": "자존심을 건 카이스트 vs 서울대 기 싸움 (feat. 이창섭) @ootbstudio",
-      "view_count": 3098935,
-      "duration": 27,
-      "upload_date": "20260922",
-      "category": "10",
-      "channel": "예능쥬아",
-      "source_channel": "예능쥬아",
-      "url": "https://www.youtube.com/watch?v=C0v2-XZcZys"
-    },
-    {
-      "id": "Ifhs1gPYO24",
-      "title": "아이유 때문에 귀여워 죽는 남자 배우들",
-      "view_count": 3006107,
-      "duration": 11,
-      "upload_date": "20260922",
-      "category": "22",
-      "channel": "조슈아매거진",
-      "source_channel": "조슈아매거진",
-      "url": "https://www.youtube.com/watch?v=Ifhs1gPYO24"
-    },
-    {
-      "id": "TE3lAgUmzAE",
-      "title": "모든 대답이 정답이었다.....",
-      "view_count": 3003723,
-      "duration": 19,
-      "upload_date": "20260921",
-      "category": "22",
-      "channel": "미남 천명 모으기",
-      "source_channel": "미남 천명 모으기",
-      "url": "https://www.youtube.com/watch?v=TE3lAgUmzAE"
-    },
-    {
-      "id": "JY_NilVWH7s",
-      "title": "성대모사 하나로 경찰이 된 남자",
-      "view_count": 2926804,
-      "duration": 73,
-      "upload_date": "20260920",
-      "category": "22",
-      "channel": "냐옹관",
-      "source_channel": "냐옹관",
-      "url": "https://www.youtube.com/watch?v=JY_NilVWH7s"
-    },
-    {
-      "id": "he7WXnO01D4",
-      "title": "전역 포기한 강찬석 #shorts",
-      "view_count": 2906000,
-      "duration": 52,
-      "upload_date": "20260921",
-      "category": "24",
-      "channel": "스튜디오지니",
-      "source_channel": "스튜디오지니",
-      "url": "https://www.youtube.com/watch?v=he7WXnO01D4"
-    },
-    {
-      "id": "C3f82XohBW4",
-      "title": "케미가 폭발하는 서인영과 잘생긴 김상혁",
-      "view_count": 2789579,
-      "duration": 35,
-      "upload_date": "20260921",
-      "category": "24",
-      "channel": "개과천선 서인영",
-      "source_channel": "개과천선 서인영",
-      "url": "https://www.youtube.com/watch?v=C3f82XohBW4"
-    },
-    {
-      "id": "PWZWsCvmq4o",
-      "title": "설마 맛다시!? #신병4 9회 #쇼츠",
-      "view_count": 2781609,
-      "duration": 40,
-      "upload_date": "20260921",
-      "category": "1",
-      "channel": "ENA DRAMA",
-      "source_channel": "ENA DRAMA",
-      "url": "https://www.youtube.com/watch?v=PWZWsCvmq4o"
-    },
-    {
-      "id": "pfMl-JPcODw",
-      "title": "남다른 영업력을 가진 저승사자",
-      "view_count": 2719273,
-      "duration": 58,
-      "upload_date": "20260922",
-      "category": "27",
-      "channel": "힐링무비",
-      "source_channel": "힐링무비",
-      "url": "https://www.youtube.com/watch?v=pfMl-JPcODw"
-    },
-    {
-      "id": "A14fAfJB9dg",
-      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
-      "view_count": 2680034,
-      "duration": 178,
-      "upload_date": "20260923",
-      "category": "1",
-      "channel": "눈물한가득",
-      "source_channel": "눈물한가득",
-      "url": "https://www.youtube.com/watch?v=A14fAfJB9dg"
-    },
-    {
       "id": "tLlGd48zh7s",
       "title": "강호동이 직접 밝힌 고3 레전드 일화",
-      "view_count": 2608566,
+      "view_count": 3319557,
       "duration": 53,
       "upload_date": "20260923",
       "category": "10",
@@ -328,9 +229,64 @@
       "url": "https://www.youtube.com/watch?v=tLlGd48zh7s"
     },
     {
+      "id": "TE3lAgUmzAE",
+      "title": "모든 대답이 정답이었다.....",
+      "view_count": 3295736,
+      "duration": 19,
+      "upload_date": "20260921",
+      "category": "22",
+      "channel": "미남 천명 모으기",
+      "source_channel": "미남 천명 모으기",
+      "url": "https://www.youtube.com/watch?v=TE3lAgUmzAE"
+    },
+    {
+      "id": "8HnMRHc5ER4",
+      "title": "촬영때마다 보인다는 원이의 슬픈 습관들",
+      "view_count": 3137509,
+      "duration": 42,
+      "upload_date": "20260924",
+      "category": "24",
+      "channel": "입덕랭킹필름",
+      "source_channel": "입덕랭킹필름",
+      "url": "https://www.youtube.com/watch?v=8HnMRHc5ER4"
+    },
+    {
+      "id": "pfMl-JPcODw",
+      "title": "남다른 영업력을 가진 저승사자",
+      "view_count": 3131632,
+      "duration": 58,
+      "upload_date": "20260922",
+      "category": "27",
+      "channel": "힐링무비",
+      "source_channel": "힐링무비",
+      "url": "https://www.youtube.com/watch?v=pfMl-JPcODw"
+    },
+    {
+      "id": "PWZWsCvmq4o",
+      "title": "설마 맛다시!? #신병4 9회 #쇼츠",
+      "view_count": 2873690,
+      "duration": 40,
+      "upload_date": "20260921",
+      "category": "1",
+      "channel": "ENA DRAMA",
+      "source_channel": "ENA DRAMA",
+      "url": "https://www.youtube.com/watch?v=PWZWsCvmq4o"
+    },
+    {
+      "id": "qfKklLKqBcc",
+      "title": "불량학생들 참교육하는 복싱 챔피언 선생님",
+      "view_count": 2687092,
+      "duration": 58,
+      "upload_date": "20260924",
+      "category": "10",
+      "channel": "무비로드",
+      "source_channel": "무비로드",
+      "url": "https://www.youtube.com/watch?v=qfKklLKqBcc"
+    },
+    {
       "id": "lFTYxWpUXwA",
       "title": "좋은 혈액형, 나쁜 혈액형 라떼 아재개그 폭발 손지창",
-      "view_count": 2540486,
+      "view_count": 2676988,
       "duration": 40,
       "upload_date": "20260922",
       "category": "22",
@@ -339,9 +295,20 @@
       "url": "https://www.youtube.com/watch?v=lFTYxWpUXwA"
     },
     {
+      "id": "1w8NDSlnP9w",
+      "title": "한번 데이고도 지 버릇 개 못 준 남자",
+      "view_count": 2587817,
+      "duration": 60,
+      "upload_date": "20260921",
+      "category": "22",
+      "channel": "뭉툭한 시선",
+      "source_channel": "뭉툭한 시선",
+      "url": "https://www.youtube.com/watch?v=1w8NDSlnP9w"
+    },
+    {
       "id": "6Ob3rziXllA",
       "title": "미남과 결혼한 미녀들의 공통점",
-      "view_count": 2304998,
+      "view_count": 2566233,
       "duration": 34,
       "upload_date": "20260923",
       "category": "24",
@@ -350,9 +317,20 @@
       "url": "https://www.youtube.com/watch?v=6Ob3rziXllA"
     },
     {
+      "id": "FTVm62gHBnc",
+      "title": "무표정으로 숨쉬듯이 웃기는 이준혁 군대썰ㅋㅋ #꼰대희 #이준혁",
+      "view_count": 2485477,
+      "duration": 68,
+      "upload_date": "20260923",
+      "category": "23",
+      "channel": "FUNNYHOUZ",
+      "source_channel": "FUNNYHOUZ",
+      "url": "https://www.youtube.com/watch?v=FTVm62gHBnc"
+    },
+    {
       "id": "7QWL_kxSTx0",
       "title": "일본 예능 몰카에서 인성 보여준 에스파",
-      "view_count": 1991227,
+      "view_count": 2234401,
       "duration": 14,
       "upload_date": "20260921",
       "category": "22",
@@ -361,9 +339,20 @@
       "url": "https://www.youtube.com/watch?v=7QWL_kxSTx0"
     },
     {
+      "id": "tokFxiNRFQM",
+      "title": "금광 찾으려 업신까지 총질하던 일본놈의 최후 #이동욱 #김범 #김소연 #구미호뎐1938 #드라마",
+      "view_count": 2224111,
+      "duration": 35,
+      "upload_date": "20260923",
+      "category": "1",
+      "channel": "다시그림",
+      "source_channel": "다시그림",
+      "url": "https://www.youtube.com/watch?v=tokFxiNRFQM"
+    },
+    {
       "id": "KxC1xF5yDV4",
       "title": "육군 무시하던 해병대가 갑자기 조용해진 이유",
-      "view_count": 1851799,
+      "view_count": 2185587,
       "duration": 54,
       "upload_date": "20260923",
       "category": "24",
@@ -374,7 +363,7 @@
     {
       "id": "1W7B6IkWSMI",
       "title": "역대급 실수 모먼트 랭킹 TOP6 #랭킹#유머#웃긴영상",
-      "view_count": 1732982,
+      "view_count": 2126157,
       "duration": 36,
       "upload_date": "20260923",
       "category": "23",
@@ -383,9 +372,42 @@
       "url": "https://www.youtube.com/watch?v=1W7B6IkWSMI"
     },
     {
+      "id": "6VJtOLvRsKI",
+      "title": "정말 급할때 나온다는 송하영 짱구 말투 ㅋㅋㅋ",
+      "view_count": 2094968,
+      "duration": 14,
+      "upload_date": "20260923",
+      "category": "24",
+      "channel": "썰척",
+      "source_channel": "썰척",
+      "url": "https://www.youtube.com/watch?v=6VJtOLvRsKI"
+    },
+    {
+      "id": "mxdyJUp9imw",
+      "title": "정신 못 차리게 하는 아이돌 웃긴 장면 TOP5",
+      "view_count": 2089765,
+      "duration": 50,
+      "upload_date": "20260923",
+      "category": "10",
+      "channel": "한끼뮤직 ",
+      "source_channel": "한끼뮤직 ",
+      "url": "https://www.youtube.com/watch?v=mxdyJUp9imw"
+    },
+    {
+      "id": "FkHopRWAYAQ",
+      "title": "팬들도 충격받은 박지원의 사자성어 실력 수준",
+      "view_count": 2081265,
+      "duration": 21,
+      "upload_date": "20260925",
+      "category": "24",
+      "channel": "나 잘한다해짜나",
+      "source_channel": "나 잘한다해짜나",
+      "url": "https://www.youtube.com/watch?v=FkHopRWAYAQ"
+    },
+    {
       "id": "JiXvI7AHwr8",
       "title": "구청 노쇼의 뜻밖의 결말",
-      "view_count": 1711102,
+      "view_count": 2077535,
       "duration": 121,
       "upload_date": "20260922",
       "category": "24",
@@ -394,31 +416,9 @@
       "url": "https://www.youtube.com/watch?v=JiXvI7AHwr8"
     },
     {
-      "id": "FTVm62gHBnc",
-      "title": "무표정으로 숨쉬듯이 웃기는 이준혁 군대썰ㅋㅋ #꼰대희 #이준혁",
-      "view_count": 1579343,
-      "duration": 68,
-      "upload_date": "20260923",
-      "category": "23",
-      "channel": "FUNNYHOUZ",
-      "source_channel": "FUNNYHOUZ",
-      "url": "https://www.youtube.com/watch?v=FTVm62gHBnc"
-    },
-    {
-      "id": "tokFxiNRFQM",
-      "title": "금광 찾으려 업신까지 총질하던 일본놈의 최후 #이동욱 #김범 #김소연 #구미호뎐1938 #드라마",
-      "view_count": 1539448,
-      "duration": 35,
-      "upload_date": "20260923",
-      "category": "1",
-      "channel": "다시그림",
-      "source_channel": "다시그림",
-      "url": "https://www.youtube.com/watch?v=tokFxiNRFQM"
-    },
-    {
       "id": "MAR-CcUuqDc",
       "title": "침대 하나에도 기안84의 상상력이 너무 많이 들어간 결과 ㅋㅋ #기안84 #김연경 #이준호 #카즈하 #대환장기안장",
-      "view_count": 1537081,
+      "view_count": 1906636,
       "duration": 28,
       "upload_date": "20260923",
       "category": "24",
@@ -427,53 +427,20 @@
       "url": "https://www.youtube.com/watch?v=MAR-CcUuqDc"
     },
     {
-      "id": "NnB49Ir6g_M",
-      "title": "말끝마다 전쟁 언급하는 간부특 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
-      "view_count": 1531269,
-      "duration": 60,
-      "upload_date": "20260923",
-      "category": "22",
-      "channel": "다시볼티비",
-      "source_channel": "다시볼티비",
-      "url": "https://www.youtube.com/watch?v=NnB49Ir6g_M"
-    },
-    {
-      "id": "vK-i97iENvU",
-      "title": "엄마가 돈을 안 빌려주자 며느리부터 찾아간 시누이 #시니어 #시니어드라마 #시니어쇼츠 #반전드라마 #감동드라마",
-      "view_count": 1515543,
-      "duration": 80,
-      "upload_date": "20260922",
-      "category": "1",
-      "channel": "이야기쿵",
-      "source_channel": "이야기쿵",
-      "url": "https://www.youtube.com/watch?v=vK-i97iENvU"
-    },
-    {
-      "id": "ykzTpAu5y5k",
-      "title": "해병대의 전설 이중구 상사의 가르침",
-      "view_count": 1491509,
-      "duration": 47,
-      "upload_date": "20260923",
-      "category": "22",
-      "channel": "무비대장",
-      "source_channel": "무비대장",
-      "url": "https://www.youtube.com/watch?v=ykzTpAu5y5k"
-    },
-    {
-      "id": "E44J88zhM6c",
-      "title": "부활하신 아버지",
-      "view_count": 1481018,
-      "duration": 88,
-      "upload_date": "20260923",
-      "category": "1",
-      "channel": "재훍 영상툰",
-      "source_channel": "재훍 영상툰",
-      "url": "https://www.youtube.com/watch?v=E44J88zhM6c"
+      "id": "S7Qbv_jWFWc",
+      "title": "명절에 이런 거 찍는 아이돌 처음봄 #cortis #건호 #마틴 #주훈 #성현 #제임스 #추석",
+      "view_count": 1900672,
+      "duration": 19,
+      "upload_date": "20260924",
+      "category": "24",
+      "channel": "코라니",
+      "source_channel": "코라니",
+      "url": "https://www.youtube.com/watch?v=S7Qbv_jWFWc"
     },
     {
       "id": "kLvZOY3wDZ8",
       "title": "주거침입 강도를 참교육 한 여고생",
-      "view_count": 1458626,
+      "view_count": 1897879,
       "duration": 48,
       "upload_date": "20260923",
       "category": "22",
@@ -484,7 +451,7 @@
     {
       "id": "3vXidIGXfNw",
       "title": "맛없는거 앞에선 너무 투명한 방탄",
-      "view_count": 1450109,
+      "view_count": 1841513,
       "duration": 13,
       "upload_date": "20260923",
       "category": "22",
@@ -493,42 +460,31 @@
       "url": "https://www.youtube.com/watch?v=3vXidIGXfNw"
     },
     {
-      "id": "6VJtOLvRsKI",
-      "title": "정말 급할때 나온다는 송하영 짱구 말투 ㅋㅋㅋ",
-      "view_count": 1445344,
-      "duration": 14,
+      "id": "NnB49Ir6g_M",
+      "title": "말끝마다 전쟁 언급하는 간부특 #신병 #군대 #부사관 #장삐쭈 #이정현 #남태우 #이충구 #전승훈",
+      "view_count": 1829119,
+      "duration": 60,
       "upload_date": "20260923",
-      "category": "24",
-      "channel": "썰척",
-      "source_channel": "썰척",
-      "url": "https://www.youtube.com/watch?v=6VJtOLvRsKI"
+      "category": "22",
+      "channel": "다시볼티비",
+      "source_channel": "다시볼티비",
+      "url": "https://www.youtube.com/watch?v=NnB49Ir6g_M"
     },
     {
-      "id": "qfKklLKqBcc",
-      "title": "불량학생들 참교육하는 복싱 챔피언 선생님",
-      "view_count": 1312776,
-      "duration": 58,
-      "upload_date": "20260924",
-      "category": "10",
-      "channel": "무비로드",
-      "source_channel": "무비로드",
-      "url": "https://www.youtube.com/watch?v=qfKklLKqBcc"
-    },
-    {
-      "id": "S7Qbv_jWFWc",
-      "title": "명절에 이런 거 찍는 아이돌 처음봄 #cortis #건호 #마틴 #주훈 #성현 #제임스 #추석",
-      "view_count": 1234546,
-      "duration": 19,
+      "id": "5g6OBYHNt5o",
+      "title": "기안장 취침 전 소등 김연경이 필요한 이유",
+      "view_count": 1771352,
+      "duration": 60,
       "upload_date": "20260924",
       "category": "24",
-      "channel": "코라니",
-      "source_channel": "코라니",
-      "url": "https://www.youtube.com/watch?v=S7Qbv_jWFWc"
+      "channel": "iamenternews",
+      "source_channel": "iamenternews",
+      "url": "https://www.youtube.com/watch?v=5g6OBYHNt5o"
     },
     {
       "id": "DeN6ARNTD4k",
       "title": "가족들에게 말하지 않은 학씨의 비밀 #폭싹속았수다",
-      "view_count": 1068404,
+      "view_count": 1757070,
       "duration": 84,
       "upload_date": "20260924",
       "category": "1",
@@ -537,26 +493,59 @@
       "url": "https://www.youtube.com/watch?v=DeN6ARNTD4k"
     },
     {
-      "id": "FkHopRWAYAQ",
-      "title": "팬들도 충격받은 박지원의 사자성어 실력 수준",
-      "view_count": 948038,
-      "duration": 21,
+      "id": "NueFblhIJ7I",
+      "title": "내 동생들 괴롭히는건 못참는 큰형",
+      "view_count": 1583934,
+      "duration": 69,
       "upload_date": "20260925",
-      "category": "24",
-      "channel": "나 잘한다해짜나",
-      "source_channel": "나 잘한다해짜나",
-      "url": "https://www.youtube.com/watch?v=FkHopRWAYAQ"
+      "category": "1",
+      "channel": "드라파기",
+      "source_channel": "드라파기",
+      "url": "https://www.youtube.com/watch?v=NueFblhIJ7I"
     },
     {
       "id": "Y3bU01eKHV4",
       "title": "일본을 마비시킨(?) KPOP 스타의 정체?",
-      "view_count": 944672,
+      "view_count": 1512718,
       "duration": 25,
       "upload_date": "20260924",
       "category": "22",
       "channel": "hypeDRIP",
       "source_channel": "hypeDRIP",
       "url": "https://www.youtube.com/watch?v=Y3bU01eKHV4"
+    },
+    {
+      "id": "dlfsz3jQrZA",
+      "title": "아프게하는 마님은 싫고 아프게해도 좋은 칠성이 #넷플릭스 #스캔들",
+      "view_count": 1426959,
+      "duration": 40,
+      "upload_date": "20260925",
+      "category": "1",
+      "channel": "꿀잼클립",
+      "source_channel": "꿀잼클립",
+      "url": "https://www.youtube.com/watch?v=dlfsz3jQrZA"
+    },
+    {
+      "id": "82hWMtiQETs",
+      "title": "얼굴 칭찬하는데 혼자 음흉하게 몸매 훑어보고 있던 리브 ㅋㅋㅋ",
+      "view_count": 1186440,
+      "duration": 12,
+      "upload_date": "20260925",
+      "category": "23",
+      "channel": "해외유머갤러리",
+      "source_channel": "해외유머갤러리",
+      "url": "https://www.youtube.com/watch?v=82hWMtiQETs"
+    },
+    {
+      "id": "pnwZtB_xx5o",
+      "title": "아들 버리고 혼주석 탐내는 친모 참교육",
+      "view_count": 1122901,
+      "duration": 102,
+      "upload_date": "20260924",
+      "category": "24",
+      "channel": "참교육TV",
+      "source_channel": "참교육TV",
+      "url": "https://www.youtube.com/watch?v=pnwZtB_xx5o"
     }
   ]
 }
