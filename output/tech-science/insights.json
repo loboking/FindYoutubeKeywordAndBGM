@@ -3,77 +3,73 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 아이폰, TV, 직접, 컴퓨터, 기능, 핸드폰",
+  "formula": "카테고리 인기 shorts(n=41)에서 두드러진 소재/키워드: 아이폰, TV, 이유, 컴퓨터, 기능, 듀오",
   "top_videos_summary": [
     {
-      "views": 7563737,
-      "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget #shorts #gadgets",
-      "upload_year": "2026",
-      "channel": "Mark 2",
-      "duration": 36
-    },
-    {
-      "views": 5486181,
+      "views": 5512913,
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 10
     },
     {
-      "views": 4272648,
+      "views": 4351110,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 42
     },
     {
-      "views": 4125763,
+      "views": 4152708,
       "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
       "upload_year": "2026",
       "channel": "허수아비(scarecrow)",
       "duration": 65
     },
     {
-      "views": 3956933,
+      "views": 4005464,
       "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
       "upload_year": "2026",
       "channel": "숏플래시",
       "duration": 13
+    },
+    {
+      "views": 2761471,
+      "title": "아이폰 듀오 이해 안 되는 점",
+      "upload_year": "2026",
+      "channel": "테드TV",
+      "duration": 47
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.15,
+    "top1_share": 0.13,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "아이폰",
     "TV",
-    "직접",
+    "이유",
     "컴퓨터",
     "기능",
+    "듀오",
     "핸드폰",
     "근황",
-    "그래픽카드",
     "모니터",
-    "이유",
+    "직접",
     "18",
     "언박싱",
+    "그래픽카드",
     "오른다",
-    "#shorts",
-    "#gadgets",
-    "Introducing",
-    "the",
-    "VitaWear",
-    "SmartBand",
-    "next"
+    "아빠들은",
+    "핸드폰을",
+    "안바꿀까",
+    "당근에",
+    "조립을",
+    "맡긴"
   ],
   "channel_distribution": [
-    {
-      "channel": "Mark 2",
-      "count": 1
-    },
     {
       "channel": "이영상",
       "count": 1
@@ -108,6 +104,10 @@
     },
     {
       "channel": "뚝딱 상식 뚝배기",
+      "count": 1
+    },
+    {
+      "channel": "냥이아빠",
       "count": 1
     }
   ],
