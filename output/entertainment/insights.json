@@ -3,58 +3,57 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 남자, 너무, 찐으로, 김연경이, 방송",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 남자, 김연경이, 너무, 웃긴, 방송",
   "top_videos_summary": [
     {
-      "views": 13030085,
-      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "알면좋아",
-      "duration": 38
-    },
-    {
-      "views": 9274935,
+      "views": 9666635,
       "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 142
     },
     {
-      "views": 8647818,
+      "views": 9530340,
       "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 76
     },
     {
-      "views": 7380484,
-      "title": "서로 다리 맞물려 자는게 너무 웃김 ㅋㅋㅋㅋㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "미녀 천명 모으기",
-      "duration": 12
-    },
-    {
-      "views": 7362228,
+      "views": 8106634,
       "title": "다들 애먹던 스위치에 김연경이 나선 이유",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 46
+    },
+    {
+      "views": 7524671,
+      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
+      "upload_year": "2026",
+      "channel": "뜨비",
+      "duration": 76
+    },
+    {
+      "views": 7476402,
+      "title": "천만명을 웃겨버린 한국인 커플",
+      "upload_year": "2026",
+      "channel": "뇌피셜보이",
+      "duration": 25
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "남자",
-    "너무",
-    "찐으로",
     "김연경이",
-    "방송",
+    "너무",
     "웃긴",
+    "방송",
     "#신병",
     "#군대",
     "#부사관",
@@ -63,27 +62,20 @@
     "#남태우",
     "#이충구",
     "#전승훈",
-    "#넷플릭스",
     "#폭싹속았수다",
-    "좋은",
-    "혈액형",
-    "아이돌"
+    "아이돌",
+    "장면",
+    "최후",
+    "참교육",
+    "코난"
   ],
   "channel_distribution": [
-    {
-      "channel": "알면좋아",
-      "count": 1
-    },
     {
       "channel": "명화관",
       "count": 1
     },
     {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "미녀 천명 모으기",
       "count": 1
     },
     {
@@ -99,7 +91,15 @@
       "count": 1
     },
     {
+      "channel": "미녀 천명 모으기",
+      "count": 1
+    },
+    {
       "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "랭킹웅",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "랭킹웅",
+      "channel": "먹기전에",
       "count": 1
     }
   ],
