@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 남자, 방송, 혈액형, #신병, #스케치코미디",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 남자, 이유, #신병, 방송, #넷플릭스, 혈액형",
   "top_videos_summary": [
     {
-      "views": 13030085,
+      "views": 13939539,
       "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
       "upload_year": "2026",
       "channel": "알면좋아",
       "duration": 38
     },
     {
-      "views": 8647818,
+      "views": 9530340,
       "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 76
     },
     {
-      "views": 5692637,
+      "views": 6526733,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 5652051,
-      "title": "경찰 아내랑 범죄자의 통화?! | 개그콘서트 Gagconcert | KBS 260920 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 38
-    },
-    {
-      "views": 5532132,
+      "views": 6108475,
       "title": "다시봐도 웃긴 태세전환 방송 랭킹 TOP 2",
       "upload_year": "2026",
       "channel": "랭킹웅",
       "duration": 40
+    },
+    {
+      "views": 6098826,
+      "title": "경찰 아내랑 범죄자의 통화?! | 개그콘서트 Gagconcert | KBS 260920 방송",
+      "upload_year": "2026",
+      "channel": " 개그콘서트",
+      "duration": 38
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "남자",
-    "방송",
-    "혈액형",
+    "이유",
     "#신병",
-    "#스케치코미디",
+    "방송",
+    "#넷플릭스",
+    "혈액형",
+    "#군대",
+    "#부사관",
+    "#장삐쭈",
+    "#이정현",
+    "#남태우",
+    "#이충구",
+    "#전승훈",
     "뜻밖의",
     "#예능",
-    "#시니어드라마",
+    "#유머",
+    "여자",
     "지락실에서",
     "찐으로",
-    "열받은",
-    "이영지",
-    "타격감",
-    "지리는",
-    "이상준",
-    "모음",
-    "코미디빅리그",
-    "담배는",
-    "멘솔"
+    "열받은"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
+      "channel": "랭킹웅",
       "count": 1
     },
     {
-      "channel": "랭킹웅",
+      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "유머 눈사람",
+      "channel": "마음 한 조각",
       "count": 1
     },
     {
-      "channel": "마음 한 조각",
+      "channel": "드라마샵",
       "count": 1
     }
   ],
