@@ -3,56 +3,57 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 남자, #신병, 찐으로, 엄마, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 남자, #신병, 이유, 아들이, 엄마, 한마디에",
   "top_videos_summary": [
     {
-      "views": 13939539,
-      "title": "지락실에서 찐으로 열받은 이영지 ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "알면좋아",
-      "duration": 38
-    },
-    {
-      "views": 9666635,
+      "views": 10288558,
       "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 142
     },
     {
-      "views": 9530340,
-      "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 76
-    },
-    {
-      "views": 8784943,
+      "views": 8818832,
       "title": "미안함은 늘 사랑보다 늦게 도착합니다",
       "upload_year": "2026",
       "channel": "무비픽스",
       "duration": 58
     },
     {
-      "views": 7524895,
+      "views": 7712986,
       "title": "엄마 한마디에 찐으로 눈물터진 지예은",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 76
+    },
+    {
+      "views": 7143469,
+      "title": "내 담배는 멘솔",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 76
+    },
+    {
+      "views": 6460565,
+      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 178
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "남자",
     "#신병",
-    "찐으로",
+    "이유",
+    "아들이",
     "엄마",
+    "한마디에",
     "방송",
     "#군대",
     "#부사관",
@@ -66,20 +67,11 @@
     "좋은",
     "혈액형",
     "참교육",
-    "아들이",
-    "#예능"
+    "최후"
   ],
   "channel_distribution": [
     {
-      "channel": "알면좋아",
-      "count": 1
-    },
-    {
       "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -95,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
       "channel": "랭킹웅",
       "count": 1
     },
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
+      "channel": "이영상",
+      "count": 1
+    },
+    {
+      "channel": "냐옹관",
       "count": 1
     }
   ],
