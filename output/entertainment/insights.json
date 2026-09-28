@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 남자, 김연경이, 너무, 웃긴, 방송",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #신병, 아이돌, 최후, 김연경이, 남자",
   "top_videos_summary": [
     {
-      "views": 9666635,
-      "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 142
-    },
-    {
-      "views": 9530340,
-      "title": "타격감 지리는 이상준 모음  | 코미디빅리그",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 76
-    },
-    {
-      "views": 8106634,
+      "views": 8590795,
       "title": "다들 애먹던 스위치에 김연경이 나선 이유",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 46
     },
     {
-      "views": 7524671,
+      "views": 7712986,
       "title": "엄마 한마디에 찐으로 눈물터진 지예은",
       "upload_year": "2026",
       "channel": "뜨비",
       "duration": 76
     },
     {
-      "views": 7476402,
-      "title": "천만명을 웃겨버린 한국인 커플",
+      "views": 7681784,
+      "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
-      "channel": "뇌피셜보이",
-      "duration": 25
+      "channel": "Mrs. GREEN APPLE",
+      "duration": 11
+    },
+    {
+      "views": 7433158,
+      "title": "서로 다리 맞물려 자는게 너무 웃김 ㅋㅋㅋㅋㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "미녀 천명 모으기",
+      "duration": 12
+    },
+    {
+      "views": 7143469,
+      "title": "내 담배는 멘솔",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 76
     }
   ],
   "outlier_adjusted": {
@@ -49,12 +49,14 @@
   },
   "trend_keywords": [
     "이유",
-    "남자",
+    "#신병",
+    "아이돌",
+    "최후",
     "김연경이",
-    "너무",
+    "남자",
     "웃긴",
     "방송",
-    "#신병",
+    "정말",
     "#군대",
     "#부사관",
     "#장삐쭈",
@@ -63,21 +65,11 @@
     "#이충구",
     "#전승훈",
     "#폭싹속았수다",
-    "아이돌",
     "장면",
-    "최후",
-    "참교육",
-    "코난"
+    "TOP5",
+    "참교육"
   ],
   "channel_distribution": [
-    {
-      "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
-      "count": 1
-    },
     {
       "channel": "아이돌캐치",
       "count": 1
@@ -87,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "뇌피셜보이",
+      "channel": "Mrs. GREEN APPLE",
       "count": 1
     },
     {
@@ -96,6 +88,10 @@
     },
     {
       "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "이영상",
       "count": 1
     }
   ],
