@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #신병, 아이돌, 최후, 김연경이, 남자",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 아이돌, 엄마, 남자, 웃긴, 방송, 정말",
   "top_videos_summary": [
     {
-      "views": 8590795,
-      "title": "다들 애먹던 스위치에 김연경이 나선 이유",
-      "upload_year": "2026",
-      "channel": "아이돌캐치",
-      "duration": 46
-    },
-    {
-      "views": 7712986,
-      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 76
-    },
-    {
-      "views": 7681784,
+      "views": 20188085,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 7433158,
-      "title": "서로 다리 맞물려 자는게 너무 웃김 ㅋㅋㅋㅋㅋㅋㅋ",
+      "views": 8908730,
+      "title": "다들 애먹던 스위치에 김연경이 나선 이유",
       "upload_year": "2026",
-      "channel": "미녀 천명 모으기",
-      "duration": 12
+      "channel": "아이돌캐치",
+      "duration": 46
     },
     {
-      "views": 7143469,
+      "views": 7971016,
+      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
+      "upload_year": "2026",
+      "channel": "뜨비",
+      "duration": 76
+    },
+    {
+      "views": 7821392,
+      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 178
+    },
+    {
+      "views": 7659001,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
@@ -43,33 +43,37 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "#신병",
     "아이돌",
-    "최후",
-    "김연경이",
+    "엄마",
     "남자",
     "웃긴",
     "방송",
     "정말",
-    "#군대",
-    "#부사관",
-    "#장삐쭈",
-    "#이정현",
-    "#남태우",
-    "#이충구",
-    "#전승훈",
-    "#폭싹속았수다",
+    "원이의",
     "장면",
     "TOP5",
-    "참교육"
+    "강호동",
+    "이런",
+    "#신병",
+    "최후",
+    "#시니어드라마",
+    "#감동드라마",
+    "#MrsGREENAPPLE",
+    "#BrandNew",
+    "#lLoveYou",
+    "다들",
+    "애먹던"
   ],
   "channel_distribution": [
+    {
+      "channel": "Mrs. GREEN APPLE",
+      "count": 1
+    },
     {
       "channel": "아이돌캐치",
       "count": 1
@@ -79,11 +83,7 @@
       "count": 1
     },
     {
-      "channel": "Mrs. GREEN APPLE",
-      "count": 1
-    },
-    {
-      "channel": "미녀 천명 모으기",
+      "channel": "눈물한가득",
       "count": 1
     },
     {
@@ -91,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
+      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
-      "count": 1
-    },
-    {
-      "channel": "먹기전에",
-      "count": 1
-    },
-    {
       "channel": "이영상",
+      "count": 1
+    },
+    {
+      "channel": "나 잘한다해짜나",
+      "count": 1
+    },
+    {
+      "channel": "FUNNYHOUZ",
       "count": 1
     }
   ],
