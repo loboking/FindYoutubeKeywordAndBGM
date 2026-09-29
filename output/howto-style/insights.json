@@ -3,47 +3,47 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 진짜, 안되는, 초간단, 먼저, 레시피",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 진짜, 안되는, 대신, 초간단, 자전거",
   "top_videos_summary": [
     {
-      "views": 5239919,
+      "views": 5652269,
       "title": "뉴욕 한복판에서 집에 안 가겠다는 진돗개",
       "upload_year": "2026",
       "channel": "크릉",
       "duration": 46
     },
     {
-      "views": 3847174,
+      "views": 4212123,
       "title": "990원짜리 이케아 브런치의 재료원가는 얼마일까?",
       "upload_year": "2026",
       "channel": "제로비",
       "duration": 179
     },
     {
-      "views": 2949520,
+      "views": 3292846,
       "title": "보름 만에 퇴원한 형아 방에 못들어가게 하자, 웨스티의 반응",
       "upload_year": "2026",
       "channel": "즐겁개 함께해옹",
       "duration": 57
     },
     {
-      "views": 2924297,
-      "title": "학생들의 그림을 진짜 모자로 만들어준 선생님",
-      "upload_year": "2026",
-      "channel": "지구별",
-      "duration": 30
-    },
-    {
-      "views": 2888097,
+      "views": 3056709,
       "title": "1M 남짓 공간에서 12년동안 닭장 지킨 마당개",
       "upload_year": "2026",
       "channel": "햅독 HAPDOG",
       "duration": 179
+    },
+    {
+      "views": 2968785,
+      "title": "학생들의 그림을 진짜 모자로 만들어준 선생님",
+      "upload_year": "2026",
+      "channel": "지구별",
+      "duration": 30
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,11 +51,11 @@
     "이유",
     "진짜",
     "안되는",
+    "대신",
     "초간단",
-    "먼저",
-    "레시피",
     "자전거",
-    "직접",
+    "운동",
+    "있을까",
     "뉴욕",
     "한복판에서",
     "집에",
@@ -83,23 +83,11 @@
       "count": 1
     },
     {
-      "channel": "지구별",
-      "count": 1
-    },
-    {
       "channel": "햅독 HAPDOG",
       "count": 1
     },
     {
-      "channel": "한컷동물극장",
-      "count": 1
-    },
-    {
-      "channel": "희본",
-      "count": 1
-    },
-    {
-      "channel": "민우주",
+      "channel": "지구별",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
-      "channel": "집밥 korean home cooking",
+      "channel": "민우주",
+      "count": 1
+    },
+    {
+      "channel": "한컷동물극장",
+      "count": 1
+    },
+    {
+      "channel": "리즈시절 천개 모으기",
+      "count": 1
+    },
+    {
+      "channel": "귀요미덕",
       "count": 1
     }
   ],
