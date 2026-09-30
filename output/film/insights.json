@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #신병, #숏드라마, #감동드라마, 엄마, 남자, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, #감동드라마, 엄마, 참교육, #신병, 선물",
   "top_videos_summary": [
     {
-      "views": 11069224,
-      "title": "살면서 꼭 한번은 봐야할 인생 명작 영화",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 142
-    },
-    {
-      "views": 8866871,
+      "views": 8910923,
       "title": "미안함은 늘 사랑보다 늦게 도착합니다",
       "upload_year": "2026",
       "channel": "무비픽스",
       "duration": 58
     },
     {
-      "views": 7971016,
-      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 76
-    },
-    {
-      "views": 7821410,
+      "views": 8716155,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 7659001,
+      "views": 8152531,
+      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
+      "upload_year": "2026",
+      "channel": "뜨비",
+      "duration": 76
+    },
+    {
+      "views": 7930549,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
+    },
+    {
+      "views": 6100166,
+      "title": "딸 넌 정말 한시도 지루함이 없어",
+      "upload_year": "2026",
+      "channel": "이영상",
+      "duration": 19
     }
   ],
   "outlier_adjusted": {
@@ -48,38 +48,30 @@
     "note": ""
   },
   "trend_keywords": [
-    "#신병",
-    "#숏드라마",
+    "방법",
     "#감동드라마",
     "엄마",
-    "남자",
-    "방송",
-    "#군대",
-    "#부사관",
-    "#장삐쭈",
-    "#이정현",
-    "#남태우",
-    "#이충구",
-    "#전승훈",
-    "#넷플릭스",
-    "#폭싹속았수다",
-    "이유",
-    "#예능",
     "참교육",
-    "최후",
-    "아들이"
+    "#신병",
+    "선물",
+    "#시니어드라마",
+    "#시니어",
+    "#반전드라마",
+    "미안함은",
+    "사랑보다",
+    "늦게",
+    "도착합니다",
+    "사랑을",
+    "배신한",
+    "여자와",
+    "배신을",
+    "용서한",
+    "남자",
+    "한마디에"
   ],
   "channel_distribution": [
     {
-      "channel": "명화관",
-      "count": 1
-    },
-    {
       "channel": "무비픽스",
-      "count": 1
-    },
-    {
-      "channel": "뜨비",
       "count": 1
     },
     {
@@ -87,15 +79,11 @@
       "count": 1
     },
     {
+      "channel": "뜨비",
+      "count": 1
+    },
+    {
       "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "먹기전에",
-      "count": 1
-    },
-    {
-      "channel": "랭킹웅",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
-      "channel": "냐옹관",
+      "channel": "FUNNYHOUZ",
       "count": 1
     },
     {
-      "channel": "FUNNYHOUZ",
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "B하인드S토리",
+      "count": 1
+    },
+    {
+      "channel": "무비로드",
+      "count": 1
+    },
+    {
+      "channel": "쇼츠한입",
       "count": 1
     }
   ],
