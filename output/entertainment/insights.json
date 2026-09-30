@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 아이돌, 엄마, 남자, 웃긴, 방송, 정말",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 남자, 정말, 원이의, 아이돌, 장면, TOP5",
   "top_videos_summary": [
     {
-      "views": 20188085,
+      "views": 25197622,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 8908730,
+      "views": 9080462,
       "title": "다들 애먹던 스위치에 김연경이 나선 이유",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 46
     },
     {
-      "views": 7971016,
-      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 76
-    },
-    {
-      "views": 7821392,
+      "views": 8714548,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 7659001,
+      "views": 7930235,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
+    },
+    {
+      "views": 6100133,
+      "title": "딸 넌 정말 한시도 지루함이 없어",
+      "upload_year": "2026",
+      "channel": "이영상",
+      "duration": 19
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.15,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "아이돌",
-    "엄마",
     "남자",
-    "웃긴",
-    "방송",
     "정말",
     "원이의",
+    "아이돌",
     "장면",
     "TOP5",
-    "강호동",
-    "이런",
     "#신병",
     "최후",
+    "방법",
     "#시니어드라마",
     "#감동드라마",
     "#MrsGREENAPPLE",
     "#BrandNew",
     "#lLoveYou",
     "다들",
-    "애먹던"
+    "애먹던",
+    "스위치에",
+    "김연경이",
+    "나선",
+    "이유"
   ],
   "channel_distribution": [
     {
@@ -79,23 +79,11 @@
       "count": 1
     },
     {
-      "channel": "뜨비",
-      "count": 1
-    },
-    {
       "channel": "눈물한가득",
       "count": 1
     },
     {
       "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "먹기전에",
-      "count": 1
-    },
-    {
-      "channel": "랭킹웅",
       "count": 1
     },
     {
@@ -108,6 +96,18 @@
     },
     {
       "channel": "FUNNYHOUZ",
+      "count": 1
+    },
+    {
+      "channel": "입덕랭킹필름",
+      "count": 1
+    },
+    {
+      "channel": "조슈아매거진",
+      "count": 1
+    },
+    {
+      "channel": "한끼뮤직 ",
       "count": 1
     }
   ],
