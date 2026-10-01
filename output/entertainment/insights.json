@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 남자, 정말, 원이의, 아이돌, 장면, TOP5",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 수준, 원이의, 아이돌, 장면, TOP5, 방법",
   "top_videos_summary": [
     {
-      "views": 25197622,
+      "views": 26592580,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 9080462,
+      "views": 9252707,
       "title": "다들 애먹던 스위치에 김연경이 나선 이유",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 46
     },
     {
-      "views": 8714548,
+      "views": 8905884,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 7930235,
+      "views": 8064662,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 6100133,
-      "title": "딸 넌 정말 한시도 지루함이 없어",
+      "views": 6139822,
+      "title": "팬들도 충격받은 박지원의 사자성어 실력 수준",
       "upload_year": "2026",
-      "channel": "이영상",
-      "duration": 19
+      "channel": "나 잘한다해짜나",
+      "duration": 21
     }
   ],
   "outlier_adjusted": {
@@ -48,17 +48,13 @@
     "note": ""
   },
   "trend_keywords": [
-    "남자",
-    "정말",
+    "수준",
     "원이의",
     "아이돌",
     "장면",
     "TOP5",
-    "#신병",
-    "최후",
     "방법",
-    "#시니어드라마",
-    "#감동드라마",
+    "#shorts",
     "#MrsGREENAPPLE",
     "#BrandNew",
     "#lLoveYou",
@@ -67,7 +63,11 @@
     "스위치에",
     "김연경이",
     "나선",
-    "이유"
+    "이유",
+    "사랑을",
+    "배신한",
+    "여자와",
+    "배신을"
   ],
   "channel_distribution": [
     {
@@ -87,10 +87,6 @@
       "count": 1
     },
     {
-      "channel": "이영상",
-      "count": 1
-    },
-    {
       "channel": "나 잘한다해짜나",
       "count": 1
     },
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "조슈아매거진",
+      "channel": "옥상평상",
       "count": 1
     },
     {
       "channel": "한끼뮤직 ",
+      "count": 1
+    },
+    {
+      "channel": "쫀득TV",
       "count": 1
     }
   ],
