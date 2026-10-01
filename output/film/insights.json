@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, #감동드라마, 엄마, 참교육, #신병, 선물",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #신병, 방법, #감동드라마, #반전드라마, #신병4, #숏드라마",
   "top_videos_summary": [
     {
-      "views": 8910923,
+      "views": 8943285,
       "title": "미안함은 늘 사랑보다 늦게 도착합니다",
       "upload_year": "2026",
       "channel": "무비픽스",
       "duration": 58
     },
     {
-      "views": 8716155,
+      "views": 8905884,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 8152531,
-      "title": "엄마 한마디에 찐으로 눈물터진 지예은",
-      "upload_year": "2026",
-      "channel": "뜨비",
-      "duration": 76
-    },
-    {
-      "views": 7930549,
+      "views": 8064828,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 6100166,
+      "views": 6125543,
       "title": "딸 넌 정말 한시도 지루함이 없어",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 19
+    },
+    {
+      "views": 5928493,
+      "title": "무표정으로 숨쉬듯이 웃기는 이준혁 군대썰ㅋㅋ #꼰대희 #이준혁",
+      "upload_year": "2026",
+      "channel": "FUNNYHOUZ",
+      "duration": 68
     }
   ],
   "outlier_adjusted": {
@@ -48,15 +48,17 @@
     "note": ""
   },
   "trend_keywords": [
+    "#신병",
     "방법",
     "#감동드라마",
-    "엄마",
-    "참교육",
-    "#신병",
-    "선물",
+    "#반전드라마",
+    "#신병4",
+    "#숏드라마",
+    "#사이다",
+    "비교",
+    "#shorts",
     "#시니어드라마",
     "#시니어",
-    "#반전드라마",
     "미안함은",
     "사랑보다",
     "늦게",
@@ -65,9 +67,7 @@
     "배신한",
     "여자와",
     "배신을",
-    "용서한",
-    "남자",
-    "한마디에"
+    "용서한"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "눈물한가득",
-      "count": 1
-    },
-    {
-      "channel": "뜨비",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
+      "channel": "쇼츠한입",
+      "count": 1
+    },
+    {
       "channel": "무비로드",
       "count": 1
     },
     {
-      "channel": "쇼츠한입",
+      "channel": "고전명작",
       "count": 1
     }
   ],
