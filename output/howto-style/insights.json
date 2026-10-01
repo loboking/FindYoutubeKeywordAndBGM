@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: vs, 진짜, 이유, 대신, 역대급, #imitation",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 진짜, 이유, 역대급, 레시피, 이렇게, 스카프",
   "top_videos_summary": [
     {
-      "views": 18307532,
+      "views": 21348244,
       "title": "Confidence vs Reality: Know Your Limits! ⚖️ Actors school #imitation #acting #stagefight #humor",
       "upload_year": "2026",
       "channel": "Школа Ловкости. Action Design Academy",
       "duration": 17
     },
     {
-      "views": 5913408,
+      "views": 5978583,
       "title": "뉴욕 한복판에서 집에 안 가겠다는 진돗개",
       "upload_year": "2026",
       "channel": "크릉",
       "duration": 46
     },
     {
-      "views": 4526895,
+      "views": 4663021,
       "title": "990원짜리 이케아 브런치의 재료원가는 얼마일까?",
       "upload_year": "2026",
       "channel": "제로비",
       "duration": 179
     },
     {
-      "views": 3692110,
+      "views": 3969006,
       "title": "버섯을 안 먹는건 엄마책임 강레오 양송이버섯 반찬 #강레오",
       "upload_year": "2026",
       "channel": "꾹레시피",
       "duration": 44
     },
     {
-      "views": 3544017,
+      "views": 3848687,
       "title": "보름 만에 퇴원한 형아 방에 못들어가게 하자, 웨스티의 반응",
       "upload_year": "2026",
       "channel": "즐겁개 함께해옹",
@@ -43,21 +43,23 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.19,
+    "top1_share": 0.21,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "vs",
     "진짜",
     "이유",
-    "대신",
     "역대급",
+    "레시피",
+    "이렇게",
+    "스카프",
     "#imitation",
     "#acting",
     "#stagefight",
     "#humor",
     "Confidence",
+    "vs",
     "Reality",
     "Know",
     "Your",
@@ -65,9 +67,7 @@
     "Actors",
     "school",
     "뉴욕",
-    "한복판에서",
-    "집에",
-    "가겠다는"
+    "한복판에서"
   ],
   "channel_distribution": [
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "지구별",
-      "count": 1
-    },
-    {
       "channel": "리즈시절 천개 모으기",
       "count": 1
     },
     {
-      "channel": "한컷동물극장",
+      "channel": "지구별",
+      "count": 1
+    },
+    {
+      "channel": "귀요미덕",
       "count": 1
     }
   ],
