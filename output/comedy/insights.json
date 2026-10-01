@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, #유머, #신병, #shorts, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #예능, #반전드라마, 남자, 되는, #유머",
   "top_videos_summary": [
     {
-      "views": 8716155,
+      "views": 8905884,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 7930549,
+      "views": 8064828,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 6403564,
-      "title": "다시봐도 웃긴 태세전환 방송 랭킹 TOP 2",
-      "upload_year": "2026",
-      "channel": "랭킹웅",
-      "duration": 40
-    },
-    {
-      "views": 6288505,
+      "views": 6369598,
       "title": "원래 알싸한맛으로 먹는거야",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 19
     },
     {
-      "views": 6100133,
+      "views": 6125543,
       "title": "딸 넌 정말 한시도 지루함이 없어",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 19
+    },
+    {
+      "views": 5928493,
+      "title": "무표정으로 숨쉬듯이 웃기는 이준혁 군대썰ㅋㅋ #꼰대희 #이준혁",
+      "upload_year": "2026",
+      "channel": "FUNNYHOUZ",
+      "duration": 68
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "#예능",
-    "#유머",
-    "#신병",
     "#shorts",
-    "방송",
+    "#예능",
+    "#반전드라마",
+    "남자",
     "되는",
+    "#유머",
     "강호동",
-    "#군대",
-    "#부사관",
-    "#장삐쭈",
-    "#이정현",
-    "#남태우",
-    "#이충구",
-    "#전승훈",
-    "혼자",
-    "너무",
-    "#신병4",
+    "결말",
+    "이유",
+    "#신병",
+    "#숏드라마",
     "#시니어",
-    "#반전드라마"
+    "#감동드라마",
+    "사랑을",
+    "배신한",
+    "여자와",
+    "배신을",
+    "용서한",
+    "담배는",
+    "멘솔"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "랭킹웅",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "마음 한 조각",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
       "count": 1
     },
     {
+      "channel": "마음 한 조각",
+      "count": 1
+    },
+    {
       "channel": "나 잘한다해짜나",
+      "count": 1
+    },
+    {
+      "channel": "쫀득TV",
       "count": 1
     }
   ],
