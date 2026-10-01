@@ -3,71 +3,71 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 컴퓨터, 아이폰, 기능, 이유, 무조건, 근황",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 컴퓨터, 이유, 근황, 아이폰, 기능, 직접",
   "top_videos_summary": [
     {
-      "views": 5547678,
+      "views": 5554570,
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
       "upload_year": "2026",
       "channel": "이영상",
       "duration": 10
     },
     {
-      "views": 4641127,
+      "views": 4753312,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 42
     },
     {
-      "views": 4209466,
-      "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
-      "upload_year": "2026",
-      "channel": "허수아비(scarecrow)",
-      "duration": 65
-    },
-    {
-      "views": 4028940,
-      "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
-      "upload_year": "2026",
-      "channel": "숏플래시",
-      "duration": 13
-    },
-    {
-      "views": 2900155,
+      "views": 2944309,
       "title": "말 걸어도 되는지 색으로 알려주는 사무실 상태표시 LED",
       "upload_year": "2026",
       "channel": "어쩌다 주부",
       "duration": 10
+    },
+    {
+      "views": 1503008,
+      "title": "현재 아이폰에서 절대 하면 안 된다는 것",
+      "upload_year": "2026",
+      "channel": "짧주",
+      "duration": 29
+    },
+    {
+      "views": 1437025,
+      "title": "북한의 최신 스마트폰 근황",
+      "upload_year": "2026",
+      "channel": "뚝딱 상식 뚝배기",
+      "duration": 63
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.15,
+    "top1_share": 0.19,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "컴퓨터",
+    "이유",
+    "근황",
     "아이폰",
     "기능",
-    "이유",
-    "무조건",
-    "근황",
     "직접",
     "만든",
     "인터넷",
+    "이거",
     "갤럭시",
+    "그래픽카드",
     "오른다",
-    "컴퓨터를",
+    "방법",
     "아빠들은",
     "핸드폰을",
     "안바꿀까",
     "당근에",
     "조립을",
     "맡긴",
-    "사람",
-    "이것때문에"
+    "사람"
   ],
   "channel_distribution": [
     {
@@ -79,23 +79,15 @@
       "count": 1
     },
     {
-      "channel": "허수아비(scarecrow)",
-      "count": 1
-    },
-    {
-      "channel": "숏플래시",
-      "count": 1
-    },
-    {
       "channel": "어쩌다 주부",
       "count": 1
     },
     {
-      "channel": "뚝딱 상식 뚝배기",
+      "channel": "짧주",
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "뚝딱 상식 뚝배기",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "유머파카",
+      "count": 1
+    },
+    {
+      "channel": "평양냉면",
+      "count": 1
+    },
+    {
+      "channel": "1분미만",
       "count": 1
     }
   ],

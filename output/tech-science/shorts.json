@@ -3,7 +3,7 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 44,
+  "shorts_found": 43,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
@@ -11,7 +11,7 @@
     {
       "id": "9fixK3UKgbE",
       "title": "아빠들은 왜 핸드폰을 안바꿀까",
-      "view_count": 5547678,
+      "view_count": 5554570,
       "duration": 10,
       "upload_date": "20260911",
       "category": "22",
@@ -22,7 +22,7 @@
     {
       "id": "wILP3X_6QSQ",
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
-      "view_count": 4641127,
+      "view_count": 4753312,
       "duration": 42,
       "upload_date": "20260915",
       "category": "20",
@@ -31,31 +31,9 @@
       "url": "https://www.youtube.com/watch?v=wILP3X_6QSQ"
     },
     {
-      "id": "6jVQIyJ6AMI",
-      "title": "이것때문에 컴퓨터가게는 다 망하게 생겼습니다 ㅠㅠ",
-      "view_count": 4209466,
-      "duration": 65,
-      "upload_date": "20260909",
-      "category": "26",
-      "channel": "허수아비(scarecrow)",
-      "source_channel": "허수아비(scarecrow)",
-      "url": "https://www.youtube.com/watch?v=6jVQIyJ6AMI"
-    },
-    {
-      "id": "wcXbRZ7sJCA",
-      "title": "아이폰 유저끼리 모이면 무조건 해봐야 하는 기능",
-      "view_count": 4028940,
-      "duration": 13,
-      "upload_date": "20260906",
-      "category": "22",
-      "channel": "숏플래시",
-      "source_channel": "숏플래시",
-      "url": "https://www.youtube.com/watch?v=wcXbRZ7sJCA"
-    },
-    {
       "id": "Bxmahlwi_Dg",
       "title": "말 걸어도 되는지 색으로 알려주는 사무실 상태표시 LED",
-      "view_count": 2900155,
+      "view_count": 2944309,
       "duration": 10,
       "upload_date": "20260911",
       "category": "24",
@@ -64,20 +42,9 @@
       "url": "https://www.youtube.com/watch?v=Bxmahlwi_Dg"
     },
     {
-      "id": "Tvn9DkfJ04U",
-      "title": "북한의 최신 스마트폰 근황",
-      "view_count": 1428101,
-      "duration": 63,
-      "upload_date": "20260915",
-      "category": "24",
-      "channel": "뚝딱 상식 뚝배기",
-      "source_channel": "뚝딱 상식 뚝배기",
-      "url": "https://www.youtube.com/watch?v=Tvn9DkfJ04U"
-    },
-    {
       "id": "01FPj-GcRlk",
       "title": "현재 아이폰에서 절대 하면 안 된다는 것",
-      "view_count": 1333195,
+      "view_count": 1503008,
       "duration": 29,
       "upload_date": "20260928",
       "category": "20",
@@ -86,9 +53,20 @@
       "url": "https://www.youtube.com/watch?v=01FPj-GcRlk"
     },
     {
+      "id": "Tvn9DkfJ04U",
+      "title": "북한의 최신 스마트폰 근황",
+      "view_count": 1437025,
+      "duration": 63,
+      "upload_date": "20260915",
+      "category": "24",
+      "channel": "뚝딱 상식 뚝배기",
+      "source_channel": "뚝딱 상식 뚝배기",
+      "url": "https://www.youtube.com/watch?v=Tvn9DkfJ04U"
+    },
+    {
       "id": "YAuJp8h_o2c",
       "title": "아내의 컴퓨터 자리",
-      "view_count": 1289291,
+      "view_count": 1305647,
       "duration": 112,
       "upload_date": "20260914",
       "category": "22",
@@ -99,7 +77,7 @@
     {
       "id": "73XI5b669Uw",
       "title": "한손 키보드를 직접 만든 대학생.jpg",
-      "view_count": 1000060,
+      "view_count": 1019112,
       "duration": 34,
       "upload_date": "20260919",
       "category": "23",
@@ -110,7 +88,7 @@
     {
       "id": "IQ8d0l7XuJg",
       "title": "비싼 앰프를 써야하는 이유",
-      "view_count": 863125,
+      "view_count": 873642,
       "duration": 33,
       "upload_date": "20260917",
       "category": "22",
@@ -121,7 +99,7 @@
     {
       "id": "b6UJobeI-zs",
       "title": "자석을 '조심해야 한다는' 아이폰 18 PRO 근황?ㄷㄷ..",
-      "view_count": 789769,
+      "view_count": 828761,
       "duration": 30,
       "upload_date": "20260924",
       "category": "23",
@@ -132,7 +110,7 @@
     {
       "id": "AVOqCua-wG0",
       "title": "막히기 전에 빨리 써야되는 인터넷 꿀팁들ㅋㅋㅋ",
-      "view_count": 781942,
+      "view_count": 814767,
       "duration": 39,
       "upload_date": "20260927",
       "category": "26",
@@ -143,7 +121,7 @@
     {
       "id": "rRShzX4u1WE",
       "title": "아이폰듀오 vs 갤럭시폴드 초딩딸한테 고르라고 했더니 ㅋㅋ (반전있음)",
-      "view_count": 631516,
+      "view_count": 664804,
       "duration": 39,
       "upload_date": "20260920",
       "category": "24",
@@ -154,7 +132,7 @@
     {
       "id": "c1BKrjnZ73o",
       "title": "휴대용 PC 게임기 어서오고.. 고장 난 MSI CLAW A1M U5 UMPC!",
-      "view_count": 624018,
+      "view_count": 660512,
       "duration": 85,
       "upload_date": "20260922",
       "category": "28",
@@ -165,7 +143,7 @@
     {
       "id": "0VTr-sc7ktc",
       "title": "해외여행 갈 때 휴대폰에 이거 하나 달아두세요 #핸드폰스트랩 #도난방지스트랩 #휴대폰스트랩 #소매치기방지 #해외여행필수템 #여행용품 #핸드폰액세서리 #홈시그널",
-      "view_count": 618745,
+      "view_count": 640534,
       "duration": 22,
       "upload_date": "20260921",
       "category": "22",
@@ -174,20 +152,9 @@
       "url": "https://www.youtube.com/watch?v=0VTr-sc7ktc"
     },
     {
-      "id": "1fTfTYdwWdA",
-      "title": "키보드, 모니터 각각 성능 1황과 가성비 1황 제품은 무엇일까?",
-      "view_count": 509097,
-      "duration": 41,
-      "upload_date": "20260922",
-      "category": "20",
-      "channel": "한설",
-      "source_channel": "한설",
-      "url": "https://www.youtube.com/watch?v=1fTfTYdwWdA"
-    },
-    {
       "id": "OgcUEwcQY8A",
       "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
-      "view_count": 483925,
+      "view_count": 591992,
       "duration": 41,
       "upload_date": "20260927",
       "category": "26",
@@ -196,9 +163,20 @@
       "url": "https://www.youtube.com/watch?v=OgcUEwcQY8A"
     },
     {
+      "id": "1fTfTYdwWdA",
+      "title": "키보드, 모니터 각각 성능 1황과 가성비 1황 제품은 무엇일까?",
+      "view_count": 577433,
+      "duration": 41,
+      "upload_date": "20260922",
+      "category": "20",
+      "channel": "한설",
+      "source_channel": "한설",
+      "url": "https://www.youtube.com/watch?v=1fTfTYdwWdA"
+    },
+    {
       "id": "45HH8l_fl38",
       "title": "갤럭시로 야경 사진 예쁘게 찍는 법 #갤럭시 #갤럭시꿀팁 #사진강좌 #사진 #사진잘찍는법",
-      "view_count": 368522,
+      "view_count": 417141,
       "duration": 13,
       "upload_date": "20260925",
       "category": "19",
@@ -207,9 +185,20 @@
       "url": "https://www.youtube.com/watch?v=45HH8l_fl38"
     },
     {
+      "id": "O9VS351bbFo",
+      "title": "애플도 포기한 제품을 직접 만든 유튜버",
+      "view_count": 409769,
+      "duration": 45,
+      "upload_date": "20260930",
+      "category": "23",
+      "channel": "일분일초",
+      "source_channel": "일분일초",
+      "url": "https://www.youtube.com/watch?v=O9VS351bbFo"
+    },
+    {
       "id": "tI717fymyck",
       "title": "기포 0%! 손끝으로 누르자 기판 전체로 기포가 빠져나감",
-      "view_count": 360307,
+      "view_count": 398148,
       "duration": 17,
       "upload_date": "20260927",
       "category": "27",
@@ -220,7 +209,7 @@
     {
       "id": "5bP9Ahj_HbM",
       "title": "북한 스마트폰의 심각한 기능",
-      "view_count": 354802,
+      "view_count": 394186,
       "duration": 26,
       "upload_date": "20260924",
       "category": "22",
@@ -231,7 +220,7 @@
     {
       "id": "j9svcZgw5ow",
       "title": "컴퓨터에 액체를 부어도 멀쩡한 이유 😳💻",
-      "view_count": 343137,
+      "view_count": 347601,
       "duration": 20,
       "upload_date": "20260921",
       "category": "22",
@@ -240,31 +229,9 @@
       "url": "https://www.youtube.com/watch?v=j9svcZgw5ow"
     },
     {
-      "id": "MvOFgR7Pt80",
-      "title": "무적의 옛날 핸드폰",
-      "view_count": 294440,
-      "duration": 21,
-      "upload_date": "20260923",
-      "category": "22",
-      "channel": "너는 꽃이야",
-      "source_channel": "너는 꽃이야",
-      "url": "https://www.youtube.com/watch?v=MvOFgR7Pt80"
-    },
-    {
-      "id": "O9VS351bbFo",
-      "title": "애플도 포기한 제품을 직접 만든 유튜버",
-      "view_count": 292282,
-      "duration": 45,
-      "upload_date": "20260930",
-      "category": "23",
-      "channel": "일분일초",
-      "source_channel": "일분일초",
-      "url": "https://www.youtube.com/watch?v=O9VS351bbFo"
-    },
-    {
       "id": "7_yGm4iMkTk",
       "title": "액자 속에 아날로그를 살려둔 발상, 복각 SONY 워크맨",
-      "view_count": 279896,
+      "view_count": 326154,
       "duration": 12,
       "upload_date": "20260927",
       "category": "22",
@@ -273,9 +240,20 @@
       "url": "https://www.youtube.com/watch?v=7_yGm4iMkTk"
     },
     {
+      "id": "MvOFgR7Pt80",
+      "title": "무적의 옛날 핸드폰",
+      "view_count": 300861,
+      "duration": 21,
+      "upload_date": "20260923",
+      "category": "22",
+      "channel": "너는 꽃이야",
+      "source_channel": "너는 꽃이야",
+      "url": "https://www.youtube.com/watch?v=MvOFgR7Pt80"
+    },
+    {
       "id": "e-em4lLBrV8",
       "title": "애플 진짜 큰일 난 이유",
-      "view_count": 270904,
+      "view_count": 297838,
       "duration": 35,
       "upload_date": "20260927",
       "category": "24",
@@ -286,7 +264,7 @@
     {
       "id": "tqkYlCa1Ebw",
       "title": "폴드8에 아이폰 듀오 애니메이션 적용해보기",
-      "view_count": 250762,
+      "view_count": 264986,
       "duration": 59,
       "upload_date": "20260926",
       "category": "28",
@@ -295,42 +273,9 @@
       "url": "https://www.youtube.com/watch?v=tqkYlCa1Ebw"
     },
     {
-      "id": "DFlnwPEZK2U",
-      "title": "애플이 실수로 보낸 아이폰 60대의 결말",
-      "view_count": 206190,
-      "duration": 39,
-      "upload_date": "20260927",
-      "category": "24",
-      "channel": "일등석",
-      "source_channel": "일등석",
-      "url": "https://www.youtube.com/watch?v=DFlnwPEZK2U"
-    },
-    {
-      "id": "C8xF_4S_DnU",
-      "title": "그래픽카드 오른다 오른다 하니까 여기까지 오르네;;; #그래픽카드 #메모리",
-      "view_count": 199917,
-      "duration": 109,
-      "upload_date": "20260925",
-      "category": "28",
-      "channel": "민티저",
-      "source_channel": "민티저",
-      "url": "https://www.youtube.com/watch?v=C8xF_4S_DnU"
-    },
-    {
-      "id": "ULx1a4ylQZY",
-      "title": "일단 써보면 빠져드는 꿀잼 장난감?! #크리얼리티 #3D프린터 #K2Pluscombo",
-      "view_count": 191236,
-      "duration": 43,
-      "upload_date": "20260927",
-      "category": "28",
-      "channel": "테크노사우루스 Technosaurus",
-      "source_channel": "테크노사우루스 Technosaurus",
-      "url": "https://www.youtube.com/watch?v=ULx1a4ylQZY"
-    },
-    {
       "id": "4aW0M-b_4KA",
       "title": "답답했던 구형 TV에 리모컨 0번을 꾸욱 누르니 신형 티비로 변신하네요. 이번 명절 연휴에 친척들 모두 깜짝 놀란 꿀팁입니다!",
-      "view_count": 176851,
+      "view_count": 245805,
       "duration": 60,
       "upload_date": "20260928",
       "category": "26",
@@ -339,64 +284,53 @@
       "url": "https://www.youtube.com/watch?v=4aW0M-b_4KA"
     },
     {
-      "id": "yh_lFqEFDUo",
-      "title": "전원 꺼진 분실폰을 찾아버린 꿀기능",
-      "view_count": 175822,
-      "duration": 30,
-      "upload_date": "20260923",
-      "category": "22",
-      "channel": "짤한줌",
-      "source_channel": "짤한줌",
-      "url": "https://www.youtube.com/watch?v=yh_lFqEFDUo"
+      "id": "DFlnwPEZK2U",
+      "title": "애플이 실수로 보낸 아이폰 60대의 결말",
+      "view_count": 237104,
+      "duration": 39,
+      "upload_date": "20260927",
+      "category": "24",
+      "channel": "일등석",
+      "source_channel": "일등석",
+      "url": "https://www.youtube.com/watch?v=DFlnwPEZK2U"
     },
     {
-      "id": "4zLyLErJvPM",
-      "title": "32GB 램으로 컴퓨터를 맞춰?",
-      "view_count": 163618,
-      "duration": 16,
-      "upload_date": "20260928",
-      "category": "24",
-      "channel": "세팅",
-      "source_channel": "세팅",
-      "url": "https://www.youtube.com/watch?v=4zLyLErJvPM"
+      "id": "ULx1a4ylQZY",
+      "title": "일단 써보면 빠져드는 꿀잼 장난감?! #크리얼리티 #3D프린터 #K2Pluscombo",
+      "view_count": 231572,
+      "duration": 43,
+      "upload_date": "20260927",
+      "category": "28",
+      "channel": "테크노사우루스 Technosaurus",
+      "source_channel": "테크노사우루스 Technosaurus",
+      "url": "https://www.youtube.com/watch?v=ULx1a4ylQZY"
+    },
+    {
+      "id": "C8xF_4S_DnU",
+      "title": "그래픽카드 오른다 오른다 하니까 여기까지 오르네;;; #그래픽카드 #메모리",
+      "view_count": 206913,
+      "duration": 109,
+      "upload_date": "20260925",
+      "category": "28",
+      "channel": "민티저",
+      "source_channel": "민티저",
+      "url": "https://www.youtube.com/watch?v=C8xF_4S_DnU"
     },
     {
       "id": "IlnkX8XRVZk",
       "title": "RTX 5080이 타버렸습니다: DLSS 5 켰더니 5분 만에 벽돌 된 이유",
-      "view_count": 161398,
+      "view_count": 176249,
       "duration": 36,
       "upload_date": "20260928",
       "category": "28",
-      "channel": "mincom78 PC Lab",
-      "source_channel": "mincom78 PC Lab",
+      "channel": "민컴78",
+      "source_channel": "민컴78",
       "url": "https://www.youtube.com/watch?v=IlnkX8XRVZk"
-    },
-    {
-      "id": "ubDuNLwuMMw",
-      "title": "인터넷 끊겼을 때 이것부터 확인하세요ㄷㄷ",
-      "view_count": 143197,
-      "duration": 33,
-      "upload_date": "20260927",
-      "category": "26",
-      "channel": "일단체크",
-      "source_channel": "일단체크",
-      "url": "https://www.youtube.com/watch?v=ubDuNLwuMMw"
-    },
-    {
-      "id": "q4hIXRi9gyM",
-      "title": "컴퓨터 고수들이 몰래 쓰는 윈도우 기능 5개",
-      "view_count": 138986,
-      "duration": 41,
-      "upload_date": "20260929",
-      "category": "26",
-      "channel": "팁타임",
-      "source_channel": "팁타임",
-      "url": "https://www.youtube.com/watch?v=q4hIXRi9gyM"
     },
     {
       "id": "EbLqwcF2e_g",
       "title": "HP가 노트북에서 화면을 없애버렸습니다",
-      "view_count": 132775,
+      "view_count": 172980,
       "duration": 41,
       "upload_date": "20260929",
       "category": "28",
@@ -405,9 +339,31 @@
       "url": "https://www.youtube.com/watch?v=EbLqwcF2e_g"
     },
     {
+      "id": "q4hIXRi9gyM",
+      "title": "컴퓨터 고수들이 몰래 쓰는 윈도우 기능 5개",
+      "view_count": 164830,
+      "duration": 41,
+      "upload_date": "20260929",
+      "category": "26",
+      "channel": "팁타임",
+      "source_channel": "팁타임",
+      "url": "https://www.youtube.com/watch?v=q4hIXRi9gyM"
+    },
+    {
+      "id": "ubDuNLwuMMw",
+      "title": "인터넷 끊겼을 때 이것부터 확인하세요ㄷㄷ",
+      "view_count": 147664,
+      "duration": 33,
+      "upload_date": "20260927",
+      "category": "26",
+      "channel": "일단체크",
+      "source_channel": "일단체크",
+      "url": "https://www.youtube.com/watch?v=ubDuNLwuMMw"
+    },
+    {
       "id": "9_c8PVBjUz4",
       "title": "16년된 아이팟터치 사망☁️😹",
-      "view_count": 126149,
+      "view_count": 138425,
       "duration": 31,
       "upload_date": "20260929",
       "category": "22",
@@ -418,7 +374,7 @@
     {
       "id": "97FKoX5BTVc",
       "title": "LED를 5V에 바로 꽂으면 일어나는 일 💥 [전자공학 002]",
-      "view_count": 123283,
+      "view_count": 128933,
       "duration": 67,
       "upload_date": "20260924",
       "category": "27",
@@ -427,9 +383,20 @@
       "url": "https://www.youtube.com/watch?v=97FKoX5BTVc"
     },
     {
+      "id": "-275SxVh-Dk",
+      "title": "이거 붙이고 불안이 사라졌어요😎 #살림템 #보안카메라",
+      "view_count": 124513,
+      "duration": 26,
+      "upload_date": "20260929",
+      "category": "26",
+      "channel": "똑디템",
+      "source_channel": "똑디템",
+      "url": "https://www.youtube.com/watch?v=-275SxVh-Dk"
+    },
+    {
       "id": "9UoXlbqZ8H8",
       "title": "한글에서 쪽 방향 구역나누기로 자유롭게 바꾸는 방법",
-      "view_count": 108707,
+      "view_count": 113576,
       "duration": 62,
       "upload_date": "20260927",
       "category": "22",
@@ -438,9 +405,31 @@
       "url": "https://www.youtube.com/watch?v=9UoXlbqZ8H8"
     },
     {
+      "id": "JjZpfvculbo",
+      "title": "사실적인 갤럭시 폴드 8 사용후기",
+      "view_count": 100866,
+      "duration": 13,
+      "upload_date": "20260930",
+      "category": "24",
+      "channel": "오늘이올시다",
+      "source_channel": "오늘이올시다",
+      "url": "https://www.youtube.com/watch?v=JjZpfvculbo"
+    },
+    {
+      "id": "VGNx3QeRLvE",
+      "title": "5090 그래픽카드 가격 근황",
+      "view_count": 97021,
+      "duration": 19,
+      "upload_date": "20261001",
+      "category": "24",
+      "channel": "세팅",
+      "source_channel": "세팅",
+      "url": "https://www.youtube.com/watch?v=VGNx3QeRLvE"
+    },
+    {
       "id": "M-pRjimNdDY",
       "title": "π 계산기",
-      "view_count": 88487,
+      "view_count": 92626,
       "duration": 89,
       "upload_date": "20260928",
       "category": "27",
@@ -451,7 +440,7 @@
     {
       "id": "Ed62HPifyYY",
       "title": "컴퓨터를 가장 안전하게 옮기는 법",
-      "view_count": 71077,
+      "view_count": 79293,
       "duration": 59,
       "upload_date": "20260929",
       "category": "28",
@@ -460,20 +449,20 @@
       "url": "https://www.youtube.com/watch?v=Ed62HPifyYY"
     },
     {
-      "id": "JjZpfvculbo",
-      "title": "사실적인 갤럭시 폴드 8 사용후기",
-      "view_count": 65992,
+      "id": "AsXwCFatNHs",
+      "title": "생각도 못한 마우스 사용감 최대로 올리는 방법 #마우스사용법 #컴퓨터",
+      "view_count": 75027,
       "duration": 13,
       "upload_date": "20260930",
-      "category": "24",
-      "channel": "오늘이올시다",
-      "source_channel": "오늘이올시다",
-      "url": "https://www.youtube.com/watch?v=JjZpfvculbo"
+      "category": "22",
+      "channel": "책상 위 빌런",
+      "source_channel": "책상 위 빌런",
+      "url": "https://www.youtube.com/watch?v=AsXwCFatNHs"
     },
     {
       "id": "vGXFSzOWZIs",
       "title": "블랙박스 그대로 쓰죠, 사고 때 영상 없으면 끝, 꼭 바꿀 설정 4가지",
-      "view_count": 46506,
+      "view_count": 49721,
       "duration": 54,
       "upload_date": "20260928",
       "category": "22",
@@ -484,7 +473,7 @@
     {
       "id": "p9GaJpCU_bs",
       "title": "라떼시절 컴퓨터 활용능력수준",
-      "view_count": 40032,
+      "view_count": 40217,
       "duration": 11,
       "upload_date": "20260929",
       "category": "23",
