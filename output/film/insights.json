@@ -3,77 +3,73 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #신병, 방법, #감동드라마, #반전드라마, #신병4, #숏드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 방법, 최후, #시니어드라마, 하는, 실제로, #신병",
   "top_videos_summary": [
     {
-      "views": 8943285,
-      "title": "미안함은 늘 사랑보다 늦게 도착합니다",
-      "upload_year": "2026",
-      "channel": "무비픽스",
-      "duration": 58
-    },
-    {
-      "views": 8905884,
+      "views": 9119611,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 8064828,
+      "views": 8170165,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 6125543,
-      "title": "딸 넌 정말 한시도 지루함이 없어",
+      "views": 5564818,
+      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
-      "channel": "이영상",
-      "duration": 19
+      "channel": "옥상평상",
+      "duration": 32
     },
     {
-      "views": 5928493,
-      "title": "무표정으로 숨쉬듯이 웃기는 이준혁 군대썰ㅋㅋ #꼰대희 #이준혁",
+      "views": 4979849,
+      "title": "개콘 일반인 방청객 대체 뭐 하는 사람이에요? | 개그콘서트 Gagconcert | KBS 260920 방송",
       "upload_year": "2026",
-      "channel": "FUNNYHOUZ",
-      "duration": 68
+      "channel": " 개그콘서트",
+      "duration": 57
+    },
+    {
+      "views": 4451071,
+      "title": "영화 역사상 최고의 피아노 배틀 명장면",
+      "upload_year": "2026",
+      "channel": "명화관",
+      "duration": 180
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#신병",
     "방법",
-    "#감동드라마",
-    "#반전드라마",
-    "#신병4",
+    "최후",
+    "#시니어드라마",
+    "하는",
+    "실제로",
+    "#신병",
     "#숏드라마",
     "#사이다",
-    "비교",
     "#shorts",
-    "#시니어드라마",
-    "#시니어",
-    "미안함은",
-    "사랑보다",
-    "늦게",
-    "도착합니다",
+    "#감동드라마",
+    "#김준배",
+    "#마블",
+    "이유",
     "사랑을",
     "배신한",
     "여자와",
     "배신을",
-    "용서한"
+    "용서한",
+    "남자",
+    "담배는"
   ],
   "channel_distribution": [
-    {
-      "channel": "무비픽스",
-      "count": 1
-    },
     {
       "channel": "눈물한가득",
       "count": 1
@@ -83,15 +79,15 @@
       "count": 1
     },
     {
-      "channel": "이영상",
-      "count": 1
-    },
-    {
-      "channel": "FUNNYHOUZ",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "명화관",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "무비로드",
+      "channel": "씬스틸폼",
       "count": 1
     },
     {
       "channel": "고전명작",
+      "count": 1
+    },
+    {
+      "channel": "무비로드",
       "count": 1
     }
   ],
