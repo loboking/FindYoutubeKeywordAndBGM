@@ -3,58 +3,61 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 수준, 원이의, 아이돌, 장면, TOP5, 방법",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 레전드, #신병, 최후, 방법, #시니어드라마",
   "top_videos_summary": [
     {
-      "views": 26592580,
+      "views": 27777531,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 9252707,
+      "views": 9393476,
       "title": "다들 애먹던 스위치에 김연경이 나선 이유",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 46
     },
     {
-      "views": 8905884,
+      "views": 9118154,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 8064662,
+      "views": 8169996,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 6139822,
-      "title": "팬들도 충격받은 박지원의 사자성어 실력 수준",
+      "views": 5564816,
+      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
-      "channel": "나 잘한다해짜나",
-      "duration": 21
+      "channel": "옥상평상",
+      "duration": 32
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.15,
+    "top1_share": 0.17,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "수준",
-    "원이의",
-    "아이돌",
-    "장면",
-    "TOP5",
+    "이유",
+    "레전드",
+    "#신병",
+    "최후",
     "방법",
+    "#시니어드라마",
+    "#감동드라마",
+    "진짜",
     "#shorts",
+    "하는",
     "#MrsGREENAPPLE",
     "#BrandNew",
     "#lLoveYou",
@@ -63,11 +66,8 @@
     "스위치에",
     "김연경이",
     "나선",
-    "이유",
     "사랑을",
-    "배신한",
-    "여자와",
-    "배신을"
+    "배신한"
   ],
   "channel_distribution": [
     {
@@ -87,27 +87,27 @@
       "count": 1
     },
     {
-      "channel": "나 잘한다해짜나",
-      "count": 1
-    },
-    {
-      "channel": "FUNNYHOUZ",
-      "count": 1
-    },
-    {
-      "channel": "입덕랭킹필름",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
       "count": 1
     },
     {
-      "channel": "한끼뮤직 ",
+      "channel": " 개그콘서트",
+      "count": 1
+    },
+    {
+      "channel": "웬지식",
+      "count": 1
+    },
+    {
+      "channel": "쇼츠한입",
       "count": 1
     },
     {
       "channel": "쫀득TV",
+      "count": 1
+    },
+    {
+      "channel": " 컷줍",
       "count": 1
     }
   ],
