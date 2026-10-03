@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 반응, 레시피, 역대급, 이렇게, 스카프, #imitation",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: vs, 반응, 역대급, 이렇게, 없이, 짬뽕",
   "top_videos_summary": [
     {
-      "views": 22994155,
+      "views": 24130507,
       "title": "Confidence vs Reality: Know Your Limits! ⚖️ Actors school #imitation #acting #stagefight #humor",
       "upload_year": "2026",
       "channel": "Школа Ловкости. Action Design Academy",
       "duration": 17
     },
     {
-      "views": 6054513,
+      "views": 6216691,
       "title": "뉴욕 한복판에서 집에 안 가겠다는 진돗개",
       "upload_year": "2026",
       "channel": "크릉",
       "duration": 46
     },
     {
-      "views": 4740707,
-      "title": "990원짜리 이케아 브런치의 재료원가는 얼마일까?",
-      "upload_year": "2026",
-      "channel": "제로비",
-      "duration": 179
-    },
-    {
-      "views": 4157477,
+      "views": 4249681,
       "title": "버섯을 안 먹는건 엄마책임 강레오 양송이버섯 반찬 #강레오",
       "upload_year": "2026",
       "channel": "꾹레시피",
       "duration": 44
     },
     {
-      "views": 3974831,
+      "views": 4108333,
       "title": "보름 만에 퇴원한 형아 방에 못들어가게 하자, 웨스티의 반응",
       "upload_year": "2026",
       "channel": "즐겁개 함께해옹",
       "duration": 57
+    },
+    {
+      "views": 4025831,
+      "title": "초등학생도 가능한 공중부양 마술도구",
+      "upload_year": "2026",
+      "channel": "민우주",
+      "duration": 54
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.23,
+    "top1_share": 0.24,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "vs",
     "반응",
-    "레시피",
     "역대급",
     "이렇게",
-    "스카프",
+    "없이",
+    "짬뽕",
+    "라면",
+    "아이",
     "#imitation",
     "#acting",
     "#stagefight",
     "#humor",
     "Confidence",
-    "vs",
     "Reality",
     "Know",
     "Your",
     "Limits",
     "Actors",
     "school",
-    "뉴욕",
-    "한복판에서",
-    "집에"
+    "뉴욕"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "크릉",
-      "count": 1
-    },
-    {
-      "channel": "제로비",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "지구별",
-      "count": 1
-    },
-    {
       "channel": "귀요미덕",
       "count": 1
     },
     {
       "channel": "심심한우드스탁",
+      "count": 1
+    },
+    {
+      "channel": "한컷동물극장",
+      "count": 1
+    },
+    {
+      "channel": "정앤수",
       "count": 1
     }
   ],
