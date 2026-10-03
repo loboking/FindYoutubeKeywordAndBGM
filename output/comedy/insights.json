@@ -3,61 +3,58 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #반전드라마, #시니어, 군생활, 되는, #신병",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 수준, 이유, #시니어드라마, #시니어쇼츠, #시니어",
   "top_videos_summary": [
     {
-      "views": 9119611,
+      "views": 9629688,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 8169996,
+      "views": 8347048,
       "title": "내 담배는 멘솔",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 76
     },
     {
-      "views": 5564816,
+      "views": 5826508,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 5080555,
-      "title": "이런게 군생활 하면서 다 추억이 되는 거임",
-      "upload_year": "2026",
-      "channel": "마음 한 조각",
-      "duration": 35
-    },
-    {
-      "views": 4979849,
+      "views": 5231274,
       "title": "개콘 일반인 방청객 대체 뭐 하는 사람이에요? | 개그콘서트 Gagconcert | KBS 260920 방송",
       "upload_year": "2026",
       "channel": " 개그콘서트",
       "duration": 57
+    },
+    {
+      "views": 5062836,
+      "title": "포항 사투리 때문에 경찰 조사까지 받은 이채영",
+      "upload_year": "2026",
+      "channel": "나 잘한다해짜나",
+      "duration": 27
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "#반전드라마",
-    "#시니어",
-    "군생활",
-    "되는",
-    "#신병",
     "수준",
-    "#감동드라마",
+    "이유",
     "#시니어드라마",
     "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마",
     "사랑을",
     "배신한",
     "여자와",
@@ -67,7 +64,10 @@
     "담배는",
     "멘솔",
     "그럼",
-    "유재석님은"
+    "유재석님은",
+    "7천만원이에요",
+    "직장인들",
+    "시즌3"
   ],
   "channel_distribution": [
     {
@@ -80,10 +80,6 @@
     },
     {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "마음 한 조각",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "제로브레인",
+      "channel": "호랑무비",
+      "count": 1
+    },
+    {
+      "channel": "무비로드",
       "count": 1
     }
   ],
