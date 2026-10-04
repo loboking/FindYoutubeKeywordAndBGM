@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 최후, #shorts, 레전드, 모두가, 방법, #숏드라마",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 최후, #시니어드라마, 방법, 받은, 반응",
   "top_videos_summary": [
     {
-      "views": 28861560,
+      "views": 30095187,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 9629688,
-      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 178
-    },
-    {
-      "views": 5826267,
+      "views": 6158300,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 4792231,
+      "views": 5548743,
+      "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
+      "upload_year": "2026",
+      "channel": "숏스터무비",
+      "duration": 54
+    },
+    {
+      "views": 5361707,
       "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 54
     },
     {
-      "views": 4772167,
-      "title": "[1탄] 지금도 회자되는 KCC 레전드 광고",
+      "views": 4999126,
+      "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
       "upload_year": "2026",
-      "channel": "웬지식",
-      "duration": 51
+      "channel": "학교종",
+      "duration": 16
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.19,
+    "top1_share": 0.2,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "최후",
     "#shorts",
-    "레전드",
-    "모두가",
-    "방법",
-    "#숏드라마",
-    "#사이다",
+    "최후",
     "#시니어드라마",
-    "나나",
+    "방법",
+    "받은",
+    "반응",
+    "이유",
+    "원이",
+    "실제로",
+    "본인이",
+    "비하인드",
+    "젓가락",
+    "아들의",
     "#MrsGREENAPPLE",
     "#BrandNew",
     "#lLoveYou",
-    "사랑을",
-    "배신한",
-    "여자와",
-    "배신을",
-    "용서한",
-    "남자",
     "그럼",
-    "유재석님은"
+    "유재석님은",
+    "7천만원이에요",
+    "직장인들"
   ],
   "channel_distribution": [
     {
@@ -75,31 +75,7 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "씬스틸폼",
-      "count": 1
-    },
-    {
-      "channel": "웬지식",
-      "count": 1
-    },
-    {
-      "channel": "쇼츠한입",
-      "count": 1
-    },
-    {
-      "channel": "쮸뀨미연구실",
-      "count": 1
-    },
-    {
-      "channel": "고전명작",
       "count": 1
     },
     {
@@ -107,7 +83,31 @@
       "count": 1
     },
     {
+      "channel": "씬스틸폼",
+      "count": 1
+    },
+    {
+      "channel": "학교종",
+      "count": 1
+    },
+    {
+      "channel": "나혼자산다 STUDIO",
+      "count": 1
+    },
+    {
+      "channel": "고전명작",
+      "count": 1
+    },
+    {
       "channel": "나 잘한다해짜나",
+      "count": 1
+    },
+    {
+      "channel": "신나고",
+      "count": 1
+    },
+    {
+      "channel": "RESCENE log 리센느 로그",
       "count": 1
     }
   ],
