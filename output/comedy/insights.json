@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 수준, 이유, #시니어드라마, #시니어쇼츠, #시니어",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 반응, #예능, 최후, 수준, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 9629688,
+      "views": 10053223,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 8347048,
-      "title": "내 담배는 멘솔",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 76
-    },
-    {
-      "views": 5826508,
+      "views": 6158339,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 5231274,
-      "title": "개콘 일반인 방청객 대체 뭐 하는 사람이에요? | 개그콘서트 Gagconcert | KBS 260920 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 57
-    },
-    {
-      "views": 5062836,
+      "views": 5209504,
       "title": "포항 사투리 때문에 경찰 조사까지 받은 이채영",
       "upload_year": "2026",
       "channel": "나 잘한다해짜나",
       "duration": 27
+    },
+    {
+      "views": 4999126,
+      "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "학교종",
+      "duration": 16
+    },
+    {
+      "views": 4693865,
+      "title": "무지개 회원들 모두 입틀막",
+      "upload_year": "2026",
+      "channel": "나혼자산다 STUDIO",
+      "duration": 80
     }
   ],
   "outlier_adjusted": {
@@ -49,8 +49,14 @@
   },
   "trend_keywords": [
     "#shorts",
+    "반응",
+    "#예능",
+    "최후",
     "수준",
+    "#스케치코미디",
     "이유",
+    "#참교육",
+    "방송",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
@@ -61,13 +67,7 @@
     "배신을",
     "용서한",
     "남자",
-    "담배는",
-    "멘솔",
-    "그럼",
-    "유재석님은",
-    "7천만원이에요",
-    "직장인들",
-    "시즌3"
+    "그럼"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -91,11 +83,19 @@
       "count": 1
     },
     {
-      "channel": "쇼츠한입",
+      "channel": "학교종",
+      "count": 1
+    },
+    {
+      "channel": "나혼자산다 STUDIO",
       "count": 1
     },
     {
       "channel": "쫀득TV",
+      "count": 1
+    },
+    {
+      "channel": "쇼츠한입",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "무비로드",
+      "channel": "유머국밥",
       "count": 1
     }
   ],
