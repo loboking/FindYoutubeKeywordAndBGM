@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, 방법, 최후, 하는, 이유, #김준배",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, 최후, #숏드라마, 방법, #shorts, 진짜",
   "top_videos_summary": [
     {
-      "views": 9630085,
+      "views": 10053225,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 8347048,
-      "title": "내 담배는 멘솔",
-      "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 76
-    },
-    {
-      "views": 5826508,
+      "views": 6158339,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 5231274,
-      "title": "개콘 일반인 방청객 대체 뭐 하는 사람이에요? | 개그콘서트 Gagconcert | KBS 260920 방송",
-      "upload_year": "2026",
-      "channel": " 개그콘서트",
-      "duration": 57
-    },
-    {
-      "views": 5176263,
+      "views": 5749209,
       "title": "영화 역사상 최고의 피아노 배틀 명장면",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 180
+    },
+    {
+      "views": 5548743,
+      "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
+      "upload_year": "2026",
+      "channel": "숏스터무비",
+      "duration": 54
+    },
+    {
+      "views": 5362462,
+      "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
+      "upload_year": "2026",
+      "channel": "씬스틸폼",
+      "duration": 54
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "#시니어드라마",
-    "방법",
     "최후",
-    "하는",
-    "이유",
-    "#김준배",
     "#숏드라마",
-    "#사이다",
-    "#신병",
-    "#감동드라마",
-    "#마블",
-    "사람을",
+    "방법",
+    "#shorts",
     "진짜",
+    "이유",
+    "#사이다",
+    "안에",
+    "#감동드라마",
+    "하는",
+    "#스케치코미디",
+    "본인이",
+    "#반전사연",
+    "#반전",
+    "도둑으로",
+    "몰아간",
     "아들의",
     "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
-    "사랑을",
-    "배신한",
-    "여자와"
+    "#시니어"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": " 개그콘서트",
       "count": 1
     },
     {
@@ -91,11 +83,15 @@
       "count": 1
     },
     {
+      "channel": "숏스터무비",
+      "count": 1
+    },
+    {
       "channel": "씬스틸폼",
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
+      "channel": "나혼자산다 STUDIO",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "숏스터무비",
+      "channel": "꿀템추추",
+      "count": 1
+    },
+    {
+      "channel": "RESCENE log 리센느 로그",
       "count": 1
     }
   ],
