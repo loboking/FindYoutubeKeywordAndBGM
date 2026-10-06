@@ -3,83 +3,75 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, 최후, 남자, 반응, 생기는",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, #스케치코미디, 반응, 선배가, 최후",
   "top_videos_summary": [
     {
-      "views": 10549440,
-      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 178
-    },
-    {
-      "views": 6278285,
+      "views": 6393919,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 5264570,
-      "title": "포항 사투리 때문에 경찰 조사까지 받은 이채영",
-      "upload_year": "2026",
-      "channel": "나 잘한다해짜나",
-      "duration": 27
-    },
-    {
-      "views": 5158684,
+      "views": 5329651,
       "title": "무지개 회원들 모두 입틀막",
       "upload_year": "2026",
       "channel": "나혼자산다 STUDIO",
       "duration": 80
     },
     {
-      "views": 5117807,
+      "views": 5205153,
       "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
       "upload_year": "2026",
       "channel": "학교종",
       "duration": 16
+    },
+    {
+      "views": 5003709,
+      "title": "제 발 저린 이토 메이",
+      "upload_year": "2026",
+      "channel": "RESCENE log 리센느 로그",
+      "duration": 53
+    },
+    {
+      "views": 4992522,
+      "title": "군기잡던 선배가 다급해진 이유",
+      "upload_year": "2026",
+      "channel": "먹기전에",
+      "duration": 36
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
     "이유",
-    "최후",
-    "남자",
-    "반응",
-    "생기는",
-    "수준",
     "#스케치코미디",
+    "반응",
+    "선배가",
+    "최후",
     "#웃긴영상",
     "방송",
-    "#예능",
     "얼굴이",
-    "이거",
-    "눈치",
+    "#예능",
     "#시니어드라마",
-    "사랑을",
-    "배신한",
-    "여자와",
-    "배신을",
-    "용서한"
+    "와인",
+    "눈치",
+    "#코미디",
+    "#유머",
+    "참교육",
+    "역대급",
+    "그럼",
+    "유재석님은",
+    "7천만원이에요"
   ],
   "channel_distribution": [
     {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "나 잘한다해짜나",
       "count": 1
     },
     {
@@ -95,6 +87,10 @@
       "count": 1
     },
     {
+      "channel": "먹기전에",
+      "count": 1
+    },
+    {
       "channel": "신나고",
       "count": 1
     },
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
+      "channel": "야그쟁이",
+      "count": 1
+    },
+    {
       "channel": "예능한스푼",
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "롤더쿠",
       "count": 1
     }
   ],
