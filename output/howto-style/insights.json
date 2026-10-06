@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 라면, 반응, 이렇게, 집밥, 짬뽕, 이유",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 라면, 이유, 이렇게, 집밥, 빠지는, 짬뽕",
   "top_videos_summary": [
     {
-      "views": 6444763,
+      "views": 6663363,
       "title": "뉴욕 한복판에서 집에 안 가겠다는 진돗개",
       "upload_year": "2026",
       "channel": "크릉",
       "duration": 46
     },
     {
-      "views": 4338349,
-      "title": "버섯을 안 먹는건 엄마책임 강레오 양송이버섯 반찬 #강레오",
-      "upload_year": "2026",
-      "channel": "꾹레시피",
-      "duration": 44
-    },
-    {
-      "views": 4238653,
-      "title": "보름 만에 퇴원한 형아 방에 못들어가게 하자, 웨스티의 반응",
-      "upload_year": "2026",
-      "channel": "즐겁개 함께해옹",
-      "duration": 57
-    },
-    {
-      "views": 4174233,
-      "title": "초등학생도 가능한 공중부양 마술도구",
-      "upload_year": "2026",
-      "channel": "민우주",
-      "duration": 54
-    },
-    {
-      "views": 3764070,
+      "views": 3907412,
       "title": "피카츄 언박싱하는 개초딩 카리나ㅋㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "리즈시절 천개 모으기",
       "duration": 13
+    },
+    {
+      "views": 3641288,
+      "title": "아빠도 현타 온 아들의 역대급 낚시 재능ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "신기+템",
+      "duration": 17
+    },
+    {
+      "views": 2960527,
+      "title": "24살이지만 스시 장인을 꿈꾸는 여성 셰프",
+      "upload_year": "2026",
+      "channel": "공간 탐닉 Space Tamnik",
+      "duration": 47
+    },
+    {
+      "views": 2622961,
+      "title": "할아버지의 정성과 세월이 담긴 만두 라면 / Dumpling Ramen Full of Grandfather's Care and Years",
+      "upload_year": "2026",
+      "channel": "푸디타임 FoodieTime",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "라면",
-    "반응",
+    "이유",
     "이렇게",
     "집밥",
+    "빠지는",
     "짬뽕",
-    "이유",
     "없이",
-    "아이",
+    "하면",
     "뉴욕",
     "한복판에서",
     "집에",
     "가겠다는",
     "진돗개",
-    "#강레오",
-    "버섯을",
-    "먹는건",
-    "엄마책임",
-    "강레오",
-    "양송이버섯",
-    "반찬"
+    "피카츄",
+    "언박싱하는",
+    "개초딩",
+    "카리나ㅋㅋㅋㅋ",
+    "아빠도",
+    "현타",
+    "아들의"
   ],
   "channel_distribution": [
     {
@@ -75,31 +75,11 @@
       "count": 1
     },
     {
-      "channel": "꾹레시피",
-      "count": 1
-    },
-    {
-      "channel": "즐겁개 함께해옹",
-      "count": 1
-    },
-    {
-      "channel": "민우주",
-      "count": 1
-    },
-    {
       "channel": "리즈시절 천개 모으기",
       "count": 1
     },
     {
-      "channel": "귀요미덕",
-      "count": 1
-    },
-    {
       "channel": "신기+템",
-      "count": 1
-    },
-    {
-      "channel": "심심한우드스탁",
       "count": 1
     },
     {
@@ -108,6 +88,26 @@
     },
     {
       "channel": "푸디타임 FoodieTime",
+      "count": 1
+    },
+    {
+      "channel": "생활작가",
+      "count": 1
+    },
+    {
+      "channel": "KBS 한국방송",
+      "count": 1
+    },
+    {
+      "channel": "도리뱅뱅",
+      "count": 1
+    },
+    {
+      "channel": "만기TV",
+      "count": 1
+    },
+    {
+      "channel": "조선클라쓰",
       "count": 1
     }
   ],
