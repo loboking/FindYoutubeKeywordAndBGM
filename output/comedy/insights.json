@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 반응, #예능, 최후, 수준, #스케치코미디",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, 최후, 남자, 반응, 생기는",
   "top_videos_summary": [
     {
-      "views": 10053223,
+      "views": 10549440,
       "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 178
     },
     {
-      "views": 6158339,
+      "views": 6278285,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 5209504,
+      "views": 5264570,
       "title": "포항 사투리 때문에 경찰 조사까지 받은 이채영",
       "upload_year": "2026",
       "channel": "나 잘한다해짜나",
       "duration": 27
     },
     {
-      "views": 4999126,
-      "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "학교종",
-      "duration": 16
-    },
-    {
-      "views": 4693865,
+      "views": 5158684,
       "title": "무지개 회원들 모두 입틀막",
       "upload_year": "2026",
       "channel": "나혼자산다 STUDIO",
       "duration": 80
+    },
+    {
+      "views": 5117807,
+      "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "학교종",
+      "duration": 16
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "반응",
-    "#예능",
+    "이유",
     "최후",
+    "남자",
+    "반응",
+    "생기는",
     "수준",
     "#스케치코미디",
-    "이유",
-    "#참교육",
+    "#웃긴영상",
     "방송",
+    "#예능",
+    "얼굴이",
+    "이거",
+    "눈치",
     "#시니어드라마",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
     "사랑을",
     "배신한",
     "여자와",
     "배신을",
-    "용서한",
-    "남자",
-    "그럼"
+    "용서한"
   ],
   "channel_distribution": [
     {
@@ -83,31 +83,31 @@
       "count": 1
     },
     {
-      "channel": "학교종",
-      "count": 1
-    },
-    {
       "channel": "나혼자산다 STUDIO",
       "count": 1
     },
     {
-      "channel": "쫀득TV",
+      "channel": "학교종",
       "count": 1
     },
     {
-      "channel": "쇼츠한입",
+      "channel": "RESCENE log 리센느 로그",
       "count": 1
     },
     {
-      "channel": " 컷줍",
-      "count": 1
-    },
-    {
-      "channel": "호랑무비",
+      "channel": "신나고",
       "count": 1
     },
     {
       "channel": "유머국밥",
+      "count": 1
+    },
+    {
+      "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "먹기전에",
       "count": 1
     }
   ],
