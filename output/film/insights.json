@@ -3,75 +3,75 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, 최후, #숏드라마, 방법, #shorts, 진짜",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, #시니어드라마, 방법, #shorts, 이유, #숏드라마",
   "top_videos_summary": [
     {
-      "views": 10053225,
-      "title": "사랑을 배신한 여자와 그 배신을 용서한 남자",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 178
-    },
-    {
-      "views": 6158339,
-      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 32
-    },
-    {
-      "views": 5749209,
-      "title": "영화 역사상 최고의 피아노 배틀 명장면",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 180
-    },
-    {
-      "views": 5548743,
+      "views": 7716215,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 5362462,
+      "views": 6278285,
+      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 32
+    },
+    {
+      "views": 6219870,
+      "title": "영화 역사상 최고의 피아노 배틀 명장면",
+      "upload_year": "2026",
+      "channel": "명화관",
+      "duration": 180
+    },
+    {
+      "views": 5953174,
       "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 54
+    },
+    {
+      "views": 5352816,
+      "title": "홈트로 샌드백 치는 사람",
+      "upload_year": "2026",
+      "channel": "나혼자산다 STUDIO",
+      "duration": 61
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#시니어드라마",
     "최후",
-    "#숏드라마",
+    "#시니어드라마",
     "방법",
     "#shorts",
-    "진짜",
     "이유",
-    "#사이다",
-    "안에",
-    "#감동드라마",
-    "하는",
-    "#스케치코미디",
-    "본인이",
-    "#반전사연",
-    "#반전",
+    "#숏드라마",
     "도둑으로",
+    "진짜",
+    "생기는",
+    "가난한",
+    "없는",
+    "안에",
+    "#스케치코미디",
+    "#웃긴영상",
+    "#반전",
     "몰아간",
-    "아들의",
-    "#시니어쇼츠",
-    "#시니어"
+    "#예능",
+    "이거",
+    "눈치",
+    "#윤아"
   ],
   "channel_distribution": [
     {
-      "channel": "눈물한가득",
+      "channel": "숏스터무비",
       "count": 1
     },
     {
@@ -80,10 +80,6 @@
     },
     {
       "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "숏스터무비",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "쇼츠한입",
-      "count": 1
-    },
-    {
-      "channel": "고전명작",
-      "count": 1
-    },
-    {
-      "channel": "꿀템추추",
-      "count": 1
-    },
-    {
       "channel": "RESCENE log 리센느 로그",
+      "count": 1
+    },
+    {
+      "channel": "신나고",
+      "count": 1
+    },
+    {
+      "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "야그쟁이",
+      "count": 1
+    },
+    {
+      "channel": "레츠무빗",
       "count": 1
     }
   ],
