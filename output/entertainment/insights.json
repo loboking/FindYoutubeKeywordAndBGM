@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 최후, #시니어드라마, 방법, 받은, 반응",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 최후, #shorts, #시니어드라마, 방법, 받은, 보는",
   "top_videos_summary": [
     {
-      "views": 30095187,
+      "views": 31159487,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 6158300,
-      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 32
-    },
-    {
-      "views": 5548743,
+      "views": 7716215,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 5361707,
+      "views": 6276119,
+      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
+      "upload_year": "2026",
+      "channel": "옥상평상",
+      "duration": 32
+    },
+    {
+      "views": 5949353,
       "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 54
     },
     {
-      "views": 4999126,
-      "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
+      "views": 5351839,
+      "title": "홈트로 샌드백 치는 사람",
       "upload_year": "2026",
-      "channel": "학교종",
-      "duration": 16
+      "channel": "나혼자산다 STUDIO",
+      "duration": 61
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.2,
+    "top1_share": 0.19,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "최후",
+    "#shorts",
     "#시니어드라마",
     "방법",
     "받은",
-    "반응",
-    "이유",
+    "보는",
+    "없는",
+    "#리센느",
     "원이",
-    "실제로",
-    "본인이",
+    "순간",
     "비하인드",
     "젓가락",
-    "아들의",
+    "이유",
+    "#숏드라마",
+    "이거",
+    "눈치",
     "#MrsGREENAPPLE",
     "#BrandNew",
     "#lLoveYou",
-    "그럼",
-    "유재석님은",
-    "7천만원이에요",
-    "직장인들"
+    "#윤아"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "숏스터무비",
       "count": 1
     },
     {
-      "channel": "숏스터무비",
+      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -87,15 +87,11 @@
       "count": 1
     },
     {
-      "channel": "학교종",
-      "count": 1
-    },
-    {
       "channel": "나혼자산다 STUDIO",
       "count": 1
     },
     {
-      "channel": "고전명작",
+      "channel": "RESCENE log 리센느 로그",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "RESCENE log 리센느 로그",
+      "channel": "킥맨",
+      "count": 1
+    },
+    {
+      "channel": "예능 뭐볼래",
       "count": 1
     }
   ],
