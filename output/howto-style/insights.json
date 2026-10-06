@@ -3,79 +3,75 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 라면, 이유, 이렇게, 집밥, 빠지는, 짬뽕",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 라면, 이유, 이게, 집밥, 짬뽕, #diy",
   "top_videos_summary": [
     {
-      "views": 6663363,
-      "title": "뉴욕 한복판에서 집에 안 가겠다는 진돗개",
+      "views": 19759079,
+      "title": "Toyota camry rear spindle bush installation trick #diy #automotive #mechanic #youtubeshorts",
       "upload_year": "2026",
-      "channel": "크릉",
-      "duration": 46
+      "channel": "Inayat auto technician ",
+      "duration": 134
     },
     {
-      "views": 3907412,
-      "title": "피카츄 언박싱하는 개초딩 카리나ㅋㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "리즈시절 천개 모으기",
-      "duration": 13
-    },
-    {
-      "views": 3641288,
+      "views": 3852211,
       "title": "아빠도 현타 온 아들의 역대급 낚시 재능ㅋㅋ",
       "upload_year": "2026",
       "channel": "신기+템",
       "duration": 17
     },
     {
-      "views": 2960527,
-      "title": "24살이지만 스시 장인을 꿈꾸는 여성 셰프",
-      "upload_year": "2026",
-      "channel": "공간 탐닉 Space Tamnik",
-      "duration": 47
-    },
-    {
-      "views": 2622961,
+      "views": 3142177,
       "title": "할아버지의 정성과 세월이 담긴 만두 라면 / Dumpling Ramen Full of Grandfather's Care and Years",
       "upload_year": "2026",
       "channel": "푸디타임 FoodieTime",
       "duration": 60
+    },
+    {
+      "views": 2689363,
+      "title": "히말라야 산길에 출몰한다는 꼬마 산적들",
+      "upload_year": "2026",
+      "channel": "도리뱅뱅",
+      "duration": 34
+    },
+    {
+      "views": 2544883,
+      "title": "채소가 술술 넘어가는 🥬코끼리샐러드 레시피",
+      "upload_year": "2026",
+      "channel": "생활작가",
+      "duration": 65
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.24,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "라면",
     "이유",
-    "이렇게",
+    "이게",
     "집밥",
-    "빠지는",
     "짬뽕",
-    "없이",
-    "하면",
-    "뉴욕",
-    "한복판에서",
-    "집에",
-    "가겠다는",
-    "진돗개",
-    "피카츄",
-    "언박싱하는",
-    "개초딩",
-    "카리나ㅋㅋㅋㅋ",
+    "#diy",
+    "#automotive",
+    "#mechanic",
+    "#youtubeshorts",
+    "Toyota",
+    "camry",
+    "rear",
+    "spindle",
+    "bush",
+    "installation",
+    "trick",
     "아빠도",
     "현타",
-    "아들의"
+    "아들의",
+    "역대급"
   ],
   "channel_distribution": [
     {
-      "channel": "크릉",
-      "count": 1
-    },
-    {
-      "channel": "리즈시절 천개 모으기",
+      "channel": "Inayat auto technician ",
       "count": 1
     },
     {
@@ -83,19 +79,7 @@
       "count": 1
     },
     {
-      "channel": "공간 탐닉 Space Tamnik",
-      "count": 1
-    },
-    {
       "channel": "푸디타임 FoodieTime",
-      "count": 1
-    },
-    {
-      "channel": "생활작가",
-      "count": 1
-    },
-    {
-      "channel": "KBS 한국방송",
       "count": 1
     },
     {
@@ -103,11 +87,27 @@
       "count": 1
     },
     {
-      "channel": "만기TV",
+      "channel": "생활작가",
       "count": 1
     },
     {
-      "channel": "조선클라쓰",
+      "channel": "빨리타",
+      "count": 1
+    },
+    {
+      "channel": "KBS 한국방송",
+      "count": 1
+    },
+    {
+      "channel": "리뷰하는 회사원",
+      "count": 1
+    },
+    {
+      "channel": "악인전 - 인물소개",
+      "count": 1
+    },
+    {
+      "channel": "만기TV",
       "count": 1
     }
   ],
