@@ -3,71 +3,71 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 최후, #shorts, #시니어드라마, 방법, 받은, 보는",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 최후, 방법, 받은, 보는, 순간",
   "top_videos_summary": [
     {
-      "views": 31159487,
+      "views": 32193077,
       "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
       "upload_year": "2026",
       "channel": "Mrs. GREEN APPLE",
       "duration": 11
     },
     {
-      "views": 7716215,
+      "views": 8942134,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 6276119,
-      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 32
-    },
-    {
-      "views": 5949353,
+      "views": 6174582,
       "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
       "upload_year": "2026",
       "channel": "씬스틸폼",
       "duration": 54
     },
     {
-      "views": 5351839,
+      "views": 5444579,
       "title": "홈트로 샌드백 치는 사람",
       "upload_year": "2026",
       "channel": "나혼자산다 STUDIO",
       "duration": 61
+    },
+    {
+      "views": 5001257,
+      "title": "제 발 저린 이토 메이",
+      "upload_year": "2026",
+      "channel": "RESCENE log 리센느 로그",
+      "duration": 53
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.19,
+    "top1_share": 0.18,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "최후",
     "#shorts",
-    "#시니어드라마",
+    "최후",
     "방법",
     "받은",
     "보는",
+    "순간",
     "없는",
     "#리센느",
     "원이",
-    "순간",
     "비하인드",
     "젓가락",
+    "목숨",
     "이유",
-    "#숏드라마",
-    "이거",
+    "와인",
     "눈치",
     "#MrsGREENAPPLE",
     "#BrandNew",
     "#lLoveYou",
-    "#윤아"
+    "#윤아",
+    "#이준호"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "숏스터무비",
-      "count": 1
-    },
-    {
-      "channel": "옥상평상",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "나 잘한다해짜나",
-      "count": 1
-    },
-    {
       "channel": "신나고",
       "count": 1
     },
     {
-      "channel": "킥맨",
+      "channel": "나 잘한다해짜나",
       "count": 1
     },
     {
-      "channel": "예능 뭐볼래",
+      "channel": "야그쟁이",
+      "count": 1
+    },
+    {
+      "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "한끼뮤직 ",
       "count": 1
     }
   ],
