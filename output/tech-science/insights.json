@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 컴퓨터, 기능, 애플, 근황, 이유, 제품을",
+  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 컴퓨터, 근황, 기능, 애플, 만든, 스마트폰",
   "top_videos_summary": [
     {
-      "views": 5045439,
+      "views": 5089200,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 42
     },
     {
-      "views": 3017457,
+      "views": 3037367,
       "title": "말 걸어도 되는지 색으로 알려주는 사무실 상태표시 LED",
       "upload_year": "2026",
       "channel": "어쩌다 주부",
       "duration": 10
     },
     {
-      "views": 1660138,
+      "views": 1783667,
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 1404740,
-      "title": "아내의 컴퓨터 자리",
-      "upload_year": "2026",
-      "channel": "냥이아빠",
-      "duration": 112
-    },
-    {
-      "views": 1301887,
+      "views": 1602822,
       "title": "애플도 포기한 제품을 직접 만든 유튜버",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 45
+    },
+    {
+      "views": 1452846,
+      "title": "아내의 컴퓨터 자리",
+      "upload_year": "2026",
+      "channel": "냥이아빠",
+      "duration": 112
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "컴퓨터",
+    "근황",
     "기능",
     "애플",
-    "근황",
+    "만든",
+    "스마트폰",
     "이유",
     "제품을",
-    "만든",
-    "모니터",
-    "키보드",
-    "인터넷",
-    "대박",
+    "직접",
     "갤럭시",
     "이거",
-    "스마트폰",
-    "RTX",
-    "삼성",
+    "아이폰",
+    "화면을",
     "윈도우",
-    "마우스",
-    "방법",
-    "당근에"
+    "당근에",
+    "조립을",
+    "맡긴",
+    "사람",
+    "걸어도",
+    "되는지"
   ],
   "channel_distribution": [
     {
@@ -83,23 +83,15 @@
       "count": 1
     },
     {
-      "channel": "냥이아빠",
-      "count": 1
-    },
-    {
       "channel": "일분일초",
       "count": 1
     },
     {
-      "channel": "핫템리포트",
+      "channel": "냥이아빠",
       "count": 1
     },
     {
       "channel": "펀숏",
-      "count": 1
-    },
-    {
-      "channel": "1분미만",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "리꼬 Rico",
+      "count": 1
+    },
+    {
+      "channel": "홈시그널",
+      "count": 1
+    },
+    {
+      "channel": "한설",
       "count": 1
     }
   ],
