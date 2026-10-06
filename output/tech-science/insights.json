@@ -3,71 +3,71 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 컴퓨터, 근황, 기능, 애플, 만든, 스마트폰",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 근황, 애플, 기능, 이유, 컴퓨터, 스마트폰",
   "top_videos_summary": [
     {
-      "views": 5089200,
+      "views": 5143076,
       "title": "당근에 컴퓨터 조립을 맡긴 사람",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 42
     },
     {
-      "views": 3037367,
+      "views": 3047952,
       "title": "말 걸어도 되는지 색으로 알려주는 사무실 상태표시 LED",
       "upload_year": "2026",
       "channel": "어쩌다 주부",
       "duration": 10
     },
     {
-      "views": 1783667,
+      "views": 1838058,
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 1602822,
+      "views": 1714658,
       "title": "애플도 포기한 제품을 직접 만든 유튜버",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 45
     },
     {
-      "views": 1452846,
-      "title": "아내의 컴퓨터 자리",
+      "views": 1143155,
+      "title": "CPU 핀 휘어진 사진 한 장에 단체로 비명을 지르는 제조사들",
       "upload_year": "2026",
-      "channel": "냥이아빠",
-      "duration": 112
+      "channel": "FUN?",
+      "duration": 24
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.2,
+    "top1_share": 0.21,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "컴퓨터",
     "근황",
-    "기능",
     "애플",
-    "만든",
-    "스마트폰",
+    "기능",
     "이유",
+    "컴퓨터",
+    "스마트폰",
     "제품을",
-    "직접",
+    "만든",
     "갤럭시",
     "이거",
-    "아이폰",
-    "화면을",
+    "중국",
+    "삼성",
     "윈도우",
+    "화면을",
+    "가격",
+    "쓰면",
+    "충격적인",
     "당근에",
     "조립을",
-    "맡긴",
-    "사람",
-    "걸어도",
-    "되는지"
+    "맡긴"
   ],
   "channel_distribution": [
     {
@@ -87,14 +87,6 @@
       "count": 1
     },
     {
-      "channel": "냥이아빠",
-      "count": 1
-    },
-    {
-      "channel": "펀숏",
-      "count": 1
-    },
-    {
       "channel": "FUN?",
       "count": 1
     },
@@ -108,6 +100,14 @@
     },
     {
       "channel": "한설",
+      "count": 1
+    },
+    {
+      "channel": "☁️나연☁️",
+      "count": 1
+    },
+    {
+      "channel": "아아한잔",
       "count": 1
     }
   ],
