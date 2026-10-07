@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, #스케치코미디, 반응, 선배가, 최후",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, 방송, #시니어, 선배가",
   "top_videos_summary": [
     {
-      "views": 6393919,
+      "views": 6611582,
       "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
       "upload_year": "2026",
       "channel": "옥상평상",
       "duration": 32
     },
     {
-      "views": 5329651,
-      "title": "무지개 회원들 모두 입틀막",
-      "upload_year": "2026",
-      "channel": "나혼자산다 STUDIO",
-      "duration": 80
-    },
-    {
-      "views": 5205153,
-      "title": "속일 맛 나는 선생님 반응 ㅋㅋ #shorts",
-      "upload_year": "2026",
-      "channel": "학교종",
-      "duration": 16
-    },
-    {
-      "views": 5003709,
+      "views": 5768888,
       "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
       "channel": "RESCENE log 리센느 로그",
       "duration": 53
     },
     {
-      "views": 4992522,
+      "views": 5518590,
       "title": "군기잡던 선배가 다급해진 이유",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 36
+    },
+    {
+      "views": 5486730,
+      "title": "오징어 게임 촬영 중 시력 이상? #강하늘실명 #라디오스타 #강하늘 #shorts",
+      "upload_year": "2026",
+      "channel": "신나고",
+      "duration": 51
+    },
+    {
+      "views": 5384672,
+      "title": "무지개 회원들 모두 입틀막",
+      "upload_year": "2026",
+      "channel": "나혼자산다 STUDIO",
+      "duration": 80
     }
   ],
   "outlier_adjusted": {
@@ -48,38 +48,30 @@
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "이유",
-    "#스케치코미디",
-    "반응",
-    "선배가",
+    "#shorts",
     "최후",
-    "#웃긴영상",
     "방송",
-    "얼굴이",
-    "#예능",
-    "#시니어드라마",
+    "#시니어",
+    "선배가",
+    "#맛있는영화",
     "와인",
+    "#웃긴영상",
+    "#스케치코미디",
+    "#예능",
     "눈치",
+    "KBS",
+    "순간",
     "#코미디",
     "#유머",
-    "참교육",
-    "역대급",
-    "그럼",
-    "유재석님은",
-    "7천만원이에요"
+    "#시니어드라마",
+    "#시니어쇼츠",
+    "#반전드라마",
+    "말을"
   ],
   "channel_distribution": [
     {
       "channel": "옥상평상",
-      "count": 1
-    },
-    {
-      "channel": "나혼자산다 STUDIO",
-      "count": 1
-    },
-    {
-      "channel": "학교종",
       "count": 1
     },
     {
@@ -95,15 +87,23 @@
       "count": 1
     },
     {
-      "channel": "유머국밥",
+      "channel": "나혼자산다 STUDIO",
       "count": 1
     },
     {
-      "channel": "야그쟁이",
+      "channel": "B하인드S토리",
       "count": 1
     },
     {
       "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "유머국밥",
       "count": 1
     },
     {
