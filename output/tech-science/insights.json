@@ -3,81 +3,73 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 근황, 애플, 기능, 이유, 컴퓨터, 스마트폰",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 근황, 애플, 이유, 기능, 스마트폰, 제품을",
   "top_videos_summary": [
     {
-      "views": 5143076,
-      "title": "당근에 컴퓨터 조립을 맡긴 사람",
-      "upload_year": "2026",
-      "channel": "김블루",
-      "duration": 42
-    },
-    {
-      "views": 3047952,
-      "title": "말 걸어도 되는지 색으로 알려주는 사무실 상태표시 LED",
-      "upload_year": "2026",
-      "channel": "어쩌다 주부",
-      "duration": 10
-    },
-    {
-      "views": 1838058,
+      "views": 1897593,
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 1714658,
+      "views": 1819505,
       "title": "애플도 포기한 제품을 직접 만든 유튜버",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 45
     },
     {
-      "views": 1143155,
+      "views": 1284748,
       "title": "CPU 핀 휘어진 사진 한 장에 단체로 비명을 지르는 제조사들",
       "upload_year": "2026",
       "channel": "FUN?",
       "duration": 24
+    },
+    {
+      "views": 913563,
+      "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
+      "upload_year": "2026",
+      "channel": "리꼬 Rico",
+      "duration": 41
+    },
+    {
+      "views": 789351,
+      "title": "해외여행 갈 때 휴대폰에 이거 하나 달아두세요 #핸드폰스트랩 #도난방지스트랩 #휴대폰스트랩 #소매치기방지 #해외여행필수템 #여행용품 #핸드폰액세서리 #홈시그널",
+      "upload_year": "2026",
+      "channel": "홈시그널",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.21,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "근황",
     "애플",
-    "기능",
     "이유",
-    "컴퓨터",
+    "기능",
     "스마트폰",
     "제품을",
     "만든",
     "갤럭시",
     "이거",
-    "중국",
-    "삼성",
-    "윈도우",
-    "화면을",
-    "가격",
+    "컴퓨터",
     "쓰면",
     "충격적인",
-    "당근에",
-    "조립을",
-    "맡긴"
+    "#키보드",
+    "중국",
+    "삼성",
+    "화면을",
+    "가격",
+    "아이폰",
+    "만들기",
+    "윈도우"
   ],
   "channel_distribution": [
-    {
-      "channel": "김블루",
-      "count": 1
-    },
-    {
-      "channel": "어쩌다 주부",
-      "count": 1
-    },
     {
       "channel": "짧주",
       "count": 1
@@ -99,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "한설",
+      "channel": "김블루",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "아아한잔",
+      "count": 1
+    },
+    {
+      "channel": "똑디템",
+      "count": 1
+    },
+    {
+      "channel": "테드TV",
       "count": 1
     }
   ],
