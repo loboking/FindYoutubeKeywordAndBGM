@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 라면, 이유, 이게, 집밥, 짬뽕, #diy",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 라면, 이유, #shorts, 집밥, 짬뽕, 모음집",
   "top_videos_summary": [
     {
-      "views": 19759079,
+      "views": 24120110,
       "title": "Toyota camry rear spindle bush installation trick #diy #automotive #mechanic #youtubeshorts",
       "upload_year": "2026",
       "channel": "Inayat auto technician ",
       "duration": 134
     },
     {
-      "views": 3852211,
+      "views": 3907931,
       "title": "아빠도 현타 온 아들의 역대급 낚시 재능ㅋㅋ",
       "upload_year": "2026",
       "channel": "신기+템",
       "duration": 17
     },
     {
-      "views": 3142177,
+      "views": 3442615,
       "title": "할아버지의 정성과 세월이 담긴 만두 라면 / Dumpling Ramen Full of Grandfather's Care and Years",
       "upload_year": "2026",
       "channel": "푸디타임 FoodieTime",
       "duration": 60
     },
     {
-      "views": 2689363,
+      "views": 2963544,
       "title": "히말라야 산길에 출몰한다는 꼬마 산적들",
       "upload_year": "2026",
       "channel": "도리뱅뱅",
       "duration": 34
     },
     {
-      "views": 2544883,
+      "views": 2664739,
       "title": "채소가 술술 넘어가는 🥬코끼리샐러드 레시피",
       "upload_year": "2026",
       "channel": "생활작가",
@@ -43,16 +43,18 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.24,
+    "top1_share": 0.28,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "라면",
     "이유",
-    "이게",
+    "#shorts",
     "집밥",
     "짬뽕",
+    "모음집",
+    "될까",
     "#diy",
     "#automotive",
     "#mechanic",
@@ -65,9 +67,7 @@
     "installation",
     "trick",
     "아빠도",
-    "현타",
-    "아들의",
-    "역대급"
+    "현타"
   ],
   "channel_distribution": [
     {
@@ -91,15 +91,11 @@
       "count": 1
     },
     {
-      "channel": "빨리타",
-      "count": 1
-    },
-    {
-      "channel": "KBS 한국방송",
-      "count": 1
-    },
-    {
       "channel": "리뷰하는 회사원",
+      "count": 1
+    },
+    {
+      "channel": "빨리타",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "만기TV",
+      "channel": "굴즈야밥묵자",
+      "count": 1
+    },
+    {
+      "channel": "이로의하루",
       "count": 1
     }
   ],
