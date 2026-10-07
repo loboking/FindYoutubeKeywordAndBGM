@@ -3,95 +3,83 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 최후, 방법, 받은, 보는, 순간",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 순간, #shorts, 방법, 보는, 없는",
   "top_videos_summary": [
     {
-      "views": 32193077,
-      "title": "ワイヤーアクションチャレンジ🤟🏻2 #MrsGREENAPPLE #BrandNew #lLoveYouの先へ #大森元貴",
-      "upload_year": "2026",
-      "channel": "Mrs. GREEN APPLE",
-      "duration": 11
-    },
-    {
-      "views": 8942134,
+      "views": 10019053,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 6174582,
-      "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
-      "upload_year": "2026",
-      "channel": "씬스틸폼",
-      "duration": 54
-    },
-    {
-      "views": 5444579,
-      "title": "홈트로 샌드백 치는 사람",
-      "upload_year": "2026",
-      "channel": "나혼자산다 STUDIO",
-      "duration": 61
-    },
-    {
-      "views": 5001257,
+      "views": 5767739,
       "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
       "channel": "RESCENE log 리센느 로그",
       "duration": 53
+    },
+    {
+      "views": 5760522,
+      "title": "보는 사람도 민망한 아이돌 웃긴 순간 TOP5",
+      "upload_year": "2026",
+      "channel": "한끼뮤직 ",
+      "duration": 55
+    },
+    {
+      "views": 5593268,
+      "title": "아이돌에겐 나락이 걸린 일반인의 순수한 질문",
+      "upload_year": "2026",
+      "channel": "나 잘한다해짜나",
+      "duration": 21
+    },
+    {
+      "views": 5486730,
+      "title": "오징어 게임 촬영 중 시력 이상? #강하늘실명 #라디오스타 #강하늘 #shorts",
+      "upload_year": "2026",
+      "channel": "신나고",
+      "duration": 51
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.18,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
-    "최후",
-    "방법",
-    "받은",
-    "보는",
-    "순간",
-    "없는",
-    "#리센느",
-    "원이",
-    "비하인드",
-    "젓가락",
-    "목숨",
     "이유",
+    "순간",
+    "#shorts",
+    "방법",
+    "보는",
+    "없는",
+    "들은",
+    "#리센느",
+    "진짜",
+    "좋아하는",
+    "원이",
     "와인",
+    "젓가락",
+    "최후",
     "눈치",
-    "#MrsGREENAPPLE",
-    "#BrandNew",
-    "#lLoveYou",
+    "참교육",
     "#윤아",
-    "#이준호"
+    "#이준호",
+    "#김준배",
+    "존잘"
   ],
   "channel_distribution": [
-    {
-      "channel": "Mrs. GREEN APPLE",
-      "count": 1
-    },
     {
       "channel": "숏스터무비",
       "count": 1
     },
     {
-      "channel": "씬스틸폼",
-      "count": 1
-    },
-    {
-      "channel": "나혼자산다 STUDIO",
-      "count": 1
-    },
-    {
       "channel": "RESCENE log 리센느 로그",
       "count": 1
     },
     {
-      "channel": "신나고",
+      "channel": "한끼뮤직 ",
       "count": 1
     },
     {
@@ -99,7 +87,15 @@
       "count": 1
     },
     {
-      "channel": "야그쟁이",
+      "channel": "신나고",
+      "count": 1
+    },
+    {
+      "channel": "나혼자산다 STUDIO",
+      "count": 1
+    },
+    {
+      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "한끼뮤직 ",
+      "channel": "언택트립",
+      "count": 1
+    },
+    {
+      "channel": "레츠무빗",
       "count": 1
     }
   ],
