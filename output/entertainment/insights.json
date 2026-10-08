@@ -3,67 +3,67 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 순간, #shorts, 방법, 보는, 없는",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 순간, 이유, #shorts, 보는, #리센느, 진짜",
   "top_videos_summary": [
     {
-      "views": 10019053,
+      "views": 10694903,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 5767739,
-      "title": "제 발 저린 이토 메이",
-      "upload_year": "2026",
-      "channel": "RESCENE log 리센느 로그",
-      "duration": 53
-    },
-    {
-      "views": 5760522,
+      "views": 6937808,
       "title": "보는 사람도 민망한 아이돌 웃긴 순간 TOP5",
       "upload_year": "2026",
       "channel": "한끼뮤직 ",
       "duration": 55
     },
     {
-      "views": 5593268,
-      "title": "아이돌에겐 나락이 걸린 일반인의 순수한 질문",
+      "views": 6380334,
+      "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
-      "channel": "나 잘한다해짜나",
+      "channel": "RESCENE log 리센느 로그",
+      "duration": 53
+    },
+    {
+      "views": 6309847,
+      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 5486730,
-      "title": "오징어 게임 촬영 중 시력 이상? #강하늘실명 #라디오스타 #강하늘 #shorts",
+      "views": 5783025,
+      "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
-      "channel": "신나고",
-      "duration": 51
+      "channel": "패션탐정냥",
+      "duration": 18
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "순간",
+    "이유",
     "#shorts",
-    "방법",
     "보는",
-    "없는",
-    "들은",
     "#리센느",
     "진짜",
     "좋아하는",
-    "원이",
+    "남자가",
     "와인",
-    "젓가락",
     "최후",
+    "#시니어드라마",
     "눈치",
-    "참교육",
+    "말을",
+    "들은",
+    "KBS",
+    "방송",
     "#윤아",
     "#이준호",
     "#김준배",
@@ -75,15 +75,19 @@
       "count": 1
     },
     {
-      "channel": "RESCENE log 리센느 로그",
-      "count": 1
-    },
-    {
       "channel": "한끼뮤직 ",
       "count": 1
     },
     {
-      "channel": "나 잘한다해짜나",
+      "channel": "RESCENE log 리센느 로그",
+      "count": 1
+    },
+    {
+      "channel": "B하인드S토리",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
       "count": 1
     },
     {
@@ -95,19 +99,15 @@
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
       "channel": "예능한스푼",
       "count": 1
     },
     {
-      "channel": "언택트립",
+      "channel": "스타한줌",
       "count": 1
     },
     {
-      "channel": "레츠무빗",
+      "channel": "1201 아이브",
       "count": 1
     }
   ],
