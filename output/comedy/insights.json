@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, 방송, #시니어, 선배가",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, #시니어, 선배가, 와인",
   "top_videos_summary": [
     {
-      "views": 6611582,
-      "title": "그럼 유재석님은 7천만원이에요? | 직장인들 시즌3",
-      "upload_year": "2026",
-      "channel": "옥상평상",
-      "duration": 32
-    },
-    {
-      "views": 5768888,
+      "views": 6380766,
       "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
       "channel": "RESCENE log 리센느 로그",
       "duration": 53
     },
     {
-      "views": 5518590,
+      "views": 6311219,
+      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 21
+    },
+    {
+      "views": 6225561,
       "title": "군기잡던 선배가 다급해진 이유",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 36
     },
     {
-      "views": 5486730,
+      "views": 5786850,
+      "title": "마술로 종결된 ‘한중일 리액션 차이’",
+      "upload_year": "2026",
+      "channel": "패션탐정냥",
+      "duration": 18
+    },
+    {
+      "views": 5718010,
       "title": "오징어 게임 촬영 중 시력 이상? #강하늘실명 #라디오스타 #강하늘 #shorts",
       "upload_year": "2026",
       "channel": "신나고",
       "duration": 51
-    },
-    {
-      "views": 5384672,
-      "title": "무지개 회원들 모두 입틀막",
-      "upload_year": "2026",
-      "channel": "나혼자산다 STUDIO",
-      "duration": 80
     }
   ],
   "outlier_adjusted": {
@@ -51,35 +51,39 @@
     "이유",
     "#shorts",
     "최후",
-    "방송",
     "#시니어",
     "선배가",
-    "#맛있는영화",
     "와인",
-    "#웃긴영상",
-    "#스케치코미디",
-    "#예능",
-    "눈치",
-    "KBS",
-    "순간",
-    "#코미디",
-    "#유머",
     "#시니어드라마",
     "#시니어쇼츠",
     "#반전드라마",
-    "말을"
+    "#코미디",
+    "#유머",
+    "#스케치코미디",
+    "#예능",
+    "눈치",
+    "말을",
+    "들은",
+    "참교육",
+    "KBS",
+    "방송",
+    "저린"
   ],
   "channel_distribution": [
-    {
-      "channel": "옥상평상",
-      "count": 1
-    },
     {
       "channel": "RESCENE log 리센느 로그",
       "count": 1
     },
     {
+      "channel": "B하인드S토리",
+      "count": 1
+    },
+    {
       "channel": "먹기전에",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
       "count": 1
     },
     {
@@ -91,19 +95,15 @@
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
       "channel": "예능한스푼",
       "count": 1
     },
     {
-      "channel": "패션탐정냥",
+      "channel": "유머국밥",
       "count": 1
     },
     {
-      "channel": "유머국밥",
+      "channel": "유머 좋아",
       "count": 1
     },
     {
