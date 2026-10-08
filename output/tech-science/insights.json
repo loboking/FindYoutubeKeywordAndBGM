@@ -3,47 +3,47 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 근황, 애플, 이유, 기능, 스마트폰, 제품을",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 근황, 애플, 이유, 아이폰, 스마트폰, 제품을",
   "top_videos_summary": [
     {
-      "views": 1897593,
+      "views": 1952368,
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 1819505,
+      "views": 1889554,
       "title": "애플도 포기한 제품을 직접 만든 유튜버",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 45
     },
     {
-      "views": 1284748,
+      "views": 1425100,
       "title": "CPU 핀 휘어진 사진 한 장에 단체로 비명을 지르는 제조사들",
       "upload_year": "2026",
       "channel": "FUN?",
       "duration": 24
     },
     {
-      "views": 913563,
+      "views": 986880,
+      "title": "대부분 모르는 멀티탭의 수명",
+      "upload_year": "2026",
+      "channel": "김블루",
+      "duration": 32
+    },
+    {
+      "views": 962936,
       "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
       "upload_year": "2026",
       "channel": "리꼬 Rico",
       "duration": 41
-    },
-    {
-      "views": 789351,
-      "title": "해외여행 갈 때 휴대폰에 이거 하나 달아두세요 #핸드폰스트랩 #도난방지스트랩 #휴대폰스트랩 #소매치기방지 #해외여행필수템 #여행용품 #핸드폰액세서리 #홈시그널",
-      "upload_year": "2026",
-      "channel": "홈시그널",
-      "duration": 22
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,23 +51,23 @@
     "근황",
     "애플",
     "이유",
-    "기능",
+    "아이폰",
     "스마트폰",
     "제품을",
     "만든",
+    "삼성이",
+    "기능",
     "갤럭시",
     "이거",
-    "컴퓨터",
     "쓰면",
     "충격적인",
+    "삼성",
+    "컴퓨터",
     "#키보드",
     "중국",
-    "삼성",
     "화면을",
-    "가격",
-    "아이폰",
-    "만들기",
-    "윈도우"
+    "이렇게",
+    "가격"
   ],
   "channel_distribution": [
     {
@@ -83,19 +83,19 @@
       "count": 1
     },
     {
-      "channel": "리꼬 Rico",
-      "count": 1
-    },
-    {
-      "channel": "홈시그널",
-      "count": 1
-    },
-    {
       "channel": "김블루",
       "count": 1
     },
     {
+      "channel": "리꼬 Rico",
+      "count": 1
+    },
+    {
       "channel": "☁️나연☁️",
+      "count": 1
+    },
+    {
+      "channel": "홈시그널",
       "count": 1
     },
     {
