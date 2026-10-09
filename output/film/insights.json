@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 최후, 남자가, #시니어드라마, #시니어, 참교육",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 최후, #유머, 참교육, #시니어드라마, #시니어",
   "top_videos_summary": [
     {
-      "views": 10694903,
+      "views": 11821760,
+      "title": "현빈 본능이 앞선 계란 장면 비하인드 #메이드인코리아2 #백기태",
+      "upload_year": "2026",
+      "channel": "영드비",
+      "duration": 20
+    },
+    {
+      "views": 11182172,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 6510045,
-      "title": "6개월 외운 대사가 바뀌고 20분을 받은 현봉식 #국제시장 #영화",
-      "upload_year": "2026",
-      "channel": "씬스틸폼",
-      "duration": 54
-    },
-    {
-      "views": 6380766,
-      "title": "제 발 저린 이토 메이",
-      "upload_year": "2026",
-      "channel": "RESCENE log 리센느 로그",
-      "duration": 53
-    },
-    {
-      "views": 6311219,
+      "views": 7084122,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 5484634,
+      "views": 6700227,
+      "title": "제 발 저린 이토 메이",
+      "upload_year": "2026",
+      "channel": "RESCENE log 리센느 로그",
+      "duration": 53
+    },
+    {
+      "views": 5493765,
       "title": "홈트로 샌드백 치는 사람",
       "upload_year": "2026",
       "channel": "나혼자산다 STUDIO",
@@ -43,43 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "최후",
-    "남자가",
+    "#유머",
+    "참교육",
     "#시니어드라마",
     "#시니어",
-    "참교육",
+    "재벌",
     "방법",
-    "#shorts",
-    "없는",
+    "남자",
+    "중요한",
     "좋아하는",
-    "목숨",
-    "없었던",
     "와인",
-    "#시니어쇼츠",
-    "#반전드라마",
+    "정체",
+    "#shorts",
     "#코미디",
-    "#유머",
+    "눈치",
+    "없는",
     "#스케치코미디",
     "#예능",
-    "#숏드라마"
+    "KBS"
   ],
   "channel_distribution": [
     {
+      "channel": "영드비",
+      "count": 1
+    },
+    {
       "channel": "숏스터무비",
-      "count": 1
-    },
-    {
-      "channel": "씬스틸폼",
-      "count": 1
-    },
-    {
-      "channel": "RESCENE log 리센느 로그",
       "count": 1
     },
     {
@@ -87,19 +83,15 @@
       "count": 1
     },
     {
+      "channel": "RESCENE log 리센느 로그",
+      "count": 1
+    },
+    {
       "channel": "나혼자산다 STUDIO",
       "count": 1
     },
     {
-      "channel": "예능한스푼",
-      "count": 1
-    },
-    {
-      "channel": "언택트립",
-      "count": 1
-    },
-    {
-      "channel": "레츠무빗",
+      "channel": "하루한픽",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "유머 좋아",
+      "count": 1
+    },
+    {
+      "channel": "비하인드 아카이빙",
+      "count": 1
+    },
+    {
+      "channel": "예능바다",
       "count": 1
     }
   ],
