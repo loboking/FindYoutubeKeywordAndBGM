@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, #시니어, 선배가, 와인",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #유머, #스케치코미디, #시니어, #반전드라마",
   "top_videos_summary": [
     {
-      "views": 6380766,
-      "title": "제 발 저린 이토 메이",
-      "upload_year": "2026",
-      "channel": "RESCENE log 리센느 로그",
-      "duration": 53
-    },
-    {
-      "views": 6311219,
-      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 21
-    },
-    {
-      "views": 6225561,
-      "title": "군기잡던 선배가 다급해진 이유",
-      "upload_year": "2026",
-      "channel": "먹기전에",
-      "duration": 36
-    },
-    {
-      "views": 5786850,
+      "views": 7788150,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 5718010,
+      "views": 7084122,
+      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 21
+    },
+    {
+      "views": 6939376,
+      "title": "군기잡던 선배가 다급해진 이유",
+      "upload_year": "2026",
+      "channel": "먹기전에",
+      "duration": 36
+    },
+    {
+      "views": 6700227,
+      "title": "제 발 저린 이토 메이",
+      "upload_year": "2026",
+      "channel": "RESCENE log 리센느 로그",
+      "duration": 53
+    },
+    {
+      "views": 5943131,
       "title": "오징어 게임 촬영 중 시력 이상? #강하늘실명 #라디오스타 #강하늘 #shorts",
       "upload_year": "2026",
       "channel": "신나고",
@@ -43,35 +43,35 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "#shorts",
-    "최후",
-    "#시니어",
-    "선배가",
-    "와인",
-    "#시니어드라마",
-    "#시니어쇼츠",
-    "#반전드라마",
-    "#코미디",
     "#유머",
     "#스케치코미디",
-    "#예능",
-    "눈치",
+    "#시니어",
+    "#반전드라마",
+    "남자",
+    "와인",
     "말을",
     "들은",
+    "최후",
+    "#코미디",
+    "눈치",
+    "없는",
+    "#예능",
     "참교육",
     "KBS",
     "방송",
-    "저린"
+    "#시니어드라마",
+    "#시니어쇼츠"
   ],
   "channel_distribution": [
     {
-      "channel": "RESCENE log 리센느 로그",
+      "channel": "패션탐정냥",
       "count": 1
     },
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "패션탐정냥",
+      "channel": "RESCENE log 리센느 로그",
       "count": 1
     },
     {
@@ -91,15 +91,7 @@
       "count": 1
     },
     {
-      "channel": "나혼자산다 STUDIO",
-      "count": 1
-    },
-    {
-      "channel": "예능한스푼",
-      "count": 1
-    },
-    {
-      "channel": "유머국밥",
+      "channel": "하루한픽",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "롤더쿠",
+      "count": 1
+    },
+    {
+      "channel": "dodomong1004",
+      "count": 1
+    },
+    {
+      "channel": "예능바다",
       "count": 1
     }
   ],
