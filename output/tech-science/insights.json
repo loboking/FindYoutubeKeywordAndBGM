@@ -3,79 +3,75 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 근황, 애플, 이유, 아이폰, 스마트폰, 제품을",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 근황, 애플, 정체, #키보드, 아이폰, 사진",
   "top_videos_summary": [
     {
-      "views": 1952368,
+      "views": 2016204,
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 1889554,
-      "title": "애플도 포기한 제품을 직접 만든 유튜버",
-      "upload_year": "2026",
-      "channel": "일분일초",
-      "duration": 45
-    },
-    {
-      "views": 1425100,
+      "views": 1597727,
       "title": "CPU 핀 휘어진 사진 한 장에 단체로 비명을 지르는 제조사들",
       "upload_year": "2026",
       "channel": "FUN?",
       "duration": 24
     },
     {
-      "views": 986880,
+      "views": 1144176,
       "title": "대부분 모르는 멀티탭의 수명",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 32
     },
     {
-      "views": 962936,
+      "views": 996205,
       "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
       "upload_year": "2026",
       "channel": "리꼬 Rico",
       "duration": 41
+    },
+    {
+      "views": 858482,
+      "title": "16년전 출시 아이팟터치 화이트!!!🩵☁️",
+      "upload_year": "2026",
+      "channel": "☁️나연☁️",
+      "duration": 36
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "근황",
     "애플",
-    "이유",
-    "아이폰",
-    "스마트폰",
-    "제품을",
-    "만든",
-    "삼성이",
-    "기능",
-    "갤럭시",
-    "이거",
-    "쓰면",
-    "충격적인",
-    "삼성",
-    "컴퓨터",
+    "정체",
     "#키보드",
-    "중국",
-    "화면을",
+    "아이폰",
+    "사진",
+    "삼성이",
+    "갤럭시",
+    "스마트폰",
+    "삼성",
+    "이유",
+    "컴퓨터",
+    "올리는",
     "이렇게",
-    "가격"
+    "만들기",
+    "특이한",
+    "제품을",
+    "출시했다는",
+    "삼성전자",
+    "CPU"
   ],
   "channel_distribution": [
     {
       "channel": "짧주",
-      "count": 1
-    },
-    {
-      "channel": "일분일초",
       "count": 1
     },
     {
@@ -95,11 +91,11 @@
       "count": 1
     },
     {
-      "channel": "홈시그널",
+      "channel": "아아한잔",
       "count": 1
     },
     {
-      "channel": "아아한잔",
+      "channel": "봐쓩",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "테드TV",
+      "channel": "일분일초",
+      "count": 1
+    },
+    {
+      "channel": "1분미만",
       "count": 1
     }
   ],

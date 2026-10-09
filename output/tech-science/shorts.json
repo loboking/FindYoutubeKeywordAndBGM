@@ -3,7 +3,7 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 47,
+  "shorts_found": 45,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
@@ -11,7 +11,7 @@
     {
       "id": "dEruyrVfsQ8",
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
-      "view_count": 1952368,
+      "view_count": 2016204,
       "duration": 41,
       "upload_date": "20261002",
       "category": "20",
@@ -20,20 +20,9 @@
       "url": "https://www.youtube.com/watch?v=dEruyrVfsQ8"
     },
     {
-      "id": "O9VS351bbFo",
-      "title": "애플도 포기한 제품을 직접 만든 유튜버",
-      "view_count": 1889554,
-      "duration": 45,
-      "upload_date": "20260930",
-      "category": "23",
-      "channel": "일분일초",
-      "source_channel": "일분일초",
-      "url": "https://www.youtube.com/watch?v=O9VS351bbFo"
-    },
-    {
       "id": "mV2z1POE8W0",
       "title": "CPU 핀 휘어진 사진 한 장에 단체로 비명을 지르는 제조사들",
-      "view_count": 1425100,
+      "view_count": 1597727,
       "duration": 24,
       "upload_date": "20260924",
       "category": "22",
@@ -44,7 +33,7 @@
     {
       "id": "zQUPG6rJipY",
       "title": "대부분 모르는 멀티탭의 수명",
-      "view_count": 986880,
+      "view_count": 1144176,
       "duration": 32,
       "upload_date": "20261007",
       "category": "20",
@@ -55,7 +44,7 @@
     {
       "id": "OgcUEwcQY8A",
       "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
-      "view_count": 962936,
+      "view_count": 996205,
       "duration": 41,
       "upload_date": "20260927",
       "category": "26",
@@ -66,7 +55,7 @@
     {
       "id": "St-zElJ9HO0",
       "title": "16년전 출시 아이팟터치 화이트!!!🩵☁️",
-      "view_count": 811273,
+      "view_count": 858482,
       "duration": 36,
       "upload_date": "20261003",
       "category": "22",
@@ -75,20 +64,9 @@
       "url": "https://www.youtube.com/watch?v=St-zElJ9HO0"
     },
     {
-      "id": "0VTr-sc7ktc",
-      "title": "해외여행 갈 때 휴대폰에 이거 하나 달아두세요 #핸드폰스트랩 #도난방지스트랩 #휴대폰스트랩 #소매치기방지 #해외여행필수템 #여행용품 #핸드폰액세서리 #홈시그널",
-      "view_count": 793805,
-      "duration": 22,
-      "upload_date": "20260921",
-      "category": "22",
-      "channel": "홈시그널",
-      "source_channel": "홈시그널",
-      "url": "https://www.youtube.com/watch?v=0VTr-sc7ktc"
-    },
-    {
       "id": "w7RGBmo2QOg",
       "title": "스마트폰 고장인 줄 알았는데 해킹..??",
-      "view_count": 743664,
+      "view_count": 789726,
       "duration": 22,
       "upload_date": "20261002",
       "category": "23",
@@ -97,9 +75,20 @@
       "url": "https://www.youtube.com/watch?v=w7RGBmo2QOg"
     },
     {
+      "id": "i64-sPsO6cI",
+      "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
+      "view_count": 767196,
+      "duration": 15,
+      "upload_date": "20261006",
+      "category": "22",
+      "channel": "봐쓩",
+      "source_channel": "봐쓩",
+      "url": "https://www.youtube.com/watch?v=i64-sPsO6cI"
+    },
+    {
       "id": "-275SxVh-Dk",
       "title": "이거 붙이고 불안이 사라졌어요😎 #살림템 #보안카메라",
-      "view_count": 704242,
+      "view_count": 731820,
       "duration": 26,
       "upload_date": "20260929",
       "category": "26",
@@ -108,20 +97,20 @@
       "url": "https://www.youtube.com/watch?v=-275SxVh-Dk"
     },
     {
-      "id": "e-em4lLBrV8",
-      "title": "애플 진짜 큰일 난 이유",
-      "view_count": 629772,
-      "duration": 35,
-      "upload_date": "20260927",
-      "category": "24",
-      "channel": "테드TV",
-      "source_channel": "테드TV",
-      "url": "https://www.youtube.com/watch?v=e-em4lLBrV8"
+      "id": "23xWAAqo4JY",
+      "title": "휴대폰 배터리 없을 때 외출하는 방법",
+      "view_count": 647748,
+      "duration": 34,
+      "upload_date": "20261009",
+      "category": "23",
+      "channel": "일분일초",
+      "source_channel": "일분일초",
+      "url": "https://www.youtube.com/watch?v=23xWAAqo4JY"
     },
     {
       "id": "xGxyksoD-wY",
       "title": "단 1초도 못참는 한국인 전용 꿀기능 두 가지!",
-      "view_count": 591810,
+      "view_count": 646574,
       "duration": 37,
       "upload_date": "20261007",
       "category": "26",
@@ -130,9 +119,20 @@
       "url": "https://www.youtube.com/watch?v=xGxyksoD-wY"
     },
     {
+      "id": "e-em4lLBrV8",
+      "title": "애플 진짜 큰일 난 이유",
+      "view_count": 645994,
+      "duration": 35,
+      "upload_date": "20260927",
+      "category": "24",
+      "channel": "테드TV",
+      "source_channel": "테드TV",
+      "url": "https://www.youtube.com/watch?v=e-em4lLBrV8"
+    },
+    {
       "id": "h16A9gHokOM",
       "title": "Lg 모니터를 쓰면 마우스가 느려지는 \"충격적인 원인\"",
-      "view_count": 564409,
+      "view_count": 643023,
       "duration": 64,
       "upload_date": "20261006",
       "category": "26",
@@ -143,7 +143,7 @@
     {
       "id": "4aW0M-b_4KA",
       "title": "답답했던 구형 TV에 리모컨 0번을 꾸욱 누르니 신형 티비로 변신하네요. 이번 명절 연휴에 친척들 모두 깜짝 놀란 꿀팁입니다!",
-      "view_count": 538906,
+      "view_count": 557346,
       "duration": 60,
       "upload_date": "20260928",
       "category": "26",
@@ -152,31 +152,9 @@
       "url": "https://www.youtube.com/watch?v=4aW0M-b_4KA"
     },
     {
-      "id": "tI717fymyck",
-      "title": "기포 0%! 손끝으로 누르자 기판 전체로 기포가 빠져나감",
-      "view_count": 527102,
-      "duration": 17,
-      "upload_date": "20260927",
-      "category": "27",
-      "channel": "리뷰한수",
-      "source_channel": "리뷰한수",
-      "url": "https://www.youtube.com/watch?v=tI717fymyck"
-    },
-    {
-      "id": "i64-sPsO6cI",
-      "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
-      "view_count": 497115,
-      "duration": 15,
-      "upload_date": "20261006",
-      "category": "22",
-      "channel": "봐쓩",
-      "source_channel": "봐쓩",
-      "url": "https://www.youtube.com/watch?v=i64-sPsO6cI"
-    },
-    {
       "id": "nRbWOuwdp-Q",
       "title": "요즘 불 많이 나넹.. 고장 난 컬러풀 RTX 3070 Ti 그래픽 카드!",
-      "view_count": 465616,
+      "view_count": 519006,
       "duration": 83,
       "upload_date": "20261002",
       "category": "28",
@@ -187,7 +165,7 @@
     {
       "id": "7_yGm4iMkTk",
       "title": "액자 속에 아날로그를 살려둔 발상, 복각 SONY 워크맨",
-      "view_count": 446472,
+      "view_count": 494307,
       "duration": 12,
       "upload_date": "20260927",
       "category": "22",
@@ -198,7 +176,7 @@
     {
       "id": "PMLz2COouQ0",
       "title": "결국 다이소 철수한다는 컴퓨터 부품 근황",
-      "view_count": 428449,
+      "view_count": 452432,
       "duration": 25,
       "upload_date": "20261005",
       "category": "24",
@@ -209,7 +187,7 @@
     {
       "id": "JjZpfvculbo",
       "title": "사실적인 갤럭시 폴드 8 사용후기",
-      "view_count": 367678,
+      "view_count": 376946,
       "duration": 13,
       "upload_date": "20260930",
       "category": "24",
@@ -218,20 +196,9 @@
       "url": "https://www.youtube.com/watch?v=JjZpfvculbo"
     },
     {
-      "id": "xNp_PfQOK6A",
-      "title": "컴퓨터 고수들만 아는 암호코드#2  #키보드",
-      "view_count": 340045,
-      "duration": 12,
-      "upload_date": "20261002",
-      "category": "26",
-      "channel": "컴퓨터 꿀팁모아",
-      "source_channel": "컴퓨터 꿀팁모아",
-      "url": "https://www.youtube.com/watch?v=xNp_PfQOK6A"
-    },
-    {
       "id": "KGtKwlDwPes",
       "title": "애플 제대로 긁는 정말 잘 만든 삼성 광고 정체",
-      "view_count": 315554,
+      "view_count": 359665,
       "duration": 24,
       "upload_date": "20261003",
       "category": "22",
@@ -242,7 +209,7 @@
     {
       "id": "JSzFQKdNZtM",
       "title": "숏츠만들다가 해보고 개깜놀. 속도와 정확도 올리는 키보드와 마우스 셋팅 #컴퓨터 #키보드 #마우스 #컴퓨터팁",
-      "view_count": 304271,
+      "view_count": 356721,
       "duration": 21,
       "upload_date": "20261005",
       "category": "22",
@@ -251,20 +218,31 @@
       "url": "https://www.youtube.com/watch?v=JSzFQKdNZtM"
     },
     {
-      "id": "8u3E_LuSEUo",
-      "title": "이상한 걸 '밀고 있다는' 중국 스마트폰 근황?ㅋㅋㅋ",
-      "view_count": 294531,
-      "duration": 31,
-      "upload_date": "20261002",
-      "category": "23",
-      "channel": "평양냉면",
-      "source_channel": "평양냉면",
-      "url": "https://www.youtube.com/watch?v=8u3E_LuSEUo"
+      "id": "6i35BUtzd4U",
+      "title": "아이폰 충전기는 이렇게 바뀌었다 📱😂",
+      "view_count": 344699,
+      "duration": 21,
+      "upload_date": "20261008",
+      "category": "22",
+      "channel": "누리뉘리",
+      "source_channel": "누리뉘리",
+      "url": "https://www.youtube.com/watch?v=6i35BUtzd4U"
+    },
+    {
+      "id": "vXZxh2eTZfw",
+      "title": "내가 폰으로 찍은 별 사진이 칙칙해 보이는 이유 #은하수 #별 #milkyway #갤럭시 #갤럭시s26울트라",
+      "view_count": 328202,
+      "duration": 13,
+      "upload_date": "20261005",
+      "category": "19",
+      "channel": "주니웨어 주니",
+      "source_channel": "주니웨어 주니",
+      "url": "https://www.youtube.com/watch?v=vXZxh2eTZfw"
     },
     {
       "id": "rUxxbm9ZlCY",
       "title": "차에서 폰 보면 멀미? 아이폰·갤럭시 이 기능만 켜세요! #아이폰꿀팁 #갤럭시꿀팁 #스마트폰꿀팁",
-      "view_count": 289536,
+      "view_count": 303249,
       "duration": 21,
       "upload_date": "20261002",
       "category": "26",
@@ -275,7 +253,7 @@
     {
       "id": "ktOOfYijNkc",
       "title": "애플 충전기 부숴놓고 다이소로 퉁치려는 삼촌",
-      "view_count": 285140,
+      "view_count": 299318,
       "duration": 43,
       "upload_date": "20261005",
       "category": "22",
@@ -284,9 +262,20 @@
       "url": "https://www.youtube.com/watch?v=ktOOfYijNkc"
     },
     {
+      "id": "8u3E_LuSEUo",
+      "title": "이상한 걸 '밀고 있다는' 중국 스마트폰 근황?ㅋㅋㅋ",
+      "view_count": 298114,
+      "duration": 31,
+      "upload_date": "20261002",
+      "category": "23",
+      "channel": "평양냉면",
+      "source_channel": "평양냉면",
+      "url": "https://www.youtube.com/watch?v=8u3E_LuSEUo"
+    },
+    {
       "id": "kTf3rBERh30",
       "title": "시간까지 인화해 버린다는 카메라ㄷㄷ",
-      "view_count": 262240,
+      "view_count": 291378,
       "duration": 31,
       "upload_date": "20261003",
       "category": "26",
@@ -295,42 +284,9 @@
       "url": "https://www.youtube.com/watch?v=kTf3rBERh30"
     },
     {
-      "id": "vXZxh2eTZfw",
-      "title": "내가 폰으로 찍은 별 사진이 칙칙해 보이는 이유 #은하수 #별 #milkyway #갤럭시 #갤럭시s26울트라",
-      "view_count": 260022,
-      "duration": 13,
-      "upload_date": "20261005",
-      "category": "19",
-      "channel": "주니웨어 주니",
-      "source_channel": "주니웨어 주니",
-      "url": "https://www.youtube.com/watch?v=vXZxh2eTZfw"
-    },
-    {
-      "id": "EbLqwcF2e_g",
-      "title": "HP가 노트북에서 화면을 없애버렸습니다",
-      "view_count": 228886,
-      "duration": 41,
-      "upload_date": "20260929",
-      "category": "28",
-      "channel": "포브",
-      "source_channel": "포브",
-      "url": "https://www.youtube.com/watch?v=EbLqwcF2e_g"
-    },
-    {
-      "id": "FKNn811gyDs",
-      "title": "msi 5070 벤투스 어때요??",
-      "view_count": 193764,
-      "duration": 39,
-      "upload_date": "20261002",
-      "category": "26",
-      "channel": "고고싱컴퓨터",
-      "source_channel": "고고싱컴퓨터",
-      "url": "https://www.youtube.com/watch?v=FKNn811gyDs"
-    },
-    {
       "id": "Y0fm9V_4xBk",
       "title": "아일랜드 서랍장 설치",
-      "view_count": 191894,
+      "view_count": 209629,
       "duration": 112,
       "upload_date": "20261005",
       "category": "26",
@@ -341,7 +297,7 @@
     {
       "id": "fy-woZZGhhs",
       "title": "이렇게 생긴 카메라의 사진은 어떨까?｜Godox C100",
-      "view_count": 176974,
+      "view_count": 208265,
       "duration": 25,
       "upload_date": "20261005",
       "category": "22",
@@ -350,31 +306,42 @@
       "url": "https://www.youtube.com/watch?v=fy-woZZGhhs"
     },
     {
-      "id": "6i35BUtzd4U",
-      "title": "아이폰 충전기는 이렇게 바뀌었다 📱😂",
-      "view_count": 157179,
-      "duration": 21,
+      "id": "opctuzWcjf0",
+      "title": "별게 다 연동되는 미래의 아이폰",
+      "view_count": 203482,
+      "duration": 51,
       "upload_date": "20261008",
-      "category": "22",
-      "channel": "누리뉘리",
-      "source_channel": "누리뉘리",
-      "url": "https://www.youtube.com/watch?v=6i35BUtzd4U"
+      "category": "24",
+      "channel": "먹기전에",
+      "source_channel": "먹기전에",
+      "url": "https://www.youtube.com/watch?v=opctuzWcjf0"
     },
     {
-      "id": "VGNx3QeRLvE",
-      "title": "5090 그래픽카드 가격 근황",
-      "view_count": 154956,
-      "duration": 19,
-      "upload_date": "20261001",
-      "category": "24",
-      "channel": "세팅",
-      "source_channel": "세팅",
-      "url": "https://www.youtube.com/watch?v=VGNx3QeRLvE"
+      "id": "FKNn811gyDs",
+      "title": "msi 5070 벤투스 어때요??",
+      "view_count": 198559,
+      "duration": 39,
+      "upload_date": "20261002",
+      "category": "26",
+      "channel": "고고싱컴퓨터",
+      "source_channel": "고고싱컴퓨터",
+      "url": "https://www.youtube.com/watch?v=FKNn811gyDs"
+    },
+    {
+      "id": "xfeIQJPPufc",
+      "title": "아이폰 사용자는 화면을 절대 터치하지마세요 2 (챌린지)",
+      "view_count": 163801,
+      "duration": 33,
+      "upload_date": "20261009",
+      "category": "20",
+      "channel": "ROX 록스",
+      "source_channel": "ROX 록스",
+      "url": "https://www.youtube.com/watch?v=xfeIQJPPufc"
     },
     {
       "id": "0x1pcG2BzJs",
       "title": "존버하다 배신당한 핸드폰 가격 근황",
-      "view_count": 133326,
+      "view_count": 136201,
       "duration": 37,
       "upload_date": "20261006",
       "category": "24",
@@ -383,20 +350,20 @@
       "url": "https://www.youtube.com/watch?v=0x1pcG2BzJs"
     },
     {
-      "id": "Q-7AgFucF0c",
-      "title": "🔌 배터리가 콘센트로 변신",
-      "view_count": 117260,
-      "duration": 28,
-      "upload_date": "20261004",
-      "category": "26",
-      "channel": "5초쇼핑",
-      "source_channel": "5초쇼핑",
-      "url": "https://www.youtube.com/watch?v=Q-7AgFucF0c"
+      "id": "Nyzbr4eFYzk",
+      "title": "오래된 핸드폰이 숙성되면 생기는 대참사",
+      "view_count": 125611,
+      "duration": 10,
+      "upload_date": "20261008",
+      "category": "22",
+      "channel": "척척박살",
+      "source_channel": "척척박살",
+      "url": "https://www.youtube.com/watch?v=Nyzbr4eFYzk"
     },
     {
       "id": "i3sxjAhHJqk",
       "title": "조카의 부탁! 세상에서 가장 가벼운 S24 울트라 만들기 #S24울트라 #갤럭시S24울트라 #가벼운폰",
-      "view_count": 111922,
+      "view_count": 124599,
       "duration": 110,
       "upload_date": "20261007",
       "category": "28",
@@ -405,31 +372,9 @@
       "url": "https://www.youtube.com/watch?v=i3sxjAhHJqk"
     },
     {
-      "id": "9gm3V4tl1Uo",
-      "title": "큰일났다는 아이폰 듀오 현재 상황",
-      "view_count": 109150,
-      "duration": 41,
-      "upload_date": "20261007",
-      "category": "28",
-      "channel": "디에디트 THE EDIT",
-      "source_channel": "디에디트 THE EDIT",
-      "url": "https://www.youtube.com/watch?v=9gm3V4tl1Uo"
-    },
-    {
-      "id": "LkJRC9I9jxE",
-      "title": "AI가 모든 것을 망쳤어",
-      "view_count": 96811,
-      "duration": 65,
-      "upload_date": "20261004",
-      "category": "28",
-      "channel": "체험판",
-      "source_channel": "체험판",
-      "url": "https://www.youtube.com/watch?v=LkJRC9I9jxE"
-    },
-    {
       "id": "6ktnC6hyE-k",
       "title": "900만원 컴으로 롤 리니지 하면 렉 생기나요.. 네 생겨요",
-      "view_count": 95508,
+      "view_count": 101195,
       "duration": 132,
       "upload_date": "20261006",
       "category": "26",
@@ -438,9 +383,53 @@
       "url": "https://www.youtube.com/watch?v=6ktnC6hyE-k"
     },
     {
+      "id": "sYZiIksc0qk",
+      "title": "스마트워치 빨간 겉필름 떼는 순간… 너무 시원함",
+      "view_count": 95389,
+      "duration": 16,
+      "upload_date": "20261008",
+      "category": "27",
+      "channel": "리뷰한수",
+      "source_channel": "리뷰한수",
+      "url": "https://www.youtube.com/watch?v=sYZiIksc0qk"
+    },
+    {
+      "id": "09zj2fHCvyA",
+      "title": "키보드 샷건 치는 습관 1초 만에 고치는 법 ㅋㅋㅋ #호기심 #실험 #키보드",
+      "view_count": 94089,
+      "duration": 24,
+      "upload_date": "20261008",
+      "category": "26",
+      "channel": "무쓸모",
+      "source_channel": "무쓸모",
+      "url": "https://www.youtube.com/watch?v=09zj2fHCvyA"
+    },
+    {
+      "id": "COpQtm9vlJ0",
+      "title": "SPAS-12에 달린 버튼의 정체?",
+      "view_count": 90989,
+      "duration": 41,
+      "upload_date": "20261009",
+      "category": "22",
+      "channel": "밀덕도치",
+      "source_channel": "밀덕도치",
+      "url": "https://www.youtube.com/watch?v=COpQtm9vlJ0"
+    },
+    {
+      "id": "SFzTCpu7yLY",
+      "title": "디램리스 SSD의 함정",
+      "view_count": 80934,
+      "duration": 70,
+      "upload_date": "20261009",
+      "category": "28",
+      "channel": "체험판",
+      "source_channel": "체험판",
+      "url": "https://www.youtube.com/watch?v=SFzTCpu7yLY"
+    },
+    {
       "id": "tirWHWk6zQU",
       "title": "((공유/共有)) 최애로 윈도우 배경화면 만들기 💻☁️💚推しでWindows風の壁紙を作ってみよう #꿀팁 #덕질 #kpop #오타쿠 #推し活",
-      "view_count": 79162,
+      "view_count": 80576,
       "duration": 15,
       "upload_date": "20261006",
       "category": "22",
@@ -449,42 +438,42 @@
       "url": "https://www.youtube.com/watch?v=tirWHWk6zQU"
     },
     {
-      "id": "L0VD_IvMYLM",
-      "title": "중국 트라이폴드 2세대 등장 ㄷㄷㄷ",
-      "view_count": 73791,
-      "duration": 73,
-      "upload_date": "20261006",
+      "id": "R3Qls4PrhtM",
+      "title": "삼성이 중국에만 파는 폴더블 폰",
+      "view_count": 77925,
+      "duration": 31,
+      "upload_date": "20261009",
       "category": "28",
       "channel": "뻘짓연구소",
       "source_channel": "뻘짓연구소",
-      "url": "https://www.youtube.com/watch?v=L0VD_IvMYLM"
+      "url": "https://www.youtube.com/watch?v=R3Qls4PrhtM"
     },
     {
-      "id": "4fs5R8wYtIg",
-      "title": "윈도우 쓰면 공감되는 기능 #미미미누 #예능",
-      "view_count": 70358,
+      "id": "J4ruDLHrWOs",
+      "title": "컴퓨터 고수들만 아는 비밀코드 #키보드",
+      "view_count": 77589,
+      "duration": 10,
+      "upload_date": "20261009",
+      "category": "26",
+      "channel": "컴퓨터 꿀팁모아",
+      "source_channel": "컴퓨터 꿀팁모아",
+      "url": "https://www.youtube.com/watch?v=J4ruDLHrWOs"
+    },
+    {
+      "id": "37EDs98slhY",
+      "title": "다이오드 하나로 회로를 살리는 법",
+      "view_count": 67972,
       "duration": 38,
-      "upload_date": "20261002",
-      "category": "22",
-      "channel": "예능다락방",
-      "source_channel": "예능다락방",
-      "url": "https://www.youtube.com/watch?v=4fs5R8wYtIg"
-    },
-    {
-      "id": "jEnDf5MC3zw",
-      "title": "스마트폰 배터리를 더 오래 쓰게 할 기술?!",
-      "view_count": 61496,
-      "duration": 62,
-      "upload_date": "20261004",
-      "category": "28",
-      "channel": "안될과학 Unrealscience",
-      "source_channel": "안될과학 Unrealscience",
-      "url": "https://www.youtube.com/watch?v=jEnDf5MC3zw"
+      "upload_date": "20261009",
+      "category": "27",
+      "channel": "인사이드 임베디드",
+      "source_channel": "인사이드 임베디드",
+      "url": "https://www.youtube.com/watch?v=37EDs98slhY"
     },
     {
       "id": "caQAtMJScrM",
       "title": "대체 이게 어떻게 가능하냐는 드론",
-      "view_count": 58632,
+      "view_count": 60920,
       "duration": 36,
       "upload_date": "20261005",
       "category": "26",
@@ -493,37 +482,26 @@
       "url": "https://www.youtube.com/watch?v=caQAtMJScrM"
     },
     {
-      "id": "fvBWbHchXSU",
-      "title": "아이폰 듀오 폭망 수율 60% 어쩌나 해외반응 \"삼성이 말도 안되는거였네\"",
-      "view_count": 48839,
-      "duration": 61,
-      "upload_date": "20261007",
-      "category": "24",
-      "channel": "재미주의",
-      "source_channel": "재미주의",
-      "url": "https://www.youtube.com/watch?v=fvBWbHchXSU"
+      "id": "IAke_7dKJKI",
+      "title": "한글 첨부 사진 용량 줄이기",
+      "view_count": 44089,
+      "duration": 63,
+      "upload_date": "20261008",
+      "category": "22",
+      "channel": "천안제일사무기",
+      "source_channel": "천안제일사무기",
+      "url": "https://www.youtube.com/watch?v=IAke_7dKJKI"
     },
     {
-      "id": "K310pDyp-QM",
-      "title": "애플이 첫 접는 아이폰 화면을 한국에서 사 가야 했던 충격적인 이유",
-      "view_count": 41271,
-      "duration": 114,
-      "upload_date": "20261004",
-      "category": "27",
-      "channel": "또보자고",
-      "source_channel": "또보자고",
-      "url": "https://www.youtube.com/watch?v=K310pDyp-QM"
-    },
-    {
-      "id": "poUpNbHGIbU",
-      "title": "애플 첫 폴더블 검사 합격률 60%…삼성이 7년 먼저 겪은 이유",
-      "view_count": 39176,
-      "duration": 64,
-      "upload_date": "20261003",
-      "category": "27",
-      "channel": "경제스타",
-      "source_channel": "경제스타",
-      "url": "https://www.youtube.com/watch?v=poUpNbHGIbU"
+      "id": "Sh04ksIr_L4",
+      "title": "한국이 버린 LCD로 값 올리는 중국…엔비디아가 고른 노트북 화면 7개의 정체 #OLED #삼성디스플레이 #엔비디아",
+      "view_count": 34907,
+      "duration": 70,
+      "upload_date": "20261008",
+      "category": "25",
+      "channel": "정치봉투",
+      "source_channel": "정치봉투",
+      "url": "https://www.youtube.com/watch?v=Sh04ksIr_L4"
     }
   ]
 }
