@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 최후, #유머, 참교육, #시니어드라마, #시니어",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, #시니어, 최후, #시니어쇼츠, 남자, 이유",
   "top_videos_summary": [
     {
-      "views": 11821760,
+      "views": 12743172,
       "title": "현빈 본능이 앞선 계란 장면 비하인드 #메이드인코리아2 #백기태",
       "upload_year": "2026",
       "channel": "영드비",
       "duration": 20
     },
     {
-      "views": 11182172,
+      "views": 11633047,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 7084122,
+      "views": 7480819,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 6700227,
+      "views": 6931331,
       "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
       "channel": "RESCENE log 리센느 로그",
       "duration": 53
     },
     {
-      "views": 5493765,
-      "title": "홈트로 샌드백 치는 사람",
+      "views": 5647729,
+      "title": "남자 얼굴이 중요한 이유",
       "upload_year": "2026",
-      "channel": "나혼자산다 STUDIO",
-      "duration": 61
+      "channel": "하루한픽",
+      "duration": 45
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "최후",
-    "#유머",
-    "참교육",
     "#시니어드라마",
     "#시니어",
-    "재벌",
-    "방법",
+    "최후",
+    "#시니어쇼츠",
     "남자",
-    "중요한",
+    "이유",
+    "#반전드라마",
+    "방법",
+    "진짜",
     "좋아하는",
     "와인",
     "정체",
     "#shorts",
-    "#코미디",
+    "생기는",
+    "KBS",
+    "방송",
     "눈치",
-    "없는",
-    "#스케치코미디",
-    "#예능",
-    "KBS"
+    "#드라마",
+    "#메이드인코리아2",
+    "#백기태"
   ],
   "channel_distribution": [
     {
@@ -87,19 +87,7 @@
       "count": 1
     },
     {
-      "channel": "나혼자산다 STUDIO",
-      "count": 1
-    },
-    {
       "channel": "하루한픽",
-      "count": 1
-    },
-    {
-      "channel": "모야이슈",
-      "count": 1
-    },
-    {
-      "channel": "유머 좋아",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
-      "channel": "예능바다",
+      "channel": "유머 좋아",
+      "count": 1
+    },
+    {
+      "channel": "모야이슈",
+      "count": 1
+    },
+    {
+      "channel": "냐옹관",
+      "count": 1
+    },
+    {
+      "channel": "영화보다",
       "count": 1
     }
   ],
