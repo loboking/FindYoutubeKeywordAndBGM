@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #유머, #스케치코미디, #시니어, #반전드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어, #시니어드라마, #시니어쇼츠, #반전드라마, #shorts",
   "top_videos_summary": [
     {
-      "views": 7788150,
+      "views": 9634207,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 7084122,
-      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 21
-    },
-    {
-      "views": 6939376,
+      "views": 7691643,
       "title": "군기잡던 선배가 다급해진 이유",
       "upload_year": "2026",
       "channel": "먹기전에",
       "duration": 36
     },
     {
-      "views": 6700227,
+      "views": 7480650,
+      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 21
+    },
+    {
+      "views": 6931331,
       "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
       "channel": "RESCENE log 리센느 로그",
       "duration": 53
     },
     {
-      "views": 5943131,
-      "title": "오징어 게임 촬영 중 시력 이상? #강하늘실명 #라디오스타 #강하늘 #shorts",
+      "views": 5647729,
+      "title": "남자 얼굴이 중요한 이유",
       "upload_year": "2026",
-      "channel": "신나고",
-      "duration": 51
+      "channel": "하루한픽",
+      "duration": 45
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
-    "#유머",
-    "#스케치코미디",
     "#시니어",
+    "#시니어드라마",
+    "#시니어쇼츠",
     "#반전드라마",
+    "#shorts",
+    "최후",
     "남자",
-    "와인",
     "말을",
     "들은",
-    "최후",
-    "#코미디",
-    "눈치",
-    "없는",
-    "#예능",
-    "참교육",
+    "와인",
     "KBS",
     "방송",
-    "#시니어드라마",
-    "#시니어쇼츠"
+    "눈치",
+    "#스케치코미디",
+    "#김원효",
+    "마술로",
+    "종결된",
+    "‘한중일",
+    "리액션"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
+      "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -87,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "신나고",
+      "channel": "하루한픽",
       "count": 1
     },
     {
-      "channel": "하루한픽",
+      "channel": "돼지감자",
       "count": 1
     },
     {
@@ -99,7 +99,7 @@
       "count": 1
     },
     {
-      "channel": "롤더쿠",
+      "channel": "냐옹관",
       "count": 1
     },
     {
