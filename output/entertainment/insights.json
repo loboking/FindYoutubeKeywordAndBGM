@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 순간, 이유, 비하인드, 재벌, 방법, 보는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 순간, 이유, 방송, 비하인드, 방법, 뻔한",
   "top_videos_summary": [
     {
-      "views": 11820035,
+      "views": 12742948,
       "title": "현빈 본능이 앞선 계란 장면 비하인드 #메이드인코리아2 #백기태",
       "upload_year": "2026",
       "channel": "영드비",
       "duration": 20
     },
     {
-      "views": 11180902,
+      "views": 11632963,
       "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
       "upload_year": "2026",
       "channel": "숏스터무비",
       "duration": 54
     },
     {
-      "views": 8212315,
-      "title": "보는 사람도 민망한 아이돌 웃긴 순간 TOP5",
-      "upload_year": "2026",
-      "channel": "한끼뮤직 ",
-      "duration": 55
-    },
-    {
-      "views": 7788150,
+      "views": 9634203,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 7084122,
+      "views": 9348004,
+      "title": "보는 사람도 민망한 아이돌 웃긴 순간 TOP5",
+      "upload_year": "2026",
+      "channel": "한끼뮤직 ",
+      "duration": 55
+    },
+    {
+      "views": 7480650,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "순간",
     "이유",
+    "방송",
     "비하인드",
-    "재벌",
     "방법",
-    "보는",
     "뻔한",
-    "진짜",
-    "좋아하는",
-    "와인",
-    "말을",
+    "실력",
     "들은",
+    "레전드",
+    "와인",
     "정체",
     "가장",
     "#shorts",
+    "생기는",
     "KBS",
-    "방송",
+    "역대급",
     "#시니어드라마",
-    "#반전드라마",
-    "역대급"
+    "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "한끼뮤직 ",
+      "channel": "패션탐정냥",
       "count": 1
     },
     {
-      "channel": "패션탐정냥",
+      "channel": "한끼뮤직 ",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
+      "channel": "하루한픽",
+      "count": 1
+    },
+    {
       "channel": "1201 아이브",
       "count": 1
     },
     {
-      "channel": "스타한줌",
+      "channel": "비하인드 아카이빙",
       "count": 1
     },
     {
-      "channel": "예능 뭐볼래",
-      "count": 1
-    },
-    {
-      "channel": "하루한픽",
+      "channel": "나 잘한다해짜나",
       "count": 1
     }
   ],
