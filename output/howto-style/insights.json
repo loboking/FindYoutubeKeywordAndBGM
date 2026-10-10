@@ -3,77 +3,73 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 놀란, #shorts, 아빠도, 아들의, 집밥, 이유",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 놀란, #shorts, 이렇게, 아빠도, 아들의, 집밥",
   "top_videos_summary": [
     {
-      "views": 35202109,
-      "title": "Toyota camry rear spindle bush installation trick #diy #automotive #mechanic #youtubeshorts",
-      "upload_year": "2026",
-      "channel": "Inayat auto technician ",
-      "duration": 134
-    },
-    {
-      "views": 4124276,
+      "views": 4367893,
       "title": "히말라야 산길에 출몰한다는 꼬마 산적들",
       "upload_year": "2026",
       "channel": "도리뱅뱅",
       "duration": 34
     },
     {
-      "views": 4097642,
+      "views": 4212777,
       "title": "아빠도 현타 온 아들의 역대급 낚시 재능ㅋㅋ",
       "upload_year": "2026",
       "channel": "신기+템",
       "duration": 17
     },
     {
-      "views": 3344987,
+      "views": 3761116,
+      "title": "고양이 배에서 할리갈리하기",
+      "upload_year": "2026",
+      "channel": "언더월드 UNDER WORLD",
+      "duration": 48
+    },
+    {
+      "views": 3640276,
       "title": "주짓수 줴줴이야",
       "upload_year": "2026",
       "channel": "빨리타",
       "duration": 25
     },
     {
-      "views": 3240325,
-      "title": "고양이 배에서 할리갈리하기",
+      "views": 3415933,
+      "title": "K-화로대",
       "upload_year": "2026",
-      "channel": "언더월드 UNDER WORLD",
-      "duration": 48
+      "channel": "리뷰하는 회사원",
+      "duration": 57
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.34,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "놀란",
     "#shorts",
+    "이렇게",
     "아빠도",
     "아들의",
     "집밥",
     "이유",
     "강한",
-    "이렇게",
-    "#diy",
-    "#automotive",
-    "#mechanic",
-    "#youtubeshorts",
-    "Toyota",
-    "camry",
-    "rear",
-    "spindle",
-    "bush",
-    "installation",
-    "trick",
-    "히말라야"
+    "요즘",
+    "비법",
+    "간식",
+    "히말라야",
+    "산길에",
+    "출몰한다는",
+    "꼬마",
+    "산적들",
+    "현타",
+    "역대급",
+    "낚시",
+    "재능ㅋㅋ"
   ],
   "channel_distribution": [
-    {
-      "channel": "Inayat auto technician ",
-      "count": 1
-    },
     {
       "channel": "도리뱅뱅",
       "count": 1
@@ -83,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "빨리타",
+      "channel": "언더월드 UNDER WORLD",
       "count": 1
     },
     {
-      "channel": "언더월드 UNDER WORLD",
+      "channel": "빨리타",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
+      "channel": "김양갱은 못말려",
+      "count": 1
+    },
+    {
       "channel": "악인전 - 인물소개",
       "count": 1
     },
     {
-      "channel": "이로의하루",
+      "channel": "83부부",
       "count": 1
     },
     {
-      "channel": "김양갱은 못말려",
+      "channel": "한국느낌",
       "count": 1
     }
   ],
