@@ -3,47 +3,47 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 근황, 애플, 스마트폰, 아이폰, #키보드, 정체",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 근황, 애플, 스마트폰, 컴퓨터, 아이폰, #키보드",
   "top_videos_summary": [
     {
-      "views": 2062431,
+      "views": 2104953,
       "title": "특이한 제품을 출시했다는 삼성전자 근황",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 1369114,
-      "title": "대부분 모르는 멀티탭의 수명",
-      "upload_year": "2026",
-      "channel": "김블루",
-      "duration": 32
-    },
-    {
-      "views": 1255046,
+      "views": 1756681,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 1036174,
-      "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
+      "views": 1526335,
+      "title": "대부분 모르는 멀티탭의 수명",
       "upload_year": "2026",
-      "channel": "리꼬 Rico",
-      "duration": 41
+      "channel": "김블루",
+      "duration": 32
     },
     {
-      "views": 925782,
+      "views": 1331348,
       "title": "휴대폰 배터리 없을 때 외출하는 방법",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 34
+    },
+    {
+      "views": 1076033,
+      "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
+      "upload_year": "2026",
+      "channel": "리꼬 Rico",
+      "duration": 41
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,23 +51,23 @@
     "근황",
     "애플",
     "스마트폰",
+    "컴퓨터",
     "아이폰",
     "#키보드",
     "정체",
     "삼성",
+    "모르는",
+    "휴대폰",
+    "배터리",
+    "방법",
     "삼성이",
     "갤럭시",
+    "출시",
     "이유",
-    "컴퓨터",
-    "이렇게",
-    "올리는",
     "만든",
     "키보드",
-    "만들기",
-    "윈도우",
-    "특이한",
-    "제품을",
-    "출시했다는"
+    "이렇게",
+    "올리는"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,19 @@
       "count": 1
     },
     {
-      "channel": "김블루",
-      "count": 1
-    },
-    {
       "channel": "봐쓩",
       "count": 1
     },
     {
-      "channel": "리꼬 Rico",
+      "channel": "김블루",
       "count": 1
     },
     {
       "channel": "일분일초",
+      "count": 1
+    },
+    {
+      "channel": "리꼬 Rico",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "1분미만",
+      "channel": "투명한지식",
       "count": 1
     }
   ],
