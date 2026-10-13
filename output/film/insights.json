@@ -3,47 +3,47 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, 이유, #시니어쇼츠, #시니어, #반전드라마, 방법",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, 이유, #시니어쇼츠, #시니어, #반전드라마, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 13848278,
-      "title": "현빈 본능이 앞선 계란 장면 비하인드 #메이드인코리아2 #백기태",
-      "upload_year": "2026",
-      "channel": "영드비",
-      "duration": 20
-    },
-    {
-      "views": 12268514,
-      "title": "존잘 재벌 2세의 진정 어린 합의 방법 #윤아 #이준호 #김준배",
-      "upload_year": "2026",
-      "channel": "숏스터무비",
-      "duration": 54
-    },
-    {
-      "views": 8486894,
+      "views": 8598543,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 7189800,
+      "views": 7383249,
+      "title": "명배우들이 보여주는 미친 연기력",
+      "upload_year": "2026",
+      "channel": "아이돌캐치",
+      "duration": 63
+    },
+    {
+      "views": 7273382,
       "title": "제 발 저린 이토 메이",
       "upload_year": "2026",
       "channel": "RESCENE log 리센느 로그",
       "duration": 53
     },
     {
-      "views": 5881321,
+      "views": 6147581,
       "title": "남자 얼굴이 중요한 이유",
       "upload_year": "2026",
       "channel": "하루한픽",
       "duration": 45
+    },
+    {
+      "views": 5978327,
+      "title": "2026 부산국제영화제 포토타임 생긴 이유",
+      "upload_year": "2026",
+      "channel": "비하인드 아카이빙",
+      "duration": 38
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -53,33 +53,29 @@
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
-    "방법",
+    "#스케치코미디",
     "보여주는",
     "정체",
     "#shorts",
     "생기는",
-    "와인",
     "KBS",
     "방송",
-    "#드라마",
+    "어벤져스",
+    "가져온",
+    "#예능",
+    "#재미",
     "#숏드라마",
-    "#스케치코미디",
     "시어머니",
-    "#메이드인코리아2",
-    "#백기태",
-    "현빈"
+    "애드립에",
+    "애드립을"
   ],
   "channel_distribution": [
     {
-      "channel": "영드비",
-      "count": 1
-    },
-    {
-      "channel": "숏스터무비",
-      "count": 1
-    },
-    {
       "channel": "B하인드S토리",
+      "count": 1
+    },
+    {
+      "channel": "아이돌캐치",
       "count": 1
     },
     {
@@ -95,11 +91,15 @@
       "count": 1
     },
     {
-      "channel": "아이돌캐치",
+      "channel": "냐옹관",
       "count": 1
     },
     {
-      "channel": "냐옹관",
+      "channel": "까르르이슈",
+      "count": 1
+    },
+    {
+      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "까르르이슈",
+      "channel": "예능한스푼",
       "count": 1
     }
   ],
