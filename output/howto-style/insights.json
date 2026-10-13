@@ -3,42 +3,42 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 한국, 놀란, 이유, #shorts, 강한, 비법",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 한국, 놀란, 이유, 놀라운, #아기, #shorts",
   "top_videos_summary": [
     {
-      "views": 4996709,
+      "views": 5440894,
       "title": "고양이 배에서 할리갈리하기",
       "upload_year": "2026",
       "channel": "언더월드 UNDER WORLD",
       "duration": 48
     },
     {
-      "views": 4621162,
+      "views": 4650895,
       "title": "히말라야 산길에 출몰한다는 꼬마 산적들",
       "upload_year": "2026",
       "channel": "도리뱅뱅",
       "duration": 34
     },
     {
-      "views": 3892154,
+      "views": 3918810,
       "title": "주짓수 줴줴이야",
       "upload_year": "2026",
       "channel": "빨리타",
       "duration": 25
     },
     {
-      "views": 3527520,
-      "title": "K-화로대",
-      "upload_year": "2026",
-      "channel": "리뷰하는 회사원",
-      "duration": 57
-    },
-    {
-      "views": 3167913,
+      "views": 3762105,
       "title": "산속에서 무려 8m를 점프한 선수",
       "upload_year": "2026",
       "channel": "쓱포츠",
       "duration": 12
+    },
+    {
+      "views": 3548453,
+      "title": "K-화로대",
+      "upload_year": "2026",
+      "channel": "리뷰하는 회사원",
+      "duration": 57
     }
   ],
   "outlier_adjusted": {
@@ -51,10 +51,11 @@
     "한국",
     "놀란",
     "이유",
+    "놀라운",
+    "#아기",
     "#shorts",
     "강한",
     "비법",
-    "놀라운",
     "이렇게",
     "계란",
     "아침",
@@ -66,8 +67,7 @@
     "출몰한다는",
     "꼬마",
     "산적들",
-    "주짓수",
-    "줴줴이야"
+    "주짓수"
   ],
   "channel_distribution": [
     {
@@ -83,15 +83,11 @@
       "count": 1
     },
     {
-      "channel": "리뷰하는 회사원",
-      "count": 1
-    },
-    {
       "channel": "쓱포츠",
       "count": 1
     },
     {
-      "channel": "김양갱은 못말려",
+      "channel": "리뷰하는 회사원",
       "count": 1
     },
     {
@@ -99,11 +95,15 @@
       "count": 1
     },
     {
-      "channel": "알고포스",
+      "channel": "자까다 Jaggada",
       "count": 1
     },
     {
-      "channel": "자까다 Jaggada",
+      "channel": "생활탐험",
+      "count": 1
+    },
+    {
+      "channel": "지식창",
       "count": 1
     },
     {
