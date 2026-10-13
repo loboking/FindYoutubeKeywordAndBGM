@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 애플, 근황, 모르는, 방법, 스마트폰, #키보드",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 애플, 아이폰, 근황, 모르는, 방법, 스마트폰",
   "top_videos_summary": [
     {
-      "views": 2149323,
-      "title": "특이한 제품을 출시했다는 삼성전자 근황",
-      "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 41
-    },
-    {
-      "views": 2037453,
+      "views": 2220016,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 1694510,
+      "views": 2178483,
+      "title": "특이한 제품을 출시했다는 삼성전자 근황",
+      "upload_year": "2026",
+      "channel": "짧주",
+      "duration": 41
+    },
+    {
+      "views": 1779351,
       "title": "대부분 모르는 멀티탭의 수명",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 32
     },
     {
-      "views": 1476304,
+      "views": 1623650,
       "title": "휴대폰 배터리 없을 때 외출하는 방법",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 34
     },
     {
-      "views": 1105939,
+      "views": 1122169,
       "title": "삼성이 작정하고 숨겨둔 대박 AI 기능 3가지 (갤럭시 사용자라면 무조건)",
       "upload_year": "2026",
       "channel": "리꼬 Rico",
@@ -43,39 +43,39 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "애플",
+    "아이폰",
     "근황",
     "모르는",
     "방법",
     "스마트폰",
     "#키보드",
     "컴퓨터",
-    "아이폰",
-    "정체",
     "삼성",
     "휴대폰",
     "배터리",
     "삼성이",
-    "출시",
-    "이유",
+    "사람들이",
     "고장",
-    "올리는",
+    "꿀팁",
+    "화면을",
+    "배터리를",
     "만든",
     "키보드",
-    "화면을"
+    "이렇게"
   ],
   "channel_distribution": [
     {
-      "channel": "짧주",
+      "channel": "봐쓩",
       "count": 1
     },
     {
-      "channel": "봐쓩",
+      "channel": "짧주",
       "count": 1
     },
     {
@@ -91,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "☁️나연☁️",
+      "channel": "투명한지식",
       "count": 1
     },
     {
@@ -99,7 +99,7 @@
       "count": 1
     },
     {
-      "channel": "투명한지식",
+      "channel": "진자림 Jinjalim",
       "count": 1
     },
     {
