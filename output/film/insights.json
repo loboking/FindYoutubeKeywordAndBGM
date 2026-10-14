@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어드라마, 이유, #시니어쇼츠, #시니어, #반전드라마, #스케치코미디",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #시니어드라마, #스케치코미디, #예능, 보여주는",
   "top_videos_summary": [
     {
-      "views": 8598543,
-      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 21
-    },
-    {
-      "views": 7383249,
+      "views": 9159157,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 7273382,
-      "title": "제 발 저린 이토 메이",
+      "views": 8646811,
+      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
-      "channel": "RESCENE log 리센느 로그",
-      "duration": 53
+      "channel": "B하인드S토리",
+      "duration": 21
     },
     {
-      "views": 6147581,
+      "views": 7172824,
       "title": "남자 얼굴이 중요한 이유",
       "upload_year": "2026",
       "channel": "하루한픽",
       "duration": 45
     },
     {
-      "views": 5978327,
+      "views": 6056464,
       "title": "2026 부산국제영화제 포토타임 생긴 이유",
       "upload_year": "2026",
       "channel": "비하인드 아카이빙",
       "duration": 38
+    },
+    {
+      "views": 5770905,
+      "title": "수상하게 한국인을 좋아하는 미국 경창",
+      "upload_year": "2026",
+      "channel": "냐옹관",
+      "duration": 104
     }
   ],
   "outlier_adjusted": {
@@ -48,38 +48,34 @@
     "note": ""
   },
   "trend_keywords": [
-    "#시니어드라마",
     "이유",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
+    "생기는",
+    "#시니어드라마",
     "#스케치코미디",
+    "#예능",
     "보여주는",
     "정체",
     "#shorts",
-    "생기는",
-    "KBS",
-    "방송",
-    "어벤져스",
-    "가져온",
-    "#예능",
+    "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마",
+    "#영화",
     "#재미",
+    "가면",
     "#숏드라마",
-    "시어머니",
+    "명배우들이",
+    "미친",
+    "연기력",
     "애드립에",
     "애드립을"
   ],
   "channel_distribution": [
     {
-      "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
       "channel": "아이돌캐치",
       "count": 1
     },
     {
-      "channel": "RESCENE log 리센느 로그",
+      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "유머 좋아",
+      "channel": "예능한스푼",
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "훈작가의 숏드라마",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
       "count": 1
     }
   ],
