@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 한국, 놀란, 이유, 놀라운, #아기, #shorts",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 한국, 놀란, 이유, 놀라운, 그림",
   "top_videos_summary": [
     {
-      "views": 5440894,
+      "views": 5684980,
       "title": "고양이 배에서 할리갈리하기",
       "upload_year": "2026",
       "channel": "언더월드 UNDER WORLD",
       "duration": 48
     },
     {
-      "views": 4650895,
-      "title": "히말라야 산길에 출몰한다는 꼬마 산적들",
+      "views": 4705493,
+      "title": "New Slingshot Fishing Reel Set is ! Free for shipping on sale. homepage have store",
       "upload_year": "2026",
-      "channel": "도리뱅뱅",
-      "duration": 34
+      "channel": "Zhen Shen",
+      "duration": 13
     },
     {
-      "views": 3918810,
-      "title": "주짓수 줴줴이야",
-      "upload_year": "2026",
-      "channel": "빨리타",
-      "duration": 25
-    },
-    {
-      "views": 3762105,
+      "views": 4073796,
       "title": "산속에서 무려 8m를 점프한 선수",
       "upload_year": "2026",
       "channel": "쓱포츠",
       "duration": 12
     },
     {
-      "views": 3548453,
+      "views": 3986779,
+      "title": "주짓수 줴줴이야",
+      "upload_year": "2026",
+      "channel": "빨리타",
+      "duration": 25
+    },
+    {
+      "views": 3569795,
       "title": "K-화로대",
       "upload_year": "2026",
       "channel": "리뷰하는 회사원",
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
+    "#shorts",
     "한국",
     "놀란",
     "이유",
     "놀라운",
+    "그림",
     "#아기",
-    "#shorts",
     "강한",
     "비법",
-    "이렇게",
-    "계란",
+    "요즘",
     "아침",
+    "이렇게",
+    "요리",
     "고양이",
     "배에서",
     "할리갈리하기",
-    "히말라야",
-    "산길에",
-    "출몰한다는",
-    "꼬마",
-    "산적들",
-    "주짓수"
+    "New",
+    "Slingshot",
+    "Fishing",
+    "Reel"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,15 @@
       "count": 1
     },
     {
-      "channel": "도리뱅뱅",
-      "count": 1
-    },
-    {
-      "channel": "빨리타",
+      "channel": "Zhen Shen",
       "count": 1
     },
     {
       "channel": "쓱포츠",
+      "count": 1
+    },
+    {
+      "channel": "빨리타",
       "count": 1
     },
     {
@@ -95,11 +95,11 @@
       "count": 1
     },
     {
-      "channel": "자까다 Jaggada",
+      "channel": "생활탐험",
       "count": 1
     },
     {
-      "channel": "생활탐험",
+      "channel": "자까다 Jaggada",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "힐링24시",
+      "channel": "김밥실",
       "count": 1
     }
   ],
