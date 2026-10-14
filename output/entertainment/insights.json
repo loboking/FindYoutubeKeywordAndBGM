@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, #shorts, 실력, 보여주는, 방송",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, #shorts, 보여주는, 실력, 들은",
   "top_videos_summary": [
     {
-      "views": 12262603,
+      "views": 12562535,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 8749259,
-      "title": "까마득한 후배도 참지 못한 박지원의 튀김 실력 ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "나 잘한다해짜나",
-      "duration": 19
-    },
-    {
-      "views": 8598543,
-      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 21
-    },
-    {
-      "views": 7382880,
+      "views": 9157612,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 6702525,
+      "views": 9117414,
+      "title": "까마득한 후배도 참지 못한 박지원의 튀김 실력 ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "나 잘한다해짜나",
+      "duration": 19
+    },
+    {
+      "views": 8646724,
+      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "B하인드S토리",
+      "duration": 21
+    },
+    {
+      "views": 7111666,
       "title": "방송 도중 진심으로 빡쳐서 나가버린 여배우",
       "upload_year": "2026",
       "channel": "마그노",
@@ -51,27 +51,31 @@
     "이유",
     "레전드",
     "#shorts",
-    "실력",
     "보여주는",
-    "방송",
-    "말을",
+    "실력",
     "들은",
-    "생기는",
-    "역대급",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
+    "역대급",
     "TOP6",
+    "#예능",
     "마술로",
     "종결된",
     "‘한중일",
     "리액션",
-    "차이’"
+    "차이’",
+    "명배우들이",
+    "미친"
   ],
   "channel_distribution": [
     {
       "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "아이돌캐치",
       "count": 1
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "channel": "B하인드S토리",
-      "count": 1
-    },
-    {
-      "channel": "아이돌캐치",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "예능한스푼",
       "count": 1
     }
   ],
