@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, #shorts, 보여주는, 실력, 들은",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, #예능, 실력, 들은, #시니어드라마",
   "top_videos_summary": [
     {
-      "views": 12562535,
+      "views": 13023104,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 9157612,
+      "views": 10299012,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 9117414,
+      "views": 9307613,
       "title": "까마득한 후배도 참지 못한 박지원의 튀김 실력 ㅋㅋ",
       "upload_year": "2026",
       "channel": "나 잘한다해짜나",
       "duration": 19
     },
     {
-      "views": 8646724,
+      "views": 8803968,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 7111666,
+      "views": 8212304,
       "title": "방송 도중 진심으로 빡쳐서 나가버린 여배우",
       "upload_year": "2026",
       "channel": "마그노",
@@ -50,23 +50,23 @@
   "trend_keywords": [
     "이유",
     "레전드",
-    "#shorts",
-    "보여주는",
+    "#예능",
     "실력",
     "들은",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
-    "#반전드라마",
-    "역대급",
     "TOP6",
-    "#예능",
+    "역대급",
+    "#스케치코미디",
+    "#재미",
     "마술로",
     "종결된",
     "‘한중일",
     "리액션",
     "차이’",
     "명배우들이",
+    "보여주는",
     "미친"
   ],
   "channel_distribution": [
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "비하인드 아카이빙",
-      "count": 1
-    },
-    {
-      "channel": "냐옹관",
-      "count": 1
-    },
-    {
       "channel": "까르르이슈",
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "훈작가의 숏드라마",
+      "count": 1
+    },
+    {
+      "channel": "미남 천명 모으기",
+      "count": 1
+    },
+    {
+      "channel": "신나고",
       "count": 1
     }
   ],
