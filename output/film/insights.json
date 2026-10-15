@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #시니어드라마, #스케치코미디, #예능, 보여주는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #예능, 보여주는, #shorts, #시니어쇼츠",
   "top_videos_summary": [
     {
-      "views": 9159157,
+      "views": 10300777,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 8646811,
+      "views": 8804117,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 7172824,
-      "title": "남자 얼굴이 중요한 이유",
-      "upload_year": "2026",
-      "channel": "하루한픽",
-      "duration": 45
-    },
-    {
-      "views": 6056464,
+      "views": 6118584,
       "title": "2026 부산국제영화제 포토타임 생긴 이유",
       "upload_year": "2026",
       "channel": "비하인드 아카이빙",
       "duration": 38
     },
     {
-      "views": 5770905,
-      "title": "수상하게 한국인을 좋아하는 미국 경창",
+      "views": 5857436,
+      "title": "두 딸에게 간을 받고 또 술을 마신 아버지 #슬기로운의사생활",
       "upload_year": "2026",
-      "channel": "냐옹관",
-      "duration": 104
+      "channel": "까르르이슈",
+      "duration": 148
+    },
+    {
+      "views": 5167635,
+      "title": "재력이 남다르면 생기는 일ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "예능한스푼",
+      "duration": 59
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "생기는",
     "#시니어드라마",
-    "#스케치코미디",
     "#예능",
     "보여주는",
-    "정체",
     "#shorts",
     "#시니어쇼츠",
     "#시니어",
-    "#반전드라마",
     "#영화",
+    "#스케치코미디",
     "#재미",
-    "가면",
     "#숏드라마",
     "명배우들이",
     "미친",
     "연기력",
     "애드립에",
-    "애드립을"
+    "애드립을",
+    "더해",
+    "만들어진",
+    "명장면ㅋㅋ",
+    "2026"
   ],
   "channel_distribution": [
     {
@@ -79,23 +79,11 @@
       "count": 1
     },
     {
-      "channel": "하루한픽",
-      "count": 1
-    },
-    {
       "channel": "비하인드 아카이빙",
       "count": 1
     },
     {
-      "channel": "냐옹관",
-      "count": 1
-    },
-    {
       "channel": "까르르이슈",
-      "count": 1
-    },
-    {
-      "channel": "먹기전에",
       "count": 1
     },
     {
@@ -108,6 +96,18 @@
     },
     {
       "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "드라마저장",
+      "count": 1
+    },
+    {
+      "channel": "개뜬금개",
+      "count": 1
+    },
+    {
+      "channel": "명화관",
       "count": 1
     }
   ],
