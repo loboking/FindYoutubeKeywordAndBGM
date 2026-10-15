@@ -3,77 +3,73 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, #반전드라마, #스케치코미디, #시니어드라마, #예능",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #스케치코미디, #예능, 레전드, #시니어드라마",
   "top_videos_summary": [
     {
-      "views": 61884922,
-      "title": "A Beautiful Girl Offered Him a Ride… What a Twist! #funny #comedy #shorts #viral #laugher",
-      "upload_year": "2026",
-      "channel": "Jenny Cuttezz",
-      "duration": 26
-    },
-    {
-      "views": 12562831,
+      "views": 13023439,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 8646811,
+      "views": 8804117,
       "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
       "upload_year": "2026",
       "channel": "B하인드S토리",
       "duration": 21
     },
     {
-      "views": 7172824,
-      "title": "남자 얼굴이 중요한 이유",
-      "upload_year": "2026",
-      "channel": "하루한픽",
-      "duration": 45
-    },
-    {
-      "views": 6798155,
+      "views": 7046009,
       "title": "상대방의 말을 잘못 들은 순간 레전드 TOP7",
       "upload_year": "2026",
       "channel": "돼지감자",
       "duration": 51
+    },
+    {
+      "views": 5892360,
+      "title": "아내 없으면 불안해서 못 사는 남편 #도경완 #장윤정",
+      "upload_year": "2026",
+      "channel": "부부의 세계",
+      "duration": 58
+    },
+    {
+      "views": 5167635,
+      "title": "재력이 남다르면 생기는 일ㅋㅋ #shorts",
+      "upload_year": "2026",
+      "channel": "예능한스푼",
+      "duration": 59
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.3,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "이유",
-    "#반전드라마",
+    "#shorts",
     "#스케치코미디",
-    "#시니어드라마",
     "#예능",
-    "사장의",
     "레전드",
-    "아내",
+    "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
-    "KBS",
-    "방송",
-    "여성",
+    "#반전드라마",
     "#재미",
     "한명만",
+    "사장의",
     "식당",
-    "#funny",
-    "#comedy",
-    "#viral"
+    "마술로",
+    "종결된",
+    "‘한중일",
+    "리액션",
+    "차이’",
+    "애드립에",
+    "애드립을"
   ],
   "channel_distribution": [
-    {
-      "channel": "Jenny Cuttezz",
-      "count": 1
-    },
     {
       "channel": "패션탐정냥",
       "count": 1
@@ -83,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "하루한픽",
-      "count": 1
-    },
-    {
       "channel": "돼지감자",
-      "count": 1
-    },
-    {
-      "channel": "냐옹관",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "신나고",
+      "count": 1
+    },
+    {
       "channel": "한컷동물극장",
+      "count": 1
+    },
+    {
+      "channel": "디어랩 :Dear + Lab",
+      "count": 1
+    },
+    {
+      "channel": "개뜬금개",
       "count": 1
     }
   ],
