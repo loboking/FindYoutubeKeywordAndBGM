@@ -3,79 +3,75 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=41)에서 두드러진 소재/키워드: 아이폰, 애플, 근황, 방법, 모르는, 스마트폰",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 방법, LITE, 아이폰, 애플, 모르는, 꿀팁",
   "top_videos_summary": [
     {
-      "views": 2368197,
+      "views": 2621913,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 2210408,
-      "title": "특이한 제품을 출시했다는 삼성전자 근황",
-      "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 41
-    },
-    {
-      "views": 1843236,
+      "views": 2102347,
       "title": "휴대폰 배터리 없을 때 외출하는 방법",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 34
     },
     {
-      "views": 1825639,
+      "views": 1846353,
       "title": "대부분 모르는 멀티탭의 수명",
       "upload_year": "2026",
       "channel": "김블루",
       "duration": 32
     },
     {
-      "views": 1338898,
+      "views": 1785675,
       "title": "남의 배터리를 뺏어오는 어플인데 나도 뺏김",
       "upload_year": "2026",
       "channel": "지식줄고양",
       "duration": 31
+    },
+    {
+      "views": 1724940,
+      "title": "99%의 사람들이 모르는 티비 화면 고장 무료 셀프 수리 꿀팁!",
+      "upload_year": "2026",
+      "channel": "ChoiRakuLife",
+      "duration": 80
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "방법",
+    "LITE",
     "아이폰",
     "애플",
-    "근황",
-    "방법",
     "모르는",
+    "꿀팁",
+    "A2O",
     "스마트폰",
-    "#키보드",
     "컴퓨터",
+    "이렇게",
+    "정체",
     "삼성",
+    "근황",
     "휴대폰",
     "배터리",
     "배터리를",
     "사람들이",
-    "고장",
-    "꿀팁",
-    "삼성이",
+    "쓰면",
     "화면을",
-    "이렇게",
-    "만든",
-    "키보드"
+    "#키보드"
   ],
   "channel_distribution": [
     {
       "channel": "봐쓩",
-      "count": 1
-    },
-    {
-      "channel": "짧주",
       "count": 1
     },
     {
@@ -95,7 +91,11 @@
       "count": 1
     },
     {
-      "channel": "리꼬 Rico",
+      "channel": "M2",
+      "count": 1
+    },
+    {
+      "channel": "너는 꽃이야",
       "count": 1
     },
     {
