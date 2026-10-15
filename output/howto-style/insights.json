@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 한국, 놀란, 이유, 놀라운, 그림",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 고양이, 놀라운, 그림, 요즘, 먹방, #아기",
   "top_videos_summary": [
     {
-      "views": 5684980,
+      "views": 5834152,
       "title": "고양이 배에서 할리갈리하기",
       "upload_year": "2026",
       "channel": "언더월드 UNDER WORLD",
       "duration": 48
     },
     {
-      "views": 4705493,
-      "title": "New Slingshot Fishing Reel Set is ! Free for shipping on sale. homepage have store",
-      "upload_year": "2026",
-      "channel": "Zhen Shen",
-      "duration": 13
-    },
-    {
-      "views": 4073796,
+      "views": 4193395,
       "title": "산속에서 무려 8m를 점프한 선수",
       "upload_year": "2026",
       "channel": "쓱포츠",
       "duration": 12
     },
     {
-      "views": 3986779,
-      "title": "주짓수 줴줴이야",
+      "views": 2973860,
+      "title": "집에서 쉽게 만드는 아이들 최애 간식 우유튀김 레시피✨",
       "upload_year": "2026",
-      "channel": "빨리타",
-      "duration": 25
+      "channel": "생활탐험",
+      "duration": 74
     },
     {
-      "views": 3569795,
-      "title": "K-화로대",
+      "views": 2847968,
+      "title": "예술가들의 놀라운 그림 마무리 기법",
       "upload_year": "2026",
-      "channel": "리뷰하는 회사원",
-      "duration": 57
+      "channel": "지식창",
+      "duration": 74
+    },
+    {
+      "views": 2835555,
+      "title": "#한남동 분명히 배우상인데 금쪽이었ㄷ.. 사진찍어드리기 #스냅사진 #스냅촬영 #스냅 #사진 #사진가 #사진작가 #포토그래퍼 #스트릿포토 #캐논 #streetphotography",
+      "upload_year": "2026",
+      "channel": "자까다 Jaggada",
+      "duration": 179
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
-    "한국",
-    "놀란",
-    "이유",
+    "고양이",
     "놀라운",
     "그림",
+    "요즘",
+    "먹방",
     "#아기",
     "강한",
-    "비법",
-    "요즘",
+    "없는",
+    "이유",
+    "목공",
     "아침",
     "이렇게",
-    "요리",
-    "고양이",
+    "대파",
+    "필요",
     "배에서",
     "할리갈리하기",
-    "New",
-    "Slingshot",
-    "Fishing",
-    "Reel"
+    "산속에서",
+    "무려",
+    "8m를",
+    "점프한"
   ],
   "channel_distribution": [
     {
@@ -75,23 +75,7 @@
       "count": 1
     },
     {
-      "channel": "Zhen Shen",
-      "count": 1
-    },
-    {
       "channel": "쓱포츠",
-      "count": 1
-    },
-    {
-      "channel": "빨리타",
-      "count": 1
-    },
-    {
-      "channel": "리뷰하는 회사원",
-      "count": 1
-    },
-    {
-      "channel": "한국느낌",
       "count": 1
     },
     {
@@ -99,15 +83,31 @@
       "count": 1
     },
     {
-      "channel": "자까다 Jaggada",
-      "count": 1
-    },
-    {
       "channel": "지식창",
       "count": 1
     },
     {
+      "channel": "자까다 Jaggada",
+      "count": 1
+    },
+    {
+      "channel": "생활의반전",
+      "count": 1
+    },
+    {
+      "channel": "그래서리뷰",
+      "count": 1
+    },
+    {
+      "channel": "대환장",
+      "count": 1
+    },
+    {
       "channel": "김밥실",
+      "count": 1
+    },
+    {
+      "channel": "힐링24시",
       "count": 1
     }
   ],
