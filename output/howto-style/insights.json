@@ -3,42 +3,42 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 고양이, 놀라운, 그림, 요즘, 먹방, #아기",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 고양이, 놀라운, 그림, 먹방, #아기, 없는",
   "top_videos_summary": [
     {
-      "views": 5834152,
+      "views": 6039269,
       "title": "고양이 배에서 할리갈리하기",
       "upload_year": "2026",
       "channel": "언더월드 UNDER WORLD",
       "duration": 48
     },
     {
-      "views": 4193395,
+      "views": 4263611,
       "title": "산속에서 무려 8m를 점프한 선수",
       "upload_year": "2026",
       "channel": "쓱포츠",
       "duration": 12
     },
     {
-      "views": 2973860,
+      "views": 3955807,
+      "title": "요즘 인터넷에서 난리난 비주얼 폭발 \"등롱감자\" 만들기✨",
+      "upload_year": "2026",
+      "channel": "생활의반전",
+      "duration": 71
+    },
+    {
+      "views": 3425591,
+      "title": "이제 오토바이도 헤드업 디스플레이 가능함 ㄷㄷ",
+      "upload_year": "2026",
+      "channel": "그래서리뷰",
+      "duration": 37
+    },
+    {
+      "views": 3120157,
       "title": "집에서 쉽게 만드는 아이들 최애 간식 우유튀김 레시피✨",
       "upload_year": "2026",
       "channel": "생활탐험",
       "duration": 74
-    },
-    {
-      "views": 2847968,
-      "title": "예술가들의 놀라운 그림 마무리 기법",
-      "upload_year": "2026",
-      "channel": "지식창",
-      "duration": 74
-    },
-    {
-      "views": 2835555,
-      "title": "#한남동 분명히 배우상인데 금쪽이었ㄷ.. 사진찍어드리기 #스냅사진 #스냅촬영 #스냅 #사진 #사진가 #사진작가 #포토그래퍼 #스트릿포토 #캐논 #streetphotography",
-      "upload_year": "2026",
-      "channel": "자까다 Jaggada",
-      "duration": 179
     }
   ],
   "outlier_adjusted": {
@@ -51,23 +51,23 @@
     "고양이",
     "놀라운",
     "그림",
-    "요즘",
     "먹방",
     "#아기",
-    "강한",
     "없는",
     "이유",
-    "목공",
-    "아침",
-    "이렇게",
     "대파",
+    "이렇게",
     "필요",
     "배에서",
     "할리갈리하기",
     "산속에서",
     "무려",
     "8m를",
-    "점프한"
+    "점프한",
+    "선수",
+    "요즘",
+    "인터넷에서",
+    "난리난"
   ],
   "channel_distribution": [
     {
@@ -76,6 +76,14 @@
     },
     {
       "channel": "쓱포츠",
+      "count": 1
+    },
+    {
+      "channel": "생활의반전",
+      "count": 1
+    },
+    {
+      "channel": "그래서리뷰",
       "count": 1
     },
     {
@@ -91,23 +99,15 @@
       "count": 1
     },
     {
-      "channel": "생활의반전",
-      "count": 1
-    },
-    {
-      "channel": "그래서리뷰",
-      "count": 1
-    },
-    {
       "channel": "대환장",
       "count": 1
     },
     {
-      "channel": "김밥실",
+      "channel": "JPOP 나츠",
       "count": 1
     },
     {
-      "channel": "힐링24시",
+      "channel": "비둘기4호",
       "count": 1
     }
   ],
