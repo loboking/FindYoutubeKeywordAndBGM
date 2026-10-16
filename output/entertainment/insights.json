@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 레전드, #예능, 실력, 들은, #시니어드라마",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #시니어드라마, #예능, 방송, #시니어쇼츠, #시니어",
   "top_videos_summary": [
     {
-      "views": 13023104,
+      "views": 13490691,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 10299012,
+      "views": 11585561,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 9307613,
+      "views": 10891544,
+      "title": "싸우다 결국 일 낸 금쪽이 시바견 이 분 등장하자 상황 종료",
+      "upload_year": "2026",
+      "channel": "젤리냥 도젤리",
+      "duration": 32
+    },
+    {
+      "views": 9400533,
       "title": "까마득한 후배도 참지 못한 박지원의 튀김 실력 ㅋㅋ",
       "upload_year": "2026",
       "channel": "나 잘한다해짜나",
       "duration": 19
     },
     {
-      "views": 8803968,
-      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 21
-    },
-    {
-      "views": 8212304,
+      "views": 9294361,
       "title": "방송 도중 진심으로 빡쳐서 나가버린 여배우",
       "upload_year": "2026",
       "channel": "마그노",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "레전드",
-    "#예능",
-    "실력",
-    "들은",
     "#시니어드라마",
+    "#예능",
+    "방송",
     "#시니어쇼츠",
     "#시니어",
-    "TOP6",
-    "역대급",
+    "#반전드라마",
+    "아무도",
+    "되는",
+    "웃긴",
     "#스케치코미디",
     "#재미",
+    "순간",
+    "#숏드라마",
+    "방법",
     "마술로",
     "종결된",
     "‘한중일",
     "리액션",
-    "차이’",
-    "명배우들이",
-    "보여주는",
-    "미친"
+    "차이’"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "나 잘한다해짜나",
+      "channel": "젤리냥 도젤리",
       "count": 1
     },
     {
-      "channel": "B하인드S토리",
+      "channel": "나 잘한다해짜나",
       "count": 1
     },
     {
@@ -91,11 +91,15 @@
       "count": 1
     },
     {
-      "channel": "돼지감자",
+      "channel": "까르르이슈",
       "count": 1
     },
     {
-      "channel": "까르르이슈",
+      "channel": "명화관",
+      "count": 1
+    },
+    {
+      "channel": "무비나라",
       "count": 1
     },
     {
@@ -103,11 +107,7 @@
       "count": 1
     },
     {
-      "channel": "미남 천명 모으기",
-      "count": 1
-    },
-    {
-      "channel": "신나고",
+      "channel": "웃기숏",
       "count": 1
     }
   ],
