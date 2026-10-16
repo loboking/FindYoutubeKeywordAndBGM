@@ -3,47 +3,47 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #예능, 보여주는, #shorts, #시니어쇼츠",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #예능, #숏드라마, 하는, #시니어쇼츠",
   "top_videos_summary": [
     {
-      "views": 10300777,
+      "views": 11586737,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 8804117,
-      "title": "애드립에 애드립을 더해 만들어진 명장면ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "B하인드S토리",
-      "duration": 21
-    },
-    {
-      "views": 6118584,
+      "views": 6182764,
       "title": "2026 부산국제영화제 포토타임 생긴 이유",
       "upload_year": "2026",
       "channel": "비하인드 아카이빙",
       "duration": 38
     },
     {
-      "views": 5857436,
+      "views": 6020199,
       "title": "두 딸에게 간을 받고 또 술을 마신 아버지 #슬기로운의사생활",
       "upload_year": "2026",
       "channel": "까르르이슈",
       "duration": 148
     },
     {
-      "views": 5167635,
-      "title": "재력이 남다르면 생기는 일ㅋㅋ #shorts",
+      "views": 5412480,
+      "title": "정직하게 살아야 하는 이유",
       "upload_year": "2026",
-      "channel": "예능한스푼",
-      "duration": 59
+      "channel": "명화관",
+      "duration": 180
+    },
+    {
+      "views": 5232845,
+      "title": "배 곯던 고시생 정경호를 일타강사로 만들어준 따뜻한 집밥",
+      "upload_year": "2026",
+      "channel": "무비나라",
+      "duration": 41
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,31 +51,27 @@
     "이유",
     "#시니어드라마",
     "#예능",
-    "보여주는",
-    "#shorts",
+    "#숏드라마",
+    "하는",
     "#시니어쇼츠",
     "#시니어",
-    "#영화",
+    "#반전드라마",
+    "#드라마쇼츠",
     "#스케치코미디",
     "#재미",
-    "#숏드라마",
+    "진짜",
+    "생기는",
     "명배우들이",
+    "보여주는",
     "미친",
     "연기력",
-    "애드립에",
-    "애드립을",
-    "더해",
-    "만들어진",
-    "명장면ㅋㅋ",
-    "2026"
+    "2026",
+    "부산국제영화제",
+    "포토타임"
   ],
   "channel_distribution": [
     {
       "channel": "아이돌캐치",
-      "count": 1
-    },
-    {
-      "channel": "B하인드S토리",
       "count": 1
     },
     {
@@ -87,7 +83,11 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
+      "channel": "명화관",
+      "count": 1
+    },
+    {
+      "channel": "무비나라",
       "count": 1
     },
     {
@@ -95,19 +95,19 @@
       "count": 1
     },
     {
-      "channel": "패션탐정냥",
-      "count": 1
-    },
-    {
-      "channel": "드라마저장",
-      "count": 1
-    },
-    {
       "channel": "개뜬금개",
       "count": 1
     },
     {
-      "channel": "명화관",
+      "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "쇼숏",
+      "count": 1
+    },
+    {
+      "channel": "크크크",
       "count": 1
     }
   ],
