@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 방법, LITE, 아이폰, 애플, 모르는, 꿀팁",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: LITE, 방법, A2O, 휴대폰, 사람들이, 모르는",
   "top_videos_summary": [
     {
-      "views": 2621913,
+      "views": 2726170,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 2102347,
+      "views": 2623046,
+      "title": "A2O LITE 최종 병기 같다는 아이찡",
+      "upload_year": "2026",
+      "channel": "M2",
+      "duration": 47
+    },
+    {
+      "views": 2244214,
       "title": "휴대폰 배터리 없을 때 외출하는 방법",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 34
     },
     {
-      "views": 1846353,
-      "title": "대부분 모르는 멀티탭의 수명",
-      "upload_year": "2026",
-      "channel": "김블루",
-      "duration": 32
-    },
-    {
-      "views": 1785675,
+      "views": 2059294,
       "title": "남의 배터리를 뺏어오는 어플인데 나도 뺏김",
       "upload_year": "2026",
       "channel": "지식줄고양",
       "duration": 31
     },
     {
-      "views": 1724940,
+      "views": 2039338,
       "title": "99%의 사람들이 모르는 티비 화면 고장 무료 셀프 수리 꿀팁!",
       "upload_year": "2026",
       "channel": "ChoiRakuLife",
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "방법",
     "LITE",
-    "아이폰",
-    "애플",
+    "방법",
+    "A2O",
+    "휴대폰",
+    "사람들이",
     "모르는",
     "꿀팁",
-    "A2O",
-    "스마트폰",
-    "컴퓨터",
+    "아이폰",
     "이렇게",
-    "정체",
-    "삼성",
+    "A20",
+    "애플",
     "근황",
-    "휴대폰",
     "배터리",
     "배터리를",
-    "사람들이",
+    "스마트폰",
     "쓰면",
     "화면을",
-    "#키보드"
+    "컴퓨터",
+    "정체",
+    "네온"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "일분일초",
+      "channel": "M2",
       "count": 1
     },
     {
-      "channel": "김블루",
+      "channel": "일분일초",
       "count": 1
     },
     {
@@ -91,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "M2",
+      "channel": "김블루",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "투명한지식",
-      "count": 1
-    },
-    {
       "channel": "진자림 Jinjalim",
       "count": 1
     },
     {
-      "channel": "아아한잔",
+      "channel": "꿀팁노트",
+      "count": 1
+    },
+    {
+      "channel": "1분미만",
       "count": 1
     }
   ],
