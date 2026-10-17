@@ -3,7 +3,7 @@
   "slug": "comedy",
   "source": "mostpopular_category",
   "category_id": "23",
-  "shorts_found": 50,
+  "shorts_found": 49,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
@@ -11,7 +11,7 @@
     {
       "id": "ZAMx9_I08QQ",
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
-      "view_count": 13491434,
+      "view_count": 13799249,
       "duration": 18,
       "upload_date": "20261005",
       "category": "24",
@@ -20,20 +20,9 @@
       "url": "https://www.youtube.com/watch?v=ZAMx9_I08QQ"
     },
     {
-      "id": "RturcGOyJkk",
-      "title": "상대방의 말을 잘못 들은 순간 레전드 TOP7",
-      "view_count": 7335422,
-      "duration": 51,
-      "upload_date": "20261007",
-      "category": "22",
-      "channel": "돼지감자",
-      "source_channel": "돼지감자",
-      "url": "https://www.youtube.com/watch?v=RturcGOyJkk"
-    },
-    {
       "id": "FxvUQBaAvhc",
       "title": "정직하게 살아야 하는 이유",
-      "view_count": 5412480,
+      "view_count": 7696017,
       "duration": 180,
       "upload_date": "20261014",
       "category": "24",
@@ -42,9 +31,31 @@
       "url": "https://www.youtube.com/watch?v=FxvUQBaAvhc"
     },
     {
+      "id": "RturcGOyJkk",
+      "title": "상대방의 말을 잘못 들은 순간 레전드 TOP7",
+      "view_count": 7570619,
+      "duration": 51,
+      "upload_date": "20261007",
+      "category": "22",
+      "channel": "돼지감자",
+      "source_channel": "돼지감자",
+      "url": "https://www.youtube.com/watch?v=RturcGOyJkk"
+    },
+    {
+      "id": "h9j58UhGyEU",
+      "title": "무시에 대처하는 김영철식 영어법ㅋㅋㅋ",
+      "view_count": 6515830,
+      "duration": 79,
+      "upload_date": "20261015",
+      "category": "24",
+      "channel": "엠빅뉴스",
+      "source_channel": "엠빅뉴스",
+      "url": "https://www.youtube.com/watch?v=h9j58UhGyEU"
+    },
+    {
       "id": "_EuBTWA7ahY",
       "title": "결혼식 날 시어머니에게 며느리가 귓속말로 한 말 [새로운 버전] #시니어드라마 #시니어쇼츠 #시니어#시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
-      "view_count": 5202831,
+      "view_count": 5329088,
       "duration": 131,
       "upload_date": "20261009",
       "category": "1",
@@ -55,7 +66,7 @@
     {
       "id": "Ro6TV4XkjOk",
       "title": "진지한데 웃긴 스윙스 레전드 TOP6 ㅋㅋㅋ",
-      "view_count": 4790655,
+      "view_count": 5278598,
       "duration": 121,
       "upload_date": "20261011",
       "category": "23",
@@ -66,7 +77,7 @@
     {
       "id": "3CsyOng67gs",
       "title": "맑눈광 아니냐고요ㅋㅋ큐ㅠㅠ #김원효기존쎄 #라디오스타 #김원효 #김구라 #장도연 #유세윤 #후드썰 #shorts",
-      "view_count": 4743385,
+      "view_count": 4842727,
       "duration": 63,
       "upload_date": "20261008",
       "category": "24",
@@ -75,9 +86,20 @@
       "url": "https://www.youtube.com/watch?v=3CsyOng67gs"
     },
     {
+      "id": "0r4255k5B6A",
+      "title": "스타벅스에 꼭 있는 부르기 애매한 닉네임 #스케치코미디 #예능 #재미 #코믹숏무비 #숏박스 #김원훈 #조진세 #엄지윤 #코믹숏츠 #코믹숏드라마#스타벅스",
+      "view_count": 4742284,
+      "duration": 156,
+      "upload_date": "20261011",
+      "category": "10",
+      "channel": "크크크",
+      "source_channel": "크크크",
+      "url": "https://www.youtube.com/watch?v=0r4255k5B6A"
+    },
+    {
       "id": "kN7ZMcJvI8w",
       "title": "대치동 학원 앞자리 못 맡은 전교1등 대치맘의 최후",
-      "view_count": 4374070,
+      "view_count": 4473810,
       "duration": 41,
       "upload_date": "20261010",
       "category": "1",
@@ -88,7 +110,7 @@
     {
       "id": "p57El12VPgI",
       "title": "여성 2인조",
-      "view_count": 4198231,
+      "view_count": 4407481,
       "duration": 46,
       "upload_date": "20261010",
       "category": "24",
@@ -97,20 +119,9 @@
       "url": "https://www.youtube.com/watch?v=p57El12VPgI"
     },
     {
-      "id": "0r4255k5B6A",
-      "title": "스타벅스에 꼭 있는 부르기 애매한 닉네임 #스케치코미디 #예능 #재미 #코믹숏무비 #숏박스 #김원훈 #조진세 #엄지윤 #코믹숏츠 #코믹숏드라마#스타벅스",
-      "view_count": 4162624,
-      "duration": 156,
-      "upload_date": "20261011",
-      "category": "10",
-      "channel": "크크크",
-      "source_channel": "크크크",
-      "url": "https://www.youtube.com/watch?v=0r4255k5B6A"
-    },
-    {
       "id": "TO15gwMJM4I",
       "title": "천사 남친도 못 참는 한 가지",
-      "view_count": 3784470,
+      "view_count": 4363587,
       "duration": 27,
       "upload_date": "20261013",
       "category": "24",
@@ -119,53 +130,9 @@
       "url": "https://www.youtube.com/watch?v=TO15gwMJM4I"
     },
     {
-      "id": "7953XXbaSgU",
-      "title": "군만두는 서비스지",
-      "view_count": 3716260,
-      "duration": 106,
-      "upload_date": "20261009",
-      "category": "23",
-      "channel": "엄은향",
-      "source_channel": "엄은향",
-      "url": "https://www.youtube.com/watch?v=7953XXbaSgU"
-    },
-    {
-      "id": "p_lHMH4Xxs4",
-      "title": "회사에서 어떻게 하실지 딱 알겠음ㄷㄷ",
-      "view_count": 3266767,
-      "duration": 19,
-      "upload_date": "20261008",
-      "category": "22",
-      "channel": "원탱",
-      "source_channel": "원탱",
-      "url": "https://www.youtube.com/watch?v=p_lHMH4Xxs4"
-    },
-    {
-      "id": "h9j58UhGyEU",
-      "title": "무시에 대처하는 김영철식 영어법ㅋㅋㅋ",
-      "view_count": 3196927,
-      "duration": 79,
-      "upload_date": "20261015",
-      "category": "24",
-      "channel": "엠빅뉴스",
-      "source_channel": "엠빅뉴스",
-      "url": "https://www.youtube.com/watch?v=h9j58UhGyEU"
-    },
-    {
-      "id": "6tq_jyjP12M",
-      "title": "탁재훈 인터뷰하다 모두 빵 터진 이유 ㅋㅋ #탁재훈 #예능레전드 #예능 #유머",
-      "view_count": 3179152,
-      "duration": 65,
-      "upload_date": "20261010",
-      "category": "24",
-      "channel": "드라마보는 남자",
-      "source_channel": "드라마보는 남자",
-      "url": "https://www.youtube.com/watch?v=6tq_jyjP12M"
-    },
-    {
       "id": "f9YvbEgNpOg",
       "title": "강호동 당황시킨 일반인의 예능감",
-      "view_count": 2951757,
+      "view_count": 3652600,
       "duration": 30,
       "upload_date": "20261013",
       "category": "24",
@@ -174,53 +141,20 @@
       "url": "https://www.youtube.com/watch?v=f9YvbEgNpOg"
     },
     {
-      "id": "wByq9Fv69io",
-      "title": "둘이 데이트하면 누가 더 웃길지 너무 궁금함",
-      "view_count": 2686404,
-      "duration": 15,
-      "upload_date": "20261011",
-      "category": "22",
-      "channel": "미녀 천명 모으기",
-      "source_channel": "미녀 천명 모으기",
-      "url": "https://www.youtube.com/watch?v=wByq9Fv69io"
-    },
-    {
-      "id": "5n9stH25puw",
-      "title": "말 안 듣는 남동생 다루는 완벽한 기술",
-      "view_count": 2649690,
-      "duration": 17,
+      "id": "6tq_jyjP12M",
+      "title": "탁재훈 인터뷰하다 모두 빵 터진 이유 ㅋㅋ #탁재훈 #예능레전드 #예능 #유머",
+      "view_count": 3589517,
+      "duration": 65,
       "upload_date": "20261010",
       "category": "24",
-      "channel": "웃긴형아",
-      "source_channel": "웃긴형아",
-      "url": "https://www.youtube.com/watch?v=5n9stH25puw"
-    },
-    {
-      "id": "BsXpmWpsdgY",
-      "title": "이별도 일단 먹으면서",
-      "view_count": 2607789,
-      "duration": 98,
-      "upload_date": "20261013",
-      "category": "22",
-      "channel": "케슛슛",
-      "source_channel": "케슛슛",
-      "url": "https://www.youtube.com/watch?v=BsXpmWpsdgY"
-    },
-    {
-      "id": "GLVTeyxCp5g",
-      "title": "키가 작은 이수근이 점프볼 이기는 방법ㅋㅋㅋ #shorts #아는형님",
-      "view_count": 2594164,
-      "duration": 34,
-      "upload_date": "20261011",
-      "category": "22",
-      "channel": "1분예능모음zip",
-      "source_channel": "1분예능모음zip",
-      "url": "https://www.youtube.com/watch?v=GLVTeyxCp5g"
+      "channel": "드라마보는 남자",
+      "source_channel": "드라마보는 남자",
+      "url": "https://www.youtube.com/watch?v=6tq_jyjP12M"
     },
     {
       "id": "m6c2JIHABPY",
       "title": "전지전능한 힘을 얻게된 남자",
-      "view_count": 2303398,
+      "view_count": 3139265,
       "duration": 153,
       "upload_date": "20261012",
       "category": "22",
@@ -229,20 +163,42 @@
       "url": "https://www.youtube.com/watch?v=m6c2JIHABPY"
     },
     {
-      "id": "v9Xu-VDi1DU",
-      "title": "미스터비스트가 반한 제품?!",
-      "view_count": 2296665,
-      "duration": 69,
-      "upload_date": "20261014",
-      "category": "24",
-      "channel": "해외쇼쇼",
-      "source_channel": "해외쇼쇼",
-      "url": "https://www.youtube.com/watch?v=v9Xu-VDi1DU"
+      "id": "wByq9Fv69io",
+      "title": "둘이 데이트하면 누가 더 웃길지 너무 궁금함",
+      "view_count": 2917620,
+      "duration": 15,
+      "upload_date": "20261011",
+      "category": "22",
+      "channel": "미녀 천명 모으기",
+      "source_channel": "미녀 천명 모으기",
+      "url": "https://www.youtube.com/watch?v=wByq9Fv69io"
+    },
+    {
+      "id": "GLVTeyxCp5g",
+      "title": "키가 작은 이수근이 점프볼 이기는 방법ㅋㅋㅋ #shorts #아는형님",
+      "view_count": 2902883,
+      "duration": 34,
+      "upload_date": "20261011",
+      "category": "22",
+      "channel": "1분예능모음zip",
+      "source_channel": "1분예능모음zip",
+      "url": "https://www.youtube.com/watch?v=GLVTeyxCp5g"
+    },
+    {
+      "id": "zeDQA4WVdDk",
+      "title": "할머니를 복도로 내쫓은 VIP 엄마… 잠시 후 밝혀진 정체 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+      "view_count": 2759616,
+      "duration": 97,
+      "upload_date": "20261011",
+      "category": "22",
+      "channel": "박작가의숏드라마",
+      "source_channel": "박작가의숏드라마",
+      "url": "https://www.youtube.com/watch?v=zeDQA4WVdDk"
     },
     {
       "id": "5rXau0gpJKU",
       "title": "무대 난입한 황제성",
-      "view_count": 2279552,
+      "view_count": 2651096,
       "duration": 26,
       "upload_date": "20261011",
       "category": "10",
@@ -251,42 +207,9 @@
       "url": "https://www.youtube.com/watch?v=5rXau0gpJKU"
     },
     {
-      "id": "d5ZP0gu296o",
-      "title": "《1분 그날의 이야기》 작업복 입고 한우집에 갔더니… 사장의 한마디 #반전드라마 #1분그날의이야기",
-      "view_count": 2064494,
-      "duration": 106,
-      "upload_date": "20261009",
-      "category": "22",
-      "channel": "1분그날의 이야기",
-      "source_channel": "1분그날의 이야기",
-      "url": "https://www.youtube.com/watch?v=d5ZP0gu296o"
-    },
-    {
-      "id": "fRCKM34g9Bc",
-      "title": "치킨은 순살이라는 교수님의 논리",
-      "view_count": 1874521,
-      "duration": 44,
-      "upload_date": "20261015",
-      "category": "22",
-      "channel": "픽더스토리",
-      "source_channel": "픽더스토리",
-      "url": "https://www.youtube.com/watch?v=fRCKM34g9Bc"
-    },
-    {
-      "id": "3qMzPHaqVKY",
-      "title": "니모 가만두지 않는대 #무도 #박명수 #정준하",
-      "view_count": 1839230,
-      "duration": 59,
-      "upload_date": "20261013",
-      "category": "22",
-      "channel": "무한도전 쇼츠",
-      "source_channel": "무한도전 쇼츠",
-      "url": "https://www.youtube.com/watch?v=3qMzPHaqVKY"
-    },
-    {
       "id": "Hm4BBSqaaNc",
       "title": "김지영 근력에 진짜 놀라 애드립으로 말한 조정석ㅋㅋ",
-      "view_count": 1808046,
+      "view_count": 2455509,
       "duration": 30,
       "upload_date": "20261013",
       "category": "22",
@@ -295,9 +218,31 @@
       "url": "https://www.youtube.com/watch?v=Hm4BBSqaaNc"
     },
     {
+      "id": "HB4uXTnAZXE",
+      "title": "신동엽 빙의해버린 김원훈의 미친 성대모사",
+      "view_count": 2181962,
+      "duration": 44,
+      "upload_date": "20261016",
+      "category": "24",
+      "channel": "뜨비",
+      "source_channel": "뜨비",
+      "url": "https://www.youtube.com/watch?v=HB4uXTnAZXE"
+    },
+    {
+      "id": "OnMz4eonBSA",
+      "title": "얼굴 한 번 못 보는 친구 특;",
+      "view_count": 2105857,
+      "duration": 68,
+      "upload_date": "20261016",
+      "category": "22",
+      "channel": "케슛슛",
+      "source_channel": "케슛슛",
+      "url": "https://www.youtube.com/watch?v=OnMz4eonBSA"
+    },
+    {
       "id": "MJDddhRNooI",
       "title": "얼마나 맛집일지 감도 안옴 #스케치코미디 #숏드라마  #예능#재미",
-      "view_count": 1799998,
+      "view_count": 2089411,
       "duration": 77,
       "upload_date": "20261013",
       "category": "24",
@@ -306,53 +251,31 @@
       "url": "https://www.youtube.com/watch?v=MJDddhRNooI"
     },
     {
-      "id": "a0T_RNTSj3U",
-      "title": "1호선 등산복 코어 홍성 대표 김기천 등판ㄷㄷ #로또1등도출근합니다",
-      "view_count": 1639142,
-      "duration": 61,
-      "upload_date": "20261013",
-      "category": "20",
-      "channel": "디글 클래식 :Diggle Classic",
-      "source_channel": "디글 클래식 :Diggle Classic",
-      "url": "https://www.youtube.com/watch?v=a0T_RNTSj3U"
-    },
-    {
-      "id": "6LUhozO7Czc",
-      "title": "재력이 압도적이면 생기는 일ㅋㅋ #shorts",
-      "view_count": 1629712,
-      "duration": 55,
-      "upload_date": "20261012",
+      "id": "YVBql8gjaUg",
+      "title": "미스터비스트가 샤크탱크 나오면 안되는 이유",
+      "view_count": 2046530,
+      "duration": 62,
+      "upload_date": "20261016",
       "category": "24",
-      "channel": "예능한스푼",
-      "source_channel": "예능한스푼",
-      "url": "https://www.youtube.com/watch?v=6LUhozO7Czc"
+      "channel": "해외쇼쇼",
+      "source_channel": "해외쇼쇼",
+      "url": "https://www.youtube.com/watch?v=YVBql8gjaUg"
     },
     {
-      "id": "wag1SsJUfnE",
-      "title": "회장님 앞에서 상습 무례한 김원훈",
-      "view_count": 1559483,
-      "duration": 63,
-      "upload_date": "20261012",
-      "category": "24",
-      "channel": "뜨비",
-      "source_channel": "뜨비",
-      "url": "https://www.youtube.com/watch?v=wag1SsJUfnE"
-    },
-    {
-      "id": "FNp02udWK9M",
-      "title": "굳이 인생 힘들게 사는 마동석 동생",
-      "view_count": 1551115,
-      "duration": 29,
-      "upload_date": "20261013",
+      "id": "fRCKM34g9Bc",
+      "title": "치킨은 순살이라는 교수님의 논리",
+      "view_count": 2041117,
+      "duration": 44,
+      "upload_date": "20261015",
       "category": "22",
-      "channel": "B하인드S토리",
-      "source_channel": "B하인드S토리",
-      "url": "https://www.youtube.com/watch?v=FNp02udWK9M"
+      "channel": "픽더스토리",
+      "source_channel": "픽더스토리",
+      "url": "https://www.youtube.com/watch?v=fRCKM34g9Bc"
     },
     {
       "id": "tgmPWFbX5DY",
       "title": "영화배우의 몰입력",
-      "view_count": 1496680,
+      "view_count": 2040382,
       "duration": 54,
       "upload_date": "20261015",
       "category": "1",
@@ -361,53 +284,20 @@
       "url": "https://www.youtube.com/watch?v=tgmPWFbX5DY"
     },
     {
-      "id": "YuIwJICrIrk",
-      "title": "“평생 남의 밥이나 나르죠” 무시한 손님… 다음 날 예비 사돈으로 만났다",
-      "view_count": 1483698,
-      "duration": 89,
-      "upload_date": "20261014",
-      "category": "24",
-      "channel": "막장두스푼",
-      "source_channel": "막장두스푼",
-      "url": "https://www.youtube.com/watch?v=YuIwJICrIrk"
-    },
-    {
-      "id": "m6mMbv4vt9I",
-      "title": "지갑을 두고 이뤄진 손님과 식당 사장의 신경전",
-      "view_count": 1449253,
-      "duration": 151,
-      "upload_date": "20261014",
-      "category": "1",
-      "channel": "재훍 영상툰",
-      "source_channel": "재훍 영상툰",
-      "url": "https://www.youtube.com/watch?v=m6mMbv4vt9I"
-    },
-    {
-      "id": "BFAOObCSU-s",
-      "title": "엄마 장윤정과 달리 아빠 도경완에게만 한마디도 안지는 하영이",
-      "view_count": 1431298,
-      "duration": 33,
-      "upload_date": "20261014",
-      "category": "22",
-      "channel": "허허허",
-      "source_channel": "허허허",
-      "url": "https://www.youtube.com/watch?v=BFAOObCSU-s"
-    },
-    {
-      "id": "PJepLfJ5HGc",
-      "title": "식당 사장이 서비스를 안 주는 이유",
-      "view_count": 1302307,
-      "duration": 32,
+      "id": "3qMzPHaqVKY",
+      "title": "니모 가만두지 않는대 #무도 #박명수 #정준하",
+      "view_count": 1971914,
+      "duration": 59,
       "upload_date": "20261013",
       "category": "22",
-      "channel": "유머 좋아",
-      "source_channel": "유머 좋아",
-      "url": "https://www.youtube.com/watch?v=PJepLfJ5HGc"
+      "channel": "무한도전 쇼츠",
+      "source_channel": "무한도전 쇼츠",
+      "url": "https://www.youtube.com/watch?v=3qMzPHaqVKY"
     },
     {
       "id": "A_bmGyRZGHU",
       "title": "치킨집 사장님이 알바생에게 두 손 든 이유",
-      "view_count": 1243751,
+      "view_count": 1938789,
       "duration": 30,
       "upload_date": "20261014",
       "category": "26",
@@ -416,108 +306,9 @@
       "url": "https://www.youtube.com/watch?v=A_bmGyRZGHU"
     },
     {
-      "id": "6pRclcHfOcA",
-      "title": "세상 사람들 모두가 나를 싫어하면 생기는 일",
-      "view_count": 1242156,
-      "duration": 175,
-      "upload_date": "20261015",
-      "category": "1",
-      "channel": "눈물한가득",
-      "source_channel": "눈물한가득",
-      "url": "https://www.youtube.com/watch?v=6pRclcHfOcA"
-    },
-    {
-      "id": "pSLCa8lusLE",
-      "title": "당신은 늙어 보이네요",
-      "view_count": 1239577,
-      "duration": 34,
-      "upload_date": "20261014",
-      "category": "22",
-      "channel": "악성 내성인 정일영",
-      "source_channel": "악성 내성인 정일영",
-      "url": "https://www.youtube.com/watch?v=pSLCa8lusLE"
-    },
-    {
-      "id": "42HkL-Y0Ch4",
-      "title": "마지막 한 가닥에 욕심부린 발디의 최후 👨‍🦲",
-      "view_count": 1051693,
-      "duration": 26,
-      "upload_date": "20261015",
-      "category": "22",
-      "channel": "י",
-      "source_channel": "י",
-      "url": "https://www.youtube.com/watch?v=42HkL-Y0Ch4"
-    },
-    {
-      "id": "tpnZoDWi2Mo",
-      "title": "슈퍼맨의 정체를 확인하는 방법",
-      "view_count": 1007320,
-      "duration": 72,
-      "upload_date": "20261015",
-      "category": "1",
-      "channel": "진주관",
-      "source_channel": "진주관",
-      "url": "https://www.youtube.com/watch?v=tpnZoDWi2Mo"
-    },
-    {
-      "id": "9qVydpUabok",
-      "title": "가짜 양주로 사기 치면 벌어지는 일",
-      "view_count": 1000931,
-      "duration": 45,
-      "upload_date": "20261014",
-      "category": "1",
-      "channel": "레전드씬",
-      "source_channel": "레전드씬",
-      "url": "https://www.youtube.com/watch?v=9qVydpUabok"
-    },
-    {
-      "id": "KTX7MD4P6Xk",
-      "title": "쯔양 놀리는 데 진심인 이선민",
-      "view_count": 978987,
-      "duration": 19,
-      "upload_date": "20261014",
-      "category": "24",
-      "channel": "아이돌캐치",
-      "source_channel": "아이돌캐치",
-      "url": "https://www.youtube.com/watch?v=KTX7MD4P6Xk"
-    },
-    {
-      "id": "juSe5Zpl1-c",
-      "title": "닮은꼴 말하기? 방청객의 미친 순발력 ㅋㅋㅋ | 개그콘서트 Gagconcert | KBS 방송",
-      "view_count": 928296,
-      "duration": 38,
-      "upload_date": "20261015",
-      "category": "24",
-      "channel": " 개그콘서트",
-      "source_channel": " 개그콘서트",
-      "url": "https://www.youtube.com/watch?v=juSe5Zpl1-c"
-    },
-    {
-      "id": "I9Pu5-I5XOY",
-      "title": "친구 잘 사귀는 아이들이 먼저 하는 것 #김경일 #심리학",
-      "view_count": 893856,
-      "duration": 43,
-      "upload_date": "20261014",
-      "category": "24",
-      "channel": "잼예",
-      "source_channel": "잼예",
-      "url": "https://www.youtube.com/watch?v=I9Pu5-I5XOY"
-    },
-    {
-      "id": "zzZYvTt5ClI",
-      "title": "크루즈 여행 같이 갈 '끝사랑' 어디 없나? #말자쇼 | KBS 261012 방송",
-      "view_count": 822679,
-      "duration": 116,
-      "upload_date": "20261015",
-      "category": "24",
-      "channel": "KBS 한국방송",
-      "source_channel": "KBS 한국방송",
-      "url": "https://www.youtube.com/watch?v=zzZYvTt5ClI"
-    },
-    {
       "id": "O3uKaST2fh8",
       "title": "동생을 이렇게 써먹나 #찬혁 #악뮤 #이찬혁 #이수현 #수현 #악동뮤지션",
-      "view_count": 803299,
+      "view_count": 1788508,
       "duration": 20,
       "upload_date": "20261015",
       "category": "22",
@@ -528,7 +319,7 @@
     {
       "id": "jTyj5nTSG1U",
       "title": "시험을 모르는 아기 vs 내일 시험인 형들",
-      "view_count": 676443,
+      "view_count": 1759323,
       "duration": 15,
       "upload_date": "20261016",
       "category": "22",
@@ -537,9 +328,152 @@
       "url": "https://www.youtube.com/watch?v=jTyj5nTSG1U"
     },
     {
+      "id": "94bxM-mFkZQ",
+      "title": "누구나 처음부터 잘하는 사람은 없다",
+      "view_count": 1737622,
+      "duration": 162,
+      "upload_date": "20261017",
+      "category": "1",
+      "channel": "눈물한가득",
+      "source_channel": "눈물한가득",
+      "url": "https://www.youtube.com/watch?v=94bxM-mFkZQ"
+    },
+    {
+      "id": "YuIwJICrIrk",
+      "title": "“평생 남의 밥이나 나르죠” 무시한 손님… 다음 날 예비 사돈으로 만났다",
+      "view_count": 1718932,
+      "duration": 89,
+      "upload_date": "20261014",
+      "category": "24",
+      "channel": "막장두스푼",
+      "source_channel": "막장두스푼",
+      "url": "https://www.youtube.com/watch?v=YuIwJICrIrk"
+    },
+    {
+      "id": "FNp02udWK9M",
+      "title": "굳이 인생 힘들게 사는 마동석 동생",
+      "view_count": 1688453,
+      "duration": 29,
+      "upload_date": "20261013",
+      "category": "22",
+      "channel": "B하인드S토리",
+      "source_channel": "B하인드S토리",
+      "url": "https://www.youtube.com/watch?v=FNp02udWK9M"
+    },
+    {
+      "id": "a0T_RNTSj3U",
+      "title": "1호선 등산복 코어 홍성 대표 김기천 등판ㄷㄷ #로또1등도출근합니다",
+      "view_count": 1687230,
+      "duration": 61,
+      "upload_date": "20261013",
+      "category": "20",
+      "channel": "디글 클래식 :Diggle Classic",
+      "source_channel": "디글 클래식 :Diggle Classic",
+      "url": "https://www.youtube.com/watch?v=a0T_RNTSj3U"
+    },
+    {
+      "id": "tpnZoDWi2Mo",
+      "title": "슈퍼맨의 정체를 확인하는 방법",
+      "view_count": 1672862,
+      "duration": 72,
+      "upload_date": "20261015",
+      "category": "1",
+      "channel": "진주관",
+      "source_channel": "진주관",
+      "url": "https://www.youtube.com/watch?v=tpnZoDWi2Mo"
+    },
+    {
+      "id": "m6mMbv4vt9I",
+      "title": "지갑을 두고 이뤄진 손님과 식당 사장의 신경전",
+      "view_count": 1525799,
+      "duration": 151,
+      "upload_date": "20261014",
+      "category": "1",
+      "channel": "재훍 영상툰",
+      "source_channel": "재훍 영상툰",
+      "url": "https://www.youtube.com/watch?v=m6mMbv4vt9I"
+    },
+    {
+      "id": "kOn5nL9ZGe8",
+      "title": "한입을 먹어도 평범하지 않은 부부 #장윤정 #도경완",
+      "view_count": 1484664,
+      "duration": 44,
+      "upload_date": "20261016",
+      "category": "22",
+      "channel": "부부의 세계",
+      "source_channel": "부부의 세계",
+      "url": "https://www.youtube.com/watch?v=kOn5nL9ZGe8"
+    },
+    {
+      "id": "VjF2WKK3ayg",
+      "title": "프로급 경매사는 불ㅂ경매도 진행할까",
+      "view_count": 1461279,
+      "duration": 55,
+      "upload_date": "20261013",
+      "category": "23",
+      "channel": "모르면개손해",
+      "source_channel": "모르면개손해",
+      "url": "https://www.youtube.com/watch?v=VjF2WKK3ayg"
+    },
+    {
+      "id": "TlHGLP3Bqx0",
+      "title": "태교는 아무 소용 없다는걸 하영이를 보고 느꼈다는 장윤정 도경완 부부",
+      "view_count": 1381959,
+      "duration": 37,
+      "upload_date": "20261016",
+      "category": "22",
+      "channel": "허허허",
+      "source_channel": "허허허",
+      "url": "https://www.youtube.com/watch?v=TlHGLP3Bqx0"
+    },
+    {
+      "id": "KTX7MD4P6Xk",
+      "title": "쯔양 놀리는 데 진심인 이선민",
+      "view_count": 1372228,
+      "duration": 19,
+      "upload_date": "20261014",
+      "category": "24",
+      "channel": "아이돌캐치",
+      "source_channel": "아이돌캐치",
+      "url": "https://www.youtube.com/watch?v=KTX7MD4P6Xk"
+    },
+    {
+      "id": "42HkL-Y0Ch4",
+      "title": "마지막 한 가닥에 욕심부린 발디의 최후 👨‍🦲",
+      "view_count": 1332686,
+      "duration": 26,
+      "upload_date": "20261015",
+      "category": "22",
+      "channel": "י",
+      "source_channel": "י",
+      "url": "https://www.youtube.com/watch?v=42HkL-Y0Ch4"
+    },
+    {
+      "id": "zzZYvTt5ClI",
+      "title": "크루즈 여행 같이 갈 '끝사랑' 어디 없나? #말자쇼 | KBS 261012 방송",
+      "view_count": 1211921,
+      "duration": 116,
+      "upload_date": "20261015",
+      "category": "24",
+      "channel": "KBS 한국방송",
+      "source_channel": "KBS 한국방송",
+      "url": "https://www.youtube.com/watch?v=zzZYvTt5ClI"
+    },
+    {
+      "id": "9qVydpUabok",
+      "title": "가짜 양주로 사기 치면 벌어지는 일",
+      "view_count": 1177276,
+      "duration": 45,
+      "upload_date": "20261014",
+      "category": "1",
+      "channel": "레전드씬",
+      "source_channel": "레전드씬",
+      "url": "https://www.youtube.com/watch?v=9qVydpUabok"
+    },
+    {
       "id": "GWPiICmdNX0",
       "title": "“보증금 천만 원 내세요” 노인을 쫓던 직원, 이사장의 “형님”에 굳었다  #심콩드라마 #숏드라마 #감동드라마 #시니어드라마 #반전드라마",
-      "view_count": 622120,
+      "view_count": 1157189,
       "duration": 180,
       "upload_date": "20261016",
       "category": "1",
@@ -548,15 +482,70 @@
       "url": "https://www.youtube.com/watch?v=GWPiICmdNX0"
     },
     {
-      "id": "UmjcgvFiucU",
-      "title": "농작물 뺏어가는 시골 텃세",
-      "view_count": 554509,
-      "duration": 172,
+      "id": "I9Pu5-I5XOY",
+      "title": "친구 잘 사귀는 아이들이 먼저 하는 것 #김경일 #심리학",
+      "view_count": 1105057,
+      "duration": 43,
+      "upload_date": "20261014",
+      "category": "24",
+      "channel": "잼예",
+      "source_channel": "잼예",
+      "url": "https://www.youtube.com/watch?v=I9Pu5-I5XOY"
+    },
+    {
+      "id": "juSe5Zpl1-c",
+      "title": "닮은꼴 말하기? 방청객의 미친 순발력 ㅋㅋㅋ | 개그콘서트 Gagconcert | KBS 방송",
+      "view_count": 1019700,
+      "duration": 38,
       "upload_date": "20261015",
+      "category": "24",
+      "channel": " 개그콘서트",
+      "source_channel": " 개그콘서트",
+      "url": "https://www.youtube.com/watch?v=juSe5Zpl1-c"
+    },
+    {
+      "id": "Yp3wwpJeW-U",
+      "title": "돈 갚으랬더니 물뿌리는 친구",
+      "view_count": 906431,
+      "duration": 176,
+      "upload_date": "20261016",
       "category": "24",
       "channel": "참교육TV",
       "source_channel": "참교육TV",
-      "url": "https://www.youtube.com/watch?v=UmjcgvFiucU"
+      "url": "https://www.youtube.com/watch?v=Yp3wwpJeW-U"
+    },
+    {
+      "id": "Nk-6qV_J-Wg",
+      "title": "들고있네? 화이팅! | 직장인들 시즌3",
+      "view_count": 815855,
+      "duration": 47,
+      "upload_date": "20261017",
+      "category": "24",
+      "channel": "옥상평상",
+      "source_channel": "옥상평상",
+      "url": "https://www.youtube.com/watch?v=Nk-6qV_J-Wg"
+    },
+    {
+      "id": "98bEqOugY_M",
+      "title": "빵 도둑 취급받은 할아버지의 정체",
+      "view_count": 739059,
+      "duration": 129,
+      "upload_date": "20261016",
+      "category": "22",
+      "channel": "일일막장",
+      "source_channel": "일일막장",
+      "url": "https://www.youtube.com/watch?v=98bEqOugY_M"
+    },
+    {
+      "id": "0tCGgycDHOY",
+      "title": "신입이 어디 경로당 쌀 포대에 손을 대! 이사 온 할머니를 내쫓던 회장님… 쌀 배달 온 사장님이 무심코 한 말",
+      "view_count": 501995,
+      "duration": 171,
+      "upload_date": "20261017",
+      "category": "1",
+      "channel": "인생극장1",
+      "source_channel": "인생극장1",
+      "url": "https://www.youtube.com/watch?v=0tCGgycDHOY"
     }
   ]
 }
