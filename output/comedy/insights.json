@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #시니어드라마, #시니어쇼츠, #시니어, #반전드라마, #예능",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #시니어쇼츠, #시니어, #반전드라마, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 13799249,
+      "views": 14274037,
       "title": "마술로 종결된 ‘한중일 리액션 차이’",
       "upload_year": "2026",
       "channel": "패션탐정냥",
       "duration": 18
     },
     {
-      "views": 7696017,
-      "title": "정직하게 살아야 하는 이유",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 180
-    },
-    {
-      "views": 7570619,
-      "title": "상대방의 말을 잘못 들은 순간 레전드 TOP7",
-      "upload_year": "2026",
-      "channel": "돼지감자",
-      "duration": 51
-    },
-    {
-      "views": 6515830,
+      "views": 9218362,
       "title": "무시에 대처하는 김영철식 영어법ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 79
     },
     {
-      "views": 5329088,
+      "views": 9105152,
+      "title": "정직하게 살아야 하는 이유",
+      "upload_year": "2026",
+      "channel": "명화관",
+      "duration": 180
+    },
+    {
+      "views": 5548690,
+      "title": "진지한데 웃긴 스윙스 레전드 TOP6 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "개뜬금개",
+      "duration": 121
+    },
+    {
+      "views": 5467824,
       "title": "결혼식 날 시어머니에게 며느리가 귓속말로 한 말 [새로운 버전] #시니어드라마 #시니어쇼츠 #시니어#시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
       "upload_year": "2026",
       "channel": "훈작가의 숏드라마",
@@ -53,21 +53,21 @@
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
-    "#예능",
-    "친구",
-    "하는",
-    "레전드",
-    "#shorts",
     "#스케치코미디",
+    "레전드",
+    "#예능",
+    "너무",
+    "결혼식",
     "#재미",
-    "최후",
-    "할머니를",
+    "친구",
+    "안되는",
+    "#shorts",
+    "#아는형님",
     "정체",
-    "#숏드라마",
-    "사장님이",
     "부부",
-    "어디",
-    "KBS"
+    "내일",
+    "#숏드라마",
+    "#유머"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,11 @@
       "count": 1
     },
     {
-      "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "돼지감자",
-      "count": 1
-    },
-    {
       "channel": "엠빅뉴스",
       "count": 1
     },
     {
-      "channel": "훈작가의 숏드라마",
+      "channel": "명화관",
       "count": 1
     },
     {
@@ -95,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "신나고",
+      "channel": "훈작가의 숏드라마",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "무비나라",
+      "channel": "먹기전에",
       "count": 1
     },
     {
-      "channel": "침착맨",
+      "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "눈물한가득",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     }
   ],
