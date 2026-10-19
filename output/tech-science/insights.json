@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: LITE, A2O, 방법, A20, 휴대폰, 스마트폰",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: LITE, A2O, 방법, A20, lite, 휴대폰",
   "top_videos_summary": [
     {
-      "views": 3510268,
+      "views": 3928127,
       "title": "A2O LITE 최종 병기 같다는 아이찡",
       "upload_year": "2026",
       "channel": "M2",
       "duration": 47
     },
     {
-      "views": 3124936,
+      "views": 3266239,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 2571188,
+      "views": 2696931,
       "title": "남의 배터리를 뺏어오는 어플인데 나도 뺏김",
       "upload_year": "2026",
       "channel": "지식줄고양",
       "duration": 31
     },
     {
-      "views": 2358016,
+      "views": 2389940,
       "title": "휴대폰 배터리 없을 때 외출하는 방법",
       "upload_year": "2026",
       "channel": "일분일초",
       "duration": 34
     },
     {
-      "views": 1924246,
+      "views": 1943727,
       "title": "대부분 모르는 멀티탭의 수명",
       "upload_year": "2026",
       "channel": "김블루",
@@ -52,22 +52,22 @@
     "A2O",
     "방법",
     "A20",
+    "lite",
     "휴대폰",
     "스마트폰",
+    "진짜",
     "아이폰",
+    "근황",
     "배터리를",
     "배터리",
     "모르는",
     "쓰면",
     "화면을",
-    "진짜",
     "이렇게",
     "정체",
     "사람들이",
-    "꿀팁",
     "이유",
-    "네온",
-    "최종"
+    "꿀팁"
   ],
   "channel_distribution": [
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
+      "channel": "1분미만",
+      "count": 1
+    },
+    {
       "channel": "ChoiRakuLife",
       "count": 1
     },
     {
-      "channel": "꿀팁노트",
-      "count": 1
-    },
-    {
-      "channel": "1분미만",
+      "channel": "민우주",
       "count": 1
     }
   ],
