@@ -3,70 +3,70 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 레전드, #시니어드라마, #반전드라마, 미친, 하는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 미친, 레전드, 아이돌, #시니어드라마, #반전드라마",
   "top_videos_summary": [
     {
-      "views": 12900292,
+      "views": 13325707,
       "title": "명배우들이 보여주는 미친 연기력",
       "upload_year": "2026",
       "channel": "아이돌캐치",
       "duration": 63
     },
     {
-      "views": 11727097,
+      "views": 12024178,
       "title": "싸우다 결국 일 낸 금쪽이 시바견 이 분 등장하자 상황 종료",
       "upload_year": "2026",
       "channel": "젤리냥 도젤리",
       "duration": 32
     },
     {
-      "views": 9895132,
-      "title": "까마득한 후배도 참지 못한 박지원의 튀김 실력 ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "나 잘한다해짜나",
-      "duration": 19
-    },
-    {
-      "views": 9103866,
+      "views": 9586973,
       "title": "정직하게 살아야 하는 이유",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 180
     },
     {
-      "views": 8393849,
+      "views": 8831415,
       "title": "배 곯던 고시생 정경호를 일타강사로 만들어준 따뜻한 집밥",
       "upload_year": "2026",
       "channel": "무비나라",
       "duration": 41
+    },
+    {
+      "views": 7611866,
+      "title": "아무도 안 건들이는게 악뮤가 잘 되는 길 #악뮤 #찬혁 #수현 #타블로 #에픽하이",
+      "upload_year": "2026",
+      "channel": "웃기숏",
+      "duration": 18
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
+    "미친",
     "레전드",
+    "아이돌",
     "#시니어드라마",
     "#반전드라마",
-    "미친",
-    "하는",
-    "아무도",
     "되는",
     "웃긴",
-    "#슬기로운의사생활",
-    "방법",
     "친구",
-    "아이돌",
     "때문에",
-    "사람이야",
+    "TOP5",
+    "#슬기로운의사생활",
+    "너무",
+    "알았는데",
+    "A2O",
+    "LITE",
     "부부",
+    "#스케치코미디",
     "#숏드라마",
-    "VS",
-    "#시니어쇼츠",
     "#시니어"
   ],
   "channel_distribution": [
@@ -76,10 +76,6 @@
     },
     {
       "channel": "젤리냥 도젤리",
-      "count": 1
-    },
-    {
-      "channel": "나 잘한다해짜나",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "아워무비",
+      "channel": "눈물한가득",
       "count": 1
     },
     {
-      "channel": "쇼도독",
+      "channel": "무비의 순간",
       "count": 1
     },
     {
-      "channel": "esports KBS",
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "진주관",
       "count": 1
     }
   ],
