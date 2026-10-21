@@ -3,63 +3,60 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이렇게, 치킨, 이유, 새송이, 고관절, 대파",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 치킨, 이유, 새송이, 이렇게, 고관절, 대파",
   "top_videos_summary": [
     {
-      "views": 35164825,
+      "views": 47257374,
       "title": "Flew a giant albatross over the lake. The whole crowd watched its long flight.#short #entertainment",
       "upload_year": "2026",
       "channel": "Sci-Fi Stories",
       "duration": 31
     },
     {
-      "views": 5853670,
-      "title": "요즘 인터넷에서 난리난 비주얼 폭발 \"등롱감자\" 만들기✨",
-      "upload_year": "2026",
-      "channel": "생활의반전",
-      "duration": 71
-    },
-    {
-      "views": 4758077,
+      "views": 4824218,
       "title": "산속에서 무려 8m를 점프한 선수",
       "upload_year": "2026",
       "channel": "쓱포츠",
       "duration": 12
     },
     {
-      "views": 4439795,
+      "views": 4503041,
       "title": "이제 오토바이도 헤드업 디스플레이 가능함 ㄷㄷ",
       "upload_year": "2026",
       "channel": "그래서리뷰",
       "duration": 37
     },
     {
-      "views": 4270989,
+      "views": 4333807,
       "title": "미대 출신 배우의 그림 실력ㄷㄷ",
       "upload_year": "2026",
       "channel": "숏밍아웃",
       "duration": 43
+    },
+    {
+      "views": 4143670,
+      "title": "Comment “snug” if you want one! 🍼 #mom #baby #newmom #babycarrier",
+      "upload_year": "2026",
+      "channel": "Snuggle Nest",
+      "duration": 16
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.33,
+    "top1_share": 0.39,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이렇게",
     "치킨",
     "이유",
     "새송이",
+    "이렇게",
     "고관절",
     "대파",
-    "삼겹살",
-    "도토리묵",
-    "젓지",
     "몰래",
-    "오래",
-    "사람",
+    "삼겹살",
+    "레시피",
     "#short",
     "#entertainment",
     "Flew",
@@ -67,15 +64,14 @@
     "albatross",
     "over",
     "the",
-    "lake"
+    "lake",
+    "The",
+    "whole",
+    "crowd"
   ],
   "channel_distribution": [
     {
       "channel": "Sci-Fi Stories",
-      "count": 1
-    },
-    {
-      "channel": "생활의반전",
       "count": 1
     },
     {
@@ -91,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "쑤미쿡",
+      "channel": "Snuggle Nest",
       "count": 1
     },
     {
-      "channel": "골고루 bearwife",
+      "channel": "쑤미쿡",
       "count": 1
     },
     {
@@ -104,6 +100,10 @@
     },
     {
       "channel": "숏포츠",
+      "count": 1
+    },
+    {
+      "channel": "하자숏츠",
       "count": 1
     },
     {
