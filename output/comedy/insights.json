@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 너무, 레전드, #스케치코미디, #시니어드라마, #반전드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 너무, #스케치코미디, #시니어드라마, #반전드라마, 친구",
   "top_videos_summary": [
     {
-      "views": 12634781,
+      "views": 13783370,
       "title": "무시에 대처하는 김영철식 영어법ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 79
     },
     {
-      "views": 9880574,
+      "views": 10161881,
       "title": "정직하게 살아야 하는 이유",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 180
     },
     {
-      "views": 5822529,
-      "title": "슈퍼맨의 정체를 확인하는 방법",
-      "upload_year": "2026",
-      "channel": "진주관",
-      "duration": 72
-    },
-    {
-      "views": 5812141,
-      "title": "진지한데 웃긴 스윙스 레전드 TOP6 ㅋㅋㅋ",
-      "upload_year": "2026",
-      "channel": "개뜬금개",
-      "duration": 121
-    },
-    {
-      "views": 5768844,
+      "views": 6425626,
       "title": "누구나 처음부터 잘하는 사람은 없다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 162
+    },
+    {
+      "views": 6323941,
+      "title": "얼굴 한 번 못 보는 친구 특;",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 68
+    },
+    {
+      "views": 6263185,
+      "title": "슈퍼맨의 정체를 확인하는 방법",
+      "upload_year": "2026",
+      "channel": "진주관",
+      "duration": 72
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "너무",
-    "레전드",
     "#스케치코미디",
     "#시니어드라마",
     "#반전드라마",
     "친구",
-    "정체",
     "안되는",
-    "입고",
     "#shorts",
     "사람",
     "방송",
-    "부부",
-    "이영지",
     "내일",
     "앞에서",
+    "아는",
+    "레전드",
     "#숏드라마",
     "#유머",
-    "#예능"
+    "#예능",
+    "#감동드라마",
+    "#시니어쇼츠",
+    "무시에"
   ],
   "channel_distribution": [
     {
@@ -79,14 +79,6 @@
       "count": 1
     },
     {
-      "channel": "진주관",
-      "count": 1
-    },
-    {
-      "channel": "개뜬금개",
-      "count": 1
-    },
-    {
       "channel": "눈물한가득",
       "count": 1
     },
@@ -95,11 +87,15 @@
       "count": 1
     },
     {
+      "channel": "진주관",
+      "count": 1
+    },
+    {
       "channel": "웃기숏",
       "count": 1
     },
     {
-      "channel": "리즈시절 천개 모으기",
+      "channel": "요즘PD",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "요즘PD",
+      "channel": "뜨비",
+      "count": 1
+    },
+    {
+      "channel": "띵장면저장소",
       "count": 1
     }
   ],
