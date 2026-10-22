@@ -3,59 +3,61 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 치킨, 이유, 새송이, 이렇게, 고관절, 대파",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 치킨, 고관절, 이유, 새송이, 이렇게, 엄마",
   "top_videos_summary": [
     {
-      "views": 47257374,
+      "views": 59420047,
       "title": "Flew a giant albatross over the lake. The whole crowd watched its long flight.#short #entertainment",
       "upload_year": "2026",
       "channel": "Sci-Fi Stories",
       "duration": 31
     },
     {
-      "views": 4824218,
-      "title": "산속에서 무려 8m를 점프한 선수",
+      "views": 5452690,
+      "title": "Comment “snug” if you want one! 🍼 #mom #baby #newmom #babycarrier",
       "upload_year": "2026",
-      "channel": "쓱포츠",
-      "duration": 12
+      "channel": "Snuggle Nest",
+      "duration": 16
     },
     {
-      "views": 4503041,
+      "views": 4544243,
       "title": "이제 오토바이도 헤드업 디스플레이 가능함 ㄷㄷ",
       "upload_year": "2026",
       "channel": "그래서리뷰",
       "duration": 37
     },
     {
-      "views": 4333807,
+      "views": 4482485,
       "title": "미대 출신 배우의 그림 실력ㄷㄷ",
       "upload_year": "2026",
       "channel": "숏밍아웃",
       "duration": 43
     },
     {
-      "views": 4143670,
-      "title": "Comment “snug” if you want one! 🍼 #mom #baby #newmom #babycarrier",
+      "views": 3241251,
+      "title": "새송이 버섯은 이렇게 먹는게 제일 맛있어요. 치킨 맛 나는 새송이 치킨",
       "upload_year": "2026",
-      "channel": "Snuggle Nest",
-      "duration": 16
+      "channel": "쑤미쿡",
+      "duration": 55
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.39,
+    "top1_share": 0.43,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "치킨",
+    "고관절",
     "이유",
     "새송이",
     "이렇게",
-    "고관절",
-    "대파",
-    "몰래",
+    "엄마",
+    "생기는",
+    "비법",
     "삼겹살",
+    "먹는",
     "레시피",
     "#short",
     "#entertainment",
@@ -65,9 +67,7 @@
     "over",
     "the",
     "lake",
-    "The",
-    "whole",
-    "crowd"
+    "The"
   ],
   "channel_distribution": [
     {
@@ -75,7 +75,7 @@
       "count": 1
     },
     {
-      "channel": "쓱포츠",
+      "channel": "Snuggle Nest",
       "count": 1
     },
     {
@@ -84,10 +84,6 @@
     },
     {
       "channel": "숏밍아웃",
-      "count": 1
-    },
-    {
-      "channel": "Snuggle Nest",
       "count": 1
     },
     {
@@ -104,6 +100,10 @@
     },
     {
       "channel": "하자숏츠",
+      "count": 1
+    },
+    {
+      "channel": "소개팁 IntroTip",
       "count": 1
     },
     {
