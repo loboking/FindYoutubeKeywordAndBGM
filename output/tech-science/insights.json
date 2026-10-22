@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: A2O, LITE, 방법, A20, lite, 이유",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: A2O, LITE, 방법, lite, 라이브, A20",
   "top_videos_summary": [
     {
-      "views": 4441156,
+      "views": 4593410,
       "title": "A2O LITE 최종 병기 같다는 아이찡",
       "upload_year": "2026",
       "channel": "M2",
       "duration": 47
     },
     {
-      "views": 3483194,
+      "views": 3513052,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 2756318,
+      "views": 2767593,
       "title": "남의 배터리를 뺏어오는 어플인데 나도 뺏김",
       "upload_year": "2026",
       "channel": "지식줄고양",
       "duration": 31
     },
     {
-      "views": 2610423,
+      "views": 2684212,
       "title": "첫 1위로 라이브 실력 공개된 A2O LITE",
       "upload_year": "2026",
       "channel": "케이팝덕후",
       "duration": 48
     },
     {
-      "views": 2448743,
+      "views": 2452234,
       "title": "휴대폰 배터리 없을 때 외출하는 방법",
       "upload_year": "2026",
       "channel": "일분일초",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,23 +51,23 @@
     "A2O",
     "LITE",
     "방법",
-    "A20",
     "lite",
-    "이유",
-    "근황",
     "라이브",
+    "A20",
+    "이유",
+    "삼성",
     "애플",
+    "근황",
     "실력",
     "휴대폰",
     "배터리",
     "진짜",
     "쓰면",
     "언박싱",
+    "키보드",
     "#shorts",
-    "네온",
-    "사진",
-    "최종",
-    "병기"
+    "바로",
+    "a2o"
   ],
   "channel_distribution": [
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "Lazy Lighting",
+      "channel": "ChoiRakuLife",
       "count": 1
     },
     {
-      "channel": "ChoiRakuLife",
+      "channel": "민우주",
       "count": 1
     }
   ],
