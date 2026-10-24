@@ -3,87 +3,79 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 치킨, 이유, 레시피, 새송이, 이렇게, 엄마",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 이유, 외국인, 엄마, 새송이, 이렇게, 치킨",
   "top_videos_summary": [
     {
-      "views": 71763977,
-      "title": "Flew a giant albatross over the lake. The whole crowd watched its long flight.#short #entertainment",
-      "upload_year": "2026",
-      "channel": "Sci-Fi Stories",
-      "duration": 31
-    },
-    {
-      "views": 6601643,
-      "title": "Comment “snug” if you want one! 🍼 #mom #baby #newmom #babycarrier",
-      "upload_year": "2026",
-      "channel": "Snuggle Nest",
-      "duration": 16
-    },
-    {
-      "views": 4638506,
-      "title": "이제 오토바이도 헤드업 디스플레이 가능함 ㄷㄷ",
-      "upload_year": "2026",
-      "channel": "그래서리뷰",
-      "duration": 37
-    },
-    {
-      "views": 4607395,
+      "views": 4701523,
       "title": "미대 출신 배우의 그림 실력ㄷㄷ",
       "upload_year": "2026",
       "channel": "숏밍아웃",
       "duration": 43
     },
     {
-      "views": 3502997,
+      "views": 4113997,
+      "title": "아이들이 너무 한국인처럼 행동해서 화난 외국인 엄마",
+      "upload_year": "2026",
+      "channel": "ㅋㅋㅋ",
+      "duration": 43
+    },
+    {
+      "views": 3770001,
       "title": "뜨개질 고인물 엄마의 요상한(?) 작품",
       "upload_year": "2026",
       "channel": "대환장",
       "duration": 22
+    },
+    {
+      "views": 3561943,
+      "title": "새송이 버섯은 이렇게 먹는게 제일 맛있어요. 치킨 맛 나는 새송이 치킨",
+      "upload_year": "2026",
+      "channel": "쑤미쿡",
+      "duration": 55
+    },
+    {
+      "views": 3326012,
+      "title": "호날두 집에 저녁 초대받았다가 맨유 동료들이 전원 도망친 사연 ㄷㄷ",
+      "upload_year": "2026",
+      "channel": "숏포츠",
+      "duration": 47
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.47,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "치킨",
     "이유",
-    "레시피",
+    "외국인",
+    "엄마",
     "새송이",
     "이렇게",
-    "엄마",
+    "치킨",
     "비법",
-    "삼겹살",
-    "먹는",
-    "#short",
-    "#entertainment",
-    "Flew",
-    "giant",
-    "albatross",
-    "over",
-    "the",
-    "lake",
-    "The",
-    "whole",
-    "crowd"
+    "고양이",
+    "없이",
+    "있는",
+    "아빠가",
+    "미대",
+    "출신",
+    "배우의",
+    "그림",
+    "실력ㄷㄷ",
+    "아이들이",
+    "너무",
+    "한국인처럼",
+    "행동해서"
   ],
   "channel_distribution": [
     {
-      "channel": "Sci-Fi Stories",
-      "count": 1
-    },
-    {
-      "channel": "Snuggle Nest",
-      "count": 1
-    },
-    {
-      "channel": "그래서리뷰",
-      "count": 1
-    },
-    {
       "channel": "숏밍아웃",
+      "count": 1
+    },
+    {
+      "channel": "ㅋㅋㅋ",
       "count": 1
     },
     {
@@ -95,10 +87,6 @@
       "count": 1
     },
     {
-      "channel": "ㅋㅋㅋ",
-      "count": 1
-    },
-    {
       "channel": "숏포츠",
       "count": 1
     },
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "지구마을",
+      "count": 1
+    },
+    {
       "channel": "골고루 bearwife",
+      "count": 1
+    },
+    {
+      "channel": "공간 탐닉 Space Tamnik",
+      "count": 1
+    },
+    {
+      "channel": "출석체크",
       "count": 1
     }
   ],
