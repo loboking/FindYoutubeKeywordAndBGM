@@ -3,87 +3,79 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 하는, 진짜, #슬기로운의사생활, 방법, 너무",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 진짜, 하는, #슬기로운의사생활, 맞는, 여자",
   "top_videos_summary": [
     {
-      "views": 63051006,
-      "title": "The Incredible Human Balance Behind This Acrobatic Feat! 😱",
+      "views": 73627179,
+      "title": "Lisa always makes sure to keep her distance from the VS Angels!!💖💖 #blackpink",
       "upload_year": "2026",
-      "channel": "Emperor Insights – Science & Curiosity",
-      "duration": 29
+      "channel": "HEILWIG OFFICIAL",
+      "duration": 11
     },
     {
-      "views": 10423831,
-      "title": "정직하게 살아야 하는 이유",
+      "views": 19026767,
+      "title": "더미로 연습하다가 기술에 걸렸을 때",
       "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 180
+      "channel": "비둘기4호",
+      "duration": 16
     },
     {
-      "views": 9018281,
-      "title": "배 곯던 고시생 정경호를 일타강사로 만들어준 따뜻한 집밥",
-      "upload_year": "2026",
-      "channel": "무비나라",
-      "duration": 41
-    },
-    {
-      "views": 8201376,
-      "title": "와이프 바람나 이혼해도 슬프지 않은 이유 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #정경호 #안은진 #전미도",
-      "upload_year": "2026",
-      "channel": "아워무비",
-      "duration": 179
-    },
-    {
-      "views": 7395570,
+      "views": 7796683,
       "title": "수프 매너",
       "upload_year": "2026",
       "channel": "침착맨",
       "duration": 45
+    },
+    {
+      "views": 7750248,
+      "title": "마음 안생기는 게 이상하다는 드라마 촬영 현장",
+      "upload_year": "2026",
+      "channel": "리즈시절 천개 모으기",
+      "duration": 14
+    },
+    {
+      "views": 7477247,
+      "title": "누구나 처음부터 잘하는 사람은 없다",
+      "upload_year": "2026",
+      "channel": "눈물한가득",
+      "duration": 162
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.25,
+    "top1_share": 0.27,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "하는",
     "진짜",
+    "하는",
     "#슬기로운의사생활",
-    "방법",
-    "너무",
-    "TOP5",
+    "맞는",
     "여자",
-    "The",
-    "Incredible",
-    "Human",
-    "Balance",
-    "Behind",
-    "This",
-    "Acrobatic",
-    "Feat",
-    "정직하게",
-    "살아야",
-    "곯던",
-    "고시생"
+    "#슬기로운의사생활2",
+    "중국",
+    "#blackpink",
+    "Lisa",
+    "always",
+    "makes",
+    "sure",
+    "to",
+    "keep",
+    "her",
+    "distance",
+    "from",
+    "the",
+    "VS"
   ],
   "channel_distribution": [
     {
-      "channel": "Emperor Insights – Science & Curiosity",
+      "channel": "HEILWIG OFFICIAL",
       "count": 1
     },
     {
-      "channel": "명화관",
-      "count": 1
-    },
-    {
-      "channel": "무비나라",
-      "count": 1
-    },
-    {
-      "channel": "아워무비",
+      "channel": "비둘기4호",
       "count": 1
     },
     {
@@ -99,15 +91,23 @@
       "count": 1
     },
     {
-      "channel": "진주관",
+      "channel": "슬기로운 사연 ",
+      "count": 1
+    },
+    {
+      "channel": "무한도전 쇼츠",
+      "count": 1
+    },
+    {
+      "channel": "옥상평상",
+      "count": 1
+    },
+    {
+      "channel": "톡쏘능",
       "count": 1
     },
     {
       "channel": "까르르이슈",
-      "count": 1
-    },
-    {
-      "channel": "슬기로운 사연 ",
       "count": 1
     }
   ],
