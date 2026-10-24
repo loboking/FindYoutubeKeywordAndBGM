@@ -3,60 +3,63 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #슬기로운의사생활, 방법, 너무, 앞에서, #감동드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 방법, #슬기로운의사생활, 너무, 맞는",
   "top_videos_summary": [
     {
-      "views": 9018437,
+      "views": 9048964,
       "title": "배 곯던 고시생 정경호를 일타강사로 만들어준 따뜻한 집밥",
       "upload_year": "2026",
       "channel": "무비나라",
       "duration": 41
     },
     {
-      "views": 8208952,
-      "title": "와이프 바람나 이혼해도 슬프지 않은 이유 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #정경호 #안은진 #전미도",
-      "upload_year": "2026",
-      "channel": "아워무비",
-      "duration": 179
-    },
-    {
-      "views": 7135923,
+      "views": 7751553,
       "title": "마음 안생기는 게 이상하다는 드라마 촬영 현장",
       "upload_year": "2026",
       "channel": "리즈시절 천개 모으기",
       "duration": 14
     },
     {
-      "views": 6910120,
+      "views": 7000483,
       "title": "슈퍼맨의 정체를 확인하는 방법",
       "upload_year": "2026",
       "channel": "진주관",
       "duration": 72
     },
     {
-      "views": 5781478,
+      "views": 6086287,
       "title": "친구가 준 옷만 입고 무조건 여행가기 ㅋㅋ",
       "upload_year": "2026",
       "channel": "요즘PD",
       "duration": 70
+    },
+    {
+      "views": 6051803,
+      "title": "이제 다시 주인님한테 가야죠.. #무도 #노홍철",
+      "upload_year": "2026",
+      "channel": "무한도전 쇼츠",
+      "duration": 26
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#슬기로운의사생활",
+    "#shorts",
     "방법",
+    "#슬기로운의사생활",
     "너무",
-    "앞에서",
-    "#감동드라마",
-    "#드라마",
+    "맞는",
+    "#스케치코미디",
+    "#반전",
     "참교육",
+    "#슬기로운의사생활2",
     "남자",
+    "식당",
     "곯던",
     "고시생",
     "정경호를",
@@ -64,18 +67,11 @@
     "만들어준",
     "따뜻한",
     "집밥",
-    "#슬의생",
-    "#언젠가는슬기로울전공의생활",
-    "#언슬전",
-    "#조정석"
+    "마음"
   ],
   "channel_distribution": [
     {
       "channel": "무비나라",
-      "count": 1
-    },
-    {
-      "channel": "아워무비",
       "count": 1
     },
     {
@@ -91,11 +87,15 @@
       "count": 1
     },
     {
+      "channel": "무한도전 쇼츠",
+      "count": 1
+    },
+    {
       "channel": "까르르이슈",
       "count": 1
     },
     {
-      "channel": "먹기전에",
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "무한도전 쇼츠",
+      "channel": "esports KBS",
       "count": 1
     },
     {
-      "channel": "띵장면저장소",
+      "channel": "디글 클래식 :Diggle Classic",
       "count": 1
     }
   ],
