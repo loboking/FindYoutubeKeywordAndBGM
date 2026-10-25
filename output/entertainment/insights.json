@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 진짜, 하는, #슬기로운의사생활, 맞는, 여자",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 진짜, 이유, 맞는, 하는, #손석구, 장원영",
   "top_videos_summary": [
     {
-      "views": 73627179,
+      "views": 134211946,
       "title": "Lisa always makes sure to keep her distance from the VS Angels!!💖💖 #blackpink",
       "upload_year": "2026",
       "channel": "HEILWIG OFFICIAL",
       "duration": 11
     },
     {
-      "views": 19026767,
+      "views": 36450237,
       "title": "더미로 연습하다가 기술에 걸렸을 때",
       "upload_year": "2026",
       "channel": "비둘기4호",
       "duration": 16
     },
     {
-      "views": 7796683,
-      "title": "수프 매너",
-      "upload_year": "2026",
-      "channel": "침착맨",
-      "duration": 45
-    },
-    {
-      "views": 7750248,
+      "views": 8180748,
       "title": "마음 안생기는 게 이상하다는 드라마 촬영 현장",
       "upload_year": "2026",
       "channel": "리즈시절 천개 모으기",
       "duration": 14
     },
     {
-      "views": 7477247,
+      "views": 8150618,
+      "title": "수프 매너",
+      "upload_year": "2026",
+      "channel": "침착맨",
+      "duration": 45
+    },
+    {
+      "views": 7634424,
       "title": "누구나 처음부터 잘하는 사람은 없다",
       "upload_year": "2026",
       "channel": "눈물한가득",
@@ -43,19 +43,22 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.27,
+    "top1_share": 0.38,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "진짜",
-    "하는",
-    "#슬기로운의사생활",
+    "이유",
     "맞는",
+    "하는",
+    "#손석구",
+    "장원영",
     "여자",
-    "#슬기로운의사생활2",
     "중국",
+    "해버린",
+    "없는",
+    "#shorts",
     "#blackpink",
     "Lisa",
     "always",
@@ -64,10 +67,7 @@
     "to",
     "keep",
     "her",
-    "distance",
-    "from",
-    "the",
-    "VS"
+    "distance"
   ],
   "channel_distribution": [
     {
@@ -79,11 +79,11 @@
       "count": 1
     },
     {
-      "channel": "침착맨",
+      "channel": "리즈시절 천개 모으기",
       "count": 1
     },
     {
-      "channel": "리즈시절 천개 모으기",
+      "channel": "침착맨",
       "count": 1
     },
     {
@@ -91,15 +91,11 @@
       "count": 1
     },
     {
-      "channel": "슬기로운 사연 ",
-      "count": 1
-    },
-    {
       "channel": "무한도전 쇼츠",
       "count": 1
     },
     {
-      "channel": "옥상평상",
+      "channel": "슬기로운 사연 ",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "까르르이슈",
+      "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "K덕톡",
       "count": 1
     }
   ],
