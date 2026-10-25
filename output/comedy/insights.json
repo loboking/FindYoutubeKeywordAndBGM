@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, #shorts, 방법, 너무, 방송",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, 방법, 너무, #손석구, #shorts",
   "top_videos_summary": [
     {
-      "views": 15031705,
+      "views": 15396223,
       "title": "무시에 대처하는 김영철식 영어법ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 79
     },
     {
-      "views": 10611387,
-      "title": "정직하게 살아야 하는 이유",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 180
-    },
-    {
-      "views": 7477247,
+      "views": 7634552,
       "title": "누구나 처음부터 잘하는 사람은 없다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 162
     },
     {
-      "views": 7000231,
+      "views": 7155617,
       "title": "슈퍼맨의 정체를 확인하는 방법",
       "upload_year": "2026",
       "channel": "진주관",
       "duration": 72
     },
     {
-      "views": 6598476,
+      "views": 6779119,
       "title": "동생을 이렇게 써먹나 #찬혁 #악뮤 #이찬혁 #이수현 #수현 #악동뮤지션",
       "upload_year": "2026",
       "channel": "웃기숏",
       "duration": 20
+    },
+    {
+      "views": 6650566,
+      "title": "이제 다시 주인님한테 가야죠.. #무도 #노홍철",
+      "upload_year": "2026",
+      "channel": "무한도전 쇼츠",
+      "duration": 26
     }
   ],
   "outlier_adjusted": {
@@ -50,32 +50,28 @@
   "trend_keywords": [
     "이유",
     "#스케치코미디",
-    "#shorts",
     "방법",
     "너무",
+    "#손석구",
+    "#shorts",
     "방송",
     "옳게",
-    "모르는",
+    "만든",
     "참교육",
     "진짜",
+    "해버린",
+    "손석구",
+    "죽은",
+    "학생",
+    "순간",
     "무시에",
     "대처하는",
     "김영철식",
-    "영어법ㅋㅋㅋ",
-    "정직하게",
-    "살아야",
-    "하는",
-    "누구나",
-    "처음부터",
-    "잘하는"
+    "영어법ㅋㅋㅋ"
   ],
   "channel_distribution": [
     {
       "channel": "엠빅뉴스",
-      "count": 1
-    },
-    {
-      "channel": "명화관",
       "count": 1
     },
     {
@@ -91,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "요즘PD",
+      "channel": "무한도전 쇼츠",
       "count": 1
     },
     {
-      "channel": "무한도전 쇼츠",
+      "channel": "JIkD_직드",
       "count": 1
     },
     {
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "JIkD_직드",
+      "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     }
   ],
