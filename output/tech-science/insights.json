@@ -3,71 +3,71 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: A2O, LITE, 아이폰, 근황, 듀오, 라이브",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 아이폰, A2O, 듀오, 근황, LITE, 라이브",
   "top_videos_summary": [
     {
-      "views": 3655920,
+      "views": 3713081,
       "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
       "upload_year": "2026",
       "channel": "봐쓩",
       "duration": 15
     },
     {
-      "views": 2791212,
+      "views": 2861143,
+      "title": "생각보다 '아쉽다는' 아이폰 듀오 내구성",
+      "upload_year": "2026",
+      "channel": "평양냉면",
+      "duration": 43
+    },
+    {
+      "views": 2798655,
       "title": "남의 배터리를 뺏어오는 어플인데 나도 뺏김",
       "upload_year": "2026",
       "channel": "지식줄고양",
       "duration": 31
     },
     {
-      "views": 2741670,
-      "title": "와..이거 알아낸 사람 진짜 상줘야 됩니다ㅋㅋㅋ 갤럭시 쓰면 무조건 보세요",
-      "upload_year": "2026",
-      "channel": "1분미만",
-      "duration": 86
-    },
-    {
-      "views": 2721901,
+      "views": 2747823,
       "title": "첫 1위로 라이브 실력 공개된 A2O LITE",
       "upload_year": "2026",
       "channel": "케이팝덕후",
       "duration": 48
     },
     {
-      "views": 2460367,
-      "title": "휴대폰 배터리 없을 때 외출하는 방법",
+      "views": 2385325,
+      "title": "스마트폰 배터리 체감속도",
       "upload_year": "2026",
-      "channel": "일분일초",
-      "duration": 34
+      "channel": "너는 꽃이야",
+      "duration": 38
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "A2O",
-    "LITE",
     "아이폰",
-    "근황",
+    "A2O",
     "듀오",
+    "근황",
+    "LITE",
     "라이브",
-    "휴대폰",
-    "방법",
     "lite",
-    "언박싱",
-    "애플",
-    "진짜",
-    "쓰면",
+    "삼성",
+    "내구성",
     "실력",
     "배터리",
-    "스마트폰과",
-    "USB",
-    "하나로",
+    "방법",
     "난리난",
-    "A20"
+    "쓰는",
+    "아이폰듀오",
+    "이유",
+    "키보드",
+    "잘못건드린",
+    "애플",
+    "생각보다"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "지식줄고양",
+      "channel": "평양냉면",
       "count": 1
     },
     {
-      "channel": "1분미만",
+      "channel": "지식줄고양",
       "count": 1
     },
     {
@@ -87,19 +87,15 @@
       "count": 1
     },
     {
-      "channel": "일분일초",
-      "count": 1
-    },
-    {
       "channel": "너는 꽃이야",
       "count": 1
     },
     {
-      "channel": "평양냉면",
+      "channel": "다잇엄",
       "count": 1
     },
     {
-      "channel": "다잇엄",
+      "channel": "MBCNEWS",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "민우주",
+      "count": 1
+    },
+    {
+      "channel": "hypeDRIP",
       "count": 1
     }
   ],
