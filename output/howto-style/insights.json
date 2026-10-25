@@ -3,47 +3,47 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: 이유, 외국인, 엄마, 새송이, 이렇게, 치킨",
+  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 이유, 외국인, 엄마, 새송이, 이렇게, 치킨",
   "top_videos_summary": [
     {
-      "views": 4701523,
-      "title": "미대 출신 배우의 그림 실력ㄷㄷ",
+      "views": 48469238,
+      "title": "#한국여행#서울여행#한국일상#한국생활#한국음식#맛집#먹방#KPOP#케이팝#한국드라마 #K드라마 #한국브이로그#브이로그#일상 #joseonsurvival #joseon",
       "upload_year": "2026",
-      "channel": "숏밍아웃",
-      "duration": 43
+      "channel": "Mental Box 1",
+      "duration": 30
     },
     {
-      "views": 4113997,
+      "views": 5424753,
+      "title": "선수들이 모두 똑같이 저지른 실수",
+      "upload_year": "2026",
+      "channel": "지구마을",
+      "duration": 20
+    },
+    {
+      "views": 4654601,
       "title": "아이들이 너무 한국인처럼 행동해서 화난 외국인 엄마",
       "upload_year": "2026",
       "channel": "ㅋㅋㅋ",
       "duration": 43
     },
     {
-      "views": 3770001,
+      "views": 3943603,
       "title": "뜨개질 고인물 엄마의 요상한(?) 작품",
       "upload_year": "2026",
       "channel": "대환장",
       "duration": 22
     },
     {
-      "views": 3561943,
+      "views": 3586524,
       "title": "새송이 버섯은 이렇게 먹는게 제일 맛있어요. 치킨 맛 나는 새송이 치킨",
       "upload_year": "2026",
       "channel": "쑤미쿡",
       "duration": 55
-    },
-    {
-      "views": 3326012,
-      "title": "호날두 집에 저녁 초대받았다가 맨유 동료들이 전원 도망친 사연 ㄷㄷ",
-      "upload_year": "2026",
-      "channel": "숏포츠",
-      "duration": 47
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.39,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -54,24 +54,28 @@
     "새송이",
     "이렇게",
     "치킨",
+    "김밥을",
     "비법",
+    "보니",
     "고양이",
     "없이",
-    "있는",
-    "아빠가",
-    "미대",
-    "출신",
-    "배우의",
-    "그림",
-    "실력ㄷㄷ",
-    "아이들이",
-    "너무",
-    "한국인처럼",
-    "행동해서"
+    "#shorts",
+    "#한국여행",
+    "#서울여행",
+    "#한국일상",
+    "#한국생활",
+    "#한국음식",
+    "#맛집",
+    "#먹방",
+    "#KPOP"
   ],
   "channel_distribution": [
     {
-      "channel": "숏밍아웃",
+      "channel": "Mental Box 1",
+      "count": 1
+    },
+    {
+      "channel": "지구마을",
       "count": 1
     },
     {
@@ -87,19 +91,15 @@
       "count": 1
     },
     {
-      "channel": "숏포츠",
-      "count": 1
-    },
-    {
       "channel": "소개팁 IntroTip",
       "count": 1
     },
     {
-      "channel": "지구마을",
+      "channel": "침착맨",
       "count": 1
     },
     {
-      "channel": "골고루 bearwife",
+      "channel": "랭킹감자",
       "count": 1
     },
     {
