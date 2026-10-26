@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 아이폰, A2O, 듀오, 근황, LITE, 라이브",
+  "formula": "카테고리 인기 shorts(n=44)에서 두드러진 소재/키워드: 아이폰, A2O, LITE, 듀오, 근황, 삼성",
   "top_videos_summary": [
     {
-      "views": 3713081,
-      "title": "삼성 잘못건드린 애플 근황 ㄷㄷ",
+      "views": 3030446,
+      "title": "안정형 인간과 불안형 안드로이드",
       "upload_year": "2026",
-      "channel": "봐쓩",
+      "channel": "붐업추",
       "duration": 15
     },
     {
-      "views": 2861143,
-      "title": "생각보다 '아쉽다는' 아이폰 듀오 내구성",
-      "upload_year": "2026",
-      "channel": "평양냉면",
-      "duration": 43
-    },
-    {
-      "views": 2798655,
+      "views": 2807989,
       "title": "남의 배터리를 뺏어오는 어플인데 나도 뺏김",
       "upload_year": "2026",
       "channel": "지식줄고양",
       "duration": 31
     },
     {
-      "views": 2747823,
+      "views": 2767982,
       "title": "첫 1위로 라이브 실력 공개된 A2O LITE",
       "upload_year": "2026",
       "channel": "케이팝덕후",
       "duration": 48
     },
     {
-      "views": 2385325,
+      "views": 2625649,
+      "title": "아이폰 듀오를 '저격한' 삼성의 새로운 광고",
+      "upload_year": "2026",
+      "channel": "평양냉면",
+      "duration": 33
+    },
+    {
+      "views": 2418076,
       "title": "스마트폰 배터리 체감속도",
       "upload_year": "2026",
       "channel": "너는 꽃이야",
@@ -43,39 +43,35 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "아이폰",
     "A2O",
+    "LITE",
     "듀오",
     "근황",
-    "LITE",
+    "삼성",
     "라이브",
     "lite",
-    "삼성",
-    "내구성",
+    "이유",
     "실력",
     "배터리",
-    "방법",
-    "난리난",
-    "쓰는",
-    "아이폰듀오",
-    "이유",
-    "키보드",
-    "잘못건드린",
     "애플",
-    "생각보다"
+    "난리난",
+    "방법",
+    "진짜",
+    "쓰는",
+    "듀오가",
+    "아이폰듀오",
+    "갤럭시",
+    "안정형"
   ],
   "channel_distribution": [
     {
-      "channel": "봐쓩",
-      "count": 1
-    },
-    {
-      "channel": "평양냉면",
+      "channel": "붐업추",
       "count": 1
     },
     {
@@ -87,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "너는 꽃이야",
+      "channel": "평양냉면",
       "count": 1
     },
     {
-      "channel": "다잇엄",
+      "channel": "너는 꽃이야",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "ChoiRakuLife",
+      "channel": "다잇엄",
       "count": 1
     },
     {
-      "channel": "민우주",
+      "channel": "따봉햄찌",
       "count": 1
     },
     {
       "channel": "hypeDRIP",
+      "count": 1
+    },
+    {
+      "channel": "민우주",
       "count": 1
     }
   ],
