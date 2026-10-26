@@ -3,67 +3,67 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, 방법, 너무, #손석구, #shorts",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, 최후, #손석구, #스케치코미디, 만든",
   "top_videos_summary": [
     {
-      "views": 15396223,
+      "views": 15732673,
       "title": "무시에 대처하는 김영철식 영어법ㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 79
     },
     {
-      "views": 7634552,
+      "views": 7718085,
       "title": "누구나 처음부터 잘하는 사람은 없다",
       "upload_year": "2026",
       "channel": "눈물한가득",
       "duration": 162
     },
     {
-      "views": 7155617,
-      "title": "슈퍼맨의 정체를 확인하는 방법",
+      "views": 7030164,
+      "title": "위기 감지한 푸들 #개와늑대의시간2 #개늑시2",
       "upload_year": "2026",
-      "channel": "진주관",
-      "duration": 72
+      "channel": "톡쏘능",
+      "duration": 71
     },
     {
-      "views": 6779119,
-      "title": "동생을 이렇게 써먹나 #찬혁 #악뮤 #이찬혁 #이수현 #수현 #악동뮤지션",
-      "upload_year": "2026",
-      "channel": "웃기숏",
-      "duration": 20
-    },
-    {
-      "views": 6650566,
-      "title": "이제 다시 주인님한테 가야죠.. #무도 #노홍철",
+      "views": 6946347,
+      "title": "🌟600만🌟이제 다시 주인님한테 가야죠.. #무도 #노홍철",
       "upload_year": "2026",
       "channel": "무한도전 쇼츠",
       "duration": 26
+    },
+    {
+      "views": 6866817,
+      "title": "아빠 말 안 듣고 스마트폰만 보는 아들들의 최후",
+      "upload_year": "2026",
+      "channel": "리뷰한수",
+      "duration": 15
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#스케치코미디",
-    "방법",
-    "너무",
-    "#손석구",
     "#shorts",
-    "방송",
-    "옳게",
+    "최후",
+    "#손석구",
+    "#스케치코미디",
     "만든",
-    "참교육",
+    "옳게",
     "진짜",
     "해버린",
+    "이서진",
     "손석구",
-    "죽은",
-    "학생",
     "순간",
+    "학생",
+    "여자가",
+    "#시니어드라마",
+    "#쇼츠",
     "무시에",
     "대처하는",
     "김영철식",
@@ -79,11 +79,7 @@
       "count": 1
     },
     {
-      "channel": "진주관",
-      "count": 1
-    },
-    {
-      "channel": "웃기숏",
+      "channel": "톡쏘능",
       "count": 1
     },
     {
@@ -91,7 +87,15 @@
       "count": 1
     },
     {
+      "channel": "리뷰한수",
+      "count": 1
+    },
+    {
       "channel": "JIkD_직드",
+      "count": 1
+    },
+    {
+      "channel": "심쿵무비",
       "count": 1
     },
     {
@@ -99,15 +103,11 @@
       "count": 1
     },
     {
-      "channel": "톡쏘능",
-      "count": 1
-    },
-    {
       "channel": "esports KBS",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "디글 클래식 :Diggle Classic",
       "count": 1
     }
   ],
