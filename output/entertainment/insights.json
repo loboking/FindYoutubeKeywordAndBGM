@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, 진짜, #shorts, #손석구, 하는, 장원영",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 진짜, #shorts, 이유, Lisa, #손석구, 하는",
   "top_videos_summary": [
     {
-      "views": 183377898,
+      "views": 183424506,
       "title": "Lisa always makes sure to keep her distance from the VS Angels!!💖💖 #blackpink",
       "upload_year": "2026",
       "channel": "HEILWIG OFFICIAL",
       "duration": 11
     },
     {
-      "views": 43208009,
+      "views": 49319197,
       "title": "더미로 연습하다가 기술에 걸렸을 때",
       "upload_year": "2026",
       "channel": "비둘기4호",
       "duration": 16
     },
     {
-      "views": 7044745,
-      "title": "보증금 안 빼준 집주인 할아버지, 석 달 뒤",
+      "views": 32196003,
+      "title": "Lisa unlock another Fangirl 🤭 #lisa #fypシ",
       "upload_year": "2026",
-      "channel": "슬기로운 사연 ",
-      "duration": 180
+      "channel": "Bakey",
+      "duration": 12
     },
     {
-      "views": 7030164,
+      "views": 7498447,
       "title": "위기 감지한 푸들 #개와늑대의시간2 #개늑시2",
       "upload_year": "2026",
       "channel": "톡쏘능",
       "duration": 71
     },
     {
-      "views": 6946347,
+      "views": 7459570,
       "title": "🌟600만🌟이제 다시 주인님한테 가야죠.. #무도 #노홍철",
       "upload_year": "2026",
       "channel": "무한도전 쇼츠",
@@ -43,23 +43,20 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.46,
+    "top1_share": 0.42,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "진짜",
     "#shorts",
+    "이유",
+    "Lisa",
     "#손석구",
     "하는",
-    "장원영",
     "만든",
-    "중국",
-    "해버린",
     "이서진",
     "#blackpink",
-    "Lisa",
     "always",
     "makes",
     "sure",
@@ -67,7 +64,10 @@
     "keep",
     "her",
     "distance",
-    "from"
+    "from",
+    "the",
+    "VS",
+    "Angels"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "슬기로운 사연 ",
+      "channel": "Bakey",
       "count": 1
     },
     {
@@ -91,15 +91,11 @@
       "count": 1
     },
     {
+      "channel": "슬기로운 사연 ",
+      "count": 1
+    },
+    {
       "channel": "심쿵무비",
-      "count": 1
-    },
-    {
-      "channel": "K덕톡",
-      "count": 1
-    },
-    {
-      "channel": "(주)덕질연구소",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "랭킹감자",
+      "count": 1
+    },
+    {
+      "channel": "K덕톡",
       "count": 1
     }
   ],
