@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 이유, 외국인, 엄마의, 김밥을, 새송이, 치킨",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: the, 엄마의, 새송이, 치킨, 며느리, 가장",
   "top_videos_summary": [
     {
-      "views": 25759890,
+      "views": 33512469,
       "title": "Snek didn't hear no bell",
       "upload_year": "2026",
       "channel": "TopNotchCrotch",
       "duration": 36
     },
     {
-      "views": 6945599,
+      "views": 28334339,
+      "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
+      "upload_year": "2026",
+      "channel": "The Waterfowl Sanctuary",
+      "duration": 180
+    },
+    {
+      "views": 8682265,
+      "title": "A Giant Fluffy Cloud Walked Into the Cat House",
+      "upload_year": "2026",
+      "channel": "Always Room",
+      "duration": 21
+    },
+    {
+      "views": 7266705,
       "title": "선수들이 모두 똑같이 저지른 실수",
       "upload_year": "2026",
       "channel": "지구마을",
       "duration": 20
     },
     {
-      "views": 4929982,
+      "views": 5244287,
       "title": "아이들이 너무 한국인처럼 행동해서 화난 외국인 엄마",
       "upload_year": "2026",
       "channel": "ㅋㅋㅋ",
       "duration": 43
-    },
-    {
-      "views": 4063472,
-      "title": "뜨개질 고인물 엄마의 요상한(?) 작품",
-      "upload_year": "2026",
-      "channel": "대환장",
-      "duration": 22
-    },
-    {
-      "views": 3783046,
-      "title": "테이블 매너",
-      "upload_year": "2026",
-      "channel": "침착맨",
-      "duration": 26
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.25,
+    "top1_share": 0.22,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "외국인",
+    "the",
     "엄마의",
-    "김밥을",
     "새송이",
     "치킨",
-    "비법",
+    "며느리",
+    "가장",
     "없이",
+    "#시니어사연",
     "Snek",
     "didn't",
     "hear",
     "no",
     "bell",
-    "선수들이",
-    "모두",
-    "똑같이",
-    "저지른",
-    "실수",
-    "아이들이",
-    "너무"
+    "#swanrescue",
+    "#wildliferescue",
+    "#animalrescue",
+    "removed",
+    "this",
+    "from",
+    "swan's"
   ],
   "channel_distribution": [
     {
@@ -75,6 +75,14 @@
       "count": 1
     },
     {
+      "channel": "The Waterfowl Sanctuary",
+      "count": 1
+    },
+    {
+      "channel": "Always Room",
+      "count": 1
+    },
+    {
       "channel": "지구마을",
       "count": 1
     },
@@ -83,11 +91,11 @@
       "count": 1
     },
     {
-      "channel": "대환장",
+      "channel": "침착맨",
       "count": 1
     },
     {
-      "channel": "침착맨",
+      "channel": "대환장",
       "count": 1
     },
     {
@@ -95,19 +103,11 @@
       "count": 1
     },
     {
-      "channel": "쑤미쿡",
-      "count": 1
-    },
-    {
       "channel": "공간 탐닉 Space Tamnik",
       "count": 1
     },
     {
-      "channel": "출석체크",
-      "count": 1
-    },
-    {
-      "channel": "י",
+      "channel": "쑤미쿡",
       "count": 1
     }
   ],
