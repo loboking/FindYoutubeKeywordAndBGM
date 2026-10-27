@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #손석구, 맞는, #슬기로운의사생활, #슬기로운의사생활2",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #시니어, #손석구, #드라마, 방법",
   "top_videos_summary": [
     {
-      "views": 8197945,
+      "views": 8208448,
       "title": "마음 안생기는 게 이상하다는 드라마 촬영 현장",
       "upload_year": "2026",
       "channel": "리즈시절 천개 모으기",
       "duration": 14
     },
     {
-      "views": 6948794,
-      "title": "🌟600만🌟이제 다시 주인님한테 가야죠.. #무도 #노홍철",
-      "upload_year": "2026",
-      "channel": "무한도전 쇼츠",
-      "duration": 26
-    },
-    {
-      "views": 6896105,
+      "views": 7839181,
       "title": "돈이 전부인 세상에서 가장 가치 있는 것",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 74
     },
     {
-      "views": 6378976,
+      "views": 7459570,
+      "title": "🌟600만🌟이제 다시 주인님한테 가야죠.. #무도 #노홍철",
+      "upload_year": "2026",
+      "channel": "무한도전 쇼츠",
+      "duration": 26
+    },
+    {
+      "views": 6938281,
       "title": "관리에 목숨건 마녀선생이 스팸 맛에 눈뜨면 생기는일#괜찮아괜찮아괜찮아 #괜찮아괜찮아괜찮아영화#손석구#김해숙 #김지영 #이레#진서연#정수빈 #이정하#드라마추천#감동드라마 #드라마",
       "upload_year": "2026",
       "channel": "심쿵무비",
       "duration": 75
     },
     {
-      "views": 6031096,
-      "title": "쿵짝이 너무 잘 맞는 강호동과 유재석ㅋㅋ",
+      "views": 6063038,
+      "title": "안유진 강아지인 줄 알았는데 고양이였네 #뿅뿅지구오락실",
       "upload_year": "2026",
-      "channel": "esports KBS",
-      "duration": 17
+      "channel": "디글 클래식 :Diggle Classic",
+      "duration": 53
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "#시니어드라마",
-    "#손석구",
-    "맞는",
-    "#슬기로운의사생활",
-    "#슬기로운의사생활2",
-    "이서진",
-    "#shorts",
-    "최후",
-    "없는",
-    "#시니어쇼츠",
     "#시니어",
+    "#손석구",
+    "#드라마",
+    "방법",
+    "#shorts",
+    "#사이다",
+    "최후",
+    "앞에서",
+    "없는",
+    "엄마가",
+    "#시니어쇼츠",
+    "시어머니",
+    "#반전드라마",
     "마음",
     "안생기는",
     "이상하다는",
     "드라마",
-    "촬영",
-    "현장",
-    "#무도",
-    "#노홍철"
+    "촬영"
   ],
   "channel_distribution": [
     {
@@ -75,11 +75,11 @@
       "count": 1
     },
     {
-      "channel": "무한도전 쇼츠",
+      "channel": "명화관",
       "count": 1
     },
     {
-      "channel": "명화관",
+      "channel": "무한도전 쇼츠",
       "count": 1
     },
     {
@@ -87,27 +87,27 @@
       "count": 1
     },
     {
-      "channel": "esports KBS",
-      "count": 1
-    },
-    {
       "channel": "디글 클래식 :Diggle Classic",
       "count": 1
     },
     {
-      "channel": "까르르이슈",
-      "count": 1
-    },
-    {
-      "channel": "캐치캐치",
-      "count": 1
-    },
-    {
-      "channel": "아워무비",
-      "count": 1
-    },
-    {
       "channel": "쇼츠더하기",
+      "count": 1
+    },
+    {
+      "channel": "레전드씬",
+      "count": 1
+    },
+    {
+      "channel": "야그쟁이",
+      "count": 1
+    },
+    {
+      "channel": "찐투어 JJin Tour ",
+      "count": 1
+    },
+    {
+      "channel": "토파리뷰",
       "count": 1
     }
   ],
