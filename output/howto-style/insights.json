@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: the, 엄마의, 새송이, 치킨, 며느리, 가장",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: the, 엄마의, 새송이, 치킨, 가장, 며느리",
   "top_videos_summary": [
     {
-      "views": 33512469,
-      "title": "Snek didn't hear no bell",
-      "upload_year": "2026",
-      "channel": "TopNotchCrotch",
-      "duration": 36
-    },
-    {
-      "views": 28334339,
+      "views": 43512216,
       "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
       "upload_year": "2026",
       "channel": "The Waterfowl Sanctuary",
       "duration": 180
     },
     {
-      "views": 8682265,
+      "views": 37130121,
+      "title": "Snek didn't hear no bell",
+      "upload_year": "2026",
+      "channel": "TopNotchCrotch",
+      "duration": 36
+    },
+    {
+      "views": 9219602,
       "title": "A Giant Fluffy Cloud Walked Into the Cat House",
       "upload_year": "2026",
       "channel": "Always Room",
       "duration": 21
     },
     {
-      "views": 7266705,
+      "views": 7357631,
       "title": "선수들이 모두 똑같이 저지른 실수",
       "upload_year": "2026",
       "channel": "지구마을",
       "duration": 20
     },
     {
-      "views": 5244287,
+      "views": 5489013,
       "title": "아이들이 너무 한국인처럼 행동해서 화난 외국인 엄마",
       "upload_year": "2026",
       "channel": "ㅋㅋㅋ",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.22,
+    "top1_share": 0.24,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -52,30 +52,30 @@
     "엄마의",
     "새송이",
     "치킨",
-    "며느리",
     "가장",
+    "며느리",
     "없이",
     "#시니어사연",
-    "Snek",
-    "didn't",
-    "hear",
-    "no",
-    "bell",
     "#swanrescue",
     "#wildliferescue",
     "#animalrescue",
     "removed",
     "this",
     "from",
-    "swan's"
+    "swan's",
+    "throat",
+    "Snek",
+    "didn't",
+    "hear",
+    "no"
   ],
   "channel_distribution": [
     {
-      "channel": "TopNotchCrotch",
+      "channel": "The Waterfowl Sanctuary",
       "count": 1
     },
     {
-      "channel": "The Waterfowl Sanctuary",
+      "channel": "TopNotchCrotch",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "소개팁 IntroTip",
-      "count": 1
-    },
-    {
       "channel": "공간 탐닉 Space Tamnik",
       "count": 1
     },
     {
-      "channel": "쑤미쿡",
+      "channel": "소개팁 IntroTip",
+      "count": 1
+    },
+    {
+      "channel": "출석체크",
       "count": 1
     }
   ],
