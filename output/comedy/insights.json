@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 방법, #시니어드라마, 최후, #손석구, 만든",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, #shorts, #시니어드라마, #손석구, 만든, 이서진",
   "top_videos_summary": [
     {
-      "views": 8537749,
+      "views": 9312191,
       "title": "아빠 말 안 듣고 스마트폰만 보는 아들들의 최후",
       "upload_year": "2026",
       "channel": "리뷰한수",
       "duration": 15
     },
     {
-      "views": 7987534,
-      "title": "누구나 처음부터 잘하는 사람은 없다",
-      "upload_year": "2026",
-      "channel": "눈물한가득",
-      "duration": 162
-    },
-    {
-      "views": 7854341,
+      "views": 8327734,
       "title": "🌟700만🌟이제 다시 주인님한테 가야죠.. #무도 #노홍철",
       "upload_year": "2026",
       "channel": "무한도전 쇼츠",
       "duration": 26
     },
     {
-      "views": 7796891,
+      "views": 8112150,
       "title": "위기 감지한 푸들 #개와늑대의시간2 #개늑시2",
       "upload_year": "2026",
       "channel": "톡쏘능",
       "duration": 71
     },
     {
-      "views": 7305506,
+      "views": 7570530,
       "title": "관리에 목숨건 마녀선생이 스팸 맛에 눈뜨면 생기는일#괜찮아괜찮아괜찮아 #괜찮아괜찮아괜찮아영화#손석구#김해숙 #김지영 #이레#진서연#정수빈 #이정하#드라마추천#감동드라마 #드라마",
       "upload_year": "2026",
       "channel": "심쿵무비",
       "duration": 75
+    },
+    {
+      "views": 6713058,
+      "title": "순식간에 변신하는 천재가 만든 소파😂",
+      "upload_year": "2026",
+      "channel": "지구별",
+      "duration": 18
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.05,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "방법",
-    "#시니어드라마",
     "최후",
+    "#shorts",
+    "#시니어드라마",
     "#손석구",
     "만든",
-    "#shorts",
     "이서진",
-    "손석구",
-    "해버린",
+    "#남대문시장",
+    "참교육",
     "옳게",
-    "진짜",
+    "전설의",
+    "생기는",
     "학생",
+    "#쇼츠",
+    "방법",
+    "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
     "아빠",
     "듣고",
-    "스마트폰만",
-    "보는",
-    "아들들의"
+    "스마트폰만"
   ],
   "channel_distribution": [
     {
@@ -75,10 +75,6 @@
       "count": 1
     },
     {
-      "channel": "눈물한가득",
-      "count": 1
-    },
-    {
       "channel": "무한도전 쇼츠",
       "count": 1
     },
@@ -91,15 +87,11 @@
       "count": 1
     },
     {
-      "channel": "JIkD_직드",
-      "count": 1
-    },
-    {
       "channel": "지구별",
       "count": 1
     },
     {
-      "channel": "디글 클래식 :Diggle Classic",
+      "channel": "이서진국",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "이서진국",
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "토파리뷰",
+      "count": 1
+    },
+    {
+      "channel": "엠빅뉴스",
       "count": 1
     }
   ],
