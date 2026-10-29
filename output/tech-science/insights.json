@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 아이폰, A2O, 듀오, LITE, 삼성, 이유",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 아이폰, 듀오, 삼성, A2O, 이유, LITE",
   "top_videos_summary": [
     {
-      "views": 8421079,
+      "views": 9390646,
       "title": "Apple Doesn't Want You To Do This... #Shorts",
       "upload_year": "2026",
       "channel": "Phone Repair Guru",
       "duration": 26
     },
     {
-      "views": 4337320,
+      "views": 4853572,
       "title": "아이폰 듀오의 내구도 '테스트 영상'이 논란이 된 이유",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 33
     },
     {
-      "views": 3083990,
+      "views": 3105566,
       "title": "안정형 인간과 불안형 안드로이드",
       "upload_year": "2026",
       "channel": "붐업추",
       "duration": 15
     },
     {
-      "views": 2794884,
-      "title": "첫 1위로 라이브 실력 공개된 A2O LITE",
+      "views": 3085237,
+      "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
       "upload_year": "2026",
-      "channel": "케이팝덕후",
-      "duration": 48
+      "channel": "짧주",
+      "duration": 41
     },
     {
-      "views": 2532991,
+      "views": 2774119,
       "title": "애플 아이폰 듀오에 삼성 힌지를 안 쓴이유?",
       "upload_year": "2026",
       "channel": "따봉햄찌",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.17,
+    "top1_share": 0.18,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "아이폰",
-    "A2O",
     "듀오",
-    "LITE",
     "삼성",
+    "A2O",
     "이유",
+    "LITE",
     "갤럭시",
     "근황",
-    "라이브",
     "애플",
     "아이폰듀오",
     "듀오의",
     "안드로이드",
-    "실력",
     "올린",
     "lite",
+    "라이브",
     "난리난",
     "방법",
     "노트북",
-    "폴드"
+    "폴드",
+    "듀오가"
   ],
   "channel_distribution": [
     {
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "케이팝덕후",
+      "channel": "짧주",
       "count": 1
     },
     {
@@ -91,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "KyL",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "KyL",
+      "channel": "민우주",
       "count": 1
     },
     {
-      "channel": "민우주",
+      "channel": "ChoiRakuLife",
       "count": 1
     }
   ],
