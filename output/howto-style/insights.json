@@ -3,42 +3,42 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: the, 엄마의, 새송이, 치킨, 가장, 며느리",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 몰래, #육아중, 가장, 쉽게, 만드는",
   "top_videos_summary": [
     {
-      "views": 43512216,
+      "views": 60454018,
       "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
       "upload_year": "2026",
       "channel": "The Waterfowl Sanctuary",
       "duration": 180
     },
     {
-      "views": 37130121,
+      "views": 38012536,
       "title": "Snek didn't hear no bell",
       "upload_year": "2026",
       "channel": "TopNotchCrotch",
       "duration": 36
     },
     {
-      "views": 9219602,
-      "title": "A Giant Fluffy Cloud Walked Into the Cat House",
+      "views": 22870721,
+      "title": "olhar que lindo família linda escute",
       "upload_year": "2026",
-      "channel": "Always Room",
-      "duration": 21
+      "channel": "Dolores Getrudes",
+      "duration": 150
     },
     {
-      "views": 7357631,
-      "title": "선수들이 모두 똑같이 저지른 실수",
+      "views": 21128798,
+      "title": "Piano-Black Luxury Suitcase Transforms Into Cyber Super-Sport Bike at JFK 😱🏍️",
       "upload_year": "2026",
-      "channel": "지구마을",
-      "duration": 20
+      "channel": "ASA Hacks",
+      "duration": 31
     },
     {
-      "views": 5489013,
-      "title": "아이들이 너무 한국인처럼 행동해서 화난 외국인 엄마",
+      "views": 20543206,
+      "title": "Hero Climbs Down A Bridge To Save A Stranded Puppy",
       "upload_year": "2026",
-      "channel": "ㅋㅋㅋ",
-      "duration": 43
+      "channel": "Sassy ",
+      "duration": 162
     }
   ],
   "outlier_adjusted": {
@@ -48,13 +48,16 @@
     "note": ""
   },
   "trend_keywords": [
-    "the",
-    "엄마의",
-    "새송이",
-    "치킨",
+    "#shorts",
+    "몰래",
+    "#육아중",
     "가장",
+    "쉽게",
+    "만드는",
     "며느리",
-    "없이",
+    "선물",
+    "쌍둥이",
+    "#가족",
     "#시니어사연",
     "#swanrescue",
     "#wildliferescue",
@@ -62,12 +65,9 @@
     "removed",
     "this",
     "from",
+    "the",
     "swan's",
-    "throat",
-    "Snek",
-    "didn't",
-    "hear",
-    "no"
+    "throat"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,19 @@
       "count": 1
     },
     {
-      "channel": "Always Room",
+      "channel": "Dolores Getrudes",
+      "count": 1
+    },
+    {
+      "channel": "ASA Hacks",
+      "count": 1
+    },
+    {
+      "channel": "Sassy ",
+      "count": 1
+    },
+    {
+      "channel": "DTL86",
       "count": 1
     },
     {
@@ -95,19 +107,7 @@
       "count": 1
     },
     {
-      "channel": "대환장",
-      "count": 1
-    },
-    {
-      "channel": "공간 탐닉 Space Tamnik",
-      "count": 1
-    },
-    {
-      "channel": "소개팁 IntroTip",
-      "count": 1
-    },
-    {
-      "channel": "출석체크",
+      "channel": "심리야놀자",
       "count": 1
     }
   ],
