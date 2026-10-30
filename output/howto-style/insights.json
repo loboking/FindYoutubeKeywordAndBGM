@@ -3,60 +3,59 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #shorts, 몰래, #육아중, 가장, 쉽게, 만드는",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, #육아중, 엄마, 가장, 며느리, 선물",
   "top_videos_summary": [
     {
-      "views": 60454018,
+      "views": 79973905,
       "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
       "upload_year": "2026",
       "channel": "The Waterfowl Sanctuary",
       "duration": 180
     },
     {
-      "views": 38012536,
-      "title": "Snek didn't hear no bell",
-      "upload_year": "2026",
-      "channel": "TopNotchCrotch",
-      "duration": 36
-    },
-    {
-      "views": 22870721,
-      "title": "olhar que lindo família linda escute",
-      "upload_year": "2026",
-      "channel": "Dolores Getrudes",
-      "duration": 150
-    },
-    {
-      "views": 21128798,
+      "views": 36686398,
       "title": "Piano-Black Luxury Suitcase Transforms Into Cyber Super-Sport Bike at JFK 😱🏍️",
       "upload_year": "2026",
       "channel": "ASA Hacks",
       "duration": 31
     },
     {
-      "views": 20543206,
+      "views": 25485979,
+      "title": "olhar que lindo família linda escute",
+      "upload_year": "2026",
+      "channel": "Dolores Getrudes",
+      "duration": 150
+    },
+    {
+      "views": 24218486,
       "title": "Hero Climbs Down A Bridge To Save A Stranded Puppy",
       "upload_year": "2026",
       "channel": "Sassy ",
       "duration": 162
+    },
+    {
+      "views": 10081092,
+      "title": "Funny stories about children and dog ❤🥰 #pet #dog #cat #cute",
+      "upload_year": "2026",
+      "channel": "DTL86",
+      "duration": 134
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.24,
+    "top1_share": 0.31,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "몰래",
     "#육아중",
+    "엄마",
     "가장",
-    "쉽게",
-    "만드는",
     "며느리",
     "선물",
-    "쌍둥이",
+    "몰래",
+    "남편의",
     "#가족",
     "#시니어사연",
     "#swanrescue",
@@ -67,7 +66,8 @@
     "from",
     "the",
     "swan's",
-    "throat"
+    "throat",
+    "Piano"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,11 @@
       "count": 1
     },
     {
-      "channel": "TopNotchCrotch",
+      "channel": "ASA Hacks",
       "count": 1
     },
     {
       "channel": "Dolores Getrudes",
-      "count": 1
-    },
-    {
-      "channel": "ASA Hacks",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "심리야놀자",
+      "count": 1
+    },
+    {
+      "channel": "깔끔맨",
       "count": 1
     }
   ],
