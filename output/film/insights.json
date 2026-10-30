@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 최후, 이유, #시니어드라마, #shorts, #손석구, #드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #숏드라마, 최후, #시니어드라마, 가장, #손석구",
   "top_videos_summary": [
     {
-      "views": 9807252,
-      "title": "Putin's and Kim's Magic Box 📦Prank with Trump's gone funny 😂 #ai #funny #trump #kimtaehyung #putin",
+      "views": 11121197,
+      "title": "사춘기 아들의 입을 열게한 무뚝뚝한 엄마의 한마디",
       "upload_year": "2026",
-      "channel": "Global Presidents",
-      "duration": 31
+      "channel": "빼뺴-로",
+      "duration": 97
     },
     {
-      "views": 9736089,
+      "views": 10265837,
       "title": "돈이 전부인 세상에서 가장 가치 있는 것",
       "upload_year": "2026",
       "channel": "명화관",
       "duration": 74
     },
     {
-      "views": 8327734,
+      "views": 8590038,
       "title": "🌟700만🌟이제 다시 주인님한테 가야죠.. #무도 #노홍철",
       "upload_year": "2026",
       "channel": "무한도전 쇼츠",
       "duration": 26
     },
     {
-      "views": 7570530,
+      "views": 7934844,
       "title": "관리에 목숨건 마녀선생이 스팸 맛에 눈뜨면 생기는일#괜찮아괜찮아괜찮아 #괜찮아괜찮아괜찮아영화#손석구#김해숙 #김지영 #이레#진서연#정수빈 #이정하#드라마추천#감동드라마 #드라마",
       "upload_year": "2026",
       "channel": "심쿵무비",
       "duration": 75
     },
     {
-      "views": 5908536,
+      "views": 6157814,
       "title": "안 맞는 친구 꼭 있다 #슬기로운의사생활2",
       "upload_year": "2026",
       "channel": "쇼츠더하기",
@@ -43,35 +43,35 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "최후",
     "이유",
+    "#숏드라마",
+    "최후",
     "#시니어드라마",
-    "#shorts",
+    "가장",
     "#손석구",
+    "#감동드라마",
     "#드라마",
     "친구",
     "앞에서",
     "엄마",
-    "방법",
-    "무시하던",
-    "없이",
-    "#숏드라마",
+    "#shorts",
+    "#사이다",
+    "사장님이",
+    "#예능",
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
-    "#ai",
-    "#funny",
-    "#trump",
-    "#kimtaehyung"
+    "정체",
+    "사춘기"
   ],
   "channel_distribution": [
     {
-      "channel": "Global Presidents",
+      "channel": "빼뺴-로",
       "count": 1
     },
     {
@@ -99,7 +99,7 @@
       "count": 1
     },
     {
-      "channel": "야그쟁이",
+      "channel": "아워무비",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "esports KBS",
+      "channel": "야그쟁이",
       "count": 1
     }
   ],
