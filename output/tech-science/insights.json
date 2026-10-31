@@ -3,71 +3,71 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: 아이폰, 듀오, 애플, 삼성, A2O, LITE",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 아이폰, 듀오, A2O, 삼성, LITE, 애플",
   "top_videos_summary": [
     {
-      "views": 10433662,
+      "views": 11160831,
       "title": "Apple Doesn't Want You To Do This... #Shorts",
       "upload_year": "2026",
       "channel": "Phone Repair Guru",
       "duration": 26
     },
     {
-      "views": 5308341,
+      "views": 5439988,
       "title": "A2O LITE 최종 병기 같다는 아이찡",
       "upload_year": "2026",
       "channel": "M2",
       "duration": 47
     },
     {
-      "views": 4476022,
+      "views": 4984918,
       "title": "애플 조리돌림 참여한 '삼성 사우디 공식 계정' 근황",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 16
     },
     {
-      "views": 3366118,
+      "views": 3673382,
       "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 3127353,
-      "title": "안정형 인간과 불안형 안드로이드",
+      "views": 3474573,
+      "title": "Giới thiệu các thành viên A2O LITE #kpop #a2olite",
       "upload_year": "2026",
-      "channel": "붐업추",
-      "duration": 15
+      "channel": "KyL",
+      "duration": 60
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.18,
+    "top1_share": 0.19,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "아이폰",
     "듀오",
-    "애플",
-    "삼성",
     "A2O",
+    "삼성",
     "LITE",
-    "근황",
+    "애플",
     "이유",
+    "근황",
     "갤럭시",
     "아이폰듀오",
     "같다는",
-    "사우디",
-    "광고",
     "lite",
     "라이브",
     "방법",
+    "이어폰",
     "노트북",
     "vs",
     "유튜버도",
-    "꿀팁"
+    "꿀팁",
+    "#Shorts"
   ],
   "channel_distribution": [
     {
@@ -87,15 +87,15 @@
       "count": 1
     },
     {
-      "channel": "붐업추",
-      "count": 1
-    },
-    {
       "channel": "KyL",
       "count": 1
     },
     {
       "channel": "따봉햄찌",
+      "count": 1
+    },
+    {
+      "channel": "모르면개손해",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "모르면개손해",
+      "channel": "하투픽",
       "count": 1
     }
   ],
