@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 진짜, Lisa, VS, NEON, 만든, 친구",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 진짜, #shorts, VS, NEON, 친구, 텐션",
   "top_videos_summary": [
     {
-      "views": 183440835,
+      "views": 183444676,
       "title": "Lisa always makes sure to keep her distance from the VS Angels!!💖💖 #blackpink",
       "upload_year": "2026",
       "channel": "HEILWIG OFFICIAL",
       "duration": 11
     },
     {
-      "views": 49742383,
-      "title": "Lisa unlock another Fangirl 🤭 #lisa #fypシ",
-      "upload_year": "2026",
-      "channel": "Bakey",
-      "duration": 12
-    },
-    {
-      "views": 11121197,
+      "views": 11517965,
       "title": "사춘기 아들의 입을 열게한 무뚝뚝한 엄마의 한마디",
       "upload_year": "2026",
       "channel": "빼뺴-로",
       "duration": 97
     },
     {
-      "views": 7705819,
+      "views": 8083010,
       "title": "사상최초(?) 제이블랙이 직접 추는 NEON",
       "upload_year": "2026",
       "channel": "hypeDRIP",
       "duration": 29
     },
     {
-      "views": 7211064,
+      "views": 7822623,
+      "title": "친구 아프게 해달라고 부탁 정도는 해줘야 찐친 인증 완료 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호",
+      "upload_year": "2026",
+      "channel": "아워무비",
+      "duration": 160
+    },
+    {
+      "views": 7309663,
       "title": "아 장원영 그만 웃겨 진짜",
       "upload_year": "2026",
       "channel": "미녀미남 아카이브",
@@ -43,39 +43,35 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.44,
+    "top1_share": 0.49,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "진짜",
-    "Lisa",
+    "#shorts",
     "VS",
     "NEON",
-    "만든",
     "친구",
-    "#shorts",
-    "이서진",
-    "#아이브",
-    "#장원영",
+    "텐션",
     "앞에서",
+    "생기는",
     "정체",
     "이유",
-    "선택",
-    "#Shorts",
-    "텐션",
-    "마지막",
     "#오지호",
+    "마지막",
     "#사이다",
-    "#blackpink"
+    "#blackpink",
+    "Lisa",
+    "always",
+    "makes",
+    "sure",
+    "to",
+    "keep"
   ],
   "channel_distribution": [
     {
       "channel": "HEILWIG OFFICIAL",
-      "count": 1
-    },
-    {
-      "channel": "Bakey",
       "count": 1
     },
     {
@@ -87,15 +83,15 @@
       "count": 1
     },
     {
+      "channel": "아워무비",
+      "count": 1
+    },
+    {
       "channel": "미녀미남 아카이브",
       "count": 1
     },
     {
-      "channel": "지구별",
-      "count": 1
-    },
-    {
-      "channel": "랭킹감자",
+      "channel": "이서진국",
       "count": 1
     },
     {
@@ -103,7 +99,11 @@
       "count": 1
     },
     {
-      "channel": "이서진국",
+      "channel": "1201 아이브",
+      "count": 1
+    },
+    {
+      "channel": "enterpocket",
       "count": 1
     },
     {
