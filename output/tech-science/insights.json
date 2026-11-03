@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 아이폰, A2O, 듀오, LITE, 애플, 갤럭시",
+  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 아이폰, 듀오, A2O, LITE, 애플, 갤럭시",
   "top_videos_summary": [
     {
-      "views": 11420065,
+      "views": 11700884,
       "title": "Apple Doesn't Want You To Do This... #Shorts",
       "upload_year": "2026",
       "channel": "Phone Repair Guru",
       "duration": 26
     },
     {
-      "views": 5544626,
+      "views": 5633204,
       "title": "A2O LITE 최종 병기 같다는 아이찡",
       "upload_year": "2026",
       "channel": "M2",
       "duration": 47
     },
     {
-      "views": 5326310,
+      "views": 5493303,
       "title": "애플 조리돌림 참여한 '삼성 사우디 공식 계정' 근황",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 16
     },
     {
-      "views": 3849304,
+      "views": 4048730,
       "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
       "upload_year": "2026",
       "channel": "짧주",
       "duration": 41
     },
     {
-      "views": 3681801,
+      "views": 3893948,
       "title": "Giới thiệu các thành viên A2O LITE #kpop #a2olite",
       "upload_year": "2026",
       "channel": "KyL",
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "아이폰",
-    "A2O",
     "듀오",
+    "A2O",
     "LITE",
     "애플",
     "갤럭시",
     "삼성",
+    "이유",
     "근황",
     "방법",
-    "lite",
     "라이브",
+    "lite",
     "폴드",
-    "vs",
-    "이유",
     "유튜버도",
     "크랙",
     "꿀팁",
     "아이폰듀오",
     "듀오와",
-    "미니"
+    "#Shorts",
+    "Apple"
   ],
   "channel_distribution": [
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "다잇엄",
+      "channel": "hypeDRIP",
       "count": 1
     },
     {
-      "channel": "hypeDRIP",
+      "channel": "다잇엄",
       "count": 1
     }
   ],
