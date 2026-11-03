@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 엄마의, 가장, 친구, #사이다, 자존심",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 엄마의, 친구, 알바, #사이다, 자존심",
   "top_videos_summary": [
     {
-      "views": 11886287,
+      "views": 12107759,
       "title": "사춘기 아들의 입을 열게한 무뚝뚝한 엄마의 한마디",
       "upload_year": "2026",
       "channel": "빼뺴-로",
       "duration": 97
     },
     {
-      "views": 10329245,
-      "title": "돈이 전부인 세상에서 가장 가치 있는 것",
-      "upload_year": "2026",
-      "channel": "명화관",
-      "duration": 74
-    },
-    {
-      "views": 9064021,
+      "views": 9958829,
       "title": "친구 아프게 해달라고 부탁 정도는 해줘야 찐친 인증 완료 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호",
       "upload_year": "2026",
       "channel": "아워무비",
       "duration": 160
     },
     {
-      "views": 6330768,
+      "views": 6401725,
       "title": "안 맞는 친구 꼭 있다 #슬기로운의사생활2",
       "upload_year": "2026",
       "channel": "쇼츠더하기",
       "duration": 54
     },
     {
-      "views": 5868406,
-      "title": "대학교 후배를 군대선임으로 만나면?",
+      "views": 6334639,
+      "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 83
+      "channel": "엠빅뉴스",
+      "duration": 42
+    },
+    {
+      "views": 6025391,
+      "title": "모르는 사람 문 열어주면 안 되는 이유 ㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "짱구중독",
+      "duration": 14
     }
   ],
   "outlier_adjusted": {
@@ -50,32 +50,28 @@
   "trend_keywords": [
     "이유",
     "엄마의",
-    "가장",
     "친구",
+    "알바",
     "#사이다",
     "자존심",
-    "#숏드라마",
-    "#예능",
-    "버린",
-    "최후",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
     "#감동드라마",
     "내쫓으려던",
-    "못한",
-    "할아버지",
+    "맞은",
+    "최후",
+    "친구가",
     "사춘기",
-    "아들의"
+    "아들의",
+    "입을",
+    "열게한",
+    "무뚝뚝한"
   ],
   "channel_distribution": [
     {
       "channel": "빼뺴-로",
-      "count": 1
-    },
-    {
-      "channel": "명화관",
       "count": 1
     },
     {
@@ -87,15 +83,19 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "토파리뷰",
+      "channel": "엠빅뉴스",
       "count": 1
     },
     {
       "channel": "짱구중독",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "꿀맛드라마",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "엠빅뉴스",
+      "channel": "어바웃마블",
       "count": 1
     }
   ],
