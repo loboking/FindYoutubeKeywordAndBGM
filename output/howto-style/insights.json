@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, #육아중, 엄마, 가장, 하겐다즈, 레시피",
+  "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, #육아중, 가장, 하겐다즈, 선물, 레시피",
   "top_videos_summary": [
     {
-      "views": 111937675,
+      "views": 120055811,
       "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
       "upload_year": "2026",
       "channel": "The Waterfowl Sanctuary",
       "duration": 180
     },
     {
-      "views": 68064355,
+      "views": 84354532,
       "title": "Piano-Black Luxury Suitcase Transforms Into Cyber Super-Sport Bike at JFK 😱🏍️",
       "upload_year": "2026",
       "channel": "ASA Hacks",
       "duration": 31
     },
     {
-      "views": 28247066,
-      "title": "olhar que lindo família linda escute",
-      "upload_year": "2026",
-      "channel": "Dolores Getrudes",
-      "duration": 150
-    },
-    {
-      "views": 17774770,
+      "views": 26745682,
       "title": "Chinese Street Show #china #chinatravel #travelvlog #youtubeshorts #shorts",
       "upload_year": "2026",
       "channel": "Roaming Souls",
       "duration": 29
     },
     {
-      "views": 7621413,
+      "views": 9751593,
+      "title": "Korean Self-Serve Ramen store 🤤🤤",
+      "upload_year": "2026",
+      "channel": "Sorm Koemse03",
+      "duration": 153
+    },
+    {
+      "views": 7662311,
       "title": "선수들이 모두 똑같이 저지른 실수",
       "upload_year": "2026",
       "channel": "지구마을",
@@ -43,19 +43,19 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.35,
+    "top1_share": 0.37,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
     "#육아중",
-    "엄마",
     "가장",
     "하겐다즈",
+    "선물",
     "레시피",
-    "생기는",
     "#가족",
+    "생기는",
     "#swanrescue",
     "#wildliferescue",
     "#animalrescue",
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "Dolores Getrudes",
-      "count": 1
-    },
-    {
       "channel": "Roaming Souls",
-      "count": 1
-    },
-    {
-      "channel": "지구마을",
       "count": 1
     },
     {
@@ -95,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "ㅋㅋㅋ",
+      "channel": "지구마을",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "심리야놀자",
+      "count": 1
+    },
+    {
+      "channel": "출석체크",
+      "count": 1
+    },
+    {
+      "channel": "민우주",
       "count": 1
     }
   ],
