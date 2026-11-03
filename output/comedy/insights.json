@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #예능, 엄마의, 한마디, 보는, 만든",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 엄마의, 보는, 최후, 알바, 웃긴, 스카프",
   "top_videos_summary": [
     {
-      "views": 11886287,
+      "views": 12107759,
       "title": "사춘기 아들의 입을 열게한 무뚝뚝한 엄마의 한마디",
       "upload_year": "2026",
       "channel": "빼뺴-로",
       "duration": 97
     },
     {
-      "views": 10604646,
+      "views": 10791427,
       "title": "아빠 말 안 듣고 스마트폰만 보는 아들들의 최후",
       "upload_year": "2026",
       "channel": "리뷰한수",
       "duration": 15
     },
     {
-      "views": 7809919,
-      "title": "순식간에 변신하는 천재가 만든 소파😂",
-      "upload_year": "2026",
-      "channel": "지구별",
-      "duration": 18
-    },
-    {
-      "views": 7121240,
+      "views": 7354037,
       "title": "뉴욕대 동창 만난 이서진 반응 #shorts",
       "upload_year": "2026",
       "channel": "이서진국",
       "duration": 27
     },
     {
-      "views": 6569546,
+      "views": 7248278,
       "title": "재벌집 막내아들이 뒷주머니로 하는 이중생활 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호 #전미도",
       "upload_year": "2026",
       "channel": "아워무비",
       "duration": 172
+    },
+    {
+      "views": 6788756,
+      "title": "남녀 사이에 호감이 없으면 생기는 일 TOP5",
+      "upload_year": "2026",
+      "channel": "인물쇼츠팅",
+      "duration": 59
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "#예능",
     "엄마의",
-    "한마디",
     "보는",
-    "만든",
-    "이서진",
-    "잘못",
-    "레전드",
+    "최후",
+    "알바",
+    "웃긴",
     "스카프",
-    "자존심",
-    "역대급",
     "#배우",
+    "#예능",
+    "이유ㅋㅋ",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
     "#감동드라마",
     "내쫓으려던",
-    "이유ㅋㅋ"
+    "이유",
+    "친구가",
+    "사춘기",
+    "아들의",
+    "입을"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "리뷰한수",
-      "count": 1
-    },
-    {
-      "channel": "지구별",
       "count": 1
     },
     {
@@ -95,11 +91,15 @@
       "count": 1
     },
     {
+      "channel": "엠빅뉴스",
+      "count": 1
+    },
+    {
       "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "토파리뷰",
+      "channel": "꿀맛드라마",
       "count": 1
     },
     {
