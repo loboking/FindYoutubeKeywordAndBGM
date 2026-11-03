@@ -3,77 +3,73 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, VS, 엄마의, NEON, 진짜, 생기는",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 엄마의, 생기는, 이유, 벌어지는, 레전드",
   "top_videos_summary": [
     {
-      "views": 183448629,
-      "title": "Lisa always makes sure to keep her distance from the VS Angels!!💖💖 #blackpink",
-      "upload_year": "2026",
-      "channel": "HEILWIG OFFICIAL",
-      "duration": 11
-    },
-    {
-      "views": 11885982,
+      "views": 12107375,
       "title": "사춘기 아들의 입을 열게한 무뚝뚝한 엄마의 한마디",
       "upload_year": "2026",
       "channel": "빼뺴-로",
       "duration": 97
     },
     {
-      "views": 9062796,
+      "views": 9955877,
       "title": "친구 아프게 해달라고 부탁 정도는 해줘야 찐친 인증 완료 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호",
       "upload_year": "2026",
       "channel": "아워무비",
       "duration": 160
     },
     {
-      "views": 8283463,
+      "views": 8433984,
       "title": "사상최초(?) 제이블랙이 직접 추는 NEON",
       "upload_year": "2026",
       "channel": "hypeDRIP",
       "duration": 29
     },
     {
-      "views": 7120056,
+      "views": 7354037,
       "title": "뉴욕대 동창 만난 이서진 반응 #shorts",
       "upload_year": "2026",
       "channel": "이서진국",
       "duration": 27
+    },
+    {
+      "views": 7043429,
+      "title": "[아이브] 이번에 진짜 이 갈고 나옴..ㄷㄷ 칼각 그 자체인 아이브 신곡 안무 #아이브 #ive #안유진 #가을 #레이 #장원영 #리즈 #이서 #룩스캔킬",
+      "upload_year": "2026",
+      "channel": "1201 아이브",
+      "duration": 15
     }
   ],
   "outlier_adjusted": {
-    "has_outlier": true,
-    "top1_share": 0.51,
-    "avg_views_excluding_top1": 3645659,
-    "note": "1위가 전체 조회수의 51% 차지 — 평균 왜곡."
+    "has_outlier": false,
+    "top1_share": 0.06,
+    "avg_views_excluding_top1": null,
+    "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "VS",
     "엄마의",
-    "NEON",
-    "진짜",
     "생기는",
-    "텐션",
     "이유",
+    "벌어지는",
     "레전드",
     "#오지호",
-    "#성동일",
-    "#사이다",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
     "#반전드라마",
     "#감동드라마",
     "내쫓으려던",
-    "#blackpink",
-    "Lisa"
+    "사춘기",
+    "아들의",
+    "입을",
+    "열게한",
+    "무뚝뚝한",
+    "한마디",
+    "#슬기로운의사생활"
   ],
   "channel_distribution": [
-    {
-      "channel": "HEILWIG OFFICIAL",
-      "count": 1
-    },
     {
       "channel": "빼뺴-로",
       "count": 1
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "엠빅뉴스",
       "count": 1
     },
     {
-      "channel": "고인물랭킹",
+      "channel": "짱구중독",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
       "count": 1
     }
   ],
