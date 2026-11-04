@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 아이폰, 듀오, A2O, LITE, 애플, 갤럭시",
+  "formula": "카테고리 인기 shorts(n=40)에서 두드러진 소재/키워드: 아이폰, 애플, A2O, 듀오, 갤럭시, 이유",
   "top_videos_summary": [
     {
-      "views": 11700884,
+      "views": 11976617,
       "title": "Apple Doesn't Want You To Do This... #Shorts",
       "upload_year": "2026",
       "channel": "Phone Repair Guru",
       "duration": 26
     },
     {
-      "views": 5633204,
+      "views": 5711546,
       "title": "A2O LITE 최종 병기 같다는 아이찡",
       "upload_year": "2026",
       "channel": "M2",
       "duration": 47
     },
     {
-      "views": 5493303,
+      "views": 5530763,
       "title": "애플 조리돌림 참여한 '삼성 사우디 공식 계정' 근황",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 16
     },
     {
-      "views": 4048730,
-      "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
-      "upload_year": "2026",
-      "channel": "짧주",
-      "duration": 41
-    },
-    {
-      "views": 3893948,
+      "views": 4172835,
       "title": "Giới thiệu các thành viên A2O LITE #kpop #a2olite",
       "upload_year": "2026",
       "channel": "KyL",
       "duration": 60
+    },
+    {
+      "views": 4082070,
+      "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
+      "upload_year": "2026",
+      "channel": "짧주",
+      "duration": 41
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "아이폰",
-    "듀오",
-    "A2O",
-    "LITE",
     "애플",
+    "A2O",
+    "듀오",
     "갤럭시",
-    "삼성",
     "이유",
+    "LITE",
+    "삼성",
     "근황",
+    "듀오에",
     "방법",
     "라이브",
-    "lite",
-    "폴드",
     "유튜버도",
     "크랙",
+    "폴드",
+    "한국",
     "꿀팁",
     "아이폰듀오",
     "듀오와",
-    "#Shorts",
-    "Apple"
+    "#Shorts"
   ],
   "channel_distribution": [
     {
@@ -83,19 +83,19 @@
       "count": 1
     },
     {
-      "channel": "짧주",
-      "count": 1
-    },
-    {
       "channel": "KyL",
       "count": 1
     },
     {
-      "channel": "따봉햄찌",
+      "channel": "짧주",
       "count": 1
     },
     {
       "channel": "모르면개손해",
+      "count": 1
+    },
+    {
+      "channel": "따봉햄찌",
       "count": 1
     },
     {
@@ -107,7 +107,7 @@
       "count": 1
     },
     {
-      "channel": "다잇엄",
+      "channel": "먹구리",
       "count": 1
     }
   ],
