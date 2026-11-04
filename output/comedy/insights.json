@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 엄마의, 보는, 최후, 알바, 웃긴, 스카프",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #시니어, 엄마의, #유머, 생기는, #shorts, 알바",
   "top_videos_summary": [
     {
-      "views": 12107759,
+      "views": 12240958,
       "title": "사춘기 아들의 입을 열게한 무뚝뚝한 엄마의 한마디",
       "upload_year": "2026",
       "channel": "빼뺴-로",
       "duration": 97
     },
     {
-      "views": 10791427,
-      "title": "아빠 말 안 듣고 스마트폰만 보는 아들들의 최후",
+      "views": 11639833,
+      "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
-      "channel": "리뷰한수",
-      "duration": 15
+      "channel": "웃다울다가",
+      "duration": 146
     },
     {
-      "views": 7354037,
-      "title": "뉴욕대 동창 만난 이서진 반응 #shorts",
+      "views": 8491725,
+      "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
-      "channel": "이서진국",
-      "duration": 27
+      "channel": "엠빅뉴스",
+      "duration": 42
     },
     {
-      "views": 7248278,
+      "views": 7688703,
       "title": "재벌집 막내아들이 뒷주머니로 하는 이중생활 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호 #전미도",
       "upload_year": "2026",
       "channel": "아워무비",
       "duration": 172
     },
     {
-      "views": 6788756,
-      "title": "남녀 사이에 호감이 없으면 생기는 일 TOP5",
+      "views": 7394031,
+      "title": "뉴욕대 동창 만난 이서진 반응 #shorts",
       "upload_year": "2026",
-      "channel": "인물쇼츠팅",
-      "duration": 59
+      "channel": "이서진국",
+      "duration": 27
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
+    "#시니어",
     "엄마의",
-    "보는",
-    "최후",
+    "#유머",
+    "생기는",
+    "#shorts",
     "알바",
-    "웃긴",
-    "스카프",
+    "사랑은",
+    "#쇼츠",
+    "#부부",
     "#배우",
     "#예능",
     "이유ㅋㅋ",
     "#시니어드라마",
     "#시니어쇼츠",
-    "#시니어",
     "#반전드라마",
     "#감동드라마",
     "내쫓으려던",
-    "이유",
-    "친구가",
+    "역대급",
     "사춘기",
-    "아들의",
-    "입을"
+    "아들의"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,7 @@
       "count": 1
     },
     {
-      "channel": "리뷰한수",
-      "count": 1
-    },
-    {
-      "channel": "이서진국",
-      "count": 1
-    },
-    {
-      "channel": "아워무비",
-      "count": 1
-    },
-    {
-      "channel": "인물쇼츠팅",
+      "channel": "웃다울다가",
       "count": 1
     },
     {
@@ -95,7 +83,15 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "아워무비",
+      "count": 1
+    },
+    {
+      "channel": "이서진국",
+      "count": 1
+    },
+    {
+      "channel": "인물쇼츠팅",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "냐옹관",
+      "channel": "일단웃어",
       "count": 1
     },
     {
-      "channel": "일단웃어",
+      "channel": "와따마",
+      "count": 1
+    },
+    {
+      "channel": "냐옹관",
       "count": 1
     }
   ],
