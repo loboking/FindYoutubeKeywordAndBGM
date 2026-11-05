@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: #육아중, #shorts, 가장, 하겐다즈, 선물, 레시피",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, #육아중, 남대문, from, the, at",
   "top_videos_summary": [
     {
-      "views": 124401403,
+      "views": 130206124,
       "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
       "upload_year": "2026",
       "channel": "The Waterfowl Sanctuary",
       "duration": 180
     },
     {
-      "views": 97966171,
+      "views": 102598902,
       "title": "Piano-Black Luxury Suitcase Transforms Into Cyber Super-Sport Bike at JFK 😱🏍️",
       "upload_year": "2026",
       "channel": "ASA Hacks",
       "duration": 31
     },
     {
-      "views": 29504367,
+      "views": 41091213,
+      "title": "BTS：A Closer Look at the Doll-Demolding Process",
+      "upload_year": "2026",
+      "channel": "Tantaly Official",
+      "duration": 12
+    },
+    {
+      "views": 31087996,
       "title": "Chinese Street Show #china #chinatravel #travelvlog #youtubeshorts #shorts",
       "upload_year": "2026",
       "channel": "Roaming Souls",
       "duration": 29
     },
     {
-      "views": 12130692,
-      "title": "Korean Self-Serve Ramen store 🤤🤤",
+      "views": 21497214,
+      "title": "I made a DIY payment ring from a credit card! #diy #lifehacks #tech",
       "upload_year": "2026",
-      "channel": "Sorm Koemse03",
-      "duration": 153
-    },
-    {
-      "views": 7707066,
-      "title": "선수들이 모두 똑같이 저지른 실수",
-      "upload_year": "2026",
-      "channel": "지구마을",
-      "duration": 20
+      "channel": "Crafter Duck GARAGE",
+      "duration": 180
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.35,
+    "top1_share": 0.3,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#육아중",
     "#shorts",
-    "가장",
-    "하겐다즈",
-    "선물",
-    "레시피",
-    "#가족",
+    "#육아중",
     "남대문",
-    "생기는",
+    "from",
+    "the",
+    "at",
+    "하겐다즈",
+    "#가족",
     "아빠가",
+    "생기는",
     "#swanrescue",
     "#wildliferescue",
     "#animalrescue",
     "removed",
     "this",
-    "from",
-    "the",
     "swan's",
     "throat",
-    "Piano"
+    "Piano",
+    "Black",
+    "Luxury"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,15 @@
       "count": 1
     },
     {
+      "channel": "Tantaly Official",
+      "count": 1
+    },
+    {
       "channel": "Roaming Souls",
+      "count": 1
+    },
+    {
+      "channel": "Crafter Duck GARAGE",
       "count": 1
     },
     {
@@ -100,14 +108,6 @@
     },
     {
       "channel": "심리야놀자",
-      "count": 1
-    },
-    {
-      "channel": "출석체크",
-      "count": 1
-    },
-    {
-      "channel": "민우주",
       "count": 1
     }
   ],
