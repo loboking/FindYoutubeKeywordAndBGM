@@ -3,54 +3,57 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, 벌어지는, #시니어, #시니어드라마, #시니어쇼츠",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 직접, 일ㅋㅋ, 벌어지는, #shorts, 이유",
   "top_videos_summary": [
     {
-      "views": 11635363,
+      "views": 13494250,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 10234391,
+      "views": 10381406,
       "title": "친구 아프게 해달라고 부탁 정도는 해줘야 찐친 인증 완료 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호",
       "upload_year": "2026",
       "channel": "아워무비",
       "duration": 160
     },
     {
-      "views": 8525619,
-      "title": "사상최초(?) 제이블랙이 직접 추는 NEON",
-      "upload_year": "2026",
-      "channel": "hypeDRIP",
-      "duration": 29
-    },
-    {
-      "views": 8491725,
+      "views": 9232387,
       "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 42
     },
     {
-      "views": 7452788,
-      "title": "[아이브] 이번에 진짜 이 갈고 나옴..ㄷㄷ 칼각 그 자체인 아이브 신곡 안무 #아이브 #ive #안유진 #가을 #레이 #장원영 #리즈 #이서 #룩스캔킬",
+      "views": 8643629,
+      "title": "사상최초(?) 제이블랙이 직접 추는 NEON",
       "upload_year": "2026",
-      "channel": "1201 아이브",
-      "duration": 15
+      "channel": "hypeDRIP",
+      "duration": 29
+    },
+    {
+      "views": 7279549,
+      "title": "남녀 사이에 호감이 없으면 생기는 일 TOP5",
+      "upload_year": "2026",
+      "channel": "인물쇼츠팅",
+      "duration": 59
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "생기는",
-    "이유",
+    "직접",
+    "일ㅋㅋ",
     "벌어지는",
+    "#shorts",
+    "이유",
     "#시니어",
     "#시니어드라마",
     "#시니어쇼츠",
@@ -64,10 +67,7 @@
     "인생을",
     "포기하면",
     "#슬기로운의사생활",
-    "#슬의생",
-    "#언젠가는슬기로울전공의생활",
-    "#언슬전",
-    "#조정석"
+    "#슬의생"
   ],
   "channel_distribution": [
     {
@@ -79,15 +79,11 @@
       "count": 1
     },
     {
-      "channel": "hypeDRIP",
-      "count": 1
-    },
-    {
       "channel": "엠빅뉴스",
       "count": 1
     },
     {
-      "channel": "1201 아이브",
+      "channel": "hypeDRIP",
       "count": 1
     },
     {
@@ -95,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "꿀맛드라마",
+      "channel": "Spinel CAM",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "Spinel CAM",
+      "channel": "꿀맛드라마",
       "count": 1
     },
     {
-      "channel": "짱구중독",
+      "channel": "PpP",
+      "count": 1
+    },
+    {
+      "channel": "일단웃어",
       "count": 1
     }
   ],
