@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, #시니어, #shorts, #유머, 알바, #쇼츠",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, #스케치코미디, 하는, 웃긴, 방송, #시니어",
   "top_videos_summary": [
     {
-      "views": 13513163,
+      "views": 14323871,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9239183,
+      "views": 9540374,
       "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 42
     },
     {
-      "views": 8082063,
+      "views": 8360031,
       "title": "재벌집 막내아들이 뒷주머니로 하는 이중생활 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호 #전미도",
       "upload_year": "2026",
       "channel": "아워무비",
       "duration": 172
     },
     {
-      "views": 7282020,
+      "views": 7543084,
       "title": "남녀 사이에 호감이 없으면 생기는 일 TOP5",
       "upload_year": "2026",
       "channel": "인물쇼츠팅",
       "duration": 59
     },
     {
-      "views": 6856149,
+      "views": 6932810,
       "title": "일당 600만원 섬뜩한 삐에로 매니저 알바 #꿀알바",
       "upload_year": "2026",
       "channel": "꿀맛드라마",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "생기는",
-    "#시니어",
-    "#shorts",
-    "#유머",
-    "알바",
-    "#쇼츠",
-    "#부부",
+    "#스케치코미디",
+    "하는",
+    "웃긴",
     "방송",
+    "#시니어",
     "#시니어드라마",
     "#시니어쇼츠",
     "#반전드라마",
     "#감동드라마",
     "내쫓으려던",
+    "엄마의",
+    "#shorts",
+    "사건",
     "이유",
-    "#스케치코미디",
+    "가진",
+    "#유머",
     "함부로",
     "인생을",
-    "포기하면",
-    "배우",
-    "김민"
+    "포기하면"
   ],
   "channel_distribution": [
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "냐옹관",
-      "count": 1
-    },
-    {
       "channel": "예스맨은예스",
       "count": 1
     },
     {
-      "channel": "말맛집 : Mal Mat Zip ",
+      "channel": "불타는돌직구",
+      "count": 1
+    },
+    {
+      "channel": "짤시네마",
       "count": 1
     }
   ],
