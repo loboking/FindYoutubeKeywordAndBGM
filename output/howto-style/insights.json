@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 남대문, from, the, at, 하겐다즈",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, 남대문, at, the, 아빠가, 스카프리오",
   "top_videos_summary": [
     {
-      "views": 134769730,
-      "title": "I removed this from the swan's throat #swanrescue #wildliferescue #animalrescue",
-      "upload_year": "2026",
-      "channel": "The Waterfowl Sanctuary",
-      "duration": 180
-    },
-    {
-      "views": 103980804,
+      "views": 105468541,
       "title": "Piano-Black Luxury Suitcase Transforms Into Cyber Super-Sport Bike at JFK 😱🏍️",
       "upload_year": "2026",
       "channel": "ASA Hacks",
       "duration": 31
     },
     {
-      "views": 41189066,
-      "title": "BTS：A Closer Look at the Doll-Demolding Process",
-      "upload_year": "2026",
-      "channel": "Tantaly Official",
-      "duration": 12
-    },
-    {
-      "views": 40652782,
+      "views": 73903615,
       "title": "I made a DIY payment ring from a credit card! #diy #lifehacks #tech",
       "upload_year": "2026",
       "channel": "Crafter Duck GARAGE",
       "duration": 180
     },
     {
-      "views": 31980703,
+      "views": 47370522,
+      "title": "one sweet kiss, and the funniest surprise! 🥹😂 This golden lady moment is pure happiness! 💛",
+      "upload_year": "2026",
+      "channel": "Tiny Little Chaos",
+      "duration": 31
+    },
+    {
+      "views": 41262921,
+      "title": "BTS：A Closer Look at the Doll-Demolding Process",
+      "upload_year": "2026",
+      "channel": "Tantaly Official",
+      "duration": 12
+    },
+    {
+      "views": 34716065,
       "title": "Chinese Street Show #china #chinatravel #travelvlog #youtubeshorts #shorts",
       "upload_year": "2026",
       "channel": "Roaming Souls",
@@ -43,43 +43,35 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.3,
+    "top1_share": 0.29,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
     "남대문",
-    "from",
-    "the",
     "at",
-    "하겐다즈",
+    "the",
     "아빠가",
-    "보고",
+    "스카프리오",
     "생기는",
-    "#swanrescue",
-    "#wildliferescue",
-    "#animalrescue",
-    "removed",
-    "this",
-    "swan's",
-    "throat",
     "Piano",
     "Black",
     "Luxury",
-    "Suitcase"
+    "Suitcase",
+    "Transforms",
+    "Into",
+    "Cyber",
+    "Super",
+    "Sport",
+    "Bike",
+    "JFK",
+    "#diy",
+    "#lifehacks"
   ],
   "channel_distribution": [
     {
-      "channel": "The Waterfowl Sanctuary",
-      "count": 1
-    },
-    {
       "channel": "ASA Hacks",
-      "count": 1
-    },
-    {
-      "channel": "Tantaly Official",
       "count": 1
     },
     {
@@ -87,15 +79,15 @@
       "count": 1
     },
     {
+      "channel": "Tiny Little Chaos",
+      "count": 1
+    },
+    {
+      "channel": "Tantaly Official",
+      "count": 1
+    },
+    {
       "channel": "Roaming Souls",
-      "count": 1
-    },
-    {
-      "channel": "Sorm Koemse03",
-      "count": 1
-    },
-    {
-      "channel": "침착맨",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "민우주",
+      "channel": "얼미부부",
       "count": 1
     },
     {
-      "channel": "얼미부부",
+      "channel": "제로크림",
+      "count": 1
+    },
+    {
+      "channel": "언니겟템",
+      "count": 1
+    },
+    {
+      "channel": "크릉",
       "count": 1
     }
   ],
