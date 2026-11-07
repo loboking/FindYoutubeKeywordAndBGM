@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 아이폰, 애플, 갤럭시, 이유, 근황, 사우디",
+  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 아이폰, 근황, 방법, 애플, A2O, 아이폰듀오",
   "top_videos_summary": [
     {
-      "views": 12497741,
+      "views": 12794572,
       "title": "Apple Doesn't Want You To Do This... #Shorts",
       "upload_year": "2026",
       "channel": "Phone Repair Guru",
       "duration": 26
     },
     {
-      "views": 5562427,
+      "views": 5574912,
       "title": "애플 조리돌림 참여한 '삼성 사우디 공식 계정' 근황",
       "upload_year": "2026",
       "channel": "평양냉면",
       "duration": 16
     },
     {
-      "views": 3476165,
+      "views": 3819749,
       "title": "모니터 12대로 만든 윈도우 12",
       "upload_year": "2026",
       "channel": "모르면개손해",
       "duration": 51
     },
     {
-      "views": 3311680,
-      "title": "안정형 인간과 불안형 안드로이드",
-      "upload_year": "2026",
-      "channel": "붐업추",
-      "duration": 15
-    },
-    {
-      "views": 2992471,
+      "views": 3492359,
       "title": "[A2O LITE]아이찡의 컨페티 붙이는 방법",
       "upload_year": "2026",
       "channel": "하투픽",
       "duration": 20
+    },
+    {
+      "views": 3377162,
+      "title": "안정형 인간과 불안형 안드로이드",
+      "upload_year": "2026",
+      "channel": "붐업추",
+      "duration": 15
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "아이폰",
-    "애플",
-    "갤럭시",
-    "이유",
     "근황",
-    "사우디",
     "방법",
+    "애플",
+    "A2O",
     "아이폰듀오",
-    "유튜버도",
     "크랙",
     "위에",
-    "꿀팁",
-    "최근",
-    "이렇게",
-    "듀오와",
-    "벌어진",
-    "듀오",
-    "올라온",
-    "PC",
-    "미니"
+    "이유",
+    "갤럭시",
+    "이어폰",
+    "제대로",
+    "삼성",
+    "폰을",
+    "#Shorts",
+    "Apple",
+    "Doesn't",
+    "Want",
+    "You",
+    "To"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "붐업추",
+      "channel": "하투픽",
       "count": 1
     },
     {
-      "channel": "하투픽",
+      "channel": "붐업추",
       "count": 1
     },
     {
