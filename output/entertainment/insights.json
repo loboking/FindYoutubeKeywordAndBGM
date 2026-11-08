@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, #스케치코미디, #아일릿, #kpop, #shorts",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, #kpop, #shorts, 아일릿, 월급",
   "top_videos_summary": [
     {
-      "views": 14977530,
+      "views": 15020486,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9782052,
+      "views": 9924035,
       "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 42
     },
     {
-      "views": 8182960,
-      "title": "뮤뱅 퇴근길에 체포하는 원희 #WONHEE #ILLIT #원희 #아일릿",
-      "upload_year": "2026",
-      "channel": "Spinel CAM",
-      "duration": 11
-    },
-    {
-      "views": 7278776,
+      "views": 7750169,
       "title": "아일릿 호루라기까지 부는 카메라 감독님 #kpop #shorts",
       "upload_year": "2026",
       "channel": "아쮸",
       "duration": 22
     },
     {
-      "views": 7078037,
-      "title": "일당 600만원 섬뜩한 삐에로 매니저 알바 #꿀알바",
+      "views": 7546645,
+      "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
       "upload_year": "2026",
-      "channel": "꿀맛드라마",
-      "duration": 62
+      "channel": "예스맨은예스",
+      "duration": 80
+    },
+    {
+      "views": 7076378,
+      "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
+      "upload_year": "2026",
+      "channel": "무비펭",
+      "duration": 16
     }
   ],
   "outlier_adjusted": {
@@ -50,16 +50,14 @@
   "trend_keywords": [
     "생기는",
     "이유",
-    "#스케치코미디",
-    "#아일릿",
     "#kpop",
     "#shorts",
     "아일릿",
     "월급",
+    "같은",
     "엄마",
     "멸치볶음",
-    "있는",
-    "#예능",
+    "#스케치코미디",
     "#유머",
     "함부로",
     "인생을",
@@ -67,7 +65,9 @@
     "배우",
     "김민",
     "1vs5",
-    "실전편"
+    "실전편",
+    "호루라기까지",
+    "부는"
   ],
   "channel_distribution": [
     {
@@ -79,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "Spinel CAM",
-      "count": 1
-    },
-    {
       "channel": "아쮸",
-      "count": 1
-    },
-    {
-      "channel": "꿀맛드라마",
       "count": 1
     },
     {
@@ -95,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "짤시네마",
-      "count": 1
-    },
-    {
-      "channel": "하이타치",
+      "channel": "무비펭",
       "count": 1
     },
     {
@@ -107,7 +95,19 @@
       "count": 1
     },
     {
+      "channel": "짤시네마",
+      "count": 1
+    },
+    {
+      "channel": "케이위키",
+      "count": 1
+    },
+    {
       "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "하이타치",
       "count": 1
     }
   ],
