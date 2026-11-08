@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #반전드라마, #스케치코미디, 있는, #시니어, #시니어드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, #유머, 있는, 생기는일, 엄마",
   "top_videos_summary": [
     {
-      "views": 14977530,
+      "views": 15020486,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9782239,
+      "views": 9924035,
       "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 42
     },
     {
-      "views": 7208201,
+      "views": 7546645,
+      "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
+      "upload_year": "2026",
+      "channel": "예스맨은예스",
+      "duration": 80
+    },
+    {
+      "views": 7419718,
       "title": "층간소음은 못 참지",
       "upload_year": "2026",
       "channel": "일단웃어",
       "duration": 92
     },
     {
-      "views": 7078037,
+      "views": 7116411,
       "title": "일당 600만원 섬뜩한 삐에로 매니저 알바 #꿀알바",
       "upload_year": "2026",
       "channel": "꿀맛드라마",
       "duration": 62
-    },
-    {
-      "views": 7077864,
-      "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
-      "upload_year": "2026",
-      "channel": "예스맨은예스",
-      "duration": 80
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "이유",
-    "#반전드라마",
     "#스케치코미디",
+    "#유머",
     "있는",
-    "#시니어",
-    "#시니어드라마",
-    "#시니어쇼츠",
-    "엄마의",
-    "#재혼황후",
+    "생기는일",
+    "엄마",
     "#예능",
+    "#쇼츠",
     "#김신영",
     "가진",
-    "#쇼츠",
-    "최후",
+    "아저씨",
+    "#반전드라마",
     "뜻밖의",
-    "#사이다",
-    "#유머",
     "함부로",
     "인생을",
-    "포기하면"
+    "포기하면",
+    "생기는",
+    "배우",
+    "김민",
+    "1vs5"
   ],
   "channel_distribution": [
     {
@@ -79,6 +79,10 @@
       "count": 1
     },
     {
+      "channel": "예스맨은예스",
+      "count": 1
+    },
+    {
       "channel": "일단웃어",
       "count": 1
     },
@@ -87,7 +91,7 @@
       "count": 1
     },
     {
-      "channel": "예스맨은예스",
+      "channel": "무비펭",
       "count": 1
     },
     {
@@ -99,15 +103,11 @@
       "count": 1
     },
     {
-      "channel": "무비펭",
+      "channel": "요즘PD",
       "count": 1
     },
     {
       "channel": "비빅숏츠",
-      "count": 1
-    },
-    {
-      "channel": "요즘PD",
       "count": 1
     }
   ],
