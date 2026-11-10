@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, #kpop, #shorts, 아일릿, 월급",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, 월급, 엄마, 멸치볶음, 절대",
   "top_videos_summary": [
     {
-      "views": 15020486,
+      "views": 15064454,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9924035,
-      "title": "배우 김민 1vs5 실전편",
+      "views": 8006293,
+      "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
       "upload_year": "2026",
-      "channel": "엠빅뉴스",
-      "duration": 42
+      "channel": "김로카",
+      "duration": 33
     },
     {
-      "views": 7750169,
-      "title": "아일릿 호루라기까지 부는 카메라 감독님 #kpop #shorts",
+      "views": 7819418,
+      "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
-      "channel": "아쮸",
-      "duration": 22
+      "channel": "무비펭",
+      "duration": 16
     },
     {
-      "views": 7546645,
+      "views": 7709716,
       "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
       "upload_year": "2026",
       "channel": "예스맨은예스",
       "duration": 80
     },
     {
-      "views": 7076378,
-      "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
+      "views": 7151656,
+      "title": "이 정도면 월급 더 드려야 할 것 같은 아일릿 제6의 멤버 #아일릿 #illit #체포하겠어",
       "upload_year": "2026",
-      "channel": "무비펭",
-      "duration": 16
+      "channel": "케이위키",
+      "duration": 18
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "생기는",
     "이유",
-    "#kpop",
-    "#shorts",
-    "아일릿",
     "월급",
-    "같은",
     "엄마",
     "멸치볶음",
+    "절대",
+    "방송",
+    "리브",
     "#스케치코미디",
     "#유머",
     "함부로",
     "인생을",
     "포기하면",
-    "배우",
-    "김민",
-    "1vs5",
-    "실전편",
-    "호루라기까지",
-    "부는"
+    "#kpop",
+    "#아이돌",
+    "방송중",
+    "오해하면",
+    "TOP4",
+    "NG내고",
+    "성격"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "엠빅뉴스",
-      "count": 1
-    },
-    {
-      "channel": "아쮸",
-      "count": 1
-    },
-    {
-      "channel": "예스맨은예스",
+      "channel": "김로카",
       "count": 1
     },
     {
@@ -91,11 +83,7 @@
       "count": 1
     },
     {
-      "channel": "김로카",
-      "count": 1
-    },
-    {
-      "channel": "짤시네마",
+      "channel": "예스맨은예스",
       "count": 1
     },
     {
@@ -103,11 +91,23 @@
       "count": 1
     },
     {
+      "channel": "짤시네마",
+      "count": 1
+    },
+    {
       "channel": "예능한스푼",
       "count": 1
     },
     {
+      "channel": "esports KBS",
+      "count": 1
+    },
+    {
       "channel": "하이타치",
+      "count": 1
+    },
+    {
+      "channel": "토파리뷰",
       "count": 1
     }
   ],
