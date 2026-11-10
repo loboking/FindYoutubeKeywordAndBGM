@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #스케치코미디, #유머, 있는, 생기는일, 엄마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #시니어쇼츠, #시니어, #스케치코미디, #유머",
   "top_videos_summary": [
     {
-      "views": 15020486,
+      "views": 15064579,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9924035,
+      "views": 9986766,
       "title": "배우 김민 1vs5 실전편",
       "upload_year": "2026",
       "channel": "엠빅뉴스",
       "duration": 42
     },
     {
-      "views": 7546645,
+      "views": 7820258,
+      "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
+      "upload_year": "2026",
+      "channel": "무비펭",
+      "duration": 16
+    },
+    {
+      "views": 7710924,
       "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
       "upload_year": "2026",
       "channel": "예스맨은예스",
       "duration": 80
     },
     {
-      "views": 7419718,
-      "title": "층간소음은 못 참지",
-      "upload_year": "2026",
-      "channel": "일단웃어",
-      "duration": 92
-    },
-    {
-      "views": 7116411,
+      "views": 7140833,
       "title": "일당 600만원 섬뜩한 삐에로 매니저 알바 #꿀알바",
       "upload_year": "2026",
       "channel": "꿀맛드라마",
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "이유",
+    "#시니어드라마",
+    "#시니어쇼츠",
+    "#시니어",
     "#스케치코미디",
     "#유머",
     "있는",
     "생기는일",
+    "천재",
     "엄마",
-    "#예능",
-    "#쇼츠",
-    "#김신영",
-    "가진",
+    "#반전스토리",
+    "#shorts",
     "아저씨",
     "#반전드라마",
-    "뜻밖의",
+    "#감동드라마",
     "함부로",
     "인생을",
     "포기하면",
     "생기는",
-    "배우",
-    "김민",
-    "1vs5"
+    "배우"
   ],
   "channel_distribution": [
     {
@@ -79,19 +79,15 @@
       "count": 1
     },
     {
+      "channel": "무비펭",
+      "count": 1
+    },
+    {
       "channel": "예스맨은예스",
       "count": 1
     },
     {
-      "channel": "일단웃어",
-      "count": 1
-    },
-    {
       "channel": "꿀맛드라마",
-      "count": 1
-    },
-    {
-      "channel": "무비펭",
       "count": 1
     },
     {
@@ -100,6 +96,10 @@
     },
     {
       "channel": "하이타치",
+      "count": 1
+    },
+    {
+      "channel": "아워무비",
       "count": 1
     },
     {
