@@ -3,56 +3,56 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=46)에서 두드러진 소재/키워드: #shorts, 남대문, 이유, 아빠가, 스카프리오, 해외에서",
+  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: #shorts, 이유, 남대문, 스카프리오, 아래, 해외에서",
   "top_videos_summary": [
     {
-      "views": 103831457,
+      "views": 130479490,
       "title": "one sweet kiss, and the funniest surprise! 🥹😂 This golden lady moment is pure happiness! 💛",
       "upload_year": "2026",
       "channel": "Tiny Little Chaos",
       "duration": 31
     },
     {
-      "views": 100447574,
+      "views": 103868852,
       "title": "I made a DIY payment ring from a credit card! #diy #lifehacks #tech",
       "upload_year": "2026",
       "channel": "Crafter Duck GARAGE",
       "duration": 180
     },
     {
-      "views": 3852313,
+      "views": 3949382,
       "title": "탔다는 사람은 있는데 탑승 기록은 0명인 놀이기구",
       "upload_year": "2026",
       "channel": "제로크림",
       "duration": 34
     },
     {
-      "views": 3095122,
+      "views": 3241845,
+      "title": "300만회) 봐도봐도 자꾸 보고 싶은 티키타카왕 남대문 스카프리오 #남대문스카프 #shorts",
+      "upload_year": "2026",
+      "channel": "길을걷다 BOM",
+      "duration": 44
+    },
+    {
+      "views": 3205685,
       "title": "장윤주 3초컷으로 스타일링 하는 리사",
       "upload_year": "2026",
       "channel": "윤쥬르 YOONJOUR 장윤주",
       "duration": 91
-    },
-    {
-      "views": 3001851,
-      "title": "아빠가 왜 엄마보다 더 잘해?ㅋㅋㅋ(#고무줄놀이)",
-      "upload_year": "2026",
-      "channel": "스냅봤니",
-      "duration": 24
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.39,
+    "top1_share": 0.44,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "#shorts",
-    "남대문",
     "이유",
-    "아빠가",
+    "남대문",
     "스카프리오",
+    "아래",
     "해외에서",
     "캪틴큐를",
     "one",
@@ -83,6 +83,10 @@
       "count": 1
     },
     {
+      "channel": "길을걷다 BOM",
+      "count": 1
+    },
+    {
       "channel": "윤쥬르 YOONJOUR 장윤주",
       "count": 1
     },
@@ -91,11 +95,7 @@
       "count": 1
     },
     {
-      "channel": "길을걷다 BOM",
-      "count": 1
-    },
-    {
-      "channel": "언니겟템",
+      "channel": "달달한끼 DalDalMeal",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "달달한끼 DalDalMeal",
+      "channel": "네자매모먼트 [4sisters]",
       "count": 1
     },
     {
-      "channel": "네자매모먼트 [4sisters]",
+      "channel": "자까다 Jaggada",
       "count": 1
     }
   ],
