@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #유머, #shorts, 입고, 멸치볶음",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #스케치코미디, #shorts, 멸치볶음, #남대문시장",
   "top_videos_summary": [
     {
-      "views": 15064579,
+      "views": 15101869,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9986766,
-      "title": "배우 김민 1vs5 실전편",
-      "upload_year": "2026",
-      "channel": "엠빅뉴스",
-      "duration": 42
-    },
-    {
-      "views": 8750823,
+      "views": 9069143,
       "title": "멀쩡히 길가던 남자를 건드리면 벌어지는 일",
       "upload_year": "2026",
       "channel": "불타는돌직구",
       "duration": 105
     },
     {
-      "views": 8008495,
+      "views": 8569701,
       "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
       "upload_year": "2026",
       "channel": "김로카",
       "duration": 33
     },
     {
-      "views": 7820258,
+      "views": 8345725,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
+    },
+    {
+      "views": 7597451,
+      "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
+      "upload_year": "2026",
+      "channel": "토파리뷰",
+      "duration": 34
     }
   ],
   "outlier_adjusted": {
@@ -50,32 +50,28 @@
   "trend_keywords": [
     "이유",
     "생기는",
-    "#유머",
-    "#shorts",
-    "입고",
-    "멸치볶음",
-    "생기는일",
-    "#시니어드라마",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
     "#스케치코미디",
+    "#shorts",
+    "멸치볶음",
+    "#남대문시장",
+    "TOP5",
+    "웃긴",
+    "#유머",
     "함부로",
     "인생을",
     "포기하면",
-    "배우",
-    "김민",
-    "1vs5",
-    "실전편",
-    "멀쩡히"
+    "멀쩡히",
+    "길가던",
+    "남자를",
+    "건드리면",
+    "벌어지는",
+    "#kpop",
+    "#아이돌",
+    "방송중"
   ],
   "channel_distribution": [
     {
       "channel": "웃다울다가",
-      "count": 1
-    },
-    {
-      "channel": "엠빅뉴스",
       "count": 1
     },
     {
@@ -91,15 +87,15 @@
       "count": 1
     },
     {
-      "channel": "예스맨은예스",
-      "count": 1
-    },
-    {
-      "channel": "짤시네마",
+      "channel": "토파리뷰",
       "count": 1
     },
     {
       "channel": "예능한스푼",
+      "count": 1
+    },
+    {
+      "channel": "짤시네마",
       "count": 1
     },
     {
@@ -108,6 +104,10 @@
     },
     {
       "channel": "하이타치",
+      "count": 1
+    },
+    {
+      "channel": "아워무비",
       "count": 1
     }
   ],
