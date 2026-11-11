@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #시니어쇼츠, #시니어, #스케치코미디, #유머",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #유머, 생기는, 천재, 생기는일, #shorts",
   "top_videos_summary": [
     {
-      "views": 15064579,
+      "views": 15101869,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 9986766,
-      "title": "배우 김민 1vs5 실전편",
-      "upload_year": "2026",
-      "channel": "엠빅뉴스",
-      "duration": 42
-    },
-    {
-      "views": 7820258,
+      "views": 8345725,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 7710924,
+      "views": 7866147,
       "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
       "upload_year": "2026",
       "channel": "예스맨은예스",
       "duration": 80
     },
     {
-      "views": 7140833,
-      "title": "일당 600만원 섬뜩한 삐에로 매니저 알바 #꿀알바",
+      "views": 7104703,
+      "title": "기억 잃은 아빠가 10년동안 양말에 숨겨놓은 물건",
       "upload_year": "2026",
-      "channel": "꿀맛드라마",
-      "duration": 62
+      "channel": "짤시네마",
+      "duration": 92
+    },
+    {
+      "views": 6112404,
+      "title": "AI가 봐도 작고 소박한 내 월급 #구해줘홈즈 #장동민",
+      "upload_year": "2026",
+      "channel": "하이타치",
+      "duration": 70
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.1,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
+    "#유머",
+    "생기는",
+    "천재",
+    "생기는일",
+    "#shorts",
+    "보인",
+    "아저씨",
+    "#보검매직컬2",
+    "[영업",
+    "출범식]",
+    "고경표",
     "#시니어드라마",
     "#시니어쇼츠",
     "#시니어",
-    "#스케치코미디",
-    "#유머",
-    "있는",
-    "생기는일",
-    "천재",
-    "엄마",
-    "#반전스토리",
-    "#shorts",
-    "아저씨",
     "#반전드라마",
-    "#감동드라마",
+    "#스케치코미디",
     "함부로",
     "인생을",
-    "포기하면",
-    "생기는",
-    "배우"
+    "포기하면"
   ],
   "channel_distribution": [
     {
@@ -75,19 +75,11 @@
       "count": 1
     },
     {
-      "channel": "엠빅뉴스",
-      "count": 1
-    },
-    {
       "channel": "무비펭",
       "count": 1
     },
     {
       "channel": "예스맨은예스",
-      "count": 1
-    },
-    {
-      "channel": "꿀맛드라마",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
+      "channel": "소리담다",
+      "count": 1
+    },
+    {
       "channel": "요즘PD",
       "count": 1
     },
     {
-      "channel": "비빅숏츠",
+      "channel": "JIkD_직드",
+      "count": 1
+    },
+    {
+      "channel": "레전드씬",
       "count": 1
     }
   ],
