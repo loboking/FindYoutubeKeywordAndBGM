@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, 이유, 월급, 엄마, 멸치볶음, 절대",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, #슬기로운의사생활, #슬의생, 엄마",
   "top_videos_summary": [
     {
-      "views": 15064454,
+      "views": 15101784,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 8006293,
+      "views": 8569701,
       "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
       "upload_year": "2026",
       "channel": "김로카",
       "duration": 33
     },
     {
-      "views": 7819418,
+      "views": 8345725,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 7709716,
-      "title": "웃긴 사람들이 주변에 항상 등장하는 이창섭 ㅋㅋ #이창섭 #전과자 #ootbstudio",
-      "upload_year": "2026",
-      "channel": "예스맨은예스",
-      "duration": 80
-    },
-    {
-      "views": 7151656,
+      "views": 7612974,
       "title": "이 정도면 월급 더 드려야 할 것 같은 아일릿 제6의 멤버 #아일릿 #illit #체포하겠어",
       "upload_year": "2026",
       "channel": "케이위키",
       "duration": 18
+    },
+    {
+      "views": 7597451,
+      "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
+      "upload_year": "2026",
+      "channel": "토파리뷰",
+      "duration": 34
     }
   ],
   "outlier_adjusted": {
@@ -48,14 +48,15 @@
     "note": ""
   },
   "trend_keywords": [
-    "생기는",
     "이유",
-    "월급",
+    "생기는",
+    "#shorts",
+    "#슬기로운의사생활",
+    "#슬의생",
     "엄마",
-    "멸치볶음",
-    "절대",
+    "하는",
     "방송",
-    "리브",
+    "보인",
     "#스케치코미디",
     "#유머",
     "함부로",
@@ -66,8 +67,7 @@
     "방송중",
     "오해하면",
     "TOP4",
-    "NG내고",
-    "성격"
+    "NG내고"
   ],
   "channel_distribution": [
     {
@@ -83,15 +83,11 @@
       "count": 1
     },
     {
-      "channel": "예스맨은예스",
-      "count": 1
-    },
-    {
       "channel": "케이위키",
       "count": 1
     },
     {
-      "channel": "짤시네마",
+      "channel": "토파리뷰",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
+      "channel": "짤시네마",
+      "count": 1
+    },
+    {
       "channel": "esports KBS",
       "count": 1
     },
     {
-      "channel": "하이타치",
+      "channel": "아워무비",
       "count": 1
     },
     {
-      "channel": "토파리뷰",
+      "channel": "아우성",
       "count": 1
     }
   ],
