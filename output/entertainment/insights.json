@@ -3,47 +3,47 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, #슬기로운의사생활, #슬의생, 엄마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 생기는, #shorts, #보검매직컬2, 일ㅋㅋ, 엄마",
   "top_videos_summary": [
     {
-      "views": 15101784,
+      "views": 15137743,
       "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
       "upload_year": "2026",
       "channel": "웃다울다가",
       "duration": 146
     },
     {
-      "views": 8569701,
-      "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
+      "views": 9421054,
+      "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
       "upload_year": "2026",
-      "channel": "김로카",
-      "duration": 33
+      "channel": "토파리뷰",
+      "duration": 34
     },
     {
-      "views": 8345725,
+      "views": 9184516,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 7612974,
+      "views": 8875652,
+      "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
+      "upload_year": "2026",
+      "channel": "김로카",
+      "duration": 33
+    },
+    {
+      "views": 8155569,
       "title": "이 정도면 월급 더 드려야 할 것 같은 아일릿 제6의 멤버 #아일릿 #illit #체포하겠어",
       "upload_year": "2026",
       "channel": "케이위키",
       "duration": 18
-    },
-    {
-      "views": 7597451,
-      "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
-      "upload_year": "2026",
-      "channel": "토파리뷰",
-      "duration": 34
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,23 +51,23 @@
     "이유",
     "생기는",
     "#shorts",
-    "#슬기로운의사생활",
-    "#슬의생",
+    "#보검매직컬2",
+    "일ㅋㅋ",
     "엄마",
-    "하는",
+    "만난",
+    "시어머니",
     "방송",
-    "보인",
-    "#스케치코미디",
-    "#유머",
-    "함부로",
-    "인생을",
-    "포기하면",
-    "#kpop",
-    "#아이돌",
-    "방송중",
-    "오해하면",
-    "TOP4",
-    "NG내고"
+    "[영업",
+    "출범식]",
+    "고경표",
+    "#재혼황후",
+    "#디즈니플러스",
+    "박보검",
+    "신부가",
+    "#시니어드라마",
+    "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마"
   ],
   "channel_distribution": [
     {
@@ -75,7 +75,7 @@
       "count": 1
     },
     {
-      "channel": "김로카",
+      "channel": "토파리뷰",
       "count": 1
     },
     {
@@ -83,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "케이위키",
+      "channel": "김로카",
       "count": 1
     },
     {
-      "channel": "토파리뷰",
+      "channel": "케이위키",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "아워무비",
+      "channel": "레전드씬",
       "count": 1
     },
     {
-      "channel": "아우성",
+      "channel": "말맛집 : Mal Mat Zip ",
       "count": 1
     }
   ],
