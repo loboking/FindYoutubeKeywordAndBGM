@@ -3,38 +3,38 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=45)에서 두드러진 소재/키워드: 이유, #shorts, 남대문, 스카프리오, 같이, 아래",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 남대문, 사람은, 스카프리오, 아래",
   "top_videos_summary": [
     {
-      "views": 175571995,
+      "views": 193602486,
       "title": "one sweet kiss, and the funniest surprise! 🥹😂 This golden lady moment is pure happiness! 💛",
       "upload_year": "2026",
       "channel": "Tiny Little Chaos",
       "duration": 31
     },
     {
-      "views": 105407726,
+      "views": 107140443,
       "title": "I made a DIY payment ring from a credit card! #diy #lifehacks #tech",
       "upload_year": "2026",
       "channel": "Crafter Duck GARAGE",
       "duration": 180
     },
     {
-      "views": 30095421,
+      "views": 32187187,
       "title": "World's Biggest Human Catapult 🤯",
       "upload_year": "2026",
       "channel": "Red Bull",
       "duration": 26
     },
     {
-      "views": 4043565,
+      "views": 4117341,
       "title": "탔다는 사람은 있는데 탑승 기록은 0명인 놀이기구",
       "upload_year": "2026",
       "channel": "제로크림",
       "duration": 34
     },
     {
-      "views": 3505669,
+      "views": 3652609,
       "title": "300만회) 봐도봐도 자꾸 보고 싶은 티키타카왕 남대문 스카프리오 #남대문스카프 #shorts",
       "upload_year": "2026",
       "channel": "길을걷다 BOM",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.47,
+    "top1_share": 0.49,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,23 +51,23 @@
     "이유",
     "#shorts",
     "남대문",
+    "사람은",
     "스카프리오",
-    "같이",
     "아래",
-    "해외에서",
+    "비밀",
+    "정체",
+    "같이",
+    "맛있는",
     "마라탕",
-    "캪틴큐를",
-    "라면",
+    "배추",
+    "vs",
     "one",
     "sweet",
     "kiss",
     "and",
     "the",
     "funniest",
-    "surprise",
-    "This",
-    "golden",
-    "lady"
+    "surprise"
   ],
   "channel_distribution": [
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "네자매모먼트 [4sisters]",
+      "channel": "Janav Kha",
       "count": 1
     },
     {
-      "channel": "숏플레이",
+      "channel": "네자매모먼트 [4sisters]",
       "count": 1
     }
   ],
