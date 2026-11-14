@@ -3,83 +3,79 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 생기는, #shorts, 이유, #kpop, 일ㅋㅋ, 엄마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 최후, 생기는, 만난",
   "top_videos_summary": [
     {
-      "views": 15183259,
-      "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
-      "upload_year": "2026",
-      "channel": "웃다울다가",
-      "duration": 146
-    },
-    {
-      "views": 10859474,
-      "title": "길에서 어깨빵 치고 빤스런한 여성의 최후",
-      "upload_year": "2026",
-      "channel": "불타는돌직구",
-      "duration": 123
-    },
-    {
-      "views": 10561551,
+      "views": 11330976,
       "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
       "upload_year": "2026",
       "channel": "토파리뷰",
       "duration": 34
     },
     {
-      "views": 9596255,
+      "views": 11110958,
+      "title": "길에서 어깨빵 치고 빤스런한 여성의 최후",
+      "upload_year": "2026",
+      "channel": "불타는돌직구",
+      "duration": 123
+    },
+    {
+      "views": 9850664,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 9231429,
+      "views": 9794638,
       "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
       "upload_year": "2026",
       "channel": "김로카",
       "duration": 33
+    },
+    {
+      "views": 8704826,
+      "title": "이 정도면 월급 더 드려야 할 것 같은 아일릿 제6의 멤버 #아일릿 #illit #체포하겠어",
+      "upload_year": "2026",
+      "channel": "케이위키",
+      "duration": 18
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "생기는",
-    "#shorts",
     "이유",
-    "#kpop",
-    "일ㅋㅋ",
-    "엄마",
-    "만난",
-    "#보검매직컬2",
+    "#shorts",
     "#재혼황후",
+    "최후",
+    "생기는",
+    "만난",
     "#디즈니플러스",
+    "vs",
     "신부가",
     "#시니어드라마",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
-    "#스케치코미디",
-    "#유머",
-    "함부로",
-    "인생을",
-    "포기하면"
+    "#상남자의여행법",
+    "#상남자의여행법시즌2",
+    "#SBS",
+    "#김종국",
+    "#추성훈",
+    "#지코",
+    "추성훈의",
+    "로우킥",
+    "맞아보고",
+    "싶다는"
   ],
   "channel_distribution": [
     {
-      "channel": "웃다울다가",
+      "channel": "토파리뷰",
       "count": 1
     },
     {
       "channel": "불타는돌직구",
-      "count": 1
-    },
-    {
-      "channel": "토파리뷰",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "예능한스푼",
-      "count": 1
-    },
-    {
-      "channel": "esports KBS",
-      "count": 1
-    },
-    {
       "channel": "예능존",
       "count": 1
     },
     {
-      "channel": "레전드씬",
+      "channel": "짤시네마",
+      "count": 1
+    },
+    {
+      "channel": "제니쫀득쿠키",
+      "count": 1
+    },
+    {
+      "channel": "무비용",
+      "count": 1
+    },
+    {
+      "channel": "아워무비",
       "count": 1
     }
   ],
