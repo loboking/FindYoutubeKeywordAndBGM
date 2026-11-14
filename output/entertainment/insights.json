@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 최후, 생기는, 만난",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 만난, 생기는, TOP5",
   "top_videos_summary": [
     {
-      "views": 11330976,
+      "views": 12053255,
       "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
       "upload_year": "2026",
       "channel": "토파리뷰",
       "duration": 34
     },
     {
-      "views": 11110958,
-      "title": "길에서 어깨빵 치고 빤스런한 여성의 최후",
-      "upload_year": "2026",
-      "channel": "불타는돌직구",
-      "duration": 123
-    },
-    {
-      "views": 9850664,
+      "views": 10347906,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 9794638,
-      "title": "방송중 오해하면 생기는 일 TOP4 #kpop #아이돌",
-      "upload_year": "2026",
-      "channel": "김로카",
-      "duration": 33
-    },
-    {
-      "views": 8704826,
+      "views": 8997133,
       "title": "이 정도면 월급 더 드려야 할 것 같은 아일릿 제6의 멤버 #아일릿 #illit #체포하겠어",
       "upload_year": "2026",
       "channel": "케이위키",
       "duration": 18
+    },
+    {
+      "views": 7492651,
+      "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
+      "upload_year": "2026",
+      "channel": "예능존",
+      "duration": 53
+    },
+    {
+      "views": 7364831,
+      "title": "아이를 위해 남편을 버리기로 결심한 아내",
+      "upload_year": "2026",
+      "channel": "짤시네마",
+      "duration": 85
     }
   ],
   "outlier_adjusted": {
@@ -51,23 +51,23 @@
     "이유",
     "#shorts",
     "#재혼황후",
-    "최후",
-    "생기는",
     "만난",
+    "생기는",
+    "TOP5",
     "#디즈니플러스",
     "vs",
+    "레전드",
     "신부가",
+    "맞은",
     "#시니어드라마",
+    "검사",
     "#상남자의여행법",
     "#상남자의여행법시즌2",
     "#SBS",
     "#김종국",
     "#추성훈",
     "#지코",
-    "추성훈의",
-    "로우킥",
-    "맞아보고",
-    "싶다는"
+    "추성훈의"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "불타는돌직구",
-      "count": 1
-    },
-    {
       "channel": "무비펭",
-      "count": 1
-    },
-    {
-      "channel": "김로카",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
-      "channel": "무비용",
+      "channel": "멍드",
       "count": 1
     },
     {
-      "channel": "아워무비",
+      "channel": "잠깐만아이돌",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
+      "count": 1
+    },
+    {
+      "channel": "폭룡숏",
       "count": 1
     }
   ],
