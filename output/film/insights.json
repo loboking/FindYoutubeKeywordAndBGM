@@ -3,77 +3,73 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #재혼황후, 이유, #디즈니플러스, #드라마, #보검매직컬2, vs",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #재혼황후, #드라마, 만난, #디즈니플러스, 최후",
   "top_videos_summary": [
     {
-      "views": 15183324,
-      "title": "함부로 인생을 포기하면 생기는 일  #스케치코미디 #유머",
-      "upload_year": "2026",
-      "channel": "웃다울다가",
-      "duration": 146
-    },
-    {
-      "views": 10859951,
+      "views": 11110958,
       "title": "길에서 어깨빵 치고 빤스런한 여성의 최후",
       "upload_year": "2026",
       "channel": "불타는돌직구",
       "duration": 123
     },
     {
-      "views": 9596844,
+      "views": 9851163,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 6518245,
+      "views": 6948207,
       "title": "선생님을 놀라게 한 천재 소년의 계산법",
       "upload_year": "2026",
       "channel": "소리담다",
       "duration": 145
     },
     {
-      "views": 6113523,
+      "views": 6822437,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
+    },
+    {
+      "views": 5619859,
+      "title": "아이를 위해 남편을 버리기로 결심한 아내",
+      "upload_year": "2026",
+      "channel": "짤시네마",
+      "duration": 85
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.11,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#재혼황후",
     "이유",
-    "#디즈니플러스",
+    "#재혼황후",
     "#드라마",
+    "만난",
+    "#디즈니플러스",
+    "최후",
+    "#shorts",
+    "생기는",
     "#보검매직컬2",
-    "vs",
     "#이종석",
     "#신민아",
-    "생기는",
-    "#shorts",
-    "만난",
-    "시어머니",
-    "박보검",
-    "[영업",
-    "출범식]",
-    "고경표",
+    "vs",
+    "하인리",
     "신부가",
     "#시니어드라마",
-    "#시니어쇼츠",
-    "#시니어"
+    "앞에서",
+    "검사",
+    "치이카와",
+    "길에서",
+    "어깨빵"
   ],
   "channel_distribution": [
-    {
-      "channel": "웃다울다가",
-      "count": 1
-    },
     {
       "channel": "불타는돌직구",
       "count": 1
@@ -91,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "레전드씬",
-      "count": 1
-    },
-    {
-      "channel": "무비썬",
+      "channel": "짤시네마",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "짤시네마",
+      "channel": "무비썬",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "멍드",
       "count": 1
     }
   ],
