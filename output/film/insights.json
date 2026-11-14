@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #재혼황후, #드라마, 만난, #디즈니플러스, 최후",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 최후, 만난, #드라마",
   "top_videos_summary": [
     {
-      "views": 11110958,
+      "views": 11706975,
       "title": "길에서 어깨빵 치고 빤스런한 여성의 최후",
       "upload_year": "2026",
       "channel": "불타는돌직구",
       "duration": 123
     },
     {
-      "views": 9851163,
+      "views": 10348651,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 6948207,
-      "title": "선생님을 놀라게 한 천재 소년의 계산법",
-      "upload_year": "2026",
-      "channel": "소리담다",
-      "duration": 145
-    },
-    {
-      "views": 6822437,
+      "views": 7492651,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
     },
     {
-      "views": 5619859,
+      "views": 7364831,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
+    },
+    {
+      "views": 7112562,
+      "title": "선생님을 놀라게 한 천재 소년의 계산법",
+      "upload_year": "2026",
+      "channel": "소리담다",
+      "duration": 145
     }
   ],
   "outlier_adjusted": {
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "이유",
-    "#재혼황후",
-    "#드라마",
-    "만난",
-    "#디즈니플러스",
-    "최후",
     "#shorts",
+    "#재혼황후",
+    "최후",
+    "만난",
+    "#드라마",
     "생기는",
-    "#보검매직컬2",
-    "#이종석",
-    "#신민아",
+    "#디즈니플러스",
+    "소중한",
     "vs",
-    "하인리",
     "신부가",
+    "#영화",
+    "돌잔치에서",
+    "맞은",
     "#시니어드라마",
-    "앞에서",
     "검사",
-    "치이카와",
     "길에서",
-    "어깨빵"
+    "어깨빵",
+    "치고",
+    "빤스런한"
   ],
   "channel_distribution": [
     {
@@ -79,10 +79,6 @@
       "count": 1
     },
     {
-      "channel": "소리담다",
-      "count": 1
-    },
-    {
       "channel": "예능존",
       "count": 1
     },
@@ -91,23 +87,27 @@
       "count": 1
     },
     {
-      "channel": "무비용",
-      "count": 1
-    },
-    {
-      "channel": "아워무비",
-      "count": 1
-    },
-    {
-      "channel": "무비썬",
-      "count": 1
-    },
-    {
-      "channel": "케슛슛",
+      "channel": "소리담다",
       "count": 1
     },
     {
       "channel": "멍드",
+      "count": 1
+    },
+    {
+      "channel": "폭룡숏",
+      "count": 1
+    },
+    {
+      "channel": "야그쟁이",
+      "count": 1
+    },
+    {
+      "channel": "퇴근후에",
+      "count": 1
+    },
+    {
+      "channel": "쇼몬클립",
       "count": 1
     }
   ],
