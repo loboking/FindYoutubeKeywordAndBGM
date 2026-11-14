@@ -3,26 +3,15 @@
   "slug": "tech-science",
   "source": "mostpopular_category",
   "category_id": "28",
-  "shorts_found": 45,
+  "shorts_found": 44,
   "target": 50,
   "max_video_duration": 180,
   "filter_version": 8,
   "videos": [
     {
-      "id": "BjEDTDbB098",
-      "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
-      "view_count": 4694265,
-      "duration": 41,
-      "upload_date": "20261026",
-      "category": "20",
-      "channel": "짧주",
-      "source_channel": "짧주",
-      "url": "https://www.youtube.com/watch?v=BjEDTDbB098"
-    },
-    {
       "id": "Psc4nZxzqbk",
       "title": "모니터 12대로 만든 윈도우 12",
-      "view_count": 4681107,
+      "view_count": 4819239,
       "duration": 51,
       "upload_date": "20261028",
       "category": "23",
@@ -31,20 +20,20 @@
       "url": "https://www.youtube.com/watch?v=Psc4nZxzqbk"
     },
     {
-      "id": "0Lbyq7o2buY",
-      "title": "OLED TV가 왜 넘사인지 설명해줌",
-      "view_count": 3203873,
-      "duration": 35,
-      "upload_date": "20261102",
-      "category": "23",
-      "channel": "먹구리",
-      "source_channel": "먹구리",
-      "url": "https://www.youtube.com/watch?v=0Lbyq7o2buY"
+      "id": "BjEDTDbB098",
+      "title": "아이폰 듀오 논란에 새로운 광고 올린 삼성",
+      "view_count": 4723777,
+      "duration": 41,
+      "upload_date": "20261026",
+      "category": "20",
+      "channel": "짧주",
+      "source_channel": "짧주",
+      "url": "https://www.youtube.com/watch?v=BjEDTDbB098"
     },
     {
       "id": "byW7FdvKWh0",
       "title": "옛날폰에 충전기 꽂았더니 1초만에 완충 됨..ㄷㄷ",
-      "view_count": 3072899,
+      "view_count": 4149304,
       "duration": 17,
       "upload_date": "20261112",
       "category": "23",
@@ -53,9 +42,42 @@
       "url": "https://www.youtube.com/watch?v=byW7FdvKWh0"
     },
     {
+      "id": "Q2Pppwi-jdk",
+      "title": "아빠들 핸드폰에는 수명이 없는걸까?",
+      "view_count": 3362117,
+      "duration": 10,
+      "upload_date": "20261113",
+      "category": "22",
+      "channel": "대환장",
+      "source_channel": "대환장",
+      "url": "https://www.youtube.com/watch?v=Q2Pppwi-jdk"
+    },
+    {
+      "id": "0Lbyq7o2buY",
+      "title": "OLED TV가 왜 넘사인지 설명해줌",
+      "view_count": 3213997,
+      "duration": 35,
+      "upload_date": "20261102",
+      "category": "23",
+      "channel": "먹구리",
+      "source_channel": "먹구리",
+      "url": "https://www.youtube.com/watch?v=0Lbyq7o2buY"
+    },
+    {
+      "id": "wDsPJv_K_5Y",
+      "title": "GIGABYTE GAMING PC Build! RYZEN 7 9800X3D + GIGABYTE RTX 5080🫅 #pcbuild #gaming #gigabyte",
+      "view_count": 2380965,
+      "duration": 177,
+      "upload_date": "20261107",
+      "category": "28",
+      "channel": "PC BUILD~USA",
+      "source_channel": "PC BUILD~USA",
+      "url": "https://www.youtube.com/watch?v=wDsPJv_K_5Y"
+    },
+    {
       "id": "oilP3_DAPXg",
       "title": "잔대가리 들통난 아이폰듀오 힌지의 비밀?",
-      "view_count": 1693382,
+      "view_count": 1743961,
       "duration": 44,
       "upload_date": "20261101",
       "category": "27",
@@ -66,7 +88,7 @@
     {
       "id": "Mb7cZs-P_bU",
       "title": "아이폰에 추가된 혁신적인 기능",
-      "view_count": 1622973,
+      "view_count": 1638437,
       "duration": 32,
       "upload_date": "20261108",
       "category": "24",
@@ -75,42 +97,9 @@
       "url": "https://www.youtube.com/watch?v=Mb7cZs-P_bU"
     },
     {
-      "id": "PTXG9QmCUas",
-      "title": "TV스피커 위에 끈적한 액체를 부으면 벌어지는 일",
-      "view_count": 1530508,
-      "duration": 63,
-      "upload_date": "20261104",
-      "category": "23",
-      "channel": "지식줄고양",
-      "source_channel": "지식줄고양",
-      "url": "https://www.youtube.com/watch?v=PTXG9QmCUas"
-    },
-    {
-      "id": "aWjrnoSgIU4",
-      "title": "고양이 민원에 LG가 항복함",
-      "view_count": 1419045,
-      "duration": 43,
-      "upload_date": "20261016",
-      "category": "22",
-      "channel": "또샀나",
-      "source_channel": "또샀나",
-      "url": "https://www.youtube.com/watch?v=aWjrnoSgIU4"
-    },
-    {
-      "id": "Q2Pppwi-jdk",
-      "title": "아빠들 핸드폰에는 수명이 없는걸까?",
-      "view_count": 1286099,
-      "duration": 10,
-      "upload_date": "20261113",
-      "category": "22",
-      "channel": "대환장",
-      "source_channel": "대환장",
-      "url": "https://www.youtube.com/watch?v=Q2Pppwi-jdk"
-    },
-    {
       "id": "nZHKraeN9R8",
       "title": "아무도 모르는 헤드폰 숨은 기능",
-      "view_count": 1280232,
+      "view_count": 1560889,
       "duration": 33,
       "upload_date": "20261110",
       "category": "24",
@@ -119,9 +108,31 @@
       "url": "https://www.youtube.com/watch?v=nZHKraeN9R8"
     },
     {
+      "id": "PTXG9QmCUas",
+      "title": "TV스피커 위에 끈적한 액체를 부으면 벌어지는 일",
+      "view_count": 1545176,
+      "duration": 63,
+      "upload_date": "20261104",
+      "category": "23",
+      "channel": "지식줄고양",
+      "source_channel": "지식줄고양",
+      "url": "https://www.youtube.com/watch?v=PTXG9QmCUas"
+    },
+    {
+      "id": "gVYnDm2FjhU",
+      "title": "[갤럭시 Z 폴드8] 작은 감탄에서 시작된 이야기 | 삼성전자",
+      "view_count": 1437779,
+      "duration": 52,
+      "upload_date": "20261112",
+      "category": "28",
+      "channel": "삼성전자 Samsung Electronics",
+      "source_channel": "삼성전자 Samsung Electronics",
+      "url": "https://www.youtube.com/watch?v=gVYnDm2FjhU"
+    },
+    {
       "id": "t4Kfe2LTEyc",
       "title": "컴알못 친구의 키보드 청소",
-      "view_count": 1036678,
+      "view_count": 1041048,
       "duration": 37,
       "upload_date": "20261105",
       "category": "20",
@@ -132,7 +143,7 @@
     {
       "id": "qo8TKk19yT4",
       "title": "2026년에 폴더폰 쓰는 이유?",
-      "view_count": 976250,
+      "view_count": 1011614,
       "duration": 139,
       "upload_date": "20261103",
       "category": "22",
@@ -141,20 +152,20 @@
       "url": "https://www.youtube.com/watch?v=qo8TKk19yT4"
     },
     {
-      "id": "gVYnDm2FjhU",
-      "title": "[갤럭시 Z 폴드8] 작은 감탄에서 시작된 이야기 | 삼성전자",
-      "view_count": 890660,
-      "duration": 52,
-      "upload_date": "20261112",
-      "category": "28",
-      "channel": "삼성전자 Samsung Electronics",
-      "source_channel": "삼성전자 Samsung Electronics",
-      "url": "https://www.youtube.com/watch?v=gVYnDm2FjhU"
+      "id": "TvCCOb42Xn8",
+      "title": "딱 한명만 쓸수있다는 기묘한 이어폰",
+      "view_count": 780607,
+      "duration": 33,
+      "upload_date": "20261103",
+      "category": "26",
+      "channel": "인생갓템",
+      "source_channel": "인생갓템",
+      "url": "https://www.youtube.com/watch?v=TvCCOb42Xn8"
     },
     {
       "id": "f2XMwhzo4t4",
       "title": "삼성이 아이폰 듀오의 화면을 조롱하는 방법",
-      "view_count": 767892,
+      "view_count": 777710,
       "duration": 28,
       "upload_date": "20261111",
       "category": "23",
@@ -164,8 +175,8 @@
     },
     {
       "id": "7XTX22cypsg",
-      "title": "모든세대 통합시킨 a2o",
-      "view_count": 652845,
+      "title": "모든세대 통합시킨 a70",
+      "view_count": 773870,
       "duration": 17,
       "upload_date": "20261111",
       "category": "24",
@@ -174,31 +185,20 @@
       "url": "https://www.youtube.com/watch?v=7XTX22cypsg"
     },
     {
-      "id": "TvCCOb42Xn8",
-      "title": "딱 한명만 쓸수있다는 기묘한 이어폰",
-      "view_count": 603170,
-      "duration": 33,
-      "upload_date": "20261103",
-      "category": "26",
-      "channel": "인생갓템",
-      "source_channel": "인생갓템",
-      "url": "https://www.youtube.com/watch?v=TvCCOb42Xn8"
-    },
-    {
-      "id": "2FdQB-hCti4",
-      "title": "충전선 망가지기 전에 이렇게🔌",
-      "view_count": 570154,
-      "duration": 19,
-      "upload_date": "20261103",
+      "id": "dU2qL5yW-28",
+      "title": "통화녹음 되는 아이폰 드디어 나왔습니다 ㅋㅋㅋ",
+      "view_count": 669878,
+      "duration": 17,
+      "upload_date": "20261113",
       "category": "24",
-      "channel": "행운클로버",
-      "source_channel": "행운클로버",
-      "url": "https://www.youtube.com/watch?v=2FdQB-hCti4"
+      "channel": "쇼글쇼글",
+      "source_channel": "쇼글쇼글",
+      "url": "https://www.youtube.com/watch?v=dU2qL5yW-28"
     },
     {
       "id": "r8xy3fiFfbI",
       "title": "아이폰 쓰면 고과 안줄거임",
-      "view_count": 502994,
+      "view_count": 514914,
       "duration": 65,
       "upload_date": "20261107",
       "category": "22",
@@ -207,31 +207,9 @@
       "url": "https://www.youtube.com/watch?v=r8xy3fiFfbI"
     },
     {
-      "id": "nWvh54ab7qI",
-      "title": "1400만원에서 40만원으로 나락 가버린 그래픽카드(?)를 써보자 #nvidia #테슬라 #v100",
-      "view_count": 481888,
-      "duration": 111,
-      "upload_date": "20261108",
-      "category": "28",
-      "channel": "민티저",
-      "source_channel": "민티저",
-      "url": "https://www.youtube.com/watch?v=nWvh54ab7qI"
-    },
-    {
-      "id": "j_9nFOubBJQ",
-      "title": "600만원짜리 신상 맥북 proled 언박싱 ㄷㄷ",
-      "view_count": 463066,
-      "duration": 35,
-      "upload_date": "20261110",
-      "category": "22",
-      "channel": "진자림 Jinjalim",
-      "source_channel": "진자림 Jinjalim",
-      "url": "https://www.youtube.com/watch?v=j_9nFOubBJQ"
-    },
-    {
       "id": "gZYv6RA80Uo",
       "title": "천재가 만든 접이식 이어폰ㅋㅋ",
-      "view_count": 419939,
+      "view_count": 502294,
       "duration": 21,
       "upload_date": "20261110",
       "category": "24",
@@ -240,20 +218,64 @@
       "url": "https://www.youtube.com/watch?v=gZYv6RA80Uo"
     },
     {
-      "id": "jR1rLA-q8X4",
-      "title": "헉 막대형 스마트폰 #smartphone #삼성전자 #스마트폰",
-      "view_count": 400574,
-      "duration": 16,
-      "upload_date": "20261021",
-      "category": "26",
-      "channel": "인생득템",
-      "source_channel": "인생득템",
-      "url": "https://www.youtube.com/watch?v=jR1rLA-q8X4"
+      "id": "j_9nFOubBJQ",
+      "title": "600만원짜리 신상 맥북 proled 언박싱 ㄷㄷ",
+      "view_count": 500739,
+      "duration": 35,
+      "upload_date": "20261110",
+      "category": "22",
+      "channel": "진자림 Jinjalim",
+      "source_channel": "진자림 Jinjalim",
+      "url": "https://www.youtube.com/watch?v=j_9nFOubBJQ"
+    },
+    {
+      "id": "nWvh54ab7qI",
+      "title": "1400만원에서 40만원으로 나락 가버린 그래픽카드(?)를 써보자 #nvidia #테슬라 #v100",
+      "view_count": 496524,
+      "duration": 111,
+      "upload_date": "20261108",
+      "category": "28",
+      "channel": "민티저",
+      "source_channel": "민티저",
+      "url": "https://www.youtube.com/watch?v=nWvh54ab7qI"
+    },
+    {
+      "id": "hunKHxGbMWY",
+      "title": "삼성 그립톡이 4만원에 나왔는데도 난리 난 이유",
+      "view_count": 395057,
+      "duration": 30,
+      "upload_date": "20261113",
+      "category": "24",
+      "channel": "만렙백수",
+      "source_channel": "만렙백수",
+      "url": "https://www.youtube.com/watch?v=hunKHxGbMWY"
+    },
+    {
+      "id": "4ZHXHU5HvZc",
+      "title": "Z 폴드 vs 아이폰 듀오",
+      "view_count": 385940,
+      "duration": 29,
+      "upload_date": "20261112",
+      "category": "23",
+      "channel": "헐 진짜?",
+      "source_channel": "헐 진짜?",
+      "url": "https://www.youtube.com/watch?v=4ZHXHU5HvZc"
+    },
+    {
+      "id": "nufMuZ3ZZsU",
+      "title": "중고폰 환전 ATM 절대 쓰면 안되는 이유",
+      "view_count": 385428,
+      "duration": 55,
+      "upload_date": "20261113",
+      "category": "23",
+      "channel": "일분일초",
+      "source_channel": "일분일초",
+      "url": "https://www.youtube.com/watch?v=nufMuZ3ZZsU"
     },
     {
       "id": "k8LUNWIBI3o",
       "title": "노래방 고수들도 잘 모른다는 \"노래방의 숨겨진 기능\"",
-      "view_count": 375220,
+      "view_count": 385179,
       "duration": 64,
       "upload_date": "20261106",
       "category": "26",
@@ -264,7 +286,7 @@
     {
       "id": "pmijsHiiZt8",
       "title": "랜덤박스에서 나온 휴대폰의 가치는",
-      "view_count": 354972,
+      "view_count": 369455,
       "duration": 45,
       "upload_date": "20261106",
       "category": "1",
@@ -275,7 +297,7 @@
     {
       "id": "GInn2mA8S4s",
       "title": "스마트 태그 자전거에 숨기는 방법!",
-      "view_count": 344815,
+      "view_count": 351519,
       "duration": 45,
       "upload_date": "20261107",
       "category": "17",
@@ -284,31 +306,9 @@
       "url": "https://www.youtube.com/watch?v=GInn2mA8S4s"
     },
     {
-      "id": "dU2qL5yW-28",
-      "title": "통화녹음 되는 아이폰 드디어 나왔습니다 ㅋㅋㅋ",
-      "view_count": 312290,
-      "duration": 17,
-      "upload_date": "20261113",
-      "category": "24",
-      "channel": "쇼글쇼글",
-      "source_channel": "쇼글쇼글",
-      "url": "https://www.youtube.com/watch?v=dU2qL5yW-28"
-    },
-    {
-      "id": "tCShSmezC2s",
-      "title": "애플이 7년 늦게 내놓은 폴더블이 흔들리자 한국 삼성으로 눈 돌린 외국인들의 소름 돋는 반응 ㄷㄷ",
-      "view_count": 259586,
-      "duration": 127,
-      "upload_date": "20261108",
-      "category": "1",
-      "channel": "지금들어봐",
-      "source_channel": "지금들어봐",
-      "url": "https://www.youtube.com/watch?v=tCShSmezC2s"
-    },
-    {
       "id": "FXra827EZKU",
       "title": "이제 건전지도 충전해서 쓰세요!",
-      "view_count": 253967,
+      "view_count": 303013,
       "duration": 19,
       "upload_date": "20261108",
       "category": "10",
@@ -317,31 +317,9 @@
       "url": "https://www.youtube.com/watch?v=FXra827EZKU"
     },
     {
-      "id": "IQmfNp3znHY",
-      "title": "A2O LITE 시리",
-      "view_count": 252269,
-      "duration": 15,
-      "upload_date": "20261110",
-      "category": "19",
-      "channel": "쓰까르",
-      "source_channel": "쓰까르",
-      "url": "https://www.youtube.com/watch?v=IQmfNp3znHY"
-    },
-    {
-      "id": "nutMZPAveOc",
-      "title": "상남자의 이어폰 케이스",
-      "view_count": 232604,
-      "duration": 79,
-      "upload_date": "20261106",
-      "category": "26",
-      "channel": "리뷰하는 회사원",
-      "source_channel": "리뷰하는 회사원",
-      "url": "https://www.youtube.com/watch?v=nutMZPAveOc"
-    },
-    {
       "id": "2_nzRqY34lo",
       "title": "애플이 제품 이름에서 아이를 빼버린 이유",
-      "view_count": 207872,
+      "view_count": 291874,
       "duration": 36,
       "upload_date": "20261109",
       "category": "22",
@@ -350,86 +328,53 @@
       "url": "https://www.youtube.com/watch?v=2_nzRqY34lo"
     },
     {
-      "id": "8V9_zsrSDLE",
-      "title": "아이패드 미니 사고 후회하는 사람 특징?! 🤔",
-      "view_count": 198140,
-      "duration": 40,
+      "id": "5TZuOJtUn4A",
+      "title": "지진까지 났다는 아이폰 듀오 근황..? ㄷㄷ",
+      "view_count": 277656,
+      "duration": 23,
+      "upload_date": "20261114",
+      "category": "28",
+      "channel": "맥가이버",
+      "source_channel": "맥가이버",
+      "url": "https://www.youtube.com/watch?v=5TZuOJtUn4A"
+    },
+    {
+      "id": "tCShSmezC2s",
+      "title": "애플이 7년 늦게 내놓은 폴더블이 흔들리자 한국 삼성으로 눈 돌린 외국인들의 소름 돋는 반응 ㄷㄷ",
+      "view_count": 265758,
+      "duration": 127,
       "upload_date": "20261108",
-      "category": "24",
-      "channel": "MerryMa 메리마",
-      "source_channel": "MerryMa 메리마",
-      "url": "https://www.youtube.com/watch?v=8V9_zsrSDLE"
+      "category": "1",
+      "channel": "지금들어봐",
+      "source_channel": "지금들어봐",
+      "url": "https://www.youtube.com/watch?v=tCShSmezC2s"
     },
     {
-      "id": "4ZHXHU5HvZc",
-      "title": "Z 폴드 vs 아이폰 듀오",
-      "view_count": 182596,
-      "duration": 29,
-      "upload_date": "20261112",
-      "category": "23",
-      "channel": "헐 진짜?",
-      "source_channel": "헐 진짜?",
-      "url": "https://www.youtube.com/watch?v=4ZHXHU5HvZc"
-    },
-    {
-      "id": "MQEEeJgOVUQ",
-      "title": "삼성 광고 근황",
-      "view_count": 181042,
-      "duration": 41,
-      "upload_date": "20261107",
-      "category": "22",
-      "channel": "뇌전구",
-      "source_channel": "뇌전구",
-      "url": "https://www.youtube.com/watch?v=MQEEeJgOVUQ"
-    },
-    {
-      "id": "nufMuZ3ZZsU",
-      "title": "중고폰 환전 ATM 절대 쓰면 안되는 이유",
-      "view_count": 151301,
-      "duration": 55,
-      "upload_date": "20261113",
-      "category": "23",
-      "channel": "일분일초",
-      "source_channel": "일분일초",
-      "url": "https://www.youtube.com/watch?v=nufMuZ3ZZsU"
-    },
-    {
-      "id": "O3YJXsGMecw",
-      "title": "중국산 아이폰 최신형ㅋㅋ",
-      "view_count": 146659,
-      "duration": 14,
-      "upload_date": "20261106",
-      "category": "22",
-      "channel": "피식킴",
-      "source_channel": "피식킴",
-      "url": "https://www.youtube.com/watch?v=O3YJXsGMecw"
-    },
-    {
-      "id": "hunKHxGbMWY",
-      "title": "삼성 그립톡이 4만원에 나왔는데도 난리 난 이유",
-      "view_count": 146040,
-      "duration": 30,
-      "upload_date": "20261113",
-      "category": "24",
-      "channel": "만렙백수",
-      "source_channel": "만렙백수",
-      "url": "https://www.youtube.com/watch?v=hunKHxGbMWY"
-    },
-    {
-      "id": "bADUi7lLj14",
-      "title": "와이프가 내 컴퓨터를 30만 원에 올렸다",
-      "view_count": 128040,
-      "duration": 42,
+      "id": "IQmfNp3znHY",
+      "title": "A2O LITE 시리",
+      "view_count": 264757,
+      "duration": 15,
       "upload_date": "20261110",
+      "category": "19",
+      "channel": "쓰까르",
+      "source_channel": "쓰까르",
+      "url": "https://www.youtube.com/watch?v=IQmfNp3znHY"
+    },
+    {
+      "id": "Wsr9gLC45zw",
+      "title": "화제의 AI 안경을 구매한 한국 학생",
+      "view_count": 165385,
+      "duration": 12,
+      "upload_date": "20261114",
       "category": "22",
-      "channel": "썰레몬",
-      "source_channel": "썰레몬",
-      "url": "https://www.youtube.com/watch?v=bADUi7lLj14"
+      "channel": "뇌피셜보이",
+      "source_channel": "뇌피셜보이",
+      "url": "https://www.youtube.com/watch?v=Wsr9gLC45zw"
     },
     {
       "id": "CBWufxZpoWA",
       "title": "포토샵 초고급 사용자가 10년만에 사는 컴퓨터 상담",
-      "view_count": 127763,
+      "view_count": 142977,
       "duration": 98,
       "upload_date": "20261112",
       "category": "26",
@@ -438,9 +383,20 @@
       "url": "https://www.youtube.com/watch?v=CBWufxZpoWA"
     },
     {
+      "id": "bADUi7lLj14",
+      "title": "와이프가 내 컴퓨터를 30만 원에 올렸다",
+      "view_count": 141356,
+      "duration": 42,
+      "upload_date": "20261110",
+      "category": "22",
+      "channel": "썰레몬",
+      "source_channel": "썰레몬",
+      "url": "https://www.youtube.com/watch?v=bADUi7lLj14"
+    },
+    {
       "id": "7b8Tw8kD6-M",
       "title": "이제 테슬라 자체 내비게이션을 쓰고 단속카메라 알림을 받을 수 있다!",
-      "view_count": 100570,
+      "view_count": 117112,
       "duration": 60,
       "upload_date": "20261112",
       "category": "2",
@@ -449,31 +405,31 @@
       "url": "https://www.youtube.com/watch?v=7b8Tw8kD6-M"
     },
     {
-      "id": "c3Mr_peKgzw",
-      "title": "하드용량 겨우 40MB였던 1990년 IBM 가정용 컴퓨터",
-      "view_count": 96743,
-      "duration": 12,
-      "upload_date": "20261113",
+      "id": "bPXJ-H_GwGY",
+      "title": "중형 건전지로 구동하는 1987년 영국 휴대용 PC",
+      "view_count": 79524,
+      "duration": 14,
+      "upload_date": "20261114",
       "category": "28",
       "channel": "지식문",
       "source_channel": "지식문",
-      "url": "https://www.youtube.com/watch?v=c3Mr_peKgzw"
+      "url": "https://www.youtube.com/watch?v=bPXJ-H_GwGY"
     },
     {
-      "id": "Z97yd4I2DEQ",
-      "title": "갤폴드8을 100만원 더 비싸게 파는 방법..? ㄷㄷ",
-      "view_count": 92783,
-      "duration": 15,
-      "upload_date": "20261111",
-      "category": "28",
-      "channel": "맥가이버",
-      "source_channel": "맥가이버",
-      "url": "https://www.youtube.com/watch?v=Z97yd4I2DEQ"
+      "id": "r4NkZNX_efw",
+      "title": "지금 당장 컴퓨터에서 확인하세요 ㅎㄷㄷ;",
+      "view_count": 72559,
+      "duration": 37,
+      "upload_date": "20261113",
+      "category": "26",
+      "channel": "팁타임",
+      "source_channel": "팁타임",
+      "url": "https://www.youtube.com/watch?v=r4NkZNX_efw"
     },
     {
       "id": "QGt5ws_NfyQ",
       "title": "과연 휴대폰을 얼마 정도로 떨어트려야 폰이 깨질까?",
-      "view_count": 62480,
+      "view_count": 69545,
       "duration": 54,
       "upload_date": "20261111",
       "category": "22",
@@ -482,26 +438,59 @@
       "url": "https://www.youtube.com/watch?v=QGt5ws_NfyQ"
     },
     {
-      "id": "SUzrc5VLj-w",
-      "title": "펙트로 샤오미차 하체를 까버린 중국 엔지니어",
-      "view_count": 50815,
-      "duration": 64,
-      "upload_date": "20261110",
-      "category": "2",
-      "channel": "일렉트릭 차이나",
-      "source_channel": "일렉트릭 차이나",
-      "url": "https://www.youtube.com/watch?v=SUzrc5VLj-w"
+      "id": "X2xzZ8u6I7E",
+      "title": "차라리 깨지는게 낫다는 아이폰 듀오 근황",
+      "view_count": 60847,
+      "duration": 31,
+      "upload_date": "20261114",
+      "category": "22",
+      "channel": "뇌전구",
+      "source_channel": "뇌전구",
+      "url": "https://www.youtube.com/watch?v=X2xzZ8u6I7E"
     },
     {
-      "id": "EUo-3A6Ctds",
-      "title": "아이폰·삼성 긴장할듯??",
-      "view_count": 37464,
-      "duration": 21,
-      "upload_date": "20261111",
-      "category": "24",
-      "channel": "야르시대",
-      "source_channel": "야르시대",
-      "url": "https://www.youtube.com/watch?v=EUo-3A6Ctds"
+      "id": "T9aSDU7F1sI",
+      "title": "떡락(?)했다는 갤럭시 Z폴드8 중고가?!",
+      "view_count": 57144,
+      "duration": 28,
+      "upload_date": "20261114",
+      "category": "28",
+      "channel": "티노",
+      "source_channel": "티노",
+      "url": "https://www.youtube.com/watch?v=T9aSDU7F1sI"
+    },
+    {
+      "id": "v2D00VZ-Tfk",
+      "title": "갤럭시의 줌기능 수준?? 줌 풀리는 순간 입이 떡 벌어짐ㄷㄷ",
+      "view_count": 50648,
+      "duration": 12,
+      "upload_date": "20261114",
+      "category": "25",
+      "channel": "국뽕찬다",
+      "source_channel": "국뽕찬다",
+      "url": "https://www.youtube.com/watch?v=v2D00VZ-Tfk"
+    },
+    {
+      "id": "vnStKnGY5iE",
+      "title": "개인 PC 시대는 끝이라는 그래픽 카드 가격 근황",
+      "view_count": 48919,
+      "duration": 14,
+      "upload_date": "20261114",
+      "category": "20",
+      "channel": "무한게임",
+      "source_channel": "무한게임",
+      "url": "https://www.youtube.com/watch?v=vnStKnGY5iE"
+    },
+    {
+      "id": "RBunF-sBXCY",
+      "title": "운전자 90%가 모르는 유용한 버튼 2가지",
+      "view_count": 35392,
+      "duration": 89,
+      "upload_date": "20261113",
+      "category": "22",
+      "channel": "MyCarFML",
+      "source_channel": "MyCarFML",
+      "url": "https://www.youtube.com/watch?v=RBunF-sBXCY"
     }
   ]
 }
