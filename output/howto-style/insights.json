@@ -6,46 +6,46 @@
   "formula": "카테고리 인기 shorts(n=47)에서 두드러진 소재/키워드: #shorts, 이유, vs, 숨겨진, 정체, 셰프",
   "top_videos_summary": [
     {
-      "views": 243059038,
+      "views": 263074513,
       "title": "one sweet kiss, and the funniest surprise! 🥹😂 This golden lady moment is pure happiness! 💛",
       "upload_year": "2026",
       "channel": "Tiny Little Chaos",
       "duration": 31
     },
     {
-      "views": 111692007,
-      "title": "I made a DIY payment ring from a credit card! #diy #lifehacks #tech",
-      "upload_year": "2026",
-      "channel": "Crafter Duck GARAGE",
-      "duration": 180
-    },
-    {
-      "views": 36458445,
-      "title": "World's Biggest Human Catapult 🤯",
-      "upload_year": "2026",
-      "channel": "Red Bull",
-      "duration": 26
-    },
-    {
-      "views": 3874786,
+      "views": 3966324,
       "title": "300만회) 봐도봐도 자꾸 보고 싶은 티키타카왕 남대문 스카프리오 #남대문스카프 #shorts",
       "upload_year": "2026",
       "channel": "길을걷다 BOM",
       "duration": 44
     },
     {
-      "views": 3148751,
+      "views": 3271237,
       "title": "#서촌 장금이가 떠오르는 두 분 사진찍어드리기 #스냅사진 #스냅촬영 #스냅 #사진 #사진가 #사진작가 #포토그래퍼 #스트릿포토 #캐논 #streetphotography #r5m2",
       "upload_year": "2026",
       "channel": "자까다 Jaggada",
       "duration": 149
+    },
+    {
+      "views": 3213719,
+      "title": "처남을 놀라게 하려고 낡은 타이어로 정원 방을 만들었더니… 바닥 아래 숨겨진 비밀 공간의 정체! 😱🏡🔥",
+      "upload_year": "2026",
+      "channel": "Janav Kha",
+      "duration": 135
+    },
+    {
+      "views": 3158759,
+      "title": "셋이 와서 삼겹살 1인분 시키는 빌런 #shorts",
+      "upload_year": "2026",
+      "channel": "숏플레이",
+      "duration": 61
     }
   ],
   "outlier_adjusted": {
     "has_outlier": true,
-    "top1_share": 0.55,
-    "avg_views_excluding_top1": 4375209,
-    "note": "1위가 전체 조회수의 55% 차지 — 평균 왜곡."
+    "top1_share": 0.82,
+    "avg_views_excluding_top1": 1258557,
+    "note": "1위가 전체 조회수의 82% 차지 — 평균 왜곡."
   },
   "trend_keywords": [
     "#shorts",
@@ -54,11 +54,8 @@
     "숨겨진",
     "정체",
     "셰프",
-    "갑자기",
-    "맛있는",
-    "2배로",
-    "대칭",
-    "사람은",
+    "제일",
+    "만드는",
     "레시피",
     "one",
     "sweet",
@@ -67,19 +64,14 @@
     "the",
     "funniest",
     "surprise",
-    "This"
+    "This",
+    "golden",
+    "lady",
+    "moment"
   ],
   "channel_distribution": [
     {
       "channel": "Tiny Little Chaos",
-      "count": 1
-    },
-    {
-      "channel": "Crafter Duck GARAGE",
-      "count": 1
-    },
-    {
-      "channel": "Red Bull",
       "count": 1
     },
     {
@@ -95,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "공간 탐닉 Space Tamnik",
+      "channel": "숏플레이",
       "count": 1
     },
     {
-      "channel": "숏플레이",
+      "channel": "공간 탐닉 Space Tamnik",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "맥박선계란",
+      "channel": "하찮은 고식씨",
+      "count": 1
+    },
+    {
+      "channel": "별쇼츠",
+      "count": 1
+    },
+    {
+      "channel": "리뷰하는 회사원",
       "count": 1
     }
   ],
