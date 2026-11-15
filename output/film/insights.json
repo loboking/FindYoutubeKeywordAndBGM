@@ -3,47 +3,47 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 최후, 만난, #드라마",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 만난, #드라마, #시니어드라마",
   "top_videos_summary": [
     {
-      "views": 11706975,
-      "title": "길에서 어깨빵 치고 빤스런한 여성의 최후",
-      "upload_year": "2026",
-      "channel": "불타는돌직구",
-      "duration": 123
-    },
-    {
-      "views": 10348651,
+      "views": 10965224,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 7492651,
-      "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
-      "upload_year": "2026",
-      "channel": "예능존",
-      "duration": 53
-    },
-    {
-      "views": 7364831,
+      "views": 8585285,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 7112562,
+      "views": 8080376,
+      "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
+      "upload_year": "2026",
+      "channel": "예능존",
+      "duration": 53
+    },
+    {
+      "views": 7251846,
       "title": "선생님을 놀라게 한 천재 소년의 계산법",
       "upload_year": "2026",
       "channel": "소리담다",
       "duration": 145
+    },
+    {
+      "views": 4895781,
+      "title": "호9형 석우를 최민식이 서둘러 말린 이유 #카지노시즌",
+      "upload_year": "2026",
+      "channel": "멍드",
+      "duration": 73
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -51,39 +51,35 @@
     "이유",
     "#shorts",
     "#재혼황후",
-    "최후",
     "만난",
     "#드라마",
+    "#시니어드라마",
+    "가장",
+    "소중한",
+    "엄마",
     "생기는",
     "#디즈니플러스",
-    "소중한",
     "vs",
-    "신부가",
     "#영화",
-    "돌잔치에서",
+    "신부가",
     "맞은",
-    "#시니어드라마",
+    "정체는",
     "검사",
-    "길에서",
-    "어깨빵",
-    "치고",
-    "빤스런한"
+    "#시니어쇼츠",
+    "#시니어",
+    "#반전드라마"
   ],
   "channel_distribution": [
-    {
-      "channel": "불타는돌직구",
-      "count": 1
-    },
     {
       "channel": "무비펭",
       "count": 1
     },
     {
-      "channel": "예능존",
+      "channel": "짤시네마",
       "count": 1
     },
     {
-      "channel": "짤시네마",
+      "channel": "예능존",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
+      "channel": "오늘의영화",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "1분떠들썩",
+      "count": 1
+    },
+    {
+      "channel": "돌픽갤러리",
+      "count": 1
+    },
+    {
       "channel": "폭룡숏",
-      "count": 1
-    },
-    {
-      "channel": "야그쟁이",
-      "count": 1
-    },
-    {
-      "channel": "퇴근후에",
-      "count": 1
-    },
-    {
-      "channel": "쇼몬클립",
       "count": 1
     }
   ],
