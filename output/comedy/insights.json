@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, 바로, #시니어, #강호동, 소중한",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #강호동, 우연히, 카페, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 12539806,
+      "views": 12874468,
       "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
       "upload_year": "2026",
       "channel": "토파리뷰",
       "duration": 34
     },
     {
-      "views": 10965224,
+      "views": 11394367,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 8584161,
+      "views": 9308034,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 8079350,
+      "views": 8426631,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
     },
     {
-      "views": 5363304,
-      "title": "아내가 천하장사보다 강한 이유 #예능명장면",
+      "views": 6829421,
+      "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
-      "channel": "어쩌죠이야기",
-      "duration": 24
+      "channel": "케슛슛",
+      "duration": 153
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "이유",
-    "바로",
-    "#시니어",
+    "#shorts",
     "#강호동",
-    "소중한",
+    "우연히",
+    "카페",
     "#스케치코미디",
-    "vs",
+    "바로",
+    "만난",
     "레전드",
-    "신부가",
-    "당황하는",
+    "vs",
+    "맞은",
+    "최후",
+    "할머니를",
+    "남자가",
+    "#시니어",
     "#시니어드라마",
     "#시니어쇼츠",
     "#반전드라마",
     "#상남자의여행법",
-    "#상남자의여행법시즌2",
-    "#SBS",
-    "#김종국",
-    "#추성훈",
-    "#지코"
+    "#상남자의여행법시즌2"
   ],
   "channel_distribution": [
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "channel": "어쩌죠이야기",
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -99,15 +99,15 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "투게더뷰티풀",
+      "channel": "아워무비",
       "count": 1
     },
     {
       "channel": "1분떠들썩",
+      "count": 1
+    },
+    {
+      "channel": "훅점프",
       "count": 1
     }
   ],
