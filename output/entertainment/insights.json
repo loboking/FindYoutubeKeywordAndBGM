@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 레전드, #강호동, 당황한, 가장",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 레전드, #추성훈, #강호동, 당황한",
   "top_videos_summary": [
     {
-      "views": 12539604,
+      "views": 12873907,
       "title": "추성훈의 로우킥? 맞아보고 싶다는 지코 #상남자의여행법 #상남자의여행법시즌2 #SBS Plus X MBN #김종국 #추성훈 #지코",
       "upload_year": "2026",
       "channel": "토파리뷰",
       "duration": 34
     },
     {
-      "views": 10965224,
+      "views": 11394367,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 8584161,
+      "views": 9308034,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 8079350,
+      "views": 8426631,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
     },
     {
-      "views": 7174551,
+      "views": 7449847,
       "title": "당황한 상대배우에게 송강이 보인 역대급  배려",
       "upload_year": "2026",
       "channel": "제니쫀득쿠키",
@@ -51,19 +51,19 @@
     "이유",
     "#shorts",
     "레전드",
+    "#추성훈",
     "#강호동",
     "당황한",
-    "가장",
-    "소중한",
-    "생기는",
-    "TOP5",
-    "순간",
-    "#재혼황후",
+    "모음",
+    "엄마",
+    "맞은",
+    "정체는",
+    "없는",
+    "아이",
     "#상남자의여행법",
     "#상남자의여행법시즌2",
     "#SBS",
     "#김종국",
-    "#추성훈",
     "#지코",
     "추성훈의",
     "로우킥",
@@ -91,11 +91,7 @@
       "count": 1
     },
     {
-      "channel": "잠깐만아이돌",
-      "count": 1
-    },
-    {
-      "channel": "멍드",
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "패션탐정냥",
+      "channel": "잠깐만아이돌",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "돼지감자",
+      "count": 1
+    },
+    {
+      "channel": "멍드",
       "count": 1
     }
   ],
