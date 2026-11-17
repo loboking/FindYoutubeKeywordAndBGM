@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 만난, #드라마, #시니어드라마",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 만난, #재혼황후, #시니어드라마, 우연히",
   "top_videos_summary": [
     {
-      "views": 10965224,
+      "views": 11394367,
       "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
       "upload_year": "2026",
       "channel": "무비펭",
       "duration": 16
     },
     {
-      "views": 8585285,
+      "views": 9308034,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 8080376,
+      "views": 8427363,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
     },
     {
-      "views": 7251846,
-      "title": "선생님을 놀라게 한 천재 소년의 계산법",
+      "views": 6829421,
+      "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
-      "channel": "소리담다",
-      "duration": 145
+      "channel": "케슛슛",
+      "duration": 153
     },
     {
-      "views": 4895781,
-      "title": "호9형 석우를 최민식이 서둘러 말린 이유 #카지노시즌",
+      "views": 5862428,
+      "title": "가족이 세상에서 가장 소중한 이유",
       "upload_year": "2026",
-      "channel": "멍드",
-      "duration": 73
+      "channel": "오늘의영화",
+      "duration": 66
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "#shorts",
-    "#재혼황후",
     "만난",
-    "#드라마",
+    "#재혼황후",
     "#시니어드라마",
+    "우연히",
     "가장",
     "소중한",
     "엄마",
     "생기는",
-    "#디즈니플러스",
-    "vs",
+    "#드라마",
     "#영화",
-    "신부가",
-    "맞은",
+    "주지훈",
     "정체는",
-    "검사",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마"
+    "최후",
+    "시어머니의",
+    "NG내고",
+    "성격",
+    "나왔다는",
+    "아역배우"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,7 @@
       "count": 1
     },
     {
-      "channel": "소리담다",
-      "count": 1
-    },
-    {
-      "channel": "멍드",
+      "channel": "케슛슛",
       "count": 1
     },
     {
@@ -95,7 +91,11 @@
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "멍드",
+      "count": 1
+    },
+    {
+      "channel": "아워무비",
       "count": 1
     },
     {
