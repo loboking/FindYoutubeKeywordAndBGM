@@ -3,42 +3,42 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 만난, #재혼황후, #시니어드라마, 우연히",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #시니어드라마, #shorts, #반전드라마, 만난, 최후",
   "top_videos_summary": [
     {
-      "views": 11394367,
-      "title": "NG내고 찐 성격 나왔다는 아역배우 진지희",
-      "upload_year": "2026",
-      "channel": "무비펭",
-      "duration": 16
-    },
-    {
-      "views": 9308034,
+      "views": 9356557,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 8427363,
-      "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
-      "upload_year": "2026",
-      "channel": "예능존",
-      "duration": 53
-    },
-    {
-      "views": 6829421,
+      "views": 8757114,
       "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 153
     },
     {
-      "views": 5862428,
+      "views": 8661190,
+      "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
+      "upload_year": "2026",
+      "channel": "예능존",
+      "duration": 53
+    },
+    {
+      "views": 6613064,
       "title": "가족이 세상에서 가장 소중한 이유",
       "upload_year": "2026",
       "channel": "오늘의영화",
       "duration": 66
+    },
+    {
+      "views": 5043166,
+      "title": "호9형 석우를 최민식이 서둘러 말린 이유 #카지노시즌",
+      "upload_year": "2026",
+      "channel": "멍드",
+      "duration": 73
     }
   ],
   "outlier_adjusted": {
@@ -49,41 +49,37 @@
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
-    "만난",
-    "#재혼황후",
     "#시니어드라마",
-    "우연히",
-    "가장",
-    "소중한",
-    "엄마",
-    "생기는",
-    "#드라마",
-    "#영화",
-    "주지훈",
-    "정체는",
+    "#shorts",
+    "#반전드라마",
+    "만난",
     "최후",
-    "시어머니의",
-    "NG내고",
-    "성격",
-    "나왔다는",
-    "아역배우"
+    "#시니어",
+    "우연히",
+    "너무",
+    "기싸움",
+    "정체는",
+    "방송",
+    "#시니어쇼츠",
+    "#AI가상인물",
+    "#사이다",
+    "아들을",
+    "며느리",
+    "#숏드라마",
+    "아이를",
+    "위해"
   ],
   "channel_distribution": [
-    {
-      "channel": "무비펭",
-      "count": 1
-    },
     {
       "channel": "짤시네마",
       "count": 1
     },
     {
-      "channel": "예능존",
+      "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "예능존",
       "count": 1
     },
     {
@@ -95,19 +91,23 @@
       "count": 1
     },
     {
-      "channel": "아워무비",
-      "count": 1
-    },
-    {
       "channel": "1분떠들썩",
       "count": 1
     },
     {
-      "channel": "돌픽갤러리",
+      "channel": "폭룡숏",
       "count": 1
     },
     {
-      "channel": "폭룡숏",
+      "channel": "무비용",
+      "count": 1
+    },
+    {
+      "channel": "명화관",
+      "count": 1
+    },
+    {
+      "channel": "아워무비",
       "count": 1
     }
   ],
