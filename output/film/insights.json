@@ -3,79 +3,79 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #시니어드라마, #shorts, #반전드라마, 만난, 최후",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #재혼황후, #shorts, #반전드라마, #디즈니플러스, #드라마",
   "top_videos_summary": [
     {
-      "views": 9356557,
-      "title": "아이를 위해 남편을 버리기로 결심한 아내",
-      "upload_year": "2026",
-      "channel": "짤시네마",
-      "duration": 85
-    },
-    {
-      "views": 8757114,
+      "views": 10347434,
       "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 153
     },
     {
-      "views": 8661190,
+      "views": 9381861,
+      "title": "아이를 위해 남편을 버리기로 결심한 아내",
+      "upload_year": "2026",
+      "channel": "짤시네마",
+      "duration": 85
+    },
+    {
+      "views": 8998163,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
     },
     {
-      "views": 6613064,
+      "views": 7180228,
       "title": "가족이 세상에서 가장 소중한 이유",
       "upload_year": "2026",
       "channel": "오늘의영화",
       "duration": 66
     },
     {
-      "views": 5043166,
-      "title": "호9형 석우를 최민식이 서둘러 말린 이유 #카지노시즌",
+      "views": 5423048,
+      "title": "남편과 결혼한 이유 너무 솔직한 아내ㅋㅋ",
       "upload_year": "2026",
-      "channel": "멍드",
-      "duration": 73
+      "channel": "1분떠들썩",
+      "duration": 15
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#시니어드라마",
+    "#재혼황후",
     "#shorts",
     "#반전드라마",
-    "만난",
-    "최후",
+    "#디즈니플러스",
+    "#드라마",
+    "너무",
+    "#시니어드라마",
     "#시니어",
     "우연히",
-    "너무",
-    "기싸움",
-    "정체는",
-    "방송",
-    "#시니어쇼츠",
+    "재혼황후",
     "#AI가상인물",
-    "#사이다",
-    "아들을",
-    "며느리",
-    "#숏드라마",
-    "아이를",
-    "위해"
+    "#시니어쇼츠",
+    "완벽한",
+    "앞에서",
+    "찾아온",
+    "AI",
+    "주지훈의",
+    "신민아",
+    "#사이다"
   ],
   "channel_distribution": [
     {
-      "channel": "짤시네마",
+      "channel": "케슛슛",
       "count": 1
     },
     {
-      "channel": "케슛슛",
+      "channel": "짤시네마",
       "count": 1
     },
     {
@@ -84,10 +84,6 @@
     },
     {
       "channel": "오늘의영화",
-      "count": 1
-    },
-    {
-      "channel": "멍드",
       "count": 1
     },
     {
@@ -95,7 +91,11 @@
       "count": 1
     },
     {
-      "channel": "폭룡숏",
+      "channel": "아워무비",
+      "count": 1
+    },
+    {
+      "channel": "스튜디오지니",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "명화관",
+      "channel": "아름다운인생이란",
       "count": 1
     },
     {
-      "channel": "아워무비",
+      "channel": "드라마오락관",
       "count": 1
     }
   ],
