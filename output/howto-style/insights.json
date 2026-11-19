@@ -3,87 +3,79 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, #shorts, 딸의, 스카프, 아저씨, 먹는",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: vs, 이유, 동치미, #shorts, 아들이, 붓는",
   "top_videos_summary": [
     {
-      "views": 12381470,
-      "title": "#edit",
+      "views": 4564881,
+      "title": "장애인 되기 전, 후",
       "upload_year": "2026",
-      "channel": "USA CHANNEL",
-      "duration": 11
+      "channel": "김꽃그린 재활일기",
+      "duration": 61
     },
     {
-      "views": 3563904,
+      "views": 3879429,
       "title": "셋이 와서 삼겹살 1인분 시키는 빌런 #shorts",
       "upload_year": "2026",
       "channel": "숏플레이",
       "duration": 61
     },
     {
-      "views": 3443280,
-      "title": "23살이지만 우동 장인의 길을 걷는 여성 셰프",
-      "upload_year": "2026",
-      "channel": "공간 탐닉 Space Tamnik",
-      "duration": 54
-    },
-    {
-      "views": 3416052,
-      "title": "처남을 놀라게 하려고 낡은 타이어로 정원 방을 만들었더니… 바닥 아래 숨겨진 비밀 공간의 정체! 😱🏡🔥",
-      "upload_year": "2026",
-      "channel": "Janav Kha",
-      "duration": 135
-    },
-    {
-      "views": 3238407,
+      "views": 3637622,
       "title": "인도의 독특한 페트병 낚시",
       "upload_year": "2026",
       "channel": "하찮은 고식씨",
       "duration": 57
+    },
+    {
+      "views": 3281882,
+      "title": "제일 가운데꺼 가져가는건 선넘었다ㅠ",
+      "upload_year": "2026",
+      "channel": "별쇼츠",
+      "duration": 12
+    },
+    {
+      "views": 3180484,
+      "title": "음식이 점점 매워지면 부장님은 언제 눈치챌까?",
+      "upload_year": "2026",
+      "channel": "리뷰하는 회사원",
+      "duration": 62
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.16,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "vs",
     "이유",
+    "동치미",
     "#shorts",
-    "딸의",
+    "아들이",
+    "붓는",
     "스카프",
     "아저씨",
     "먹는",
-    "#edit",
+    "만들어",
+    "62cm",
+    "남편을",
+    "장애인",
+    "되기",
     "셋이",
     "와서",
     "삼겹살",
     "1인분",
     "시키는",
-    "빌런",
-    "23살이지만",
-    "우동",
-    "장인의",
-    "길을",
-    "걷는",
-    "여성",
-    "셰프"
+    "빌런"
   ],
   "channel_distribution": [
     {
-      "channel": "USA CHANNEL",
+      "channel": "김꽃그린 재활일기",
       "count": 1
     },
     {
       "channel": "숏플레이",
-      "count": 1
-    },
-    {
-      "channel": "공간 탐닉 Space Tamnik",
-      "count": 1
-    },
-    {
-      "channel": "Janav Kha",
       "count": 1
     },
     {
@@ -95,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "더들리",
+      "channel": "리뷰하는 회사원",
       "count": 1
     },
     {
-      "channel": "리뷰하는 회사원",
+      "channel": "밉지않은 관종언니",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "유유타이거",
+      "count": 1
+    },
+    {
+      "channel": "더들리",
+      "count": 1
+    },
+    {
+      "channel": "낚놈",
       "count": 1
     }
   ],
