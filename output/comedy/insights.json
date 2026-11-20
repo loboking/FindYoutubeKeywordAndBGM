@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, 레전드, #반전드라마, AI, #시니어드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #반전드라마, 이유, #시니어드라마, #시니어, 레전드",
   "top_videos_summary": [
     {
-      "views": 10347434,
+      "views": 11366696,
       "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 153
     },
     {
-      "views": 9381861,
+      "views": 9408561,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 8997607,
+      "views": 9208437,
       "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
       "upload_year": "2026",
       "channel": "예능존",
       "duration": 53
     },
     {
-      "views": 7180228,
+      "views": 7355156,
       "title": "가족이 세상에서 가장 소중한 이유",
       "upload_year": "2026",
       "channel": "오늘의영화",
       "duration": 66
     },
     {
-      "views": 5961847,
+      "views": 6216838,
       "title": "스카프값 자동이체 되냐는 손님에게 남대문 스카프 사장님이 바로 고쳐 준 한마디ㅋㅋ",
       "upload_year": "2026",
       "channel": "훅점프",
@@ -49,25 +49,25 @@
   },
   "trend_keywords": [
     "#shorts",
-    "이유",
-    "레전드",
     "#반전드라마",
-    "AI",
+    "이유",
     "#시니어드라마",
     "#시니어",
+    "레전드",
+    "AI",
+    "#시니어쇼츠",
     "#강호동",
     "우연히",
-    "엄마",
-    "남자가",
+    "가장",
     "맞은",
-    "vs",
+    "남자가",
+    "엄마",
     "없는",
-    "#AI가상인물",
-    "#시니어쇼츠",
-    "최후",
+    "말에",
+    "vs",
     "커닝",
-    "카페",
-    "진상들의"
+    "#AI가상인물",
+    "최후"
   ],
   "channel_distribution": [
     {
@@ -91,19 +91,19 @@
       "count": 1
     },
     {
+      "channel": "드라마오락관",
+      "count": 1
+    },
+    {
       "channel": "1분떠들썩",
       "count": 1
     },
     {
-      "channel": "아워무비",
-      "count": 1
-    },
-    {
-      "channel": "영드립숏",
-      "count": 1
-    },
-    {
       "channel": "스튜디오지니",
+      "count": 1
+    },
+    {
+      "channel": "아워무비",
       "count": 1
     },
     {
