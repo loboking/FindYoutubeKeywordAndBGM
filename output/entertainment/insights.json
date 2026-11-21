@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: AI, 레전드, #shorts, #재혼황후, 위해, 순간",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 레전드, #shorts, AI, #재혼황후, 최후, #시니어드라마",
   "top_videos_summary": [
     {
-      "views": 12130213,
+      "views": 12809356,
       "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 153
     },
     {
-      "views": 9448050,
-      "title": "아이를 위해 남편을 버리기로 결심한 아내",
-      "upload_year": "2026",
-      "channel": "짤시네마",
-      "duration": 85
-    },
-    {
-      "views": 8320883,
+      "views": 8984374,
       "title": "언어를 잃어버린 순간 레전드 TOP5",
       "upload_year": "2026",
       "channel": "돼지감자",
       "duration": 53
     },
     {
-      "views": 7369631,
-      "title": "가족이 세상에서 가장 소중한 이유",
-      "upload_year": "2026",
-      "channel": "오늘의영화",
-      "duration": 66
-    },
-    {
-      "views": 6980122,
+      "views": 7611283,
       "title": "로우킥으로 사람 잡는 추성훈 아조씨 모음 #추성훈 #예능레전드 #예능",
       "upload_year": "2026",
       "channel": "이슈모음집",
       "duration": 51
+    },
+    {
+      "views": 7105231,
+      "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
+      "upload_year": "2026",
+      "channel": "드라마오락관",
+      "duration": 152
+    },
+    {
+      "views": 7054732,
+      "title": "어른여자를 보여주기 위해 하이힐에 숨겨놓은 비밀",
+      "upload_year": "2026",
+      "channel": "케이팝있쥬?",
+      "duration": 20
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "AI",
     "레전드",
     "#shorts",
+    "AI",
     "#재혼황후",
-    "위해",
+    "최후",
+    "#시니어드라마",
     "순간",
-    "이유",
+    "#예능",
     "모음",
-    "너무",
     "없는",
-    "vs",
     "시험",
+    "vs",
     "#디즈니플러스",
     "신민아",
-    "커닝",
+    "웃긴",
     "잘못",
-    "촬영",
-    "오빠",
-    "건드린",
-    "#시니어드라마"
+    "커닝",
+    "하는",
+    "너무",
+    "오빠"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "짤시네마",
-      "count": 1
-    },
-    {
       "channel": "돼지감자",
-      "count": 1
-    },
-    {
-      "channel": "오늘의영화",
       "count": 1
     },
     {
@@ -95,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "1분떠들썩",
+      "channel": "케이팝있쥬?",
       "count": 1
     },
     {
-      "channel": "케이팝있쥬?",
+      "channel": "눈눈이이",
       "count": 1
     },
     {
@@ -107,7 +99,15 @@
       "count": 1
     },
     {
-      "channel": "눈눈이이",
+      "channel": "ˇ_ˇ",
+      "count": 1
+    },
+    {
+      "channel": "엔섞어",
+      "count": 1
+    },
+    {
+      "channel": "JAM뷰JAM",
       "count": 1
     }
   ],
