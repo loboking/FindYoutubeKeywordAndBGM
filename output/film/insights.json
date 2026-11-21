@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, 이유, #재혼황후, #시니어드라마, #반전드라마, #디즈니플러스",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #재혼황후, #shorts, #시니어드라마, #반전드라마, #디즈니플러스",
   "top_videos_summary": [
     {
-      "views": 11367681,
+      "views": 12130214,
       "title": "카페 진상들의 화려한 말빨",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 153
     },
     {
-      "views": 9408561,
+      "views": 9448106,
       "title": "아이를 위해 남편을 버리기로 결심한 아내",
       "upload_year": "2026",
       "channel": "짤시네마",
       "duration": 85
     },
     {
-      "views": 9208437,
-      "title": "우연히 세 번이나 마주친 강호동의 나이트 인연ㅋㅋ#shorts #강호동",
-      "upload_year": "2026",
-      "channel": "예능존",
-      "duration": 53
-    },
-    {
-      "views": 7355181,
+      "views": 7369631,
       "title": "가족이 세상에서 가장 소중한 이유",
       "upload_year": "2026",
       "channel": "오늘의영화",
       "duration": 66
     },
     {
-      "views": 5878540,
+      "views": 6636915,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
+    },
+    {
+      "views": 6258271,
+      "title": "남편과 결혼한 이유 너무 솔직한 아내ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "1분떠들썩",
+      "duration": 15
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.08,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "이유",
     "#재혼황후",
+    "#shorts",
     "#시니어드라마",
     "#반전드라마",
     "#디즈니플러스",
     "#드라마",
-    "#시니어",
-    "너무",
+    "신민아",
     "#시니어쇼츠",
-    "우연히",
+    "#시니어",
+    "아이를",
     "가장",
     "주지훈의",
-    "신민아",
     "커닝",
     "AI",
     "오빠",
-    "앞에서",
     "건드린",
-    "#AI가상인물"
+    "라스타",
+    "황후가",
+    "찾아온"
   ],
   "channel_distribution": [
     {
@@ -76,10 +76,6 @@
     },
     {
       "channel": "짤시네마",
-      "count": 1
-    },
-    {
-      "channel": "예능존",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
-      "channel": "아워무비",
-      "count": 1
-    },
-    {
       "channel": "눈눈이이",
       "count": 1
     },
     {
       "channel": "무비젤리",
+      "count": 1
+    },
+    {
+      "channel": "야그쟁이",
+      "count": 1
+    },
+    {
+      "channel": " 개그콘서트",
       "count": 1
     }
   ],
