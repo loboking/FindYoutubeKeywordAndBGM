@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: vs, #shorts, 이유, 동치미, 제일, 아들이",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, vs, #shorts, 아들이, 먹는, 될까",
   "top_videos_summary": [
     {
-      "views": 6266435,
+      "views": 8397933,
       "title": "Patient Cat Snatches a Fish From Harbor Waters",
       "upload_year": "2026",
       "channel": "ViralSnare Rights Management",
       "duration": 40
     },
     {
-      "views": 5510017,
+      "views": 6160594,
       "title": "장애인 되기 전, 후",
       "upload_year": "2026",
       "channel": "김꽃그린 재활일기",
       "duration": 61
     },
     {
-      "views": 4315440,
+      "views": 4468256,
       "title": "셋이 와서 삼겹살 1인분 시키는 빌런 #shorts",
       "upload_year": "2026",
       "channel": "숏플레이",
       "duration": 61
     },
     {
-      "views": 3889356,
-      "title": "인도의 독특한 페트병 낚시",
-      "upload_year": "2026",
-      "channel": "하찮은 고식씨",
-      "duration": 57
-    },
-    {
-      "views": 3531115,
+      "views": 4171292,
       "title": "열어보기전엔 알수없는 랜덤 선물뽑기🎁🔥",
       "upload_year": "2026",
       "channel": "유유타이거",
       "duration": 50
+    },
+    {
+      "views": 4083764,
+      "title": "인도의 독특한 페트병 낚시",
+      "upload_year": "2026",
+      "channel": "하찮은 고식씨",
+      "duration": 57
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.09,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "이유",
     "vs",
     "#shorts",
-    "이유",
-    "동치미",
-    "제일",
     "아들이",
-    "붓는",
-    "스카프",
-    "아저씨",
     "먹는",
-    "62cm",
-    "없는",
     "될까",
-    "만들어",
     "어떻게",
+    "만들어",
+    "아버지의",
     "남편을",
-    "아들",
     "Patient",
     "Cat",
-    "Snatches"
+    "Snatches",
+    "Fish",
+    "From",
+    "Harbor",
+    "Waters",
+    "장애인",
+    "되기",
+    "셋이"
   ],
   "channel_distribution": [
     {
@@ -83,11 +83,15 @@
       "count": 1
     },
     {
+      "channel": "유유타이거",
+      "count": 1
+    },
+    {
       "channel": "하찮은 고식씨",
       "count": 1
     },
     {
-      "channel": "유유타이거",
+      "channel": "쇼츠츄러스",
       "count": 1
     },
     {
@@ -96,10 +100,6 @@
     },
     {
       "channel": "별쇼츠",
-      "count": 1
-    },
-    {
-      "channel": "쇼츠츄러스",
       "count": 1
     },
     {
