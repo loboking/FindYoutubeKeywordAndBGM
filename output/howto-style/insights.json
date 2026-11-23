@@ -3,42 +3,42 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 먹는, 없는, 순간, 될까",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 이유, 먹는, 순간, 없는, 제대로",
   "top_videos_summary": [
     {
-      "views": 6722217,
+      "views": 7212917,
       "title": "장애인 되기 전, 후",
       "upload_year": "2026",
       "channel": "김꽃그린 재활일기",
       "duration": 61
     },
     {
-      "views": 4875350,
+      "views": 5458555,
       "title": "열어보기전엔 알수없는 랜덤 선물뽑기🎁🔥",
       "upload_year": "2026",
       "channel": "유유타이거",
       "duration": 50
     },
     {
-      "views": 4788270,
+      "views": 4921661,
       "title": "셋이 와서 삼겹살 1인분 시키는 빌런 #shorts",
       "upload_year": "2026",
       "channel": "숏플레이",
       "duration": 61
     },
     {
-      "views": 4331828,
-      "title": "인도의 독특한 페트병 낚시",
-      "upload_year": "2026",
-      "channel": "하찮은 고식씨",
-      "duration": 57
-    },
-    {
-      "views": 4071769,
+      "views": 4593435,
       "title": "디테일이 남다른 일본의 맥주 따르는 법",
       "upload_year": "2026",
       "channel": "쇼츠츄러스",
       "duration": 53
+    },
+    {
+      "views": 4539700,
+      "title": "인도의 독특한 페트병 낚시",
+      "upload_year": "2026",
+      "channel": "하찮은 고식씨",
+      "duration": 57
     }
   ],
   "outlier_adjusted": {
@@ -48,15 +48,15 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
     "#shorts",
+    "이유",
     "먹는",
-    "없는",
     "순간",
-    "될까",
+    "없는",
     "제대로",
     "않고",
-    "처음",
+    "될까",
+    "얼마나",
     "장애인",
     "되기",
     "열어보기전엔",
@@ -83,15 +83,11 @@
       "count": 1
     },
     {
-      "channel": "하찮은 고식씨",
-      "count": 1
-    },
-    {
       "channel": "쇼츠츄러스",
       "count": 1
     },
     {
-      "channel": "리뷰하는 회사원",
+      "channel": "하찮은 고식씨",
       "count": 1
     },
     {
@@ -103,11 +99,15 @@
       "count": 1
     },
     {
-      "channel": "낚놈",
+      "channel": "예뿡거",
       "count": 1
     },
     {
       "channel": "아끼리",
+      "count": 1
+    },
+    {
+      "channel": "로켓업",
       "count": 1
     }
   ],
