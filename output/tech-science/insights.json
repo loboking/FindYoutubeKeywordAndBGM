@@ -3,38 +3,38 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=42)에서 두드러진 소재/키워드: 아이폰, 이유, AI, 수능, 듀오, 만든",
+  "formula": "카테고리 인기 shorts(n=43)에서 두드러진 소재/키워드: 아이폰, 이유, AI, 수능, 듀오, 기능",
   "top_videos_summary": [
     {
-      "views": 7073346,
+      "views": 22605712,
+      "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 5",
+      "upload_year": "2026",
+      "channel": "MR Latte Green",
+      "duration": 10
+    },
+    {
+      "views": 7160521,
       "title": "아빠들 핸드폰에는 수명이 없는걸까?",
       "upload_year": "2026",
       "channel": "대환장",
       "duration": 10
     },
     {
-      "views": 6021133,
+      "views": 6108993,
       "title": "옛날폰에 충전기 꽂았더니 1초만에 완충 됨..ㄷㄷ",
       "upload_year": "2026",
       "channel": "아아한잔",
       "duration": 17
     },
     {
-      "views": 5463258,
+      "views": 5578572,
       "title": "모니터 12대로 만든 윈도우 12",
       "upload_year": "2026",
       "channel": "모르면개손해",
       "duration": 51
     },
     {
-      "views": 5093360,
-      "title": "[갤럭시 Z 폴드8] 작은 감탄에서 시작된 이야기 | 삼성전자",
-      "upload_year": "2026",
-      "channel": "삼성전자 Samsung Electronics",
-      "duration": 52
-    },
-    {
-      "views": 3448045,
+      "views": 3478815,
       "title": "OLED TV가 왜 넘사인지 설명해줌",
       "upload_year": "2026",
       "channel": "먹구리",
@@ -43,7 +43,7 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.13,
+    "top1_share": 0.32,
     "avg_views_excluding_top1": null,
     "note": ""
   },
@@ -53,23 +53,27 @@
     "AI",
     "수능",
     "듀오",
-    "만든",
     "기능",
     "삼성",
     "근황",
     "카메라",
-    "아빠들",
-    "핸드폰에는",
-    "수명이",
-    "없는걸까",
-    "옛날폰에",
-    "충전기",
-    "꽂았더니",
-    "1초만에",
-    "완충",
-    "모니터"
+    "#noads",
+    "#tiktok",
+    "#usa",
+    "Samsung",
+    "Galaxy",
+    "S27",
+    "Ultra",
+    "Cobalt",
+    "Violet",
+    "Part",
+    "아빠들"
   ],
   "channel_distribution": [
+    {
+      "channel": "MR Latte Green",
+      "count": 1
+    },
     {
       "channel": "대환장",
       "count": 1
@@ -83,15 +87,7 @@
       "count": 1
     },
     {
-      "channel": "삼성전자 Samsung Electronics",
-      "count": 1
-    },
-    {
       "channel": "먹구리",
-      "count": 1
-    },
-    {
-      "channel": "핫템리포트",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
+      "channel": "핫템리포트",
+      "count": 1
+    },
+    {
       "channel": "허팝Heopop",
       "count": 1
     },
     {
-      "channel": "1분미만",
+      "channel": "도롱챠 DOLONGCHA",
       "count": 1
     },
     {
-      "channel": "도롱챠 DOLONGCHA",
+      "channel": "아이돌스토링",
       "count": 1
     }
   ],
