@@ -3,91 +3,79 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #shorts, #재혼황후, 최후, #시니어드라마, 너무",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #반전드라마, #시니어드라마, #재혼황후, 최후, #shorts",
   "top_videos_summary": [
     {
-      "views": 12809356,
-      "title": "카페 진상들의 화려한 말빨",
+      "views": 8360946,
+      "title": "매번 지예은만 당하는 게임ㅋㅋ",
       "upload_year": "2026",
-      "channel": "케슛슛",
-      "duration": 153
+      "channel": "눈눈이이",
+      "duration": 31
     },
     {
-      "views": 9476093,
-      "title": "아이를 위해 남편을 버리기로 결심한 아내",
-      "upload_year": "2026",
-      "channel": "짤시네마",
-      "duration": 85
-    },
-    {
-      "views": 7390487,
-      "title": "가족이 세상에서 가장 소중한 이유",
-      "upload_year": "2026",
-      "channel": "오늘의영화",
-      "duration": 66
-    },
-    {
-      "views": 7106435,
+      "views": 7504089,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 6997545,
-      "title": "매번 지예은만 당하는 게임ㅋㅋ",
+      "views": 6752747,
+      "title": "우연히 만난 잘생긴 남자가 예비 사위? #연애박사 #shorts",
       "upload_year": "2026",
-      "channel": "눈눈이이",
-      "duration": 31
+      "channel": "스튜디오지니",
+      "duration": 107
+    },
+    {
+      "views": 5625943,
+      "title": "진지한데 웃긴 아마존 소통 오류의 현장",
+      "upload_year": "2026",
+      "channel": "몽테라스",
+      "duration": 23
+    },
+    {
+      "views": 4745879,
+      "title": "옛날 시험 커닝 vs 요즘 AI 커닝 #snl코리아",
+      "upload_year": "2026",
+      "channel": "야그쟁이",
+      "duration": 110
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.09,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#shorts",
+    "#반전드라마",
+    "#시니어드라마",
     "#재혼황후",
     "최후",
-    "#시니어드라마",
-    "너무",
-    "신민아",
-    "#반전드라마",
-    "아이를",
-    "#디즈니플러스",
-    "#드라마",
+    "#shorts",
+    "웃긴",
     "커닝",
-    "AI",
+    "#디즈니플러스",
+    "신민아",
+    "너무",
     "오빠",
     "건드린",
-    "라스타",
     "황후가",
     "#시니어쇼츠",
     "#시니어",
-    "#유연석"
+    "#웃긴영상",
+    "#유연석",
+    "신랑",
+    "#숏드라마"
   ],
   "channel_distribution": [
     {
-      "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "짤시네마",
-      "count": 1
-    },
-    {
-      "channel": "오늘의영화",
+      "channel": "눈눈이이",
       "count": 1
     },
     {
       "channel": "드라마오락관",
-      "count": 1
-    },
-    {
-      "channel": "눈눈이이",
       "count": 1
     },
     {
@@ -95,11 +83,7 @@
       "count": 1
     },
     {
-      "channel": "1분떠들썩",
-      "count": 1
-    },
-    {
-      "channel": "무비젤리",
+      "channel": "몽테라스",
       "count": 1
     },
     {
@@ -107,7 +91,23 @@
       "count": 1
     },
     {
-      "channel": " 개그콘서트",
+      "channel": "무비젤리",
+      "count": 1
+    },
+    {
+      "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "무비펭",
+      "count": 1
+    },
+    {
+      "channel": "가족상영관",
+      "count": 1
+    },
+    {
+      "channel": "와따마",
       "count": 1
     }
   ],
