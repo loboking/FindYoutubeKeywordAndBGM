@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #반전드라마, #shorts, #시니어드라마, 이유, 없는, #웃긴영상",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #반전드라마, 없는, #시니어, #시니어드라마, 레전드",
   "top_videos_summary": [
     {
-      "views": 8358880,
+      "views": 9085508,
       "title": "매번 지예은만 당하는 게임ㅋㅋ",
       "upload_year": "2026",
       "channel": "눈눈이이",
       "duration": 31
     },
     {
-      "views": 7502452,
+      "views": 8023068,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 6786629,
+      "views": 7146558,
       "title": "테무에서 인생 첫 쇼핑한 아빠의 최후ㅋㅋ",
       "upload_year": "2026",
       "channel": "간생간사",
       "duration": 30
     },
     {
-      "views": 6752167,
+      "views": 6964631,
       "title": "우연히 만난 잘생긴 남자가 예비 사위? #연애박사 #shorts",
       "upload_year": "2026",
       "channel": "스튜디오지니",
       "duration": 107
     },
     {
-      "views": 5733298,
-      "title": "없는 게 없는 무도 레전드 모음 ㅋㅋㅋㅋㅋ",
+      "views": 5933746,
+      "title": "이게 똑같다고?",
       "upload_year": "2026",
-      "channel": "ˇ_ˇ",
-      "duration": 30
+      "channel": "곽범 또 시작이네",
+      "duration": 65
     }
   ],
   "outlier_adjusted": {
@@ -48,26 +48,26 @@
     "note": ""
   },
   "trend_keywords": [
-    "#반전드라마",
     "#shorts",
-    "#시니어드라마",
-    "이유",
+    "#반전드라마",
     "없는",
-    "#웃긴영상",
+    "#시니어",
+    "#시니어드라마",
     "레전드",
     "AI",
     "다시",
     "웃긴",
-    "vs",
+    "잘못",
     "커닝",
-    "잡혀온",
-    "#시니어쇼츠",
-    "#시니어",
-    "#유재석",
+    "vs",
+    "#스케치코미디",
     "위한",
     "생기는",
-    "#숏드라마",
-    "KBS"
+    "#무도",
+    "KBS",
+    "방송",
+    "#웃긴영상",
+    "이유"
   ],
   "channel_distribution": [
     {
@@ -87,11 +87,11 @@
       "count": 1
     },
     {
-      "channel": "ˇ_ˇ",
+      "channel": "곽범 또 시작이네",
       "count": 1
     },
     {
-      "channel": "곽범 또 시작이네",
+      "channel": "ˇ_ˇ",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "라잌셀럽 ",
+      "channel": "야그쟁이",
       "count": 1
     },
     {
-      "channel": "야그쟁이",
+      "channel": "케슛슛",
       "count": 1
     }
   ],
