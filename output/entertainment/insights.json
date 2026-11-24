@@ -3,38 +3,38 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: #shorts, 웃긴, #시니어드라마, 이유, 비밀, 없는",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 웃긴, 이유, 비밀, #shorts, 웃음, 시험",
   "top_videos_summary": [
     {
-      "views": 8358880,
+      "views": 9085508,
       "title": "매번 지예은만 당하는 게임ㅋㅋ",
       "upload_year": "2026",
       "channel": "눈눈이이",
       "duration": 31
     },
     {
-      "views": 7789063,
+      "views": 8336053,
       "title": "어른여자를 보여주기 위해 하이힐에 숨겨놓은 비밀",
       "upload_year": "2026",
       "channel": "케이팝있쥬?",
       "duration": 20
     },
     {
-      "views": 7502452,
+      "views": 8023068,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 6752167,
-      "title": "우연히 만난 잘생긴 남자가 예비 사위? #연애박사 #shorts",
+      "views": 7509490,
+      "title": "진지한데 웃긴 아마존 소통 오류의 현장",
       "upload_year": "2026",
-      "channel": "스튜디오지니",
-      "duration": 107
+      "channel": "몽테라스",
+      "duration": 23
     },
     {
-      "views": 6144515,
+      "views": 7386111,
       "title": "어떤 약속은 끝내 기적이 된다 #리센느 #RESCENE",
       "upload_year": "2026",
       "channel": "K덕톡",
@@ -48,25 +48,25 @@
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
     "웃긴",
-    "#시니어드라마",
     "이유",
     "비밀",
-    "없는",
+    "#shorts",
+    "웃음",
     "시험",
     "AI",
     "커닝",
     "하는",
     "#미미미누",
+    "#예능",
     "이거",
-    "#시니어쇼츠",
-    "#시니어",
-    "#반전드라마",
-    "절대",
-    "신랑",
-    "최후",
+    "목숨이",
+    "방법",
+    "TOP5",
     "입고",
+    "#반전드라마",
+    "#시니어",
+    "최후",
     "매번"
   ],
   "channel_distribution": [
@@ -83,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "스튜디오지니",
+      "channel": "몽테라스",
       "count": 1
     },
     {
@@ -91,15 +91,7 @@
       "count": 1
     },
     {
-      "channel": "ˇ_ˇ",
-      "count": 1
-    },
-    {
       "channel": "엔섞어",
-      "count": 1
-    },
-    {
-      "channel": "몽테라스",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "이페오카카",
+      "count": 1
+    },
+    {
+      "channel": "여부세요?",
+      "count": 1
+    },
+    {
+      "channel": "야그쟁이",
       "count": 1
     }
   ],
