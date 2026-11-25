@@ -3,42 +3,42 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #shorts, #반전드라마, 없는, #시니어, #시니어드라마, 레전드",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, #유머, 최후, #반전드라마, #시니어, #shorts",
   "top_videos_summary": [
     {
-      "views": 9085508,
-      "title": "매번 지예은만 당하는 게임ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "눈눈이이",
-      "duration": 31
-    },
-    {
-      "views": 8023068,
+      "views": 8285693,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 7146558,
+      "views": 7307668,
       "title": "테무에서 인생 첫 쇼핑한 아빠의 최후ㅋㅋ",
       "upload_year": "2026",
       "channel": "간생간사",
       "duration": 30
     },
     {
-      "views": 6964631,
-      "title": "우연히 만난 잘생긴 남자가 예비 사위? #연애박사 #shorts",
-      "upload_year": "2026",
-      "channel": "스튜디오지니",
-      "duration": 107
-    },
-    {
-      "views": 5933746,
+      "views": 6145452,
       "title": "이게 똑같다고?",
       "upload_year": "2026",
       "channel": "곽범 또 시작이네",
       "duration": 65
+    },
+    {
+      "views": 6132719,
+      "title": "존박 잡으러 온 롯데리아 AI 래퍼",
+      "upload_year": "2026",
+      "channel": "이페오카카",
+      "duration": 55
+    },
+    {
+      "views": 5795838,
+      "title": "없는 게 없는 무도 레전드 모음 ㅋㅋㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "ˇ_ˇ",
+      "duration": 30
     }
   ],
   "outlier_adjusted": {
@@ -48,32 +48,28 @@
     "note": ""
   },
   "trend_keywords": [
-    "#shorts",
+    "#예능",
+    "#유머",
+    "최후",
     "#반전드라마",
-    "없는",
     "#시니어",
-    "#시니어드라마",
-    "레전드",
-    "AI",
-    "다시",
+    "#shorts",
+    "최후ㅋㅋ",
+    "없는",
     "웃긴",
     "잘못",
-    "커닝",
-    "vs",
     "#스케치코미디",
     "위한",
     "생기는",
+    "남편이",
     "#무도",
     "KBS",
     "방송",
-    "#웃긴영상",
-    "이유"
+    "#AI가상인물",
+    "이유",
+    "#시니어드라마"
   ],
   "channel_distribution": [
-    {
-      "channel": "눈눈이이",
-      "count": 1
-    },
     {
       "channel": "드라마오락관",
       "count": 1
@@ -83,15 +79,7 @@
       "count": 1
     },
     {
-      "channel": "스튜디오지니",
-      "count": 1
-    },
-    {
       "channel": "곽범 또 시작이네",
-      "count": 1
-    },
-    {
-      "channel": "ˇ_ˇ",
       "count": 1
     },
     {
@@ -99,15 +87,27 @@
       "count": 1
     },
     {
+      "channel": "ˇ_ˇ",
+      "count": 1
+    },
+    {
       "channel": "여부세요?",
       "count": 1
     },
     {
-      "channel": "야그쟁이",
+      "channel": "눈눈이이",
       "count": 1
     },
     {
       "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "1분의순간",
+      "count": 1
+    },
+    {
+      "channel": "웃기넹",
       "count": 1
     }
   ],
