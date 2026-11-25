@@ -3,75 +3,75 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #반전드라마, #시니어드라마, 최후, 신랑, #숏드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #반전드라마, 최후, #숏드라마, 신랑",
   "top_videos_summary": [
     {
-      "views": 9085508,
-      "title": "매번 지예은만 당하는 게임ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "눈눈이이",
-      "duration": 31
-    },
-    {
-      "views": 8023068,
-      "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
-      "upload_year": "2026",
-      "channel": "드라마오락관",
-      "duration": 152
-    },
-    {
-      "views": 7509490,
+      "views": 8492200,
       "title": "진지한데 웃긴 아마존 소통 오류의 현장",
       "upload_year": "2026",
       "channel": "몽테라스",
       "duration": 23
     },
     {
-      "views": 6964631,
+      "views": 8285693,
+      "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
+      "upload_year": "2026",
+      "channel": "드라마오락관",
+      "duration": 152
+    },
+    {
+      "views": 7141484,
       "title": "우연히 만난 잘생긴 남자가 예비 사위? #연애박사 #shorts",
       "upload_year": "2026",
       "channel": "스튜디오지니",
       "duration": 107
     },
     {
-      "views": 5163090,
-      "title": "옛날 시험 커닝 vs 요즘 AI 커닝 #snl코리아",
+      "views": 5443766,
+      "title": "러브샷은 못 참는 도경수ㅋㅋ",
       "upload_year": "2026",
-      "channel": "야그쟁이",
-      "duration": 110
+      "channel": "눈눈이이",
+      "duration": 32
+    },
+    {
+      "views": 5263287,
+      "title": "아들의 정학사유",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 136
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.06,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#반전드라마",
     "#시니어드라마",
+    "#반전드라마",
     "최후",
-    "신랑",
     "#숏드라마",
+    "신랑",
     "#시니어",
-    "아들",
-    "아버지",
-    "#shorts",
+    "상견례",
     "웃긴",
-    "커닝",
-    "#재혼황후",
-    "#유연석",
+    "#shorts",
+    "예비",
+    "진짜",
+    "정체",
     "방법",
     "입고",
+    "모욕하던",
     "#AI가상인물",
-    "#유머",
     "#시니어쇼츠",
-    "상견례"
+    "용돈",
+    "아들"
   ],
   "channel_distribution": [
     {
-      "channel": "눈눈이이",
+      "channel": "몽테라스",
       "count": 1
     },
     {
@@ -79,23 +79,19 @@
       "count": 1
     },
     {
-      "channel": "몽테라스",
-      "count": 1
-    },
-    {
       "channel": "스튜디오지니",
       "count": 1
     },
     {
-      "channel": "야그쟁이",
-      "count": 1
-    },
-    {
-      "channel": "무비젤리",
+      "channel": "눈눈이이",
       "count": 1
     },
     {
       "channel": "케슛슛",
+      "count": 1
+    },
+    {
+      "channel": "무비젤리",
       "count": 1
     },
     {
@@ -104,6 +100,10 @@
     },
     {
       "channel": "예능바다",
+      "count": 1
+    },
+    {
+      "channel": "쇼잉",
       "count": 1
     },
     {
