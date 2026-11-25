@@ -3,42 +3,42 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 이유, #shorts, 아빠, 없는, 먹는, 제대로",
+  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 낚시, 아빠, 순간, 없는, 제대로, 김치",
   "top_videos_summary": [
     {
-      "views": 8211876,
+      "views": 8719760,
       "title": "장애인 되기 전, 후",
       "upload_year": "2026",
       "channel": "김꽃그린 재활일기",
       "duration": 61
     },
     {
-      "views": 5847579,
+      "views": 6173279,
       "title": "열어보기전엔 알수없는 랜덤 선물뽑기🎁🔥",
       "upload_year": "2026",
       "channel": "유유타이거",
       "duration": 50
     },
     {
-      "views": 5076048,
-      "title": "셋이 와서 삼겹살 1인분 시키는 빌런 #shorts",
-      "upload_year": "2026",
-      "channel": "숏플레이",
-      "duration": 61
-    },
-    {
-      "views": 4866623,
+      "views": 5050618,
       "title": "인도의 독특한 페트병 낚시",
       "upload_year": "2026",
       "channel": "하찮은 고식씨",
       "duration": 57
     },
     {
-      "views": 4848291,
+      "views": 5025026,
       "title": "디테일이 남다른 일본의 맥주 따르는 법",
       "upload_year": "2026",
       "channel": "쇼츠츄러스",
       "duration": 53
+    },
+    {
+      "views": 4720802,
+      "title": "첫째의 서운함",
+      "upload_year": "2026",
+      "channel": "까까쥬떼요",
+      "duration": 22
     }
   ],
   "outlier_adjusted": {
@@ -48,14 +48,11 @@
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "#shorts",
+    "낚시",
     "아빠",
+    "순간",
     "없는",
-    "먹는",
     "제대로",
-    "않고",
-    "얼마나",
     "김치",
     "장애인",
     "되기",
@@ -63,11 +60,14 @@
     "알수없는",
     "랜덤",
     "선물뽑기",
-    "셋이",
-    "와서",
-    "삼겹살",
-    "1인분",
-    "시키는"
+    "인도의",
+    "독특한",
+    "페트병",
+    "디테일이",
+    "남다른",
+    "일본의",
+    "맥주",
+    "따르는"
   ],
   "channel_distribution": [
     {
@@ -79,10 +79,6 @@
       "count": 1
     },
     {
-      "channel": "숏플레이",
-      "count": 1
-    },
-    {
       "channel": "하찮은 고식씨",
       "count": 1
     },
@@ -91,11 +87,15 @@
       "count": 1
     },
     {
-      "channel": "밈튜브",
+      "channel": "까까쥬떼요",
       "count": 1
     },
     {
-      "channel": "귀한장면",
+      "channel": "앵무세이",
+      "count": 1
+    },
+    {
+      "channel": "밈튜브",
       "count": 1
     },
     {
@@ -103,11 +103,11 @@
       "count": 1
     },
     {
-      "channel": "로켓업",
+      "channel": "귀한장면",
       "count": 1
     },
     {
-      "channel": "아끼리",
+      "channel": "로켓업",
       "count": 1
     }
   ],
