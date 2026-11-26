@@ -3,71 +3,71 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #시니어드라마, #반전드라마, 최후, #숏드라마, 신랑",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #드라마, 최후, #재혼황후, #디즈니플러스, #시니어드라마",
   "top_videos_summary": [
     {
-      "views": 8492200,
+      "views": 9257455,
       "title": "진지한데 웃긴 아마존 소통 오류의 현장",
       "upload_year": "2026",
       "channel": "몽테라스",
       "duration": 23
     },
     {
-      "views": 8285693,
+      "views": 8401072,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 7141484,
-      "title": "우연히 만난 잘생긴 남자가 예비 사위? #연애박사 #shorts",
-      "upload_year": "2026",
-      "channel": "스튜디오지니",
-      "duration": 107
-    },
-    {
-      "views": 5443766,
+      "views": 5815600,
       "title": "러브샷은 못 참는 도경수ㅋㅋ",
       "upload_year": "2026",
       "channel": "눈눈이이",
       "duration": 32
     },
     {
-      "views": 5263287,
+      "views": 5686654,
       "title": "아들의 정학사유",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 136
+    },
+    {
+      "views": 4912027,
+      "title": "하시모토 칸나 레전드 연기 ㅋㅋㅋㅋㅋ",
+      "upload_year": "2026",
+      "channel": "ˇ_ˇ",
+      "duration": 10
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.07,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
-    "#시니어드라마",
-    "#반전드라마",
+    "#드라마",
     "최후",
-    "#숏드라마",
-    "신랑",
-    "#시니어",
-    "상견례",
+    "#재혼황후",
+    "#디즈니플러스",
+    "#시니어드라마",
     "웃긴",
-    "#shorts",
-    "예비",
+    "#반전드라마",
+    "#시니어",
     "진짜",
-    "정체",
-    "방법",
+    "않는",
+    "신랑",
+    "#유머",
     "입고",
     "모욕하던",
-    "#AI가상인물",
-    "#시니어쇼츠",
+    "상견례",
     "용돈",
-    "아들"
+    "아들",
+    "#숏드라마",
+    "맥켄나"
   ],
   "channel_distribution": [
     {
@@ -79,10 +79,6 @@
       "count": 1
     },
     {
-      "channel": "스튜디오지니",
-      "count": 1
-    },
-    {
       "channel": "눈눈이이",
       "count": 1
     },
@@ -91,11 +87,7 @@
       "count": 1
     },
     {
-      "channel": "무비젤리",
-      "count": 1
-    },
-    {
-      "channel": "아워무비",
+      "channel": "ˇ_ˇ",
       "count": 1
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "channel": "웃음탱크",
+      "count": 1
+    },
+    {
+      "channel": "윤토리",
+      "count": 1
+    },
+    {
+      "channel": "esports KBS",
       "count": 1
     }
   ],
