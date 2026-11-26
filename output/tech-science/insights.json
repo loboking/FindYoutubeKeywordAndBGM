@@ -3,42 +3,42 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=39)에서 두드러진 소재/키워드: 이유, 아이폰, 수능, 되는, 삼성, 근황",
+  "formula": "카테고리 인기 shorts(n=35)에서 두드러진 소재/키워드: 이유, 아이폰, 되는, 수능, 삼성, #noads",
   "top_videos_summary": [
     {
-      "views": 24881347,
+      "views": 24894449,
       "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 5",
       "upload_year": "2026",
       "channel": "MR Latte Green",
       "duration": 10
     },
     {
-      "views": 7187127,
+      "views": 7192592,
       "title": "아빠들 핸드폰에는 수명이 없는걸까?",
       "upload_year": "2026",
       "channel": "대환장",
       "duration": 10
     },
     {
-      "views": 6235464,
+      "views": 6285990,
       "title": "옛날폰에 충전기 꽂았더니 1초만에 완충 됨..ㄷㄷ",
       "upload_year": "2026",
       "channel": "아아한잔",
       "duration": 17
     },
     {
-      "views": 3505025,
+      "views": 4587322,
+      "title": "낯선 사람의 보조배터리를 함부로 연결하면 안 되는 이유",
+      "upload_year": "2026",
+      "channel": "지구촌픽",
+      "duration": 49
+    },
+    {
+      "views": 3511784,
       "title": "OLED TV가 왜 넘사인지 설명해줌",
       "upload_year": "2026",
       "channel": "먹구리",
       "duration": 35
-    },
-    {
-      "views": 3216644,
-      "title": "How To Build A Shoebox Projector 🎬",
-      "upload_year": "2026",
-      "channel": "Rarecut Films",
-      "duration": 25
     }
   ],
   "outlier_adjusted": {
@@ -50,11 +50,9 @@
   "trend_keywords": [
     "이유",
     "아이폰",
-    "수능",
     "되는",
+    "수능",
     "삼성",
-    "근황",
-    "듀오",
     "#noads",
     "#tiktok",
     "#usa",
@@ -67,7 +65,9 @@
     "Part",
     "아빠들",
     "핸드폰에는",
-    "수명이"
+    "수명이",
+    "없는걸까",
+    "옛날폰에"
   ],
   "channel_distribution": [
     {
@@ -80,6 +80,10 @@
     },
     {
       "channel": "아아한잔",
+      "count": 1
+    },
+    {
+      "channel": "지구촌픽",
       "count": 1
     },
     {
@@ -99,15 +103,11 @@
       "count": 1
     },
     {
-      "channel": "지구촌픽",
-      "count": 1
-    },
-    {
       "channel": "아이돌스토링",
       "count": 1
     },
     {
-      "channel": "지식줄고양",
+      "channel": "짧주",
       "count": 1
     }
   ],
