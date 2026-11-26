@@ -3,71 +3,71 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, #유머, 최후, #반전드라마, #시니어, #shorts",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 없는, #예능, 생기는, 최후, #유머",
   "top_videos_summary": [
     {
-      "views": 8285693,
+      "views": 8401072,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 7307668,
+      "views": 7426376,
       "title": "테무에서 인생 첫 쇼핑한 아빠의 최후ㅋㅋ",
       "upload_year": "2026",
       "channel": "간생간사",
       "duration": 30
     },
     {
-      "views": 6145452,
-      "title": "이게 똑같다고?",
+      "views": 6501381,
+      "title": "없는 게 없는 무도 레전드 모음 ㅋㅋㅋㅋㅋ",
       "upload_year": "2026",
-      "channel": "곽범 또 시작이네",
-      "duration": 65
+      "channel": "ˇ_ˇ",
+      "duration": 30
     },
     {
-      "views": 6132719,
+      "views": 6321000,
       "title": "존박 잡으러 온 롯데리아 AI 래퍼",
       "upload_year": "2026",
       "channel": "이페오카카",
       "duration": 55
     },
     {
-      "views": 5795838,
-      "title": "없는 게 없는 무도 레전드 모음 ㅋㅋㅋㅋㅋ",
+      "views": 6228165,
+      "title": "이게 똑같다고?",
       "upload_year": "2026",
-      "channel": "ˇ_ˇ",
-      "duration": 30
+      "channel": "곽범 또 시작이네",
+      "duration": 65
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.06,
+    "top1_share": 0.05,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
+    "이유",
+    "없는",
     "#예능",
-    "#유머",
+    "생기는",
     "최후",
+    "#유머",
     "#반전드라마",
     "#시니어",
     "#shorts",
     "최후ㅋㅋ",
-    "없는",
     "웃긴",
     "잘못",
     "#스케치코미디",
-    "위한",
-    "생기는",
     "남편이",
-    "#무도",
     "KBS",
     "방송",
-    "#AI가상인물",
-    "이유",
-    "#시니어드라마"
+    "되는",
+    "#시니어드라마",
+    "#시니어쇼츠",
+    "환갑잔치에서"
   ],
   "channel_distribution": [
     {
@@ -79,7 +79,7 @@
       "count": 1
     },
     {
-      "channel": "곽범 또 시작이네",
+      "channel": "ˇ_ˇ",
       "count": 1
     },
     {
@@ -87,11 +87,15 @@
       "count": 1
     },
     {
-      "channel": "ˇ_ˇ",
+      "channel": "곽범 또 시작이네",
       "count": 1
     },
     {
       "channel": "여부세요?",
+      "count": 1
+    },
+    {
+      "channel": "1분의순간",
       "count": 1
     },
     {
@@ -100,10 +104,6 @@
     },
     {
       "channel": "케슛슛",
-      "count": 1
-    },
-    {
-      "channel": "1분의순간",
       "count": 1
     },
     {
