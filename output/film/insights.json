@@ -3,38 +3,38 @@
   "niche": "영화/애니",
   "slug": "film",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, #드라마, 최후, #재혼황후, #디즈니플러스, #시니어드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #재혼황후, #드라마, 이유, #디즈니플러스, 웃긴, #shorts",
   "top_videos_summary": [
     {
-      "views": 9257455,
+      "views": 9795439,
       "title": "진지한데 웃긴 아마존 소통 오류의 현장",
       "upload_year": "2026",
       "channel": "몽테라스",
       "duration": 23
     },
     {
-      "views": 8401072,
+      "views": 8524394,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 5815600,
+      "views": 5971431,
       "title": "러브샷은 못 참는 도경수ㅋㅋ",
       "upload_year": "2026",
       "channel": "눈눈이이",
       "duration": 32
     },
     {
-      "views": 5686654,
+      "views": 5941893,
       "title": "아들의 정학사유",
       "upload_year": "2026",
       "channel": "케슛슛",
       "duration": 136
     },
     {
-      "views": 4912027,
+      "views": 5507206,
       "title": "하시모토 칸나 레전드 연기 ㅋㅋㅋㅋㅋ",
       "upload_year": "2026",
       "channel": "ˇ_ˇ",
@@ -43,31 +43,31 @@
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.07,
+    "top1_share": 0.08,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "이유",
-    "#드라마",
-    "최후",
     "#재혼황후",
+    "#드라마",
+    "이유",
     "#디즈니플러스",
-    "#시니어드라마",
     "웃긴",
+    "#shorts",
+    "최후",
+    "생기는",
     "#반전드라마",
     "#시니어",
-    "진짜",
-    "않는",
-    "신랑",
-    "#유머",
-    "입고",
+    "#시니어드라마",
+    "레전드",
+    "주지훈",
+    "버린",
+    "#웃긴영상",
     "모욕하던",
-    "상견례",
-    "용돈",
-    "아들",
-    "#숏드라마",
-    "맥켄나"
+    "#이종석",
+    "#드라마추천",
+    "맥켄나",
+    "용돈"
   ],
   "channel_distribution": [
     {
@@ -91,23 +91,23 @@
       "count": 1
     },
     {
-      "channel": "예능바다",
-      "count": 1
-    },
-    {
       "channel": "쇼잉",
       "count": 1
     },
     {
-      "channel": "웃음탱크",
-      "count": 1
-    },
-    {
-      "channel": "윤토리",
-      "count": 1
-    },
-    {
       "channel": "esports KBS",
+      "count": 1
+    },
+    {
+      "channel": "무비젤리",
+      "count": 1
+    },
+    {
+      "channel": "린박스",
+      "count": 1
+    },
+    {
+      "channel": "24시영화관",
       "count": 1
     }
   ],
