@@ -3,71 +3,71 @@
   "niche": "일상/스타일",
   "slug": "howto-style",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=49)에서 두드러진 소재/키워드: 아빠, 이유, 김치, 앞에서, 아이는, 자전거",
+  "formula": "카테고리 인기 shorts(n=48)에서 두드러진 소재/키워드: 이유, 김치, 앞에서, 자전거, 아이는, 장애인",
   "top_videos_summary": [
     {
-      "views": 8867106,
+      "views": 8998212,
       "title": "장애인 되기 전, 후",
       "upload_year": "2026",
       "channel": "김꽃그린 재활일기",
       "duration": 61
     },
     {
-      "views": 6443547,
-      "title": "열어보기전엔 알수없는 랜덤 선물뽑기🎁🔥",
-      "upload_year": "2026",
-      "channel": "유유타이거",
-      "duration": 50
-    },
-    {
-      "views": 6079255,
+      "views": 6993130,
       "title": "첫째의 서운함",
       "upload_year": "2026",
       "channel": "까까쥬떼요",
       "duration": 22
     },
     {
-      "views": 5169586,
+      "views": 6720600,
+      "title": "열어보기전엔 알수없는 랜덤 선물뽑기🎁🔥",
+      "upload_year": "2026",
+      "channel": "유유타이거",
+      "duration": 50
+    },
+    {
+      "views": 5344642,
       "title": "디테일이 남다른 일본의 맥주 따르는 법",
       "upload_year": "2026",
       "channel": "쇼츠츄러스",
       "duration": 53
     },
     {
-      "views": 4712222,
-      "title": "아들의 운동신경을 발견하고 흥분한 아빠",
+      "views": 3720450,
+      "title": "차까지 선물하고도 친구가 계속 신경쓰이는 기안84",
       "upload_year": "2026",
-      "channel": "밈튜브",
-      "duration": 21
+      "channel": "귀한장면",
+      "duration": 52
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.1,
+    "top1_share": 0.11,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
-    "아빠",
     "이유",
     "김치",
     "앞에서",
-    "아이는",
     "자전거",
+    "아이는",
     "장애인",
     "되기",
+    "첫째의",
+    "서운함",
     "열어보기전엔",
     "알수없는",
     "랜덤",
     "선물뽑기",
-    "첫째의",
-    "서운함",
     "디테일이",
     "남다른",
     "일본의",
     "맥주",
     "따르는",
-    "아들의"
+    "차까지",
+    "선물하고도"
   ],
   "channel_distribution": [
     {
@@ -75,23 +75,15 @@
       "count": 1
     },
     {
-      "channel": "유유타이거",
-      "count": 1
-    },
-    {
       "channel": "까까쥬떼요",
       "count": 1
     },
     {
+      "channel": "유유타이거",
+      "count": 1
+    },
+    {
       "channel": "쇼츠츄러스",
-      "count": 1
-    },
-    {
-      "channel": "밈튜브",
-      "count": 1
-    },
-    {
-      "channel": "앵무세이",
       "count": 1
     },
     {
@@ -103,11 +95,19 @@
       "count": 1
     },
     {
+      "channel": "지구리",
+      "count": 1
+    },
+    {
       "channel": "아끼리",
       "count": 1
     },
     {
       "channel": "강달달",
+      "count": 1
+    },
+    {
+      "channel": "아기강아지 원두",
       "count": 1
     }
   ],
