@@ -3,77 +3,73 @@
   "niche": "과학/기술",
   "slug": "tech-science",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=35)에서 두드러진 소재/키워드: 이유, 아이폰, 되는, 수능, 삼성, #noads",
+  "formula": "카테고리 인기 shorts(n=37)에서 두드러진 소재/키워드: 이유, 아이폰, 삼성, 현재, 갤럭시, 이거",
   "top_videos_summary": [
     {
-      "views": 24894449,
-      "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 5",
-      "upload_year": "2026",
-      "channel": "MR Latte Green",
-      "duration": 10
-    },
-    {
-      "views": 7192592,
+      "views": 7195991,
       "title": "아빠들 핸드폰에는 수명이 없는걸까?",
       "upload_year": "2026",
       "channel": "대환장",
       "duration": 10
     },
     {
-      "views": 6285990,
+      "views": 6390718,
       "title": "옛날폰에 충전기 꽂았더니 1초만에 완충 됨..ㄷㄷ",
       "upload_year": "2026",
       "channel": "아아한잔",
       "duration": 17
     },
     {
-      "views": 4587322,
+      "views": 4953003,
       "title": "낯선 사람의 보조배터리를 함부로 연결하면 안 되는 이유",
       "upload_year": "2026",
       "channel": "지구촌픽",
       "duration": 49
     },
     {
-      "views": 3511784,
+      "views": 3527590,
       "title": "OLED TV가 왜 넘사인지 설명해줌",
       "upload_year": "2026",
       "channel": "먹구리",
       "duration": 35
+    },
+    {
+      "views": 3483550,
+      "title": "How To Build A Shoebox Projector 🎬",
+      "upload_year": "2026",
+      "channel": "Rarecut Films",
+      "duration": 25
     }
   ],
   "outlier_adjusted": {
     "has_outlier": false,
-    "top1_share": 0.37,
+    "top1_share": 0.17,
     "avg_views_excluding_top1": null,
     "note": ""
   },
   "trend_keywords": [
     "이유",
     "아이폰",
-    "되는",
-    "수능",
     "삼성",
-    "#noads",
-    "#tiktok",
-    "#usa",
-    "Samsung",
-    "Galaxy",
-    "S27",
-    "Ultra",
-    "Cobalt",
-    "Violet",
-    "Part",
+    "현재",
+    "갤럭시",
+    "이거",
     "아빠들",
     "핸드폰에는",
     "수명이",
     "없는걸까",
-    "옛날폰에"
+    "옛날폰에",
+    "충전기",
+    "꽂았더니",
+    "1초만에",
+    "완충",
+    "낯선",
+    "사람의",
+    "보조배터리를",
+    "함부로",
+    "연결하면"
   ],
   "channel_distribution": [
-    {
-      "channel": "MR Latte Green",
-      "count": 1
-    },
     {
       "channel": "대환장",
       "count": 1
@@ -107,7 +103,11 @@
       "count": 1
     },
     {
-      "channel": "짧주",
+      "channel": "지식줄고양",
+      "count": 1
+    },
+    {
+      "channel": "만렙백수",
       "count": 1
     }
   ],
