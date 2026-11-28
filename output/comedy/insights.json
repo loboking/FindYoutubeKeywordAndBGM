@@ -3,38 +3,38 @@
   "niche": "코미디",
   "slug": "comedy",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, 생기는, #shorts, 최후ㅋㅋ, 웃긴, 잘못",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: #예능, 생기는, #shorts, AI, 웃긴, #스케치코미디",
   "top_videos_summary": [
     {
-      "views": 8524394,
+      "views": 9667086,
+      "title": "경상도 사람이 누명을 벗는 방법",
+      "upload_year": "2026",
+      "channel": "복도끝",
+      "duration": 34
+    },
+    {
+      "views": 8630552,
       "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
       "upload_year": "2026",
       "channel": "드라마오락관",
       "duration": 152
     },
     {
-      "views": 7593494,
-      "title": "테무에서 인생 첫 쇼핑한 아빠의 최후ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "간생간사",
-      "duration": 30
-    },
-    {
-      "views": 6485206,
-      "title": "다시 봐도 웃긴 궁 잘못 쓴 마술사 ㅋㅋ",
-      "upload_year": "2026",
-      "channel": "여부세요?",
-      "duration": 18
-    },
-    {
-      "views": 6482070,
+      "views": 6821951,
       "title": "존박 잡으러 온 롯데리아 AI 래퍼",
       "upload_year": "2026",
       "channel": "이페오카카",
       "duration": 55
     },
     {
-      "views": 6280602,
+      "views": 6665018,
+      "title": "다시 봐도 웃긴 궁 잘못 쓴 마술사 ㅋㅋ",
+      "upload_year": "2026",
+      "channel": "여부세요?",
+      "duration": 18
+    },
+    {
+      "views": 6562615,
       "title": "사고 난 상대차 로고를 본 학생의 절규 ㅋㅋ",
       "upload_year": "2026",
       "channel": "1분의순간",
@@ -51,35 +51,31 @@
     "#예능",
     "생기는",
     "#shorts",
-    "최후ㅋㅋ",
+    "AI",
     "웃긴",
-    "잘못",
+    "#스케치코미디",
     "#미미미누",
     "남편이",
+    "안되는",
     "이유",
-    "최후",
-    "KBS",
-    "방송",
+    "몰래",
     "#탁재훈",
     "#유머",
-    "#웃긴영상",
-    "#반전드라마",
-    "#시니어",
     "놀란",
-    "환갑잔치에서",
-    "맞은"
+    "#웃긴영상",
+    "먼저",
+    "허름한",
+    "경상도",
+    "사람이",
+    "누명을"
   ],
   "channel_distribution": [
     {
+      "channel": "복도끝",
+      "count": 1
+    },
+    {
       "channel": "드라마오락관",
-      "count": 1
-    },
-    {
-      "channel": "간생간사",
-      "count": 1
-    },
-    {
-      "channel": "여부세요?",
       "count": 1
     },
     {
@@ -87,11 +83,11 @@
       "count": 1
     },
     {
-      "channel": "1분의순간",
+      "channel": "여부세요?",
       "count": 1
     },
     {
-      "channel": "눈눈이이",
+      "channel": "1분의순간",
       "count": 1
     },
     {
@@ -99,15 +95,19 @@
       "count": 1
     },
     {
+      "channel": "눈눈이이",
+      "count": 1
+    },
+    {
       "channel": "웃또또",
       "count": 1
     },
     {
-      "channel": "오늘마셋(TODAY MINDSET)",
+      "channel": "땅땅땅",
       "count": 1
     },
     {
-      "channel": "웃기넹",
+      "channel": "오늘마셋(TODAY MINDSET)",
       "count": 1
     }
   ],
