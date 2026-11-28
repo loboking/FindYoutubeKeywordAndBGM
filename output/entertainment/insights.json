@@ -3,42 +3,42 @@
   "niche": "엔터테인먼트",
   "slug": "entertainment",
   "source_mode": "category",
-  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 웃긴, #예능, #재혼황후, #디즈니플러스, #드라마",
+  "formula": "카테고리 인기 shorts(n=50)에서 두드러진 소재/키워드: 이유, 웃긴, #재혼황후, #디즈니플러스, #드라마, 다시",
   "top_videos_summary": [
     {
-      "views": 9794941,
+      "views": 10349662,
       "title": "진지한데 웃긴 아마존 소통 오류의 현장",
       "upload_year": "2026",
       "channel": "몽테라스",
       "duration": 23
     },
     {
-      "views": 8524307,
-      "title": "환갑잔치에서 뺨 맞은 고아 며느리…5년간 친정엄마를 모신 사람은 며느리였다 #shorts",
-      "upload_year": "2026",
-      "channel": "드라마오락관",
-      "duration": 152
-    },
-    {
-      "views": 8371013,
+      "views": 8410878,
       "title": "어떤 약속은 끝내 기적이 된다 #리센느 #RESCENE",
       "upload_year": "2026",
       "channel": "K덕톡",
       "duration": 26
     },
     {
-      "views": 7484529,
-      "title": "도로를 막아버린 여자의 정체",
-      "upload_year": "2026",
-      "channel": "레드박스",
-      "duration": 36
-    },
-    {
-      "views": 6485076,
+      "views": 6664026,
       "title": "다시 봐도 웃긴 궁 잘못 쓴 마술사 ㅋㅋ",
       "upload_year": "2026",
       "channel": "여부세요?",
       "duration": 18
+    },
+    {
+      "views": 6152847,
+      "title": "대만 야시장에서 군필 티 내버린 BTSㅋㅋ #방탄소년단",
+      "upload_year": "2026",
+      "channel": "팝픽",
+      "duration": 16
+    },
+    {
+      "views": 6056169,
+      "title": "아들의 정학사유",
+      "upload_year": "2026",
+      "channel": "케슛슛",
+      "duration": 136
     }
   ],
   "outlier_adjusted": {
@@ -50,24 +50,24 @@
   "trend_keywords": [
     "이유",
     "웃긴",
-    "#예능",
     "#재혼황후",
     "#디즈니플러스",
     "#드라마",
-    "정체",
     "다시",
+    "#예능",
     "목숨이",
-    "남편이",
-    "방법",
     "몰래",
-    "#유머",
+    "상황을",
+    "놀란",
     "진지한데",
     "아마존",
     "소통",
     "오류의",
     "현장",
-    "#shorts",
-    "환갑잔치에서"
+    "#리센느",
+    "#RESCENE",
+    "어떤",
+    "약속은"
   ],
   "channel_distribution": [
     {
@@ -75,15 +75,7 @@
       "count": 1
     },
     {
-      "channel": "드라마오락관",
-      "count": 1
-    },
-    {
       "channel": "K덕톡",
-      "count": 1
-    },
-    {
-      "channel": "레드박스",
       "count": 1
     },
     {
@@ -91,7 +83,7 @@
       "count": 1
     },
     {
-      "channel": "눈눈이이",
+      "channel": "팝픽",
       "count": 1
     },
     {
@@ -99,15 +91,23 @@
       "count": 1
     },
     {
-      "channel": "팝픽",
-      "count": 1
-    },
-    {
       "channel": "ˇ_ˇ",
       "count": 1
     },
     {
+      "channel": "아이돌캐치",
+      "count": 1
+    },
+    {
       "channel": "웃또또",
+      "count": 1
+    },
+    {
+      "channel": "국뽕찬다",
+      "count": 1
+    },
+    {
+      "channel": "패션탐정냥",
       "count": 1
     }
   ],
